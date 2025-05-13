@@ -16,7 +16,7 @@ In order to be able to support dynamic data across your website we've added the 
 3. Select analytics location
 4. Setup firebase in Blowfish by getting the variables for your project and setting them inside `params.toml` file. More details can be found in <a target="_blank" href="{{< ref "configuration/#theme-parameters" >}}">this page</a>. You can find an example of the file Firebase will provide below, notice the parameters within the FirebaseConfig object.
 
-```
+```text
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";

@@ -16,7 +16,7 @@ series_order: 15
 3. 选择分析位置 
 4. Blowfish 是通过 `params.toml` 配置文件中的 firebase 相关参数，来和 firebase 集成的，更多的细节内容可以参考  <a target="_blank" href="{{< ref "configuration/#theme-parameters" >}}">这个页面</a>。你可以在下面找到集成 firebase 的文件示例，请注意 FirebaseConfig 对象内的参数。
 
-```
+```text
 // 从你需要的 SDK 中导入所需的函数
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
