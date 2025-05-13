@@ -1,0 +1,7 @@
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params.search]
+  enabled = true
+
+theme = "blowfish"
