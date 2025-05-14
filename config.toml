@@ -5,3 +5,7 @@
   enabled = true
 
 theme = "blowfish"
+
+[module]
+  # Silence version warnings while maintaining compatibility
+  hugoVersion = { min = "0.147.0", max = "0.147.99" }

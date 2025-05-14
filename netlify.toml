@@ -1,0 +1,13 @@
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.147.3"  # Matches your local version
+  NODE_VERSION = "20"        # For TinaCMS/Node dependencies
+
+[context.deploy-preview]
+  command = "hugo --gc --minify --baseURL $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+  command = "hugo --gc --minify --baseURL $DEPLOY_PRIME_URL"

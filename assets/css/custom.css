@@ -1,0 +1,66 @@
+:root {
+  /* Immaterial-like fonts */
+  --blowfish-font-sans: 'Roboto', -apple-system, sans-serif;
+  --blowfish-font-mono: 'Roboto Mono', monospace;
+  --color-background: #222222 !important;
+  --color-card: #333333 !important;
+  --color-text: #E1E1E1 !important;
+  --color-border: #2A2A2A !important;
+  --color-primary: #BB86FC !important;
+  --color-secondary: #03DAC6 !important;
+}
+
+body {
+  background-color: #222222 !important;
+  color: #E1E1E1 !important;
+}
+
+  /* Content width */
+  --blowfish-max-content-width: 80ch;
+}
+
+/* Immaterial's clean article style */
+article {
+  line-height: 1.8;
+  font-weight: 300;
+}
+
+/* Headers with lighter weight */
+h1, h2, h3 {
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
+/* Code blocks */
+pre {
+  border-radius: 4px;
+  background: #1E1E1E !important;
+}
+
+/* Target the main article container */
+/* Match Blowfish article container */
+.content main > .prose {
+  background: #ffffff !important;
+  color: #111111 !important;
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+/* Tweak headings and text for contrast */
+.content main > .prose h1,
+.content main > .prose h2,
+.content main > .prose h3,
+.content main > .prose p {
+  color: #111111 !important;
+}
+
+/* Code blocks inside articles */
+.content main > .prose pre {
+  background: #f4f4f4 !important;
+  color: #222222 !important;
+  border-radius: 6px;
+  padding: 1rem;
+}
+
+/* Leave TOC, author block, and nav alone — no override */
+

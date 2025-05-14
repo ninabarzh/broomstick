@@ -1,7 +1,13 @@
 cat <<EOF > .gitignore
 node_modules/
+/node_modules/
+node_modules
 public/
 resources/
 .DS_Store
-netlify.toml
 EOF
+/assets/admin-local/
+.env
+/public/
+/resources/
+/.tina/__generated__/

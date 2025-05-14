@@ -69,3 +69,33 @@ googleAnalytics = "G-PEDMYR1V0K"
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[languages]
+  [languages.en]
+    disabled = false
+    languageCode = ''
+    languageDirection = ''
+    languageName = ''
+    title = ''
+    weight = 0
+  [languages.it]
+    disabled = true
+    languageCode = ''
+    languageDirection = ''
+    languageName = ''
+    title = ''
+    weight = 0
+  [languages.ja]
+    disabled = true
+    languageCode = ''
+    languageDirection = ''
+    languageName = ''
+    title = ''
+    weight = 0
+  [languages.zh-cn]
+    disabled = true
+    languageCode = ''
+    languageDirection = ''
+    languageName = ''
+    title = ''
+    weight = 0
