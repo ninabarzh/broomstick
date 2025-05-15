@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Rebuild site with Hugo+PaperMod">
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Fix: specify Hugo version for Netlify build">
+      <change afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netlify.toml" beforeDir="false" afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747297302775</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Fix: specify Hugo version for Netlify build">
+      <option name="closed" value="true" />
+      <created>1747325780075</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1747325780075</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,6 +185,7 @@
     <MESSAGE value="posts" />
     <MESSAGE value="Rebuild site with Hugo+PaperMod+TinaCMS" />
     <MESSAGE value="Rebuild site with Hugo+PaperMod" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rebuild site with Hugo+PaperMod" />
+    <MESSAGE value="Fix: specify Hugo version for Netlify build" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: specify Hugo version for Netlify build" />
   </component>
 </project>
