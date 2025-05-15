@@ -5,42 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Rebuild site with Hugo+PaperMod">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/A-love-letter-to-bureaucratic-hell.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/A-masterclass-in-over-interpretation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/A-metadata-murder-mystery-without-the-mystery.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/A-very-special-club-for-spooks-who-cant-follow-their-own-rules.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/And-now-for-something-completely-different.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/Bias-and-bigotry.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/Configuring-version-control.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/Defendable-Internet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/Field-guide-to-eternal-tedium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/Fifty-shades-of-legal-grey.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/GDPR-ICCPR-and-the-great-consent-charade.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/GDPR-letter-to-privacy-that-nobody-reads.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/Governmental-ghost-stories.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/How-political-warfare-got-weird-on-the-Internet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/How-you-are-the-product-without-knowing-it.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/How-your-clicks-go-on-holiday-without-you.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/How-your-smartphone-sold-you-out.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/Humanitys-junkyard-with-a-view.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/I-How-neo-liberal-policies-deepened-economic-inequality-in-Europe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/II-Corporate-hijacking-of-democracy-and-policy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/III-The-real-motives-behind-Europes-war-economy-push.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/IV-Resistance-and-alternatives-reclaiming-democracy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/Informed-consent-UN-style.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/Mindset-malfunctions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/Poverty-myths-Middle-class-delusions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/Poverty-realities-hidden-costs-of-progress.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/TLDR-Snow-trolls-digital-control-freaks.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/The-art-of-pretending-we-know-whats-coming.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/The-art-of-selling-you-crap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/The-long-history-of-polite-coercion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/The-noble-art-of-war-justification.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/Weimar-republic-20.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/Europes-shameful-silence-Why-the-continent-fails-Gaza.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Europes-shameful-silence.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netlify.toml" beforeDir="false" afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

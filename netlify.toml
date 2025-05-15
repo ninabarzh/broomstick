@@ -1,3 +1,11 @@
 [build]
   command = "hugo --gc --minify --cleanDestinationDir"
   publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.147.3"
+
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/index.html"
+  status = 200
