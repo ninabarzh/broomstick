@@ -1,6 +1,6 @@
 {{/* layouts/_default/baseof.html */}}
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default 'en' }}">
+<html lang="{{ printf "%s" (.Site.LanguageCode | default "en") }}">
   <head>
     {{ partial "head.html" . }}
   </head>
