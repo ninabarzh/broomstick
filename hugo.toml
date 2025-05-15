@@ -15,6 +15,10 @@ enableRobotsTXT = true
   ShowToc = true
   defaultTheme = "dark"
   customCSS = ["css/custom.css"]
+  logo = "/images/logo.png"
+  logoWidth = "40"     # px
+  logoTitle = "Broomstick Brief"
+  favicon = "/favicon.ico"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

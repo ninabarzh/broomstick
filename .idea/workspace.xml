@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Base url">
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="topnav and tags">
+      <change afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/GDPR-ICCPR-and-the-great-consent-charade.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/GDPR-ICCPR-and-the-great-consent-charade.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/nina/Development/github/broomstick",
+    "last_opened_file_path": "/home/nina/Development/github/broomstick/static/images",
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
@@ -189,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747328382941</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="topnav and tags">
+      <option name="closed" value="true" />
+      <created>1747333825959</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1747333825959</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +213,7 @@
     <MESSAGE value="Fix: specify Hugo version for Netlify build" />
     <MESSAGE value="Centring images and README.md" />
     <MESSAGE value="Base url" />
-    <option name="LAST_COMMIT_MESSAGE" value="Base url" />
+    <MESSAGE value="topnav and tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="topnav and tags" />
   </component>
 </project>
