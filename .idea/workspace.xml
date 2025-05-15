@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="posts">
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/content/posts/hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/content/posts/my-first-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/pnpm-lock.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/resources/_gen/assets/ananke/css/main.css_9d7c906d8fe82fddbbd923faebb24419.content" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/resources/_gen/assets/ananke/css/main.css_9d7c906d8fe82fddbbd923faebb24419.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/resources/_gen/assets/css/ananke/css/main.css_bb5467e0521bbea6b1e66429f6ec028e.content" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/resources/_gen/assets/css/ananke/css/main.css_bb5467e0521bbea6b1e66429f6ec028e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/static/admin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/css/_code.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/css/_hugo-internal-templates.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/css/_social-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/css/_styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/css/_tachyons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/dist/main.css_5c99d70a7725bacd4c701e995b969fea.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/socials/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/socials/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/socials/gitlab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/socials/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/socials/keybase.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/socials/linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/socials/mastodon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/socials/medium.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/socials/rss.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/socials/slack.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/socials/stackoverflow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/socials/tiktok.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/socials/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/assets/ananke/socials/youtube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/content/en/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/content/en/about/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/content/en/contact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/content/en/post/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/content/en/post/chapter-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/content/en/post/chapter-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/content/en/post/chapter-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/content/en/post/chapter-4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/content/en/post/chapter-5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/content/en/post/chapter-6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/content/fr/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/content/fr/contact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/content/fr/post/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/content/fr/post/chapter-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/static/images/Pope-Edouard-de-Beaumont-1844.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/static/images/Victor_Hugo-Hunchback.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/static/images/esmeralda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/exampleSite/static/images/notebook.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/bg.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/de.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/en.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/es.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/fi.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/fr.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/he.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/hi.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/hu.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/it.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/ja.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/nl.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/no.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/pt.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/ru.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/sv.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/tr.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/uk.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/zh-tw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/i18n/zh.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/images/tn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/_default/baseof.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/_default/by.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/_default/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/_default/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/_default/summary-with-image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/_default/summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/_default/taxonomy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/_default/terms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/page/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/commento.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/func/GetFeaturedImage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/func/GetLanguageDirection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/func/socials/Get.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/func/socials/GetBuiltInServicesDefaults.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/func/socials/GetRegisteredServices.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/func/socials/GetServiceData.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/func/socials/GetServiceIcon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/func/style/GetMainCSS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/func/style/GetResource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/func/warn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/head-additions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/i18nlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/menu-contextual.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/new-window-icon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/page-header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/site-favicon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/site-footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/site-header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/site-navigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/site-scripts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/site-style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/social-follow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/social-share.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/summary-with-image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/svg/new-window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/svg/tiktok.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/partials/tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/post/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/post/summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/layouts/shortcodes/form-contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/package.hugo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/pnpm-lock.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/resources/_gen/assets/css/ananke/css/main.css_5c99d70a7725bacd4c701e995b969fea.content" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/resources/_gen/assets/css/ananke/css/main.css_5c99d70a7725bacd4c701e995b969fea.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/resources/_gen/assets/css/ananke/css/main.css_bb5467e0521bbea6b1e66429f6ec028e.content" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/resources/_gen/assets/css/ananke/css/main.css_bb5467e0521bbea6b1e66429f6ec028e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/stackbit.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/static/images/gohugo-default-sample-hero-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broomstickbrief/themes/ananke/theme.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/my-first-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netlify.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/css/_code.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/css/_hugo-internal-templates.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/css/_social-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/css/_styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/css/_tachyons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/dist/main.css_5c99d70a7725bacd4c701e995b969fea.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/socials/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/socials/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/socials/gitlab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/socials/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/socials/keybase.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/socials/linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/socials/mastodon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/socials/medium.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/socials/rss.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/socials/slack.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/socials/stackoverflow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/socials/tiktok.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/socials/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/assets/ananke/socials/youtube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/content/en/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/content/en/about/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/content/en/contact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/content/en/post/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/content/en/post/chapter-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/content/en/post/chapter-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/content/en/post/chapter-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/content/en/post/chapter-4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/content/en/post/chapter-5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/content/en/post/chapter-6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/content/fr/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/content/fr/contact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/content/fr/post/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/content/fr/post/chapter-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/static/images/Pope-Edouard-de-Beaumont-1844.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/static/images/Victor_Hugo-Hunchback.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/static/images/esmeralda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/exampleSite/static/images/notebook.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/bg.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/de.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/en.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/es.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/fi.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/fr.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/he.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/hi.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/hu.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/it.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/ja.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/nl.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/no.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/pt.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/ru.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/sv.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/tr.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/uk.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/zh-tw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/i18n/zh.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/images/tn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/_default/baseof.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/_default/by.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/_default/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/_default/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/_default/summary-with-image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/_default/summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/_default/taxonomy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/_default/terms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/page/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/commento.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/func/GetFeaturedImage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/func/GetLanguageDirection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/func/socials/Get.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/func/socials/GetBuiltInServicesDefaults.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/func/socials/GetRegisteredServices.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/func/socials/GetServiceData.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/func/socials/GetServiceIcon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/func/style/GetMainCSS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/func/style/GetResource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/func/warn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/head-additions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/i18nlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/menu-contextual.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/new-window-icon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/page-header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/site-favicon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/site-footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/site-header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/site-navigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/site-scripts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/site-style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/social-follow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/social-share.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/summary-with-image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/svg/new-window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/svg/tiktok.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/post/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/post/summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/shortcodes/form-contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/package.hugo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/pnpm-lock.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/resources/_gen/assets/css/ananke/css/main.css_5c99d70a7725bacd4c701e995b969fea.content" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/resources/_gen/assets/css/ananke/css/main.css_5c99d70a7725bacd4c701e995b969fea.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/resources/_gen/assets/css/ananke/css/main.css_bb5467e0521bbea6b1e66429f6ec028e.content" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/resources/_gen/assets/css/ananke/css/main.css_bb5467e0521bbea6b1e66429f6ec028e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/stackbit.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/static/images/gohugo-default-sample-hero-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/theme.toml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ninabarzh"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:ninabarzh/broomstick.git",
+    "accountId": "951530b7-4dbe-42e5-a133-612ae40cd820"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2x2vJBo0bizpc81aOKQSdNnPaQf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/nina/Development/github/broomstick/static",
+    "settings.editor.selected.configurable": "editor.preferences.import"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/layouts/_default" />
+      <recent name="$PROJECT_DIR$/layouts" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/themes" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/archetypes" />
+      <recent name="$PROJECT_DIR$/content/posts" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fc1d50d2d915-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.24978.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="" />
+      <created>1747148912423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747148912423</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Non-real keys there.">
+      <option name="closed" value="true" />
+      <created>1747151875411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747151875411</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pfft First article">
+      <option name="closed" value="true" />
+      <created>1747231676189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747231676189</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Switch to direct theme copy">
+      <option name="closed" value="true" />
+      <created>1747232449493</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747232449493</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Switch to direct theme copy">
+      <option name="closed" value="true" />
+      <created>1747232832880</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747232832880</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Starting anew">
+      <option name="closed" value="true" />
+      <created>1747244818046</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747244818046</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Starting anew">
+      <option name="closed" value="true" />
+      <created>1747248913556</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747248913556</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Starting anew">
+      <option name="closed" value="true" />
+      <created>1747248970366</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747248970366</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Starting anew">
+      <option name="closed" value="true" />
+      <created>1747249335876</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747249335876</updated>
+    </task>
+    <task id="LOCAL-00009" summary="posts">
+      <option name="closed" value="true" />
+      <created>1747251306698</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747251306698</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Non-real keys there." />
+    <MESSAGE value="Pfft First article" />
+    <MESSAGE value="Switch to direct theme copy" />
+    <MESSAGE value="Starting anew" />
+    <MESSAGE value="posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="posts" />
+  </component>
+</project>

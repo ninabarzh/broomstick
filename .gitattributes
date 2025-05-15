@@ -1,3 +1,0 @@
-* text=auto
-*.{svg,html,css,js,json,md,yml,yaml,toml} text eol=lf
-*.bin binary
