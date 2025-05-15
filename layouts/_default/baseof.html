@@ -1,7 +1,6 @@
 {{/* layouts/_default/baseof.html */}}
-{{ define "base" }}
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default "en" }}">
+<html lang="{{ .Site.LanguageCode | default 'en' }}">
   <head>
     {{ partial "head.html" . }}
   </head>
@@ -14,5 +13,4 @@
     {{ partial "pagefind-footer.html" . }}
   </body>
 </html>
-{{ end }}
 
