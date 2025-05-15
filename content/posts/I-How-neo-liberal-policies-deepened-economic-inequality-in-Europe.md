@@ -8,12 +8,13 @@ tags:
   - Europe
 ---
 
-Neo-liberalism crept into Europe wearing a sharp suit and talking about efficiency. It promised a leaner, meaner state, less red tape, more growth, and a brighter future. What it delivered was stagnant wages, crumbling services, and Jeff Bezos in a rocket. For Europe, the cost has been clear: growing inequality, weakened public institutions, and a sense that someone, somewhere, has sold the family silver—and is now renting it back to us with interest.
+Neoliberalism crept into Europe wearing a sharp suit and talking about efficiency. It promised a leaner, meaner state, less red tape, more growth, and a brighter future. What it delivered was stagnant wages, crumbling services, and Jeff Bezos in a rocket. For Europe, the cost has been clear: growing inequality, weakened public institutions, and a sense that someone, somewhere, has sold the family silver—and is now renting it back to us with interest.
 
 Contrary to pub-table conspiracy theories, none of this involved secret meetings in smoke-filled rooms. Neoliberalism was quite open about its intentions. As economist Richard D. Wolff points out, the goal was never shared prosperity—it was restoring profitability for those at the top after the post-war consensus began fraying. And Europe, always fond of a bit of Anglo-American fashion, imported the whole wardrobe.
 
 Welcome to Europe Inc., a four-part series on how neoliberalism turned the European project into a corporate shareholder meeting. From inequality to militarism, corporate capture to resistance, this isn’t just a critique — it’s a guided tour through the ruins and a map to the exits. Steeped in dry wit, and entirely unaffiliated with any hedge fund.
 
+![](/images/boardroom.png)
 ***
 
 ### Tax cuts and deregulation: champagne for some, flat lager for the rest

@@ -20,6 +20,12 @@ enableRobotsTXT = true
   logoTitle = "Broomstick Brief"
   favicon = "/favicon.ico"
 
+[params.search]
+  enabled = true
+  engine = "pagefind"
+  placeholder = "Search..."
+  location = "header"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
@@ -35,7 +41,7 @@ enableRobotsTXT = true
     weight = 10
 
   [[menu.main]]
-    identifier = "main"
+    identifier = "tymyrddin"
     name = "Ty Myrddin"
     url = "https://tymyrddin.dev"
     weight = 20
@@ -45,3 +51,7 @@ enableRobotsTXT = true
     name = "GitHub"
     url = "https://github.com/ninabarzh"
     weight = 30
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"

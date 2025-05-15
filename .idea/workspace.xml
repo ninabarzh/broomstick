@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="topnav and tags">
-      <change afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="logo and favicon">
+      <change afterPath="$PROJECT_DIR$/static/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/boardroom.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/I-How-neo-liberal-policies-deepened-economic-inequality-in-Europe.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/I-How-neo-liberal-policies-deepened-economic-inequality-in-Europe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/II-Corporate-hijacking-of-democracy-and-policy.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/II-Corporate-hijacking-of-democracy-and-policy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/III-The-real-motives-behind-Europes-war-economy-push.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/III-The-real-motives-behind-Europes-war-economy-push.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/IV-Resistance-and-alternatives-reclaiming-democracy.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/IV-Resistance-and-alternatives-reclaiming-democracy.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +56,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/layouts/_default" />
       <recent name="$PROJECT_DIR$/layouts" />
@@ -199,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747333825959</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="logo and favicon">
+      <option name="closed" value="true" />
+      <created>1747335391471</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1747335391471</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -214,6 +229,7 @@
     <MESSAGE value="Centring images and README.md" />
     <MESSAGE value="Base url" />
     <MESSAGE value="topnav and tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="topnav and tags" />
+    <MESSAGE value="logo and favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="logo and favicon" />
   </component>
 </project>
