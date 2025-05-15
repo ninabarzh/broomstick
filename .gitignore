@@ -2,36 +2,28 @@
 /public/
 /resources/
 /hugo_stats.json
-public/
-resources/
-admin/          # Tina build output
-/admin/
+
+# TinaCMS (local-only)
+admin/
 .tinacache/
-hugo_stats.json
-
-# Node & Tina stuff
-node_modules/
-package-lock.json
-
-# Node modules and build artifacts
-/node_modules/
-/index.bundle.js
 /admin/index.bundle.js
 
-# Netlify-generated folders
-/.netlify/
+# Node & build
+node_modules/
+package-lock.json
+index.bundle.js
 
-# OS metadata
-.DS_Store
-Thumbs.db
+# Netlify
+.netlify/
 
-# IDE/editor files
-.vscode/
-.idea/
-
-# Misc
+# Logs and env
+*.log
 npm-debug.log*
 yarn-error.log*
-node_modules
 .env
-*.log
+
+# OS & editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
