@@ -19,13 +19,6 @@ enableRobotsTXT = true
   logoWidth = "40"     # px
   logoTitle = "Broomstick Brief"
   favicon = "/favicon.ico"
-  extend_header = "partials/extend-header.html"
-
-[params.search]
-  enabled = true
-  engine = "pagefind"
-  placeholder = "Search..."
-  location = "header"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
