@@ -6,6 +6,7 @@ tags:
   - fundamental rights
   - legitimisation
   - privacy
+  - GDPR
 ---
 
 You’d think something called the General Data Protection Regulation might actually protect data. You’d be wrong. Along with its elder cousin, the ICCPR, GDPR was hailed as the Great Hope™—a beacon of digital dignity in a world run by surveillance capitalists. But instead of taming the beast, it handed it a clipboard and told it to tick some boxes.

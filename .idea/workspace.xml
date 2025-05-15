@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Centring images and README.md">
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Base url">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/The-noble-art-of-war-justification.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/The-noble-art-of-war-justification.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/GDPR-ICCPR-and-the-great-consent-charade.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/GDPR-ICCPR-and-the-great-consent-charade.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747327827144</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Base url">
+      <option name="closed" value="true" />
+      <created>1747328382941</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1747328382941</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -194,6 +202,7 @@
     <MESSAGE value="Rebuild site with Hugo+PaperMod" />
     <MESSAGE value="Fix: specify Hugo version for Netlify build" />
     <MESSAGE value="Centring images and README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Centring images and README.md" />
+    <MESSAGE value="Base url" />
+    <option name="LAST_COMMIT_MESSAGE" value="Base url" />
   </component>
 </project>
