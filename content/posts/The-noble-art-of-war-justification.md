@@ -5,6 +5,7 @@ draft: false
 tags:
   - justification
   - war
+  - legitimisation
 ---
 
 Roughly five centuries ago, indigenous peoples across the Americas, Oceania, Asia, and Africa began to encounter a particularly aggressive form of “European hospitality.” Not content with simply saying hello, Europeans arrived with flags, firearms, and a staggering sense of entitlement, swiftly laying claim to other people’s lands and resources. Resistance was typically met with massacres — yes, including women and children, because apparently conquest was a family affair. Survivors were often rewarded with disease, chains, or both. Charming.

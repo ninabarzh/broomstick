@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Fix: specify Hugo version for Netlify build">
-      <change afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Centring images and README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/The-noble-art-of-war-justification.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/The-noble-art-of-war-justification.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747325780075</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Centring images and README.md">
+      <option name="closed" value="true" />
+      <created>1747327827144</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1747327827144</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,6 +193,7 @@
     <MESSAGE value="Rebuild site with Hugo+PaperMod+TinaCMS" />
     <MESSAGE value="Rebuild site with Hugo+PaperMod" />
     <MESSAGE value="Fix: specify Hugo version for Netlify build" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix: specify Hugo version for Netlify build" />
+    <MESSAGE value="Centring images and README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Centring images and README.md" />
   </component>
 </project>

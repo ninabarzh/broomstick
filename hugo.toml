@@ -1,4 +1,4 @@
-baseURL = "https://broomstickbrief.netlify.app/"
+baseURL = "https://broomstick.tymyrddin.dev/"
 title = "The Broomstick Brief"
 theme = "github.com/adityatelange/hugo-PaperMod"
 defaultContentLanguage = "en"
