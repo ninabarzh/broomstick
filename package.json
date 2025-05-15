@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "tinacms dev -c \"hugo server -D\"",
+    "build": "hugo --gc --minify"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.9.7",
+    "@types/node": "^22.15.18"
+  },
+  "dependencies": {
+    "tinacms": "^2.7.7"
+  }
+}

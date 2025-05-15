@@ -1,0 +1,37 @@
+# Hugo output
+/public/
+/resources/
+/hugo_stats.json
+public/
+resources/
+admin/          # Tina build output
+/admin/
+.tinacache/
+hugo_stats.json
+
+# Node & Tina stuff
+node_modules/
+package-lock.json
+
+# Node modules and build artifacts
+/node_modules/
+/index.bundle.js
+/admin/index.bundle.js
+
+# Netlify-generated folders
+/.netlify/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Misc
+npm-debug.log*
+yarn-error.log*
+node_modules
+.env
+*.log
