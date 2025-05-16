@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="socials">
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="centering images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/Bias-and-bigotry.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Bias-and-bigotry.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/Governmental-ghost-stories.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Governmental-ghost-stories.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/I-How-neo-liberal-policies-deepened-economic-inequality-in-Europe.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/I-How-neo-liberal-policies-deepened-economic-inequality-in-Europe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/II-Corporate-hijacking-of-democracy-and-policy.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/II-Corporate-hijacking-of-democracy-and-policy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/III-The-real-motives-behind-Europes-war-economy-push.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/III-The-real-motives-behind-Europes-war-economy-push.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/IV-Resistance-and-alternatives-reclaiming-democracy.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/IV-Resistance-and-alternatives-reclaiming-democracy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/Mindset-malfunctions.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Mindset-malfunctions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/The-noble-art-of-war-justification.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/The-noble-art-of-war-justification.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -309,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747406057951</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="centering images">
+      <option name="closed" value="true" />
+      <created>1747406736625</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1747406736625</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -330,6 +331,7 @@
     <MESSAGE value="search" />
     <MESSAGE value="tags" />
     <MESSAGE value="socials" />
-    <option name="LAST_COMMIT_MESSAGE" value="socials" />
+    <MESSAGE value="centering images" />
+    <option name="LAST_COMMIT_MESSAGE" value="centering images" />
   </component>
 </project>
