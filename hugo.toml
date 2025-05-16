@@ -23,6 +23,17 @@ enableRobotsTXT = true
   favicon = "/favicon.ico"
   custom_css = ["css/custom.css"]
 
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.1
+  minMatchCharLength = 0
+  # limit = 10  # Optional: Uncomment if needed
+  keys = ["title", "permalink", "summary", "content"]
+  # see https://www.fusejs.io/api/options.html
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
@@ -52,7 +63,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "search"
     name = "Search"
-    url = "saerch"
+    url = "search"
     weight = 40
 
 [taxonomies]
