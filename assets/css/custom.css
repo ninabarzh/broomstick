@@ -1,6 +1,47 @@
+/* Search container */
+#search {
+  display: flex;
+  align-items: center;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: 1rem;
+}
+
+/* Pagefind search input */
+#search input {
+  border-radius: 5px;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid var(--border);
+  background-color: var(--theme);
+  color: var(--fg);
+  width: 100%;
+}
+
+/* Style search result titles */
+.pagefind-ui__result-title {
+  font-weight: bold;
+  color: var(--primary);
+}
+
+/* Style search result excerpts */
+.pagefind-ui__result-excerpt {
+  color: var(--fg);
+  font-size: 0.9rem;
+  margin-top: 0.25rem;
+}
+
+/* Space out the results a bit */
+.pagefind-ui__result {
+  margin-bottom: 1rem;
+  border-bottom: 1px dashed var(--border);
+  padding-bottom: 0.5rem;
+}
+
+/* Align images to centre in posts */
 .post-content img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
+
 

@@ -9,16 +9,19 @@ enableRobotsTXT = true
   [[module.imports]]
     path = "github.com/adityatelange/hugo-PaperMod"
 
+[params.assets]
+  custom_css = ["css/custom.css"]
+
 [params]
   ShowReadingTime = true
   ShowCodeCopyButtons = true
   ShowToc = true
   defaultTheme = "dark"
-  customCSS = ["css/custom.css"]
   logo = "/images/logo.png"
-  logoWidth = "40"     # px
+  logoWidth = "40"
   logoTitle = "Broomstick Brief"
   favicon = "/favicon.ico"
+  custom_css = ["css/custom.css"]
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -45,6 +48,12 @@ enableRobotsTXT = true
     name = "GitHub"
     url = "https://github.com/ninabarzh"
     weight = 30
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "saerch"
+    weight = 40
 
 [taxonomies]
   tag = "tags"
