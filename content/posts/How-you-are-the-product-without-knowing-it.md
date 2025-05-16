@@ -5,6 +5,7 @@ draft: false
 tags:
   - privacy
   - surveillance
+  - Serbia
 ---
 
 The internet, that magical realm where nothing is free, least of all you. Every click, scroll, and half-hearted Google search fuels an invisible [economy built on surveillance capitalism](https://labs.rs/en/invisible-infrastructures-online-trackers/), where your digital footprints are harvested, packaged, and sold to the highest bidder.

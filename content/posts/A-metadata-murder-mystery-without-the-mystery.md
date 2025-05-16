@@ -6,7 +6,7 @@ tags:
   - metadata
   - surveillance
   - infrastructure
-  - serbia
+  - Serbia
 ---
 
 Once upon a FOIA, a group of researchers got their hands on 2,000 pages of bureaucratic bedtime reading from Serbia’s data protection overseers. Their aim? To expose the country’s surveillance architecture. Spoiler: it’s less Big Brother, more "nosy landlord with a master key to every flat".

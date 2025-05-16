@@ -52,19 +52,19 @@ enableRobotsTXT = true
     identifier = "tymyrddin"
     name = "Ty Myrddin"
     url = "https://tymyrddin.dev"
-    weight = 20
+    weight = 30
 
   [[menu.main]]
     identifier = "github"
     name = "GitHub"
     url = "https://github.com/ninabarzh"
-    weight = 30
+    weight = 40
 
   [[menu.main]]
     identifier = "search"
     name = "Search"
     url = "search"
-    weight = 40
+    weight = 50
 
 [taxonomies]
   tag = "tags"

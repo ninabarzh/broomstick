@@ -6,6 +6,7 @@ tags:
   - political information warfare
   - trolls
   - surveillance
+  - Serbia
 ---
 
 Welcome to Serbia’s digital political theatre, where every heroic rescue is staged, every dissenting meme vanishes mysteriously, and every comment section is a gladiator arena for astroturfed loyalists.

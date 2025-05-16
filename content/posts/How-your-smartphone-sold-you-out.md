@@ -7,6 +7,7 @@ tags:
   - surveillance
   - smartphone
   - privacy
+  - Serbia
 ---
 
 Mobile apps are those delightful little spies we willingly invite into our pockets. Sure, they promise convenience, entertainment, or maybe just a way to kill time, but their real business model? [Hoovering up your data like a Roomba on steroids](https://labs.rs/en/invisible-infrastructures-mobile-permissions/).

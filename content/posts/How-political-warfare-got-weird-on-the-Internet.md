@@ -4,6 +4,7 @@ date: 2019-09-26T22:00:00.000Z
 draft: false
 tags:
   - political information warfare
+  - Serbia
 ---
 
 Once upon a time, the internet was supposed to be a free, democratic utopia. Instead, it’s become a glorified panopticon run by Silicon Valley landlords where everyone’s shouting, no one’s listening, and half the “people” aren’t even real.

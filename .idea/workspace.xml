@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="search">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/saerch.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/search.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/A-metadata-murder-mystery-without-the-mystery.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/A-metadata-murder-mystery-without-the-mystery.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/How-political-warfare-got-weird-on-the-Internet.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/How-political-warfare-got-weird-on-the-Internet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/How-you-are-the-product-without-knowing-it.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/How-you-are-the-product-without-knowing-it.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/How-your-smartphone-sold-you-out.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/How-your-smartphone-sold-you-out.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/TLDR-Snow-trolls-digital-control-freaks.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/TLDR-Snow-trolls-digital-control-freaks.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -270,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747400818751</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="search">
+      <option name="closed" value="true" />
+      <created>1747402785672</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1747402785672</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
