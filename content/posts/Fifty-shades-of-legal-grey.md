@@ -4,7 +4,7 @@ date: 2021-05-06T22:00:00.000Z
 draft: false
 tags:
   - consent
-  - legalisation
+  - legitimisation
 ---
 
 There’s a certain charm to grey areas. They’re neither here nor there—like a politician’s promise or a cookie consent banner. Let's have a wander through three choice examples of how law, tech, and coercion intersect in a fog of plausible deniability. We’ll start where the term "consent" first gained cultural weight—sexual consent—and then follow its cheerful migration into digital life, courtesy of everyone’s favourite data vampires.

@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="search">
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="tags">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/A-metadata-murder-mystery-without-the-mystery.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/A-metadata-murder-mystery-without-the-mystery.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/How-political-warfare-got-weird-on-the-Internet.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/How-political-warfare-got-weird-on-the-Internet.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/How-you-are-the-product-without-knowing-it.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/How-you-are-the-product-without-knowing-it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/How-your-smartphone-sold-you-out.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/How-your-smartphone-sold-you-out.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/TLDR-Snow-trolls-digital-control-freaks.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/TLDR-Snow-trolls-digital-control-freaks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/Fifty-shades-of-legal-grey.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Fifty-shades-of-legal-grey.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -282,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747402785672</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="tags">
+      <option name="closed" value="true" />
+      <created>1747403315820</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1747403315820</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -301,6 +306,7 @@
     <MESSAGE value="images and search" />
     <MESSAGE value="revert" />
     <MESSAGE value="search" />
-    <option name="LAST_COMMIT_MESSAGE" value="search" />
+    <MESSAGE value="tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="tags" />
   </component>
 </project>

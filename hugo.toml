@@ -15,6 +15,7 @@ enableRobotsTXT = true
 [params]
   ShowReadingTime = true
   ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
   ShowToc = true
   defaultTheme = "dark"
   logo = "/images/logo.png"
@@ -49,6 +50,12 @@ enableRobotsTXT = true
     weight = 10
 
   [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+
+  [[menu.main]]
     identifier = "tymyrddin"
     name = "Ty Myrddin"
     url = "https://tymyrddin.dev"
@@ -65,7 +72,3 @@ enableRobotsTXT = true
     name = "Search"
     url = "search"
     weight = 50
-
-[taxonomies]
-  tag = "tags"
-  category = "categories"
