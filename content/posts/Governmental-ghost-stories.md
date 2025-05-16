@@ -54,4 +54,4 @@ Whether it’s the state or Silicon Valley, someone is always lurking in your gr
 
 Sleep tight. 
 
-![](/images/strangelove.png)
+![](/images/strangelove.png#center)

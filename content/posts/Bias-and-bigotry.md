@@ -28,7 +28,7 @@ Hidden biases have a knack for slipping out when we’re stressed, distracted, o
 
 Apparently, the prejudice and stereotyping process is a bit like a turtle—slow, methodical, and involving an unnecessarily complex network of brain regions.
 
-![](/images/amygdala-connections.png)
+![](/images/amygdala-connections.png#center)
 
 ### Prejudice
 
@@ -46,4 +46,4 @@ Together, these two systems ensure our higher reasoning takes the occasional uns
 
 The good news? While the knee-jerk reactions of the amygdala are stubborn, they’re not set in stone. Meditation helps. So does gradual exposure to situations we’d normally avoid (or people we’d instinctively side-eye). With enough effort, we might just nudge ourselves in the right direction—or at least stop embarrassing ourselves in public.
 
-![](/images/thinking-fast-and-slow.png)
+![](/images/thinking-fast-and-slow.png#center)

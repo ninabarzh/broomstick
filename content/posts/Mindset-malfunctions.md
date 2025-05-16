@@ -22,7 +22,7 @@ Our capacity for apocalyptic fantasising deserves special mention. There's somet
 
 The darker corners of our collective psyche reveal even more troubling patterns. Misogyny, that ancient and persistent mindset, continues to thrive by transforming male insecurity into female culpability. It's a remarkable feat of psychological projection that would be impressive if it weren't so damaging. 
 
-![](/images/how_it_works.png)
+![](/images/how_it_works.png#center)
 
 Meanwhile, our utilitarian numbness has us obsessively measuring everything while understanding nothing, mistaking metrics for meaning in a world where happiness stubbornly refuses to be quantified.
 

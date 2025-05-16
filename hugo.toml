@@ -11,6 +11,8 @@ enableRobotsTXT = true
 
 [params.assets]
   custom_css = ["css/custom.css"]
+  favicon = "/favicon.ico"
+  logo = "/images/logo.png"
 
 [params]
   ShowReadingTime = true
@@ -20,10 +22,8 @@ enableRobotsTXT = true
   ShowShareButtons = true
   TocOpen = true
   defaultTheme = "dark"
-  logo = "/images/logo.png"
   logoWidth = "40"
   logoTitle = "Broomstick Brief"
-  favicon = "/favicon.ico"
   custom_css = ["css/custom.css"]
 
 [params.fuseOpts]

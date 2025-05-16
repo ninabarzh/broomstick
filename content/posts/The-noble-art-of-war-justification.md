@@ -13,7 +13,7 @@ Roughly five centuries ago, indigenous peoples across the Americas, Oceania, Asi
 Naturally, this wholesale plundering eventually made even a few European theologians and jurists feel a bit uneasy — not enough to stop it, mind you, but enough to scribble down their moral musings. They insisted indigenous peoples were indeed the rightful owners of their lands (how gracious), but being products of their time, they also laid the conceptual groundwork for continued subjugation by proposing that it was all perfectly acceptable under the right philosophical lighting — via the ever-handy notion of just war.
 
 
-![](/images/leviathan.png)
+![](/images/leviathan.png#center)
 
 Enter stage left: Just War Theory. A delightful concept suggesting that while war is terrible, it can be slightly less terrible if done properly — think of it as the ethical abattoir of geopolitics. The idea being that war is not always the worst option — sometimes it’s just what a nation needs to feel better about itself.
 
