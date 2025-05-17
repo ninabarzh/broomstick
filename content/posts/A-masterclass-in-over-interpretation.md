@@ -7,7 +7,7 @@ tags:
   - sexes
 ---
 
-Ah, the eternal quest to prove that men are from Mars and women are from Venus—neurologically speaking, of course. For over a century, scientists (and, let’s be honest, people with opinions) have been poking at brains, measuring corpus callosums, and squinting at amygdalae, all in the noble pursuit of confirming whatever gender stereotypes they already believed.
+The eternal quest to prove that men are from Mars and women are from Venus—neurologically speaking, of course. For over a century, scientists (and, let’s be honest, people with opinions) have been poking at brains, measuring corpus callosums, and squinting at amygdalae, all in the noble pursuit of confirming whatever gender stereotypes they already believed.
 
 Take the corpus callosum, that thick bundle of nerves connecting the brain’s hemispheres. Back in 1906, R. B. Bean—a man who clearly never met a bias he didn’t like—declared that its size correlated with intelligence and, naturally, that women (and certain races, because why stop at one bad take?) had inferior versions. His own lab director promptly debunked him, but the myth persisted. By the 1990s, pop science had rebranded the idea: Women have bigger corpus callosums! That’s why they’re so \~intuitive\~! Cue a thousand think-pieces about "female intuition."
 
