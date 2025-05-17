@@ -14,7 +14,7 @@ But while corporate power has captured institutions from Westminster to Brussels
 
 Welcome to Europe Inc., a four-part series on how neoliberalism turned the European project into a corporate shareholder meeting. From inequality to militarism, corporate capture to resistance, this isn’t just a critique — it’s a guided tour through the ruins and a map to the exits. Steeped in dry wit, and entirely unaffiliated with any hedge fund.
 
-![](/images/4.png#center)
+![](/images/2.png#center)
 
 ***
 
