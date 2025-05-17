@@ -14,7 +14,7 @@ How I lost my mind (and won an AI war) for a depressed octopus office worker: a 
 
 ### Chapter 1: The vision
 
-It began, as all terrible ideas do, with a whisper: "What if fish, but capitalism?" Armed with nothing but a keyboard 
+It began, as all terrible ideas do, with a whisper: "What if under water, but capitalism?" Armed with nothing but a keyboard 
 and a dream of a silly image, I set out to create the ultimate underwater dystopian office scene—a place where 
 octopuses ring up kelp groceries, clownfish drown in paperwork, and shrimp riot against the 1% (plankton).
 
