@@ -10,7 +10,7 @@ enableRobotsTXT = true
     path = "github.com/adityatelange/hugo-PaperMod"
 
 [params.assets]
-  custom_css = ["css/custom.css"]
+  custom_css = ["css/extended/custom.css"]
   favicon = "/favicon.ico"
   logo = "/images/logo.png"
 
@@ -24,7 +24,7 @@ enableRobotsTXT = true
   defaultTheme = "dark"
   logoWidth = "40"
   logoTitle = "Broomstick Brief"
-  custom_css = ["css/custom.css"]
+  custom_css = ["css/extended/custom.css"]
   [params.homeInfoParams]
     Title = "For when rants trigger RCU stall detection"
     Content = "and my patience buffer overflows into /dev/null. The rants are technically supposed to be brief—but let’s be real, some system bugs deserve a full kernel panic’s worth of fury."

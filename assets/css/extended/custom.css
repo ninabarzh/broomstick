@@ -49,3 +49,22 @@
   font-size: 16px !important;
 }
 
+/* Change link colors */
+a {
+    color: #e6ac00 !important;
+}
+
+/* Change link hover color */
+a:hover {
+    color: #ffcc00 !important;
+}
+
+/* Change navigation menu link colors */
+.nav a {
+    color: #e6ac00 !important;
+}
+
+/* Change post title link color */
+.post-title a {
+    color: #e6ac00 !important;
+}
