@@ -14,11 +14,12 @@ How I lost my mind (and won an AI war) for a depressed octopus office worker: a 
 
 ### Chapter 1: The vision
 
-It began, as all terrible ideas do, with a whisper: "What if under water, but capitalism?" Armed with nothing but a keyboard 
-and a dream of a silly image, I set out to create the ultimate underwater dystopian office scene—a place where 
-octopuses ring up kelp groceries, clownfish drown in paperwork, and shrimp riot against the 1% (plankton).
+I had heard about these AI image creators and decided to try it. And then it began, as all terrible ideas do, with a 
+whisper: "What if under water, but capitalism?" Armed with nothing but a keyboard and a dream of a silly image, I set 
+out to create the ultimate underwater dystopian office scene—a place where octopuses ring up kelp groceries, clownfish 
+drown in paperwork, and shrimp riot against the 1% (plankton).
 
-The prompt for the text-to-image:
+After more thought, the final prompt for the text-to-image:
 
 *A photorealistic documentary-style underwater scene. A giant Pacific octopus with detailed wrinkled skin scans 
 groceries at a run-down ‘Kelp Mart’ checkout, its tentacles tapping a rusty cash register. A clownfish in a tiny 
