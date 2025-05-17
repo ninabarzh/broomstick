@@ -69,7 +69,7 @@ Then—ChatGPT/DALL-E 3 answered the call.
 
 Suddenly, there it was. I had won.
 
-* The octopus, wrinkled and dead-eyed, scanning a sea cucumber like it’s his 9th shift this week.
+* The octopus, wrinkled and dead-eyed, at the cashier like it’s his 9th shift this week.
 * The shark, suit disheveled, mid-yell about "krill quotas."
 * The shrimp, holding crisp protest signs (no autocorrect to "EAT THE RICE," miraculously).
 
