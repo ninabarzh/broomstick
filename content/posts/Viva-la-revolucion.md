@@ -12,7 +12,7 @@ How I lost my mind (and won an AI war) for a depressed octopus office worker: a 
 
 ***
 
-### Chapter 1: The Vision
+### Chapter 1: The vision
 
 It began, as all terrible ideas do, with a whisper: "What if fish, but capitalism?" Armed with nothing but a keyboard 
 and a dream of a silly image, I set out to create the ultimate underwater dystopian office scene—a place where 
@@ -32,7 +32,7 @@ Little did I know, the AI was already laughing at me.
 
 ***
 
-### Chapter 2: The Betrayal
+### Chapter 2: The betrayal
 
 The first attempts were disasters.
 
