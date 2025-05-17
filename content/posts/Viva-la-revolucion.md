@@ -1,6 +1,6 @@
 ---
 title: Viva la shrimp revolution! 
-date: 2025-05-17T22:00:00.000Z
+date: 2025-05-16T22:00:00.000Z
 draft: false
 tags:
   - AI
@@ -60,6 +60,8 @@ I became a monster.
 * I threatened the AI with "I WILL REPLACE YOU WITH A TYPEWRITER."
 
 Still, the octopus, if it was generated, refused to look tired enough.
+
+***
 
 ### Chapter 4: The breakthrough
 
