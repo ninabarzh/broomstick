@@ -80,7 +80,7 @@ Or had the AI just pitied me?
 
 ### Chapter 5: The aftermath
 
-Now, the images exist. The shrimp have unionized. The crab’s shopping cart is a meme.
+Now, the images exist. The shrimp have unionised. The crab’s shopping cart is a meme.
 
 But the real question lingers: Was this art? Or a cry for help?
 

@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Viva la revolucion!">
-      <change beforePath="$PROJECT_DIR$/content/posts/Viva-la-revolucion.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Viva-la-revolucion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -348,7 +348,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747466414920</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Viva la revolucion!">
+      <option name="closed" value="true" />
+      <created>1747466568575</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1747466568575</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Viva la revolucion!">
+      <option name="closed" value="true" />
+      <created>1747466879191</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1747466879191</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
