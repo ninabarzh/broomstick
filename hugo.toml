@@ -42,7 +42,7 @@ enableRobotsTXT = true
     url = "https://gitlab.com/tymyrddin"
 
   [[params.socialIcons]]
-    name = " Move IT tube"
+    name = "Move IT tube"
     url = "https://tube.spdns.org/a/barzh/video-channels"
 
   [[params.socialIcons]]
