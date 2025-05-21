@@ -20,6 +20,8 @@ predicting crimes before they happen (or not). German defence start-up Helsing, 
 swarm of underwater drones with “advanced AI” to enhance naval surveillance. Because nothing says peace of mind like 
 the quiet hum of a robot lurking in the deep.
 
+![](/images/panopticon2025.png#center)
+
 ## Convergence of physical and digital monitoring
 
 Surveillance has gone from watching CCTV tapes in a dingy room to something called “visual intelligence,” where 
@@ -153,3 +155,5 @@ AI arms race shows no sign of slowing down—especially with authoritarian state
 *  The Guardian. Argentina's AI System for Predicting Future Crimes Raises Rights Concerns. The Guardian, August 2024. https://www.theguardian.com/world/article/2024/aug/01/argentina-ai-predicting-future-crimes-citizen-rights
 *  Amnesty International Thailand. Brazil's Expanding Algorithmic Governance Poses Human Rights Risks. Amnesty International Thailand. https://www.amnesty.or.th/en/latest/news/1251/
 *  Wikipedia. Mass Surveillance in New Zealand. Wikimedia Foundation. https://en.wikipedia.org/wiki/Mass_surveillance_in_New_Zealand
+
+![](/images/compliance-dept.png#center)
