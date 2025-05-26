@@ -7,11 +7,19 @@ tags:
   - hemispheres
 ---
 
-We’ve got two brain hemispheres, structurally asymmetrical. The left one? Brilliant at building bridges, splitting atoms, counting beans. It’s been instrumental in all that humankind has achieved. Unfortunately, it’s also a terrible driver of the human experience. A wonderful servant, yes — but an appalling master.
+We’ve got two brain hemispheres, structurally asymmetrical. The left one? Brilliant at building bridges, 
+splitting atoms, counting beans. It’s been instrumental in all that humankind has achieved. Unfortunately, it’s 
+also a terrible driver of the human experience. A wonderful servant, yes — but an appalling master.
 
-The right hemisphere, though not dependent on the left in the same way, needs it to achieve its full potential — to be its wild, flowing, metaphor-loving self. But the left? Oh no, it pretends it doesn’t need the right at all. Denial, thy name is cortex.
+The right hemisphere, though not dependent on the left in the same way, needs it to achieve its full potential — 
+to be its wild, flowing, metaphor-loving self. But the left? Oh no, it pretends it doesn’t need the right at all. 
+Denial, thy name is cortex.
 
-But what if society starts running everything like a left-hemisphere project plan? What if we let the detail-obsessed bureaucrat in our heads take over entirely? Spoiler: we get a world that increasingly treats everything like a lifeless mechanism.
+But what if society starts running everything like a left-hemisphere project plan? What if we let the detail-obsessed 
+bureaucrat in our heads take over entirely? Spoiler: we get a world that increasingly treats everything like a 
+lifeless mechanism.
+
+![](/images/doe-main.png#center)
 
 ### Systems thinking, now with added blind spots
 
@@ -47,6 +55,8 @@ Expect a bureaucracy boom. Abstract systems of control. Procedure-obsessed. Pred
 
 Everything becomes interchangeable and depersonalised. Your uniqueness? Gone. Please take a number and wait for your metaphysical redundancy.
 
+![](/images/doe-bureaucratic.png#center)
+
 ***
 
 ### Mechanisticity: Treating life like a broken toaster
@@ -65,6 +75,7 @@ Individual integrity? You won’t need that where we’re going. Mystery? Wonder
 
 Values are now purely utilitarian. Morality? Reduced to a cost-benefit analysis. We get enlightened self-interest, but the "enlightened" bit is... negotiable.
 
+![](/images/doe-mechanistic.png#center)
 ***
 
 ### Exploitation: All for One and None for You
@@ -90,6 +101,8 @@ Liberty is praised in the abstract while individual freedom is quietly throttled
 The state grabs more power while pushing individual responsibility out the window. And the people follow suit, losing their sense of agency in the process.
 
 Altruism? Treated with suspicion. Family roles and skilled professions based on trust? Threats to efficiency. Better bring them under bureaucratic control, just in case.
+
+![](/images/doe-surveillance.png#center)
 
 ***
 
@@ -133,10 +146,53 @@ History is irrelevant. Tradition? A liability. The body is a machine. Nature is 
 
 And anything wild — anything not efficiently managed or bureaucratically controlled — is considered dangerous and must be domesticated. Now.
 
+```
+               ┌───────────────────────────────────┐
+               │                                   │
+               ▼                                   │
+(+)[Attempt to navigate bureaucracy]               │
+               │                                   │
+               ▼                                   │
+(+)[Encounter procedural obstruction]              │
+               │                                   │
+               ▼                                   │
+(+)[Increased frustration and inefficiency]        │
+               │                                   │
+               ▼                                   │
+(+)[Rely on workarounds/give up]                   │             
+               │                                   │                          
+               ▼                                   │  
+(+)[Less pressure for system reform]               │
+               │                                   │                         
+               ▼                                   │
+(+)[Persistence of obstructive bureaucracy]        │
+               │                                   │            
+               ▼                                   │
+(+)[More attempts to navigate bureaucracy...] ─────┘   
+```
+
 ***
 
 ### All Aboard the Left-Hemisphere Express
 
 All prepare for the great flattening. The systematic society of the future, lovingly assembled by the hemisphere that’s forgotten how to love.
 
+```
+               ┌────────────────────────────┐
+               │                            │
+               ▼                            │
+    (+)[Focus on rule compliance]           │
+               │                            │
+               ▼                            │
+[Disconnection from purpose] <= !!!!!       │
+               │                            │
+               ▼                            │
+[Loss of intrinsic motivation]              │
+               │                            │
+               ▼                            │
+[Greater reliance on external controls]     │
+               │                            │
+               ▼                            │
+    (+)[More focus on rule compliance]──────┘
+```
 And frankly, judging by where we are now, we may already be halfway there.
