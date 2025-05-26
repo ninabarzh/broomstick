@@ -19,9 +19,51 @@ But what if society starts running everything like a left-hemisphere project pla
 bureaucrat in our heads take over entirely? Spoiler: we get a world that increasingly treats everything like a 
 lifeless mechanism.
 
-![](/images/doe-main.png#center)
+***
 
-### Systems thinking, now with added blind spots
+```
+               ┌────────────────────────────────────────────────────┐
+               ▼                                                    │
++-------------------------------------+                             │
+|   Focus on logical abstraction      |                             │
++-------------------------------------+                             │
+               │                                                    │
+               ▼                                                    │
++-------------------------------------+                             │
+|   Preference for measurable         |                             │
+|   and quantifiable knowledge        |                             │
++-------------------------------------+                             │
+               │                                                    │
+               ▼                                                    │
++-------------------------------------+                             │
+|   Marginalisation of holistic       |                             │
+|   and experiential understanding    |                             │
++-------------------------------------+                             │
+               │                                                    │
+               ▼                                                    │
++-------------------------------------+                             │
+|   Reliance on formal systems and    |                             │
+|   standardised certification        |                             │
++-------------------------------------+                             │
+               │                                                    │
+               ▼                                                    │
++-------------------------------------+                             │
+|   Reduction of experiential         |                             │
+|   and context-dependent knowledge   |                             │
++-------------------------------------+                             │
+               │                                                    │
+               ▼                                                    │
++-------------------------------------+                             │
+|   Increased abstraction and system  |                             │
+|   dependence (detached models)      |                             │
++-------------------------------------+                             │
+               │                                                    │
+               └────────────────────────────────────────────────────┘
+```
+
+***
+
+## Systems thinking, now with added blind spots
 
 **Abstraction: The cult of clarity**
 
@@ -35,19 +77,101 @@ And when in doubt? Replace skill with tokens and procedures. Certificates are sh
 
 Skills? Standardised. Algorithmic. Regulable. Applied evenly, like bland icing on a very confused cake.
 
-***
-
-### Virtualisation: Reality? Who needs that?
+## Virtualisation: Reality? Who needs that?
 
 **Everything is now a concept**
 
-Slowly but surely, the concrete gets swapped out for the abstract. Bodies, touch, nature, art — all reduced to ideas. You won’t need to interact with anything in the real world. You’ve got a keyboard.
+Slowly but surely, the concrete gets swapped out for the abstract. Bodies, touch, nature, art — all reduced to ideas. 
+You won’t need to interact with anything in the real world. You’ve got a keyboard.
 
-“Work” becomes the act of documenting and justifying that work. Not actually doing it, of course — that’s for marginalised folks. Your job is to make a slide deck explaining how someone else should do the thing you’ll never touch.
+“Work” becomes the act of documenting and justifying that work. Not actually doing it, of course — that’s for 
+marginalised folks. Your job is to make a slide deck explaining how someone else should do the thing you’ll never 
+touch.
 
 ***
 
-### Bureaucracy: Because nothing says progress like more paperwork
+```
+                          +------------------------------+
+                          |  "Everything is a concept"   |
+                          +--------------┬---------------+
+                                         |
+                                         ▼
+                    +--------------------------------------+
+                    | Concrete replaced by the abstract    |
+                    | - Models > Materials                 |
+                    | - Theory > Practice                  |
+                    +------------------┬-------------------+
+                                       |
+                                       ▼
+               +----------------------------------------------+
+               | Humans and the world become conceptualised   |
+               | - Bodies treated as systems                  |
+               | - Art/music become data                      |
+               | - Identity becomes metadata                  |
+               +------------------┬---------------------------+
+                                  |
+                                  ▼
+               +----------------------------------------------+
+               | World is virtualised                         |
+               | - Experience via meta-representations        |
+               | - Simulations over sensations                |
+               +------------------┬---------------------------+
+                                  |
+                                  ▼
+               +----------------------------------------------+
+               | Fewer people work with material reality      |
+               | - Touchless labour                           |
+               | - Digital interfaces mediate all tasks       |
+               +------------------┬---------------------------+
+                                  |
+                                  ▼
+               +----------------------------------------------+
+               | Work becomes meta-work                       |
+               | - Justifying work replaces doing it          |
+               | - Systems for monitoring > systems for care  |
+               +------------------┬---------------------------+
+                                  |
+                                  ▼
+               +----------------------------------------------+
+               | Physical work pushed to margins              |
+               | - Done by precarious/marginalised groups     |
+               | - Hidden under abstraction layers            |
+               +------------------┬---------------------------+
+                                  |
+                                  ▼
+     +--------------------------------------------------------------+
+     | Further detachment from lived reality                        |
+     | - Policy divorced from consequence                           |
+     | - "Optimisation" replaces understanding                      |
+     +------------------┬---------------------------┬---------------+
+                        |                           |  
+                        |                           ▼
+                        |         +------------------------------------+
+                        |         | Reinforces abstraction bias        |
+                        |         | - Concept > Contact                |
+                        |         | - Clean data > messy life          |
+                        |         +------------------┬-----------------+
+                        |                            |
+                        |                            ▼
+                        |        +-------------------------------------+
+                        |        | More value placed on conceptual     |
+                        |        | thought than lived experience       |
+                        |        +------------------┬------------------+
+                        |                           |
+                        |                           ▼
+                        |        +-------------------------------------+
+                        |        | Further erosion of trust in senses  |
+                        |        | and bodies; elevation of symbols    |
+                        |        +------------------┬------------------+
+                        |                           |
+                        |                           ▼
+                        +---------------------------┘
+                          [Loop: Concept feeds concept]
+```
+
+***
+
+## Bureaucracy: Because nothing says progress like more paperwork
 
 **Effects of virtualisation**
 
@@ -55,11 +179,9 @@ Expect a bureaucracy boom. Abstract systems of control. Procedure-obsessed. Pred
 
 Everything becomes interchangeable and depersonalised. Your uniqueness? Gone. Please take a number and wait for your metaphysical redundancy.
 
-![](/images/doe-bureaucratic.png#center)
-
 ***
 
-### Mechanisticity: Treating life like a broken toaster
+## Mechanisticity: Treating life like a broken toaster
 
 **Humans as faulty machines**
 
@@ -75,10 +197,91 @@ Individual integrity? You won’t need that where we’re going. Mystery? Wonder
 
 Values are now purely utilitarian. Morality? Reduced to a cost-benefit analysis. We get enlightened self-interest, but the "enlightened" bit is... negotiable.
 
-![](/images/doe-mechanistic.png#center)
 ***
 
-### Exploitation: All for One and None for You
+```
+                      +-------------------------+
+                      |      REIFICATION        |
+                      |-------------------------|
+                      | Living treated as       |
+                      | things; abstraction     |
+                      | over embodiment         |
+                      +-----------+-------------+
+                                  |
+                                  v
+                      +-------------------------+
+                      |     MECHANISTICITY      |
+                      |-------------------------|
+                      | Living modelled on the  |
+                      | mechanical:             |
+                      | - Speed, scale,         |
+                      |   precision valued      |
+                      | - Quantity > Quality    |
+                      | - Binary > Spectrum     |
+                      +-----------+-------------+
+                                  |
+                                  v
+                +----------------+----------------+
+                |                                 |
+                v                                 v
++-----------------------------+     +------------------------------+
+| CONSCIOUSNESS SHIFTS        |     | TECHNO-SOCIAL PRODUCTION     |
+|-----------------------------|     |------------------------------|
+| Bureaucratic mindset        |     | Mass reproduction systems    |
+| becomes norm                |     | emphasise:                   |
+| - Loss of mystery           |     | - Measurability              |
+| - Utility as only value     |     | - Componentiality            |
+| - Either/or morality        |     | - Abstract context loss      |
++--------------+--------------+     +---------------+--------------+
+               \                                 /
+                \                               /
+                 \                             /
+                  v                           v
+              +-------------------------------------+
+              | INDIVIDUALITY ERODES                |
+              |-------------------------------------|
+              | - Subjective integrity collapses    |
+              | - Person becomes function           |
+              | - Mystery becomes inefficiency      |
+              +----------------+--------------------+
+                                   |
+                                   v
+                   +--------------------------------+
+                   |        EXPLOITATION            |
+                   |--------------------------------|
+                   | - Impersonal replaces personal |
+                   | - Humans & nature as resources |
+                   | - “Equality” flattens nuance   |
+                   | - Cooperation < Competition    |
+                   | - Identity commodified         |
+                   +----------------+---------------+
+                                    |
+         +--------------------------+--------------------------+
+         |                                                     |
+         v                                                     v
++-----------------------------+                 +-------------------------------+
+| SOCIAL COHESION COLLAPSES   |                 | GEOPOLITICS OF PLUNDER        |
+|-----------------------------|                 |-------------------------------|
+| - Distrust pervasive        |                 | - Govts as commodifiers       |
+| - Marginalised ignored      |                 | - Resistance = Threat         |
+| - Categories replace people |                 | - Intervention as morality    |
++-----------------------------+                 +-------------------------------+
+         |                                                     |
+         +--------------------------+--------------------------+
+                                    |
+                                    v
+                      +------------------------------+
+                      | SYSTEMIC PARANOIA            |
+                      |------------------------------|
+                      | - Everyone distrusts everyone|
+                      | - Institutions feign virtue  |
+                      | - Benevolent domination      |
+                      +------------------------------+
+
+```
+***
+
+## Exploitation: All for One and None for You
 
 **Commodifying everything**
 
@@ -92,7 +295,7 @@ Marginalised groups get extra marginalised. Paranoia blooms. Trust dries up. Peo
 
 ***
 
-### Total control: smile, you’re on Bureaucracy-Cam™
+## Total control: smile, you’re on Bureaucracy-Cam™
 
 **Governments: We’re here to help (ourselves)**
 
@@ -102,7 +305,41 @@ The state grabs more power while pushing individual responsibility out the windo
 
 Altruism? Treated with suspicion. Family roles and skilled professions based on trust? Threats to efficiency. Better bring them under bureaucratic control, just in case.
 
-![](/images/doe-surveillance.png#center)
+***
+
+```
++=======================================================================================================+
+|                                    TOTAL CONTROL: DIAGRAM OF EFFECTS                                  |
++=======================================================================================================+
+| GOVERNMENTS                            | SOCIETY                                | CONSUMERISM         |
+|----------------------------------------|----------------------------------------|---------------------|
+| • Liberty as abstract, control real    | • Death taboo; longevity commodified   | • Autonomy ↓        |
+| • Panopticon: CCTV, DNA surveillance   | • Sex explicit, omnipresent            | • Passivity ↑       |
+| • Bureaucracy over family/professions  | • Reasonableness → superrationality    | • Suggestibility    |
+| • State ↑ power, Individual ↓ agency   | • Common sense fails; empathy wanes    | • "Use it now"      |
+| • Altruism = self-interest (suspicion) | • Insight ↓, responsibility ↓          | • Opportunism       |
+| • Discrediting skilled/trusted roles   | • Aggression, rigidity ↑               | • Panopticon        |
++----------------------------------------+----------------------------------------+---------------------+
+|                         → INFLEXIBILITY → DISTRUST → CONTROL → BOREDOM →                              |
++=======================================================================================================+
+| DISENCHANTMENT                         | CULTURE                                 | META-THEMES        |
+|----------------------------------------|-----------------------------------------|--------------------|
+| • Awe/spirituality = fantasy           | • Spectators not actors                 | • Left-brain rule  |
+| • Wonder ridiculed, right-brain shamed | • Culture = abstract, disembodied       | • Technocracy      |
+| • Loss of pathos = loss of soul        | • Art lacks depth and perspective       | • Uniformity       |
+| • Meaning & value dissolve             | • Music = rhythm; harmony fades         | • Loss of context  |
+| • Time = fragmented frames             | • Dance = solipsistic, not shared       | • Commodification  |
+| • Repetition breeds boredom            | • Words = abstract, jargon-laced        | • Surveillance     |
+|                                        | • History = irrelevant                  | • Cynicism         |
+|                                        | • Body = machine; nature = inventory    |                    |
+|                                        | • Wild = danger, to be managed          |                    |
++----------------------------------------+-----------------------------------------+--------------------+
+|                    LOSS OF MEANING → LOSS OF AGENCY → RESENTMENT ↑                                    |
++=======================================================================================================+
+|                  CONTROL SYSTEM FEEDBACK LOOPS: REINFORCED THROUGH CONSUMPTION & CYNICISM             |
+|                  (More control → More disenchantment → More passivity → More control...)              |
++=======================================================================================================+
+```
 
 ***
 
@@ -146,53 +383,10 @@ History is irrelevant. Tradition? A liability. The body is a machine. Nature is 
 
 And anything wild — anything not efficiently managed or bureaucratically controlled — is considered dangerous and must be domesticated. Now.
 
-```
-               ┌───────────────────────────────────┐
-               │                                   │
-               ▼                                   │
-(+)[Attempt to navigate bureaucracy]               │
-               │                                   │
-               ▼                                   │
-(+)[Encounter procedural obstruction]              │
-               │                                   │
-               ▼                                   │
-(+)[Increased frustration and inefficiency]        │
-               │                                   │
-               ▼                                   │
-(+)[Rely on workarounds/give up]                   │             
-               │                                   │                          
-               ▼                                   │  
-(+)[Less pressure for system reform]               │
-               │                                   │                         
-               ▼                                   │
-(+)[Persistence of obstructive bureaucracy]        │
-               │                                   │            
-               ▼                                   │
-(+)[More attempts to navigate bureaucracy...] ─────┘   
-```
-
 ***
 
 ### All Aboard the Left-Hemisphere Express
 
 All prepare for the great flattening. The systematic society of the future, lovingly assembled by the hemisphere that’s forgotten how to love.
 
-```
-               ┌────────────────────────────┐
-               │                            │
-               ▼                            │
-    (+)[Focus on rule compliance]           │
-               │                            │
-               ▼                            │
-[Disconnection from purpose] <= !!!!!       │
-               │                            │
-               ▼                            │
-[Loss of intrinsic motivation]              │
-               │                            │
-               ▼                            │
-[Greater reliance on external controls]     │
-               │                            │
-               ▼                            │
-    (+)[More focus on rule compliance]──────┘
-```
 And frankly, judging by where we are now, we may already be halfway there.
