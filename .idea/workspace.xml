@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Added article">
-      <change afterPath="$PROJECT_DIR$/static/images/economic-warfare.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/economic-warfare2.png" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="economic warfare images">
+      <change afterPath="$PROJECT_DIR$/content/posts/inductive-brics-superpower.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/brics-frankenstein.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/posts/delusion-peaceful-modern-europe.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/delusion-peaceful-modern-europe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/the-global-souths-not-so-secret-club.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/the-global-souths-not-so-secret-club.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -463,11 +464,18 @@
       <option name="project" value="LOCAL" />
       <updated>1748347731389</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="economic warfare images">
+      <option name="closed" value="true" />
+      <created>1748353705921</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1748353705921</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Switch to direct theme copy" />
     <MESSAGE value="Starting anew" />
     <MESSAGE value="posts" />
     <MESSAGE value="Rebuild site with Hugo+PaperMod+TinaCMS" />
@@ -492,6 +500,7 @@
     <MESSAGE value="Compliance department" />
     <MESSAGE value="Diagrams of effect for a love affair" />
     <MESSAGE value="Added article" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added article" />
+    <MESSAGE value="economic warfare images" />
+    <option name="LAST_COMMIT_MESSAGE" value="economic warfare images" />
   </component>
 </project>

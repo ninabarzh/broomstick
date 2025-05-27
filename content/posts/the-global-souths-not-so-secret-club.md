@@ -9,6 +9,7 @@ tags:
   - international relations
   - economic blocs
   - scenarios
+  - deductive
 ---
 
 The BRICS alliance began life as something between a Goldman Sachs marketing gimmick and a drunken bet among emerging 

@@ -1,5 +1,5 @@
 ---
-title: 'The Delusion of a peaceful modern europe'
+title: 'The delusion of a peaceful modern europe'
 date: 2025-05-27T10:00:00.000Z
 draft: false
 tags:
@@ -34,7 +34,6 @@ Meanwhile, the neoliberal zeal of the Reagan-Thatcher axis spread across Europe 
 
 {{< details >}}
 **Timeline**
-
 **1949** – CoCom export embargo begins  
 **1981** – Thatcher’s austerity programme ramps up  
 **1985** – Gorbachev begins perestroika  
@@ -51,8 +50,7 @@ But the real novelty was in the economics. International sanctions on Serbia ind
 Europe’s response was a masterclass in performative ethics: waver, condemn, hesitate, bomb, and then slap together a reconstruction plan riddled with IMF reforms and privatisation schemes. From mass graves to free markets in a single decade—surely a record.
 
 {{< details >}}
-**Timeline**
-
+**Timeline**  
 **1991–1999** – Yugoslav Wars  
 **1992** – UN sanctions begin  
 **1993** – Serbian hyperinflation peaks  
@@ -68,8 +66,7 @@ Greece didn’t suffer an invasion—it suffered a troika (EU, ECB, IMF) demandi
 The irony was delicious: Germany, having had its own debts forgiven after World War II, now lectured Athens on fiscal responsibility. This wasn’t economics. It was debt colonialism, enforced with the cold precision of a bailout agreement.
 
 {{< details >}}
-**Timeline**
-
+**Timeline**  
 **2010** – First bailout agreement  
 **2011** – Papandreou resigns under pressure  
 **2015** – Syriza referendum, followed by capitulation  
@@ -82,8 +79,7 @@ A masterclass in how to turn a trade dispute into a national identity crisis. Th
 The Irish border, dismissed as a technicality, became a geopolitical crisis when it emerged that no one in Westminster had actually read the Good Friday Agreement. And the "oven-ready deal"? More like a half-baked disaster, leaving British exporters drowning in customs forms while the EU, ever the gracious victor, made sure the UK’s departure was as painful as possible.
 
 {{< details >}}
-**Timeline**
-
+**Timeline**  
 **2016** – Brexit referendum  
 **2020** – UK formally exits EU  
 **2021** – Northern Ireland protocol causes supply chain chaos  
@@ -96,8 +92,7 @@ Putin didn’t need tanks to destabilise Europe—just gas pipelines, Facebook a
 The Salisbury poisoning, with its nerve agents on a park bench, was a reminder that modern warfare could still be lethally old-fashioned when required. And when Europe finally imposed sanctions in 2022, it promptly realised it had forgotten to wean itself off Russian gas—leading to a self-inflicted energy crisis that left households freezing while China happily bought Russian oil at a discount.
 
 {{< details >}}
-**Timeline**
-
+**Timeline**  
 **2014** – Russia annexes Crimea  
 **2018** – Salisbury poisoning  
 **2022** – Full-scale invasion of Ukraine; EU imposes sanctions  
@@ -135,12 +130,9 @@ Is it peace when a country votes for self-harm because it’s been fed lies for 
 No. It’s just war with better PR.
 
 {{< details >}}
-**Possible futures**
-
+**Possible futures**  
 **Likely** – continued hybrid conflict, with trade and energy policies weaponised behind closed doors, while populists bicker over sovereignty and tech giants hoard data like dragons on a gold pile.  
-
 **Worst case** – full-scale interstate war returns to Europe through miscalculation or fragmentation, with AI-assisted disinformation campaigns fuelling proxy rebellions and digital sabotage of critical infrastructure.  
-
 **Best case** – European nations recognise the futility of economic siege tactics, invest in energy independence and digital sovereignty, and finally admit that peace requires more than PR and procurement contracts.  
 {{< /details >}}
 
