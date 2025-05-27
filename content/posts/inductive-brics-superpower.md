@@ -9,11 +9,11 @@ tags:
   - international relations
   - economic blocs
   - scenarios
-  - deductive
+  - inductive
 ---
 
 
-## Dysfunctional by design
+## Premise: Dysfunctional by design
 
 By 2035, BRICS+ doesn’t collapse under its own contradictions, nor does it morph into a cohesive challenger to the G7. Instead, it stumbles into superpower status by a series of messy accidents, economic disasters, and geopolitical farces. Less deliberate empire, more Frankenstein with a membership card.
 
