@@ -1,6 +1,6 @@
 ---
 title: 'BRICS+ inductive scenario: A competence fantasy'
-date: 2025-05-30T10:30:00.000Z
+date: 2025-05-30T10:02:00.000Z
 draft: false
 tags:
   - brics+

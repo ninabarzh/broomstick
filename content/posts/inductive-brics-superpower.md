@@ -1,6 +1,6 @@
 ---
 title: 'BRICS+ inductive scenario: The accidental superpower'
-date: 2025-05-30T10:00:00.000Z
+date: 2025-05-30T10:01:00.000Z
 draft: false
 tags:
   - brics+

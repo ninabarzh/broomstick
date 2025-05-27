@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Inductive scenario">
-      <change afterPath="$PROJECT_DIR$/content/posts/inductive-brics-climate.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/brics-climate.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Inductive scenarios">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/inductive-brics-climate.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/inductive-brics-climate.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/posts/inductive-brics-superpower.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/inductive-brics-superpower.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/nina/Development/bitbucket/right-oink",
+    "last_opened_file_path": "/home/nina/Development/github/broomstick",
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
@@ -79,14 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Pfft First article">
-      <option name="closed" value="true" />
-      <created>1747231676189</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1747231676189</updated>
     </task>
     <task id="LOCAL-00003" summary="Switch to direct theme copy">
       <option name="closed" value="true" />
@@ -472,11 +462,18 @@
       <option name="project" value="LOCAL" />
       <updated>1748367078904</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Inductive scenarios">
+      <option name="closed" value="true" />
+      <created>1748371759677</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1748371759677</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="posts" />
     <MESSAGE value="Rebuild site with Hugo+PaperMod+TinaCMS" />
     <MESSAGE value="Rebuild site with Hugo+PaperMod" />
     <MESSAGE value="Fix: specify Hugo version for Netlify build" />
@@ -501,6 +498,7 @@
     <MESSAGE value="Added article" />
     <MESSAGE value="economic warfare images" />
     <MESSAGE value="Inductive scenario" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inductive scenario" />
+    <MESSAGE value="Inductive scenarios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inductive scenarios" />
   </component>
 </project>
