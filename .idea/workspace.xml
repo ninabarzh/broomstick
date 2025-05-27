@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Added article">
-      <change afterPath="$PROJECT_DIR$/static/images/bricsplus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/economic-warfare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/economic-warfare2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/the-global-souths-not-so-secret-club.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/the-global-souths-not-so-secret-club.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/delusion-peaceful-modern-europe.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/delusion-peaceful-modern-europe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -454,7 +455,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748333802777</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Added article">
+      <option name="closed" value="true" />
+      <created>1748347731389</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1748347731389</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

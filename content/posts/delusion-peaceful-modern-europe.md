@@ -15,7 +15,12 @@ How charming. And how utterly wrong.
 
 <!--more-->
 
-War in Europe didn’t end; it simply changed dress code. The continent exchanged the muddy boots of trench warfare for the polished shoes of technocracy. The cavalry gave way to credit ratings, and the siege engine was replaced by the Excel spreadsheet. In this brave new Europe, invasions are launched via procurement deals, and national humiliation comes neatly packaged in a Memorandum of Understanding.
+War in Europe didn’t end; it simply changed dress code. The continent exchanged the muddy boots of trench warfare for 
+the polished shoes of technocracy. The cavalry gave way to credit ratings, and the siege engine was replaced by the 
+Excel spreadsheet. In this brave new Europe, invasions are launched via procurement deals, and national humiliation 
+comes neatly packaged in a Memorandum of Understanding.
+
+![Economic warfare](/images/economic-warfare2.png#center)
 
 ## The myth of the post-war peace
 
