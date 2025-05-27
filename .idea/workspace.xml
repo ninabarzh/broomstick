@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Diagrams of effect for a love affair">
-      <change afterPath="$PROJECT_DIR$/content/posts/delusion-peaceful-modern-europe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/the-global-souths-not-so-secret-club.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Added article">
+      <change afterPath="$PROJECT_DIR$/static/images/bricsplus.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/the-global-souths-not-so-secret-club.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/the-global-souths-not-so-secret-club.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -446,11 +446,18 @@
       <option name="project" value="LOCAL" />
       <updated>1748280611225</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Added article">
+      <option name="closed" value="true" />
+      <created>1748333802777</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1748333802777</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pfft First article" />
     <MESSAGE value="Switch to direct theme copy" />
     <MESSAGE value="Starting anew" />
     <MESSAGE value="posts" />
@@ -475,6 +482,7 @@
     <MESSAGE value="Accenture" />
     <MESSAGE value="Compliance department" />
     <MESSAGE value="Diagrams of effect for a love affair" />
-    <option name="LAST_COMMIT_MESSAGE" value="Diagrams of effect for a love affair" />
+    <MESSAGE value="Added article" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added article" />
   </component>
 </project>
