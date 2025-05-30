@@ -5,6 +5,7 @@ draft: false
 tags:
   - systems thinking
   - scenario planning
+  - scenarios
 ---
 
 ![](/images/scenario-logics.png)
