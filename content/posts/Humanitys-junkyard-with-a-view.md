@@ -8,7 +8,7 @@ draft: false
 
 Space—the final frontier, the great beyond, the… shockingly cluttered dumping ground for humanity’s discarded space toys. Forget the romantic image of a pristine cosmic void; what we’ve actually created is a high-altitude landfill, where decades of forgotten satellites, exploded rocket stages, and even rogue flecks of paint whiz around at speeds that could turn a pebble into a shotgun blast.
 
-Back in the glory days of the Cold War, the U.S. and the Soviet Union treated space like a shooting range, gleefully blowing up satellites just to prove they could. And why not? It’s not like anyone would have to clean up the mess—except, well, everyone launching anything into orbit for the next few centuries. Fast forward to today, and we’ve got everything from frozen clouds of rocket pee (yes, really) to shards of shrapnel zipping around up there, turning what should be a celestial highway into a demolition derby.
+Back in the glory days of the Cold War, the US and the Soviet Union treated space like a shooting range, gleefully blowing up satellites just to prove they could. And why not? It’s not like anyone would have to clean up the mess—except, well, everyone launching anything into orbit for the next few centuries. Fast forward to today, and we’ve got everything from frozen clouds of rocket pee (yes, really) to shards of shrapnel zipping around up there, turning what should be a celestial highway into a demolition derby.
 
 ### Orbit real estate: A three-tiered trash heap
 

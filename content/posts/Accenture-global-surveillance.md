@@ -34,7 +34,7 @@ more authoritarian future, one PowerPoint presentation at a time.
 What makes Accenture uniquely dangerous is its ability to operate in the shadows while wearing a bespoke suit. 
 Emerging from the wreckage of Arthur Andersen after the Enron scandal (corporate phoenixes always rise darker), the 
 firm rebranded itself as a trusted government advisor—only to pioneer some of the most invasive surveillance tools 
-of the post-9/11 era. Its U.S.-VISIT programme laid the groundwork for global biometric tracking (because 
+of the post-9/11 era. Its US-VISIT programme laid the groundwork for global biometric tracking (because 
 fingerprints are the new handshake), while its predictive policing software disproportionately targets Black and 
 migrant communities (algorithms: just following orders, naturally). The Accenture Files dubs this network The 
 Reactionary International: where corporate power and far-right governance meet for very expensive lunches, with 

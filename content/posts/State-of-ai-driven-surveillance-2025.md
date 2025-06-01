@@ -127,7 +127,7 @@ Creative, certainly. Legal? Not so much.
 AI are all the rage in marketing decks. Apple champions on-device processing, which is lovely—until you realise your 
 phone still knows more about you than your best mate. 
 
-The U.S., meanwhile, warns of AI-enabled disinformation, though it’s unclear if the concern is ethical or competitive.
+The US, meanwhile, warns of AI-enabled disinformation, though it’s unclear if the concern is ethical or competitive.
 
 And then there’s Meta’s AI-powered therapy bots. What could be more reassuring than baring your soul to a chatbot 
 owned by the world's largest advertising firm?

@@ -25,13 +25,13 @@ As the West self-harms through sanctions, debt cliffs, and diplomatic hubris, BR
 
 ## The dollar’s slow-motion collapse (2026–2030)
 
-A U.S. debt ceiling crisis sparks what analysts later dub “the Taper Tantrum 2.0”. When a last-minute budget standoff leads to a missed Treasury payment, global markets convulse. The U.S. dollar—once the undisputed anchor of global finance—suffers a confidence crisis. China and India, already trading in local currencies within BRICS+ frameworks, weather the storm better than expected. The yuan and rupee don’t replace the dollar—but they do become credible enough alternatives to reduce panic.
+A US debt ceiling crisis sparks what analysts later dub “the Taper Tantrum 2.0”. When a last-minute budget standoff leads to a missed Treasury payment, global markets convulse. The US dollar—once the undisputed anchor of global finance—suffers a confidence crisis. China and India, already trading in local currencies within BRICS+ frameworks, weather the storm better than expected. The yuan and rupee don’t replace the dollar—but they do become credible enough alternatives to reduce panic.
 
 <span style="color:#ffbf00;text-align:center;">*We didn’t switch because we trusted them. We switched because we trusted Washington less.* — NDB internal memo, 2027</span>
 
 {{< details >}}
 **Timeline**  
-**2026** - U.S. debt ceiling crisis triggers partial Treasury sell-off  
+**2026** - US debt ceiling crisis triggers partial Treasury sell-off  
 **2027** - China-India bilateral trade surpasses 50% in local currencies  
 **2028** - IMF warns of "dollar fragmentation"  
 {{< /details >}}
@@ -73,7 +73,7 @@ It’s not quite peace, but the optics are good enough. Suddenly, BRICS+ isn’t
 
 ## Saudi Arabia’s ‘yuan oil’ gambit backfires (2033)
 
-Frustrated by U.S. political strings, Riyadh prices its entire oil output in yuan. Initially, it seems a clever pivot—until China manipulates its currency to keep exports competitive, slashing oil revenues in real terms. Enraged, the UAE creates the “Petro-dirham”—a currency backed by AI-mined Gulf data and oil reserves.
+Frustrated by US political strings, Riyadh prices its entire oil output in yuan. Initially, it seems a clever pivot—until China manipulates its currency to keep exports competitive, slashing oil revenues in real terms. Enraged, the UAE creates the “Petro-dirham”—a currency backed by AI-mined Gulf data and oil reserves.
 
 Inexplicably, it catches on in Africa, where mobile payments outpace banks. BRICS+ now boasts two rival reserve assets with more charisma than cohesion.
 
@@ -122,7 +122,7 @@ There is no formal BRICS+ military pact, but member states begin to act with col
 
 ### Europe’s identity crisis
 
-Germany now needs yuan for lithium, dirhams for oil, and gold to stabilise the Bundesbank’s nerves. France tries to revive European unity by bombing Mali—again. Eastern Europe quietly invites U.S. troops back, hoping to avoid becoming the next pet project of BRICS+ “peacekeepers”.
+Germany now needs yuan for lithium, dirhams for oil, and gold to stabilise the Bundesbank’s nerves. France tries to revive European unity by bombing Mali—again. Eastern Europe quietly invites US troops back, hoping to avoid becoming the next pet project of BRICS+ “peacekeepers”.
 
 <span style="color:#ffbf00;text-align:center;">*Call it what you want. It walks like a superpower, it talks like a superpower ... and it smells faintly of crude oil and panic.* — Polish foreign minister, 2035</span>
 
@@ -130,7 +130,7 @@ Germany now needs yuan for lithium, dirhams for oil, and gold to stabilise the B
 
 ## Why this could actually happen
 
-The West, it turns out, is BRICS+’s best recruiting agent. Weaponised sanctions against Russia, trade wars with China, and internal financial cliffs within the U.S. all signal to Global South nations that the old order is fragile. Even those skeptical of BRICS+ begin hedging their bets.
+The West, it turns out, is BRICS+’s best recruiting agent. Weaponised sanctions against Russia, trade wars with China, and internal financial cliffs within the US all signal to Global South nations that the old order is fragile. Even those skeptical of BRICS+ begin hedging their bets.
 
 Historical precedent supports this. The 1971 Nixon Shock—ending the gold standard—wasn’t planned as a reinvention of global finance, yet it became one. BRICS+ may not intend to replace the dollar, but history has a thing for unintended consequences.
 

@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Arms trade and Gaza">
-      <change beforePath="$PROJECT_DIR$/content/posts/The-art-of-pretending-we-know-whats-coming.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/The-art-of-pretending-we-know-whats-coming.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="scenarios tag">
+      <change afterPath="$PROJECT_DIR$/content/posts/left-right.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/political-spectrum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/seating.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/Accenture-global-surveillance.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Accenture-global-surveillance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/Humanitys-junkyard-with-a-view.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Humanitys-junkyard-with-a-view.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/State-of-ai-driven-surveillance-2025.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/State-of-ai-driven-surveillance-2025.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/inductive-brics-superpower.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/inductive-brics-superpower.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Starting anew">
-      <option name="closed" value="true" />
-      <created>1747244818046</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1747244818046</updated>
     </task>
     <task id="LOCAL-00006" summary="Starting anew">
       <option name="closed" value="true" />
@@ -468,11 +467,18 @@
       <option name="project" value="LOCAL" />
       <updated>1748606294100</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="scenarios tag">
+      <option name="closed" value="true" />
+      <created>1748606678062</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1748606678062</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fix: specify Hugo version for Netlify build" />
     <MESSAGE value="Centring images and README.md" />
     <MESSAGE value="Base url" />
     <MESSAGE value="topnav and tags" />
@@ -497,6 +503,7 @@
     <MESSAGE value="Inductive scenarios" />
     <MESSAGE value="Dates" />
     <MESSAGE value="Arms trade and Gaza" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arms trade and Gaza" />
+    <MESSAGE value="scenarios tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="scenarios tag" />
   </component>
 </project>
