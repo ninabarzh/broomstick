@@ -5,6 +5,11 @@ draft: false
 tags:
   - authority
   - legitimisation
+cover:
+  image: "/images/polyp.png"
+  alt: "Arrogation and appropriation" 
+  caption: "Arrogation and appropriation"
+  relative: false
 ---
 
 That fine, silken cloak draped over the naked emperor of power, carefully stitched with phrases like “you ought to”, “you must”, or the always-a-red-flag “we are required to”. One might almost think these words were woven by bureaucrats with a thesaurus in one hand and a sledgehammer in the other.
@@ -39,7 +44,7 @@ Ah yes, the classic: “You have power because you’re special, divine, or just
 
 #### 2. The Paradigm of Equality
 
-Fast forward to revolutions, republics, and La Liberté, Égalité, Fraternité. Here, legitimacy comes from the people—or rather, whichever slice of the population is deemed “the people” this week. Power is legitimate if it’s distributed among equals, like a communal cake (that is, until someone eats most of it and calls it trickle-down). Illegitimate power? That’s anything which dares to disturb this grand illusion of balance. If you question the system, you’re the problem—not the system itself.
+Fast-forward to revolutions, republics, and La Liberté, Égalité, Fraternité. Here, legitimacy comes from the people—or rather, whichever slice of the population is deemed “the people” this week. Power is legitimate if it’s distributed among equals, like a communal cake (that is, until someone eats most of it and calls it trickle-down). Illegitimate power? That’s anything which dares to disturb this grand illusion of balance. If you question the system, you’re the problem—not the system itself.
 
 #### 3. The Paradigm of Interdependence
 
@@ -52,8 +57,6 @@ Now we’re into postmodern territory, where everything is power, nothing is sta
 The trick of modern legitimacy is that it doesn’t always announce itself in robes and sceptres. Sometimes it wears a lab coat. Or a police badge. Or a university degree. Sometimes it sits behind a corporate firewall sending auto-generated emails that tell you what you must do to comply with policies you never agreed to. And sometimes it’s a softly spoken politician saying “It’s in everyone’s best interest” as the legislation slides quietly under the door.
 
 Legitimacy, in other words, is less about truth than performance. As long as enough people believe the actor deserves the stage, the show goes on.
-
-![](/images/polyp.png)
 
 ***
 

@@ -5,6 +5,11 @@ draft: false
 tags:
   - consent
   - GDPR
+cover:
+  image: "/images/larch.jpg"
+  alt: "No1. The Larch" 
+  caption: ""
+  relative: false 
 ---
 
 Sometimes, you’re trundling along through the digital forest, trying to navigate terms of service longer than Dostoevsky’s back catalogue, when suddenly… there’s a Larch.
@@ -66,5 +71,3 @@ So yes, sometimes in this mess, you’ll stumble across a Larch. A sudden act of
 But unless we start asking harder questions about the system—the ad-funded, attention-maximising, data-mining default setting of the internet—there’ll always be another Larch. And another lawsuit.
 
 And you’ll still be clicking “refuse all cookies” with the precision of a bomb defusal expert.
-
-![](/images/larch.jpg)

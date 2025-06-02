@@ -8,9 +8,11 @@ tags:
   - polite-dismantling
   - taxonomy-terrorism
   - rebellion
-params:
-   socialImage: "/images/papercuts.png"
-   featuredImage: "/images/papercuts.png"
+cover:
+  image: "/images/papercuts.png"
+  alt: "A mahogany office IN-tray overflowed with 'corrected' forms: hospital admissions with 'Sikh' written over 'Baptist', job applications with '50-Y/O DIGITAL ADAPTIVE EXPERT' stamped over 'native'. A monocle lies broken beside a steaming mug of chai" 
+  caption: "Scalpel rebellion"
+  relative: false 
 ---
 
 We humans adore a simple dichotomy. It’s frightfully efficient. White or non-white. Male or female. Disabled or abled. 
@@ -71,8 +73,6 @@ align with my promotion goals?"*
 ## Sharpening the scalpels: precision strikes
 
 or, How to dismantle the master’s house with his own paperclip.
-
-![A mahogany office IN-tray overflowed with 'corrected' forms: hospital admissions with 'Sikh' written over 'Baptist', job applications with '50-Y/O DIGITAL ADAPTIVE EXPERT' stamped over 'native'. A monocle lies broken beside a steaming mug of chai.](/images/papercuts.png#center)
 
 ### The healthcare double-bind  
 

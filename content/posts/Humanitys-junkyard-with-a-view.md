@@ -2,9 +2,15 @@
 title: 'Earth’s orbit: Humanity’s junkyard with a view'
 date: 2019-12-04T23:00:00.000Z
 draft: false
+tags:
+  - space
+  - junk
+cover:
+  image: "/images/spacejunk.png"
+  alt: "Space junk" 
+  caption: "Space, the final frontier, the great beyond, the…"
+  relative: false
 ---
-
-![](/images/spacejunk.png)
 
 Space—the final frontier, the great beyond, the… shockingly cluttered dumping ground for humanity’s discarded space toys. Forget the romantic image of a pristine cosmic void; what we’ve actually created is a high-altitude landfill, where decades of forgotten satellites, exploded rocket stages, and even rogue flecks of paint whiz around at speeds that could turn a pebble into a shotgun blast.
 

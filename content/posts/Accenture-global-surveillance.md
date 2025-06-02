@@ -7,6 +7,11 @@ tags:
   - accenture
   - palantir
   - privacy
+cover:
+  image: "/images/accenture.png"
+  alt: "A towering, neo-futuristic surveillance hub dominates a rain-soaked metropolis at night, its central AI core pulsating with eerie blue light. Hundreds of micro-drones swarm like gnats around the structure, each equipped with blinking red sensors, while faceless robotic enforcers patrol below" 
+  caption: "Behold: 'innovation' in action. Accenture's predictive policing systems—where the algorithm's idea of 'risk assessment' looks suspiciously like recycling old prejudices into shiny new code. The glitching screens aren't a bug—they're a feature of systems that see threats everywhere except in the mirror."
+  relative: false 
 ---
 
 Behind the rise of mass surveillance, predictive policing, and the steady erosion of privacy stands an unlikely 
@@ -16,12 +21,6 @@ Accenture, and the Movement Research Unit—exposes how this corporate giant has
 security states worldwide. Through confidential documents and insider testimony, the report reveals Accenture's 
 pivotal role in building the infrastructure of repression, from biometric databases tracking billions to algorithms 
 that criminalise marginalised communities before they've even had their morning coffee.
-
-![](/images/accenture.png#center)
-
-*Behold: "innovation" in action. Accenture's predictive policing systems—where the algorithm's idea of "risk 
-assessment" looks suspiciously like recycling old prejudices into shiny new code. The glitching screens aren't a 
-bug—they're a feature of systems that see threats everywhere except in the mirror.*
 
 The scale is staggering. In Britain alone, Accenture and Palantir secured a £500 million NHS contract (because what 
 universal healthcare really needed was a side of surveillance capitalism). In India, its work on Aadhaar created 

@@ -6,6 +6,11 @@ tags:
   - democracy
   - EU
   - Europe
+cover:
+  image: "/images/1.png"
+  alt: "The game is rigged" 
+  caption: "The game is rigged"
+  relative: false 
 ---
 
 European democracy, once sold to us as government for the people, increasingly resembles government for the shareholders. The slogans haven’t changed—"freedom", "fairness", "choice"—but behind the scenes, the boardroom has quietly replaced the ballot box as the place where real decisions are made.
@@ -16,7 +21,6 @@ This isn’t a conspiracy. It’s a business model.
 
 Welcome to Europe Inc., a four-part series on how neoliberalism turned the European project into a corporate shareholder meeting. From inequality to militarism, corporate capture to resistance, this isn’t just a critique — it’s a guided tour through the ruins and a map to the exits. Steeped in dry wit, and entirely unaffiliated with any hedge fund.
 
-![](/images/1.png#center)
 ***
 
 ### Political donations: legalised bribery, with better stationery
