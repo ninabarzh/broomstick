@@ -1,7 +1,7 @@
 ---
 title: 'United we stand (or at least, we should)'
 subtitle: "Navigating the chaos of difference with wit, wisdom, and a splash of dry humour"
-date: 2025-06-03T00:00:00.000Z
+date: 2025-06-10T00:00:00.000Z
 draft: false
 tags: 
   - unity

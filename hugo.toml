@@ -81,6 +81,12 @@ enableRobotsTXT = true
     weight = 20
 
   [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "about"
+    weight = 40
+
+  [[menu.main]]
     identifier = "search"
     name = "Search"
     url = "search"
