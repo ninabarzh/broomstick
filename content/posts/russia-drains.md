@@ -9,7 +9,8 @@ tags:
   - repression
 ---
 
-*Note: All personal names have been anonymised unless the individual has a verifiable public presence. I choose to run risks; I will not make that choice for others.*
+*Note: All personal names have been anonymised unless the individual has a verifiable public presence. I choose to 
+run risks; I will not make that choice for others.*
 
 He was 21 and already battling high blood pressure. His doctors confirmed it. His exemption papers were in order. But that didn't stop them from coming for him. One morning in spring 2025, he opened his door to find officers holding a digital summons. No discussion. No delay. He was on a bus to a training facility by nightfall. Within a week, he was at the Ukrainian border—terrified, untrained, and furious.
 
@@ -27,9 +28,16 @@ A 24-year-old man in Samara broke down in court after his appeal against conscri
 
 ### Physical escape — no longer simple
 
-In 2022, train stations in southern Russia teemed with men in their twenties, clutching overpriced tickets to Kazakhstan or Georgia. Social media was full of posts asking about border crossings and visa rules. “How much to get to Almaty?” “Can I still cross at Verkhny Lars?”
+In 2022, train stations in southern Russia teemed with men in their twenties, clutching overpriced tickets to 
+Kazakhstan or Georgia. Social media was full of posts asking about border crossings and visa rules. “How much to 
+get to Almaty?” “Can I still cross at Verkhny Lars?”
 
-By 2025, border closures and digital tracking have narrowed escape routes. Armenia and Georgia remain accessible—but barely. Border guards now demand digital clearance, and many find their internal passports marked with silent bans. A young man trying to flee via Sochi in early 2025 found his internal travel permissions revoked in real time. “It was like the wall closed behind me while I was still in the queue.”
+By 2025, border closures and digital tracking have narrowed escape routes. Armenia and Georgia remain accessible—
+but barely. Border guards now demand digital clearance, and many find their internal passports marked with silent bans. 
+A young man trying to flee via Sochi in early 2025 found his internal travel permissions revoked in real time. 
+“It was like the wall closed behind me while I was still in the queue.”
+
+![A young Russian man in a darkened train station, clutching a hastily packed bag, glancing anxiously at a digital conscription notice flashing on his phone screen. In the background, shadowy figures in military uniforms patrol, while a torn propaganda poster of Putin peels off the wall. The atmosphere is tense, cinematic, and dystopian, with a muted color palette of grays and blues, evoking fear and urgency](/images/russian-youth.png#center)
 
 ### Underground resistance — break a leg, save a life
 
@@ -92,5 +100,4 @@ One 25-year-old man from Moscow, sitting on a train bound for Armenia, said simp
 * Ukraine war: Russia toughens up draft law to round-up more people for the frontlines https://theconversation.com/ukraine-war-russia-toughens-up-draft-law-to-round-up-more-people-for-the-frontlines-233048
 * Silence Matters: Self-Censorship and War in Russia https://www.ponarseurasia.org/silence-matters-self-censorship-and-war-in-russia/
 * One year after partial mobilisation, Russians avoiding the draft speak out https://www.opendemocracy.net/en/odr/russia-mobilisation-draft-avoid-men-speak/
-* 
 
