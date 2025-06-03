@@ -36,8 +36,8 @@ A systems tinkerer, threat modeller, and critical educator with a habit of traci
 rather prune symptoms. More comfortable on the command line than on a podium, but willing to write the things that 
 ought to be said—especially when they’re inconvenient.
 
-For 20 years I have had ample time to research things (curiosity and the drive for grounding 
-always makes time), and hardly had time for writing. Now that I have returned home, I seem to be exploding in bottled 
+For 20 years I have had enough time to research things (curiosity and the drive for grounding 
+always makes time), but hardly had time for writing. Now that I have returned home, I seem to be exploding in bottled 
 up rants.
 
 All views are the author's own. Which is to say: fiercely independent, fact-grounded, and allergic to buzzwords 
