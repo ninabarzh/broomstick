@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Russia drains and some corrections">
-      <change afterPath="$PROJECT_DIR$/static/images/russian-youth.png" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Cleaning">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/russia-drains.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/russia-drains.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,22 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Fix: specify Hugo version for Netlify build">
-      <option name="closed" value="true" />
-      <created>1747325780075</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1747325780075</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Centring images and README.md">
-      <option name="closed" value="true" />
-      <created>1747327827144</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1747327827144</updated>
     </task>
     <task id="LOCAL-00014" summary="Base url">
       <option name="closed" value="true" />
@@ -470,12 +453,26 @@
       <option name="project" value="LOCAL" />
       <updated>1748939299193</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Russia drains">
+      <option name="closed" value="true" />
+      <created>1748948680510</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1748948680510</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Cleaning">
+      <option name="closed" value="true" />
+      <created>1748948738948</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1748948738948</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="search" />
-    <MESSAGE value="tags" />
     <MESSAGE value="socials" />
     <MESSAGE value="centering images" />
     <MESSAGE value="Viva la revolucion!" />
@@ -499,6 +496,8 @@
     <MESSAGE value="Images and madleen.md" />
     <MESSAGE value="Added about.md" />
     <MESSAGE value="Russia drains and some corrections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Russia drains and some corrections" />
+    <MESSAGE value="Russia drains" />
+    <MESSAGE value="Cleaning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaning" />
   </component>
 </project>
