@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Images and madleen.md">
-      <change afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner-broomstick.png" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Added about.md">
+      <change afterPath="$PROJECT_DIR$/content/posts/russia-drains.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/posts/fungolia.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/fungolia.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/madleen.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/madleen.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,14 +78,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Rebuild site with Hugo+PaperMod+TinaCMS">
-      <option name="closed" value="true" />
-      <created>1747291507369</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1747291507369</updated>
     </task>
     <task id="LOCAL-00011" summary="Rebuild site with Hugo+PaperMod">
       <option name="closed" value="true" />
@@ -472,11 +463,18 @@
       <option name="project" value="LOCAL" />
       <updated>1748893825772</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Added about.md">
+      <option name="closed" value="true" />
+      <created>1748937268245</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1748937268246</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="images and search" />
     <MESSAGE value="revert" />
     <MESSAGE value="search" />
     <MESSAGE value="tags" />
@@ -501,6 +499,7 @@
     <MESSAGE value="Papercuts rebellion" />
     <MESSAGE value="Images and css changes" />
     <MESSAGE value="Images and madleen.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Images and madleen.md" />
+    <MESSAGE value="Added about.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added about.md" />
   </component>
 </project>

@@ -8,9 +8,9 @@ tags:
   - Madleen
   - Palestine
   - flotilla
-  - international=law
+  - international-law
   - civil-resistance
-  - humanitarian=crisis
+  - humanitarian-crisis
 cover:
   image: "/images/madleen.png"
   alt: "The Madleen" 
