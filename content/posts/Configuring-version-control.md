@@ -4,7 +4,7 @@ date: 2021-11-10T23:00:00.000Z
 draft: false
 tags:
   - version control
-  - Security
+  - security
   - ssh
   - gitconfig
 ---

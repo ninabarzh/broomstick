@@ -9,9 +9,10 @@ tags:
   - Palestine
   - apartheid
   - theocracy
-  - international-law
+  - international law
   - slowmotioncarcrash
   - butwaittheresmorechaos
+  - human rights violations
 ---
 
 ## Meet the key players

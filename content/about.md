@@ -2,7 +2,7 @@
 title: "About the Broomstick"
 date: 2025-06-02
 draft: false
-tags: ["About", "Broomstick", "Geopolitics", "Critique"]
+tags: ["about", "broomstick", "geopolitics", "critique"]
 categories: ["Meta"]
 image: "/images/banner-broomstick.png"
 ShowToc: false

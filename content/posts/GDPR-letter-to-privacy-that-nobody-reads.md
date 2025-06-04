@@ -5,6 +5,7 @@ draft: false
 tags:
   - privacy
   - GDPR
+  - surveillance
 ---
 
 The GDPR—Europe’s magnum opus of regulatory overreach, drafted by people who clearly believe consent forms are the pinnacle of human interaction. Born from the ashes of the 1995 Data Protection Directive (which, admittedly, was about as fit for the digital age as a fax machine), this sweeping reform was supposed to "strengthen privacy rights" and "boost Europe’s digital economy." Instead, it gifted us with pop-up hell, corporate panic attacks, and a cottage industry of "GDPR consultants" who’ve never met a compliance checkbox they didn’t adore.

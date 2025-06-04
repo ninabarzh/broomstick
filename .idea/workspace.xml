@@ -4,9 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="about.md updated">
-      <change afterPath="$PROJECT_DIR$/content/posts/israels-trinity.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Israel's trinity added">
+      <change afterPath="$PROJECT_DIR$/content/posts/plasticity.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/plasticity.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/Configuring-version-control.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Configuring-version-control.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/Defendable-Internet.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Defendable-Internet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/Europes-shameful-silence.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Europes-shameful-silence.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/GDPR-letter-to-privacy-that-nobody-reads.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/GDPR-letter-to-privacy-that-nobody-reads.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/How-your-clicks-go-on-holiday-without-you.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/How-your-clicks-go-on-holiday-without-you.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/III-The-real-motives-behind-Europes-war-economy-push.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/III-The-real-motives-behind-Europes-war-economy-push.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/Informed-consent-UN-style.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Informed-consent-UN-style.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/animal-whispers.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/animal-whispers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/delusion-peaceful-modern-europe.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/delusion-peaceful-modern-europe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/israels-trinity.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/israels-trinity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/left-right.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/left-right.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/madleen.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/madleen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/tidy-boxes.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/tidy-boxes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/warfare-arms-trade-booth.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/warfare-arms-trade-booth.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/nina/Development/github/finder-green-crawlers",
+    "last_opened_file_path": "/home/nina/Development/github/broomstick",
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
@@ -76,14 +91,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00016" summary="logo and favicon">
-      <option name="closed" value="true" />
-      <created>1747335391471</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1747335391471</updated>
     </task>
     <task id="LOCAL-00017" summary="images and search">
       <option name="closed" value="true" />
@@ -469,11 +476,18 @@
       <option name="project" value="LOCAL" />
       <updated>1748951682693</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Israel's trinity added">
+      <option name="closed" value="true" />
+      <created>1748981088988</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1748981088988</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="centering images" />
     <MESSAGE value="Viva la revolucion!" />
     <MESSAGE value="Images swap and clean" />
     <MESSAGE value="Spelling" />
@@ -498,6 +512,7 @@
     <MESSAGE value="Russia drains" />
     <MESSAGE value="Cleaning" />
     <MESSAGE value="about.md updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="about.md updated" />
+    <MESSAGE value="Israel's trinity added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Israel's trinity added" />
   </component>
 </project>

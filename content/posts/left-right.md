@@ -4,10 +4,10 @@ subtitle: "Why political labels are about as useful as a chocolate teapot"
 date: 2025-06-01T00:00:00.000Z
 draft: false
 tags: 
-  - political-fiction 
-  - seating-arrangement-theory
-  - corporate-puppetry
-  - hopeless-optimism
+  - political fiction 
+  - seating arrangement theory
+  - corporate puppetry
+  - hopeless optimism
   - Europe
 ---
 

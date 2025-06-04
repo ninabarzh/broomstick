@@ -4,7 +4,8 @@ date: 2025-05-11T22:00:00.000Z
 draft: false
 tags:
   - democracy
-  - war
+  - war economy
+  - war profiteering
   - EU
   - Europe
 ---

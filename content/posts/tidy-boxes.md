@@ -5,8 +5,8 @@ date: 2025-06-01T00:00:00.000Z
 draft: false
 tags: 
   - intersectionality 
-  - polite-dismantling
-  - taxonomy-terrorism
+  - polite dismantling
+  - taxonomy terrorism
   - rebellion
 cover:
   image: "/images/papercuts.png"

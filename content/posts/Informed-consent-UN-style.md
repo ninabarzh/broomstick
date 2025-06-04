@@ -5,6 +5,7 @@ draft: false
 tags:
   - Rohingya
   - consent
+  - human rights violations
 ---
 
 Let’s talk about the time the United Nations—guardian of international human rights, global peacekeeper, moral compass for the post-war world—shared biometric data of Rohingya refugees with the government they were fleeing from. Yes, you read that right.

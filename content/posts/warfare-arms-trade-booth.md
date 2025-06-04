@@ -3,14 +3,14 @@ title: 'Battle-tested and market-ready: how the arms trade profits from war zone
 date: 2025-06-02T04:00:00.000Z
 draft: false
 tags:
-  - Arms trade
+  - arms-trade
   - Gaza
-  - Weapons testing
-  - Military-industrial complex
-  - War profiteering
-  - Human rights violations
-  - Corporate complicity
-  - War economy
+  - weapons testing
+  - military industrial complex
+  - war-profiteering
+  - human rights violations
+  - corporate complicity
+  - war-economy
 ---
 
 In September 2023, the Israeli Ministry of Defence released a promotional video for its Iron Sting precision mortar 

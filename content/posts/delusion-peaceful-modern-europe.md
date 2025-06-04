@@ -4,6 +4,7 @@ date: 2025-05-27T10:00:00.000Z
 draft: false
 tags:
   - warfare
+  - war economy
   - europe
   - war
   - scenarios

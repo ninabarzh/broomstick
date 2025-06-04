@@ -4,8 +4,9 @@ date: 2025-05-09T22:00:00.000Z
 draft: false
 tags:
   - bias
-  - gaza
+  - Gaza
   - EU
+  - human rights violations
 ---
 
 As Israel’s slaughter in Gaza grinds on—now in its twentieth month, with over 45,000 dead, most of them women and children, and nearly every hospital, school, and home reduced to rubble—one might expect Europe, that self-proclaimed bastion of human rights, to muster more than a few limp statements of concern.

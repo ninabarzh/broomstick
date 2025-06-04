@@ -3,7 +3,7 @@ title: 'Data flow: Or, how your clicks go on holiday without you'
 date: 2019-11-01T23:00:00.000Z
 draft: false
 tags:
-  - Surveillance
+  - surveillance
   - Serbia
 ---
 

@@ -8,7 +8,7 @@ tags:
   - AI
   - evolution
   - transcendence
-  - post-Darwinian
+  - post Darwinian
 ---
 
 Humanity has always stared into the void and asked, “Why are we here?”—usually followed by, “And who’s responsible 

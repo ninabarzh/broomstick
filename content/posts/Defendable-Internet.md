@@ -3,7 +3,8 @@ title: Defendable Internet?
 date: 2023-02-01T23:00:00.000Z
 draft: false
 tags:
-  - Security
+  - security
+  - digital security
   - Internet
 ---
 
