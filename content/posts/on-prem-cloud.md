@@ -119,6 +119,6 @@ As Varoufakis warns, *“cloud capital is the new oil—and Europe is still the 
 1. **Audit your workloads**: Identify lock-in, technical debt, and cost traps.
 2. **Pilot a European provider**: Test Hetzner’s ARM64 nodes or try on-prem with OpenStack. [I did](https://blue.tymyrddin.dev/docs/dev/devsecops/on-prem/), and I still have root access.
 3. **Go hybrid with intent**: Keep hyperscale where needed, but don’t let it become your default.
-4. [Make a checklist like this one](https://blue.tymyrddin.dev/docs/dev/devsecops/on-prem/exit-checklist)
+4. [Make a checklist like this one](https://blue.tymyrddin.dev/docs/dev/devsecops/on-prem/exit-checklist).
 
 The cloud isn’t just infrastructure—it’s a power structure. Choose yours with both eyes open.
