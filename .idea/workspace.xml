@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="on-prem-cloud.md adapted">
+      <change afterPath="$PROJECT_DIR$/content/posts/vaping.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/on-prem-cloud.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/on-prem-cloud.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/animal-whispers.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/animal-whispers.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00020" summary="search">
-      <option name="closed" value="true" />
-      <created>1747347766821</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1747347766821</updated>
     </task>
     <task id="LOCAL-00021" summary="search">
       <option name="closed" value="true" />
@@ -469,7 +462,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749106271866</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="on-prem-cloud.md adapted">
+      <option name="closed" value="true" />
+      <created>1749107653892</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1749107653892</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
