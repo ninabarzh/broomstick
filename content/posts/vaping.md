@@ -76,24 +76,11 @@ Vaping deserves scrutiny. But if we truly cared about youth welfare, we'd addres
 
 * https://www.gov.uk/government/news/e-cigarettes-around-95-less-harmful-than-tobacco-estimates-landmark-review – Public Health England headline stating e‑cigarettes are about 95% less harmful than tobacco.
 * https://assets.publishing.service.gov.uk/media/5b6c3f57ed915d30f140f822/Ecigarettes_an_evidence_update_A_report_commissioned_by_Public_Health_England_FINAL.pdf – PHE evidence review concluding e‑cigarettes are 95% less harmful.
-* https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/456704/McNeill-Hajek_report_authors_note_on_evidence_for_95_estimate.pdf – Author’s note backing the "95% safer" claim, citing levels of harmful constituents mostly below 5%, often under 1% 
 * https://www.thelancet.com/journals/lanres/article/PIIS2213-2600%2815%2900338-0/fulltext – Lancet summary of independent PHE report reinforcing the conclusion.
 * https://www.kcl.ac.uk/news/vaping-substantially-less-harmful-than-smoking-largest-review-of-its-kind-finds – King’s College London study showing substantially lower exposure to cancer-causing toxicants.
 * https://www.eureporter.co/health/2024/12/12/vaping-a-blessing-or-a-curse/ – EU Reporter article stating cancer risk from e‑cigarettes is less than 1% that of smoking.
-* https://www.gov.uk/government/news/e-cigarettes-around-95-less-harmful-than-tobacco-estimates-landmark-review "E-cigarettes around 95% less harmful than tobacco estimates landmark ..."
 * https://www.gov.uk/government/news/phe-publishes-independent-expert-e-cigarettes-evidence-review "PHE publishes independent expert e-cigarettes evidence review"
-* https://assets.publishing.service.gov.uk/media/5b6c3f57ed915d30f140f822/Ecigarettes_an_evidence_update_A_report_commissioned_by_Public_Health_England_FINAL.pdf "E-cigarettes: an evidence update - GOV.UK"
-* https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/456704/McNeill-Hajek_report_authors_note_on_evidence_for_95_estimate.pdf "Underpinning evidence for the estimate that e-cigarette use is around ..."
-* https://www.thelancet.com/journals/lanres/article/PIIS2213-2600%2815%2900338-0/fulltext "E-cigarettes declared 95% less harmful than tobacco by UK health body ..."
-* https://www.kcl.ac.uk/news/vaping-substantially-less-harmful-than-smoking-largest-review-of-its-kind-finds "Vaping substantially less harmful than smoking, largest review of its ..."
-* https://www.eureporter.co/health/2024/12/12/vaping-a-blessing-or-a-curse/ "Vaping: A blessing or a curse? - EU Reporter"
 * https://www.who.int/europe/news-room/fact-sheets/item/tobacco – WHO Europe – Status of tobacco use in the region
 * https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tobacco_consumption_statistics – Eurostat – Tobacco consumption statistics
-* https://www.who.int/europe/publications/monitoring-tobacco-use-and-prevention-policies-2022 – WHO Europe – Monitoring tobacco use & prevention policies
 * https://www.europarl.europa.eu/doceo/document/A-9-2022-0162_EN.html – European Parliament – Report on e-cigarettes and harm reduction (2022)
-* https://www.who.int/news-room/questions-and-answers/item/e-cigarettes-how-risky-are-they – WHO Q\&A – E-cigarettes: how risky are they?
 * https://www.gov.uk/government/publications/youth-vaping-in-england-evidence-review-march-2023 – UK Government – Youth vaping evidence update (2023)
-* https://www.rcpsych.ac.uk/news-and-features/latest-news/detail/2022/10/24/vaping-and-young-people – Royal College of Psychiatrists – Vaping and young people
-* https://ec.europa.eu/health/system/files/2021-12/tobacco-products-directive-overview_en_0.pdf – EU Tobacco Products Directive – overview (2021)
-* https://europa.eu/eurobarometer/surveys/detail/2995 – Eurobarometer – Attitudes of Europeans towards tobacco & related products
-* https://www.visualcapitalist.com/mapped-europes-tobacco-use-by-country/ – Visual Capitalist – Mapped: Europe’s tobacco use by country (2024)

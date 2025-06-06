@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="on-prem-cloud.md adapted">
-      <change afterPath="$PROJECT_DIR$/content/posts/vaping.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="nimal whispers postponed, vaping added.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/animal-whispers.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/animal-whispers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/vaping.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/vaping.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00021" summary="search">
-      <option name="closed" value="true" />
-      <created>1747348677055</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1747348677055</updated>
     </task>
     <task id="LOCAL-00022" summary="search">
       <option name="closed" value="true" />
@@ -470,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749107653892</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="nimal whispers postponed, vaping added.">
+      <option name="closed" value="true" />
+      <created>1749223256847</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1749223256847</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Security headers" />
     <MESSAGE value="Amber" />
     <MESSAGE value="Accenture" />
     <MESSAGE value="Compliance department" />
@@ -499,6 +497,7 @@
     <MESSAGE value="Plasticity and tag corrections" />
     <MESSAGE value="on-prem-cloud.md added" />
     <MESSAGE value="on-prem-cloud.md adapted" />
-    <option name="LAST_COMMIT_MESSAGE" value="on-prem-cloud.md adapted" />
+    <MESSAGE value="nimal whispers postponed, vaping added." />
+    <option name="LAST_COMMIT_MESSAGE" value="nimal whispers postponed, vaping added." />
   </component>
 </project>
