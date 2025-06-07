@@ -44,7 +44,7 @@ Europe mobilises against youth vaping with the urgency of a fire brigade at a ma
 
 Child poverty persists across Southern and Eastern Europe. Junk food companies target kids with cartoon mascots and stadium sponsorships. TikTok serves up mental health crises faster than regulators can say "algorithmic manipulation." And housing? Many young Europeans will need either a lottery win or patrimony to ever own a home.  
 
-But sure - let's focus on £5 vapes. That'll solve everything.  
+But sure - let's focus on €5 vapes. That'll solve everything.  
 
 ## A guide for the perplexed European vaper  
 
