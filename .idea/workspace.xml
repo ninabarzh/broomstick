@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="BadBox">
-      <change afterPath="$PROJECT_DIR$/content/posts/madleen-seizure.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Madleen seized">
+      <change afterPath="$PROJECT_DIR$/content/posts/god-given.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/on-prem-cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/questions.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/plasticity.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/plasticity.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +57,11 @@
       <recent name="$PROJECT_DIR$/layouts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
       <recent name="$PROJECT_DIR$/content/posts" />
       <recent name="$PROJECT_DIR$/assets/css/extended" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/themes" />
-      <recent name="$PROJECT_DIR$/static" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -76,14 +79,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00026" summary="tags">
-      <option name="closed" value="true" />
-      <created>1747403315820</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1747403315820</updated>
     </task>
     <task id="LOCAL-00027" summary="tags">
       <option name="closed" value="true" />
@@ -469,11 +464,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749410453746</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Madleen seized">
+      <option name="closed" value="true" />
+      <created>1749472972637</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1749472972637</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Diagrams of effect for a love affair" />
     <MESSAGE value="Added article" />
     <MESSAGE value="economic warfare images" />
     <MESSAGE value="Inductive scenario" />
@@ -498,6 +500,7 @@
     <MESSAGE value="Corrected links" />
     <MESSAGE value="monetary sign" />
     <MESSAGE value="BadBox" />
-    <option name="LAST_COMMIT_MESSAGE" value="BadBox" />
+    <MESSAGE value="Madleen seized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Madleen seized" />
   </component>
 </project>
