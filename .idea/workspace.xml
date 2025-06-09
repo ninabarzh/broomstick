@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="monetary sign">
-      <change afterPath="$PROJECT_DIR$/content/posts/badbox.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="BadBox">
+      <change afterPath="$PROJECT_DIR$/content/posts/madleen-seizure.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00025" summary="search">
-      <option name="closed" value="true" />
-      <created>1747402785672</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1747402785672</updated>
     </task>
     <task id="LOCAL-00026" summary="tags">
       <option name="closed" value="true" />
@@ -469,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749278880034</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="BadBox">
+      <option name="closed" value="true" />
+      <created>1749410453746</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1749410453746</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Compliance department" />
     <MESSAGE value="Diagrams of effect for a love affair" />
     <MESSAGE value="Added article" />
     <MESSAGE value="economic warfare images" />
@@ -498,6 +497,7 @@
     <MESSAGE value="nimal whispers postponed, vaping added." />
     <MESSAGE value="Corrected links" />
     <MESSAGE value="monetary sign" />
-    <option name="LAST_COMMIT_MESSAGE" value="monetary sign" />
+    <MESSAGE value="BadBox" />
+    <option name="LAST_COMMIT_MESSAGE" value="BadBox" />
   </component>
 </project>
