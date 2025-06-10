@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Madleen seized">
-      <change afterPath="$PROJECT_DIR$/content/posts/god-given.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/on-prem-cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/questions.png" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Cleaned">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/plasticity.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/plasticity.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/Viva-la-revolucion.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Viva-la-revolucion.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/nina/Development/github/blue",
+    "last_opened_file_path": "/home/nina/Development/github/broomstick",
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
@@ -79,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00027" summary="tags">
-      <option name="closed" value="true" />
-      <created>1747404668612</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1747404668612</updated>
     </task>
     <task id="LOCAL-00028" summary="socials">
       <option name="closed" value="true" />
@@ -472,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749472972637</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Cleaned">
+      <option name="closed" value="true" />
+      <created>1749479997095</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1749479997095</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added article" />
     <MESSAGE value="economic warfare images" />
     <MESSAGE value="Inductive scenario" />
     <MESSAGE value="Inductive scenarios" />
@@ -501,6 +497,7 @@
     <MESSAGE value="monetary sign" />
     <MESSAGE value="BadBox" />
     <MESSAGE value="Madleen seized" />
-    <option name="LAST_COMMIT_MESSAGE" value="Madleen seized" />
+    <MESSAGE value="Cleaned" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned" />
   </component>
 </project>

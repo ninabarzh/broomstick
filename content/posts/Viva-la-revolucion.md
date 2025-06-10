@@ -8,16 +8,19 @@ tags:
   - revolution
 ---
 
-How I lost my mind (and won an AI war) for a depressed octopus office worker: a tale of shrimp, sharks, and prompt-engineering madness.
+How I lost my mind (and won an AI war) for a depressed octopus office worker: a tale of shrimp, sharks, and 
+prompt-engineering madness.
 
 ***
 
 ### Chapter 1: The vision
 
-I had heard about these AI image creators and decided to try it. And then it began, as all terrible ideas do, with a 
-whisper: "What if under water, but capitalism?" Armed with nothing but a keyboard and a dream of a silly image, I set 
-out to create the ultimate underwater dystopian office scene—a place where octopuses ring up kelp groceries, clownfish 
-drown in paperwork, and shrimp riot against the 1% (plankton).
+To understand what fake imagery can look like, one has to do it. So I investigated these AI image creators. And browsing
+around it began, as all terrible ideas do, with a whisper: "What if under water, but capitalism?" 
+
+Armed with nothing but a keyboard and a dream of a silly image, I set out to create the ultimate underwater dystopian 
+office scene—a place where octopuses ring up kelp groceries, clownfish drown in paperwork, and shrimp riot against the 
+1% (plankton).
 
 After more thought, the final prompt for the text-to-image:
 
@@ -29,7 +32,7 @@ homeless hermit crab pushes a broken shopping cart filled with junk. Nearby, a g
 legible signs that say ‘EAT THE R!CH’ and ‘NO MORE TIDES.’ Cinematic lighting, hyper-detailed textures, National 
 Geographic realism with absurd humor, 8k.*
 
-Little did I know, the AI was already laughing at me.
+Little did I know, AI was already laughing at me.
 
 ***
 
@@ -37,7 +40,7 @@ Little did I know, the AI was already laughing at me.
 
 The first attempts were disasters.
 
-* Bing/DALL-E 3 rendered the shark boss as a smiling realtor (absolutely unacceptable).
+* Bing rendered the shark boss as a smiling realtor (absolutely unacceptable).
 * Leonardo.Ai gave the octopus six tentacles and a PhD in existential despair (close, but no cigar).
 * NightCafe conjured a mystical abandoned cart—none of the demanded creatures, yet strangely compelling. 
 
@@ -66,7 +69,7 @@ Still, the octopus, if it was generated, refused to look tired enough.
 
 ### Chapter 4: The breakthrough
 
-Then—ChatGPT/DALL-E 3 answered the call.
+Then—DALL-E 3 answered the call.
 
 Suddenly, there it was. I had won.
 
@@ -76,7 +79,7 @@ Suddenly, there it was. I had won.
 
 ![](/images/underwater-market.png#center)
 
-Or had the AI just pitied me?
+Or had the AI just pitied me? By the way, it is clearly a fake, isn't it?
 
 ### Chapter 5: The aftermath
 
