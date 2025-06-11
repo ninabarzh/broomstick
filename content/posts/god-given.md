@@ -11,11 +11,6 @@ tags:
   - nationalism
   - land grab
   - legitimisation
-cover:
-  image: "/images/questions.png"
-  alt: "Questions" 
-  caption: ""
-  relative: false 
 ---
 
 The idea that land is a "God-given" right has been the ultimate trump card for rulers, conquerors, and elites for 
