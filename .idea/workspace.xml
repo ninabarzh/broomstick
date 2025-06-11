@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="De Onvoltooide Rechtsstaat">
-      <change beforePath="$PROJECT_DIR$/content/posts/buruma.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/buruma.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/thehague.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00030" summary="centering images">
-      <option name="closed" value="true" />
-      <created>1747414455776</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1747414455776</updated>
     </task>
     <task id="LOCAL-00031" summary="Viva la revolucion!">
       <option name="closed" value="true" />
@@ -468,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749668440882</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="De Onvoltooide Rechtsstaat">
+      <option name="closed" value="true" />
+      <created>1749668490830</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1749668490830</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
