@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Cleaned">
-      <change afterPath="$PROJECT_DIR$/content/posts/buruma.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/god-given.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/god-given.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="De Onvoltooide Rechtsstaat">
+      <change beforePath="$PROJECT_DIR$/content/posts/buruma.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/buruma.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,14 +75,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00029" summary="centering images">
-      <option name="closed" value="true" />
-      <created>1747406736625</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1747406736625</updated>
     </task>
     <task id="LOCAL-00030" summary="centering images">
       <option name="closed" value="true" />
@@ -470,11 +460,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749545205783</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="De Onvoltooide Rechtsstaat">
+      <option name="closed" value="true" />
+      <created>1749668440882</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1749668440882</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="economic warfare images" />
     <MESSAGE value="Inductive scenario" />
     <MESSAGE value="Inductive scenarios" />
     <MESSAGE value="Dates" />
@@ -499,6 +496,7 @@
     <MESSAGE value="BadBox" />
     <MESSAGE value="Madleen seized" />
     <MESSAGE value="Cleaned" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleaned" />
+    <MESSAGE value="De Onvoltooide Rechtsstaat" />
+    <option name="LAST_COMMIT_MESSAGE" value="De Onvoltooide Rechtsstaat" />
   </component>
 </project>

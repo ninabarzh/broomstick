@@ -6,15 +6,15 @@ draft: false
 tags:
   - rule of law
   - Dutch politics
-  - Legal history
+  - legal history
   - populism
   - judicial independence
-  - Human rights violation
+  - human rights violation
   - constitutional law
   - Ybo Buruma
   - Geert Wilders
   - Netherlands
-  - Authoritarianism
+  - authoritarianism
   - civil liberties
 cover:
   image: "/images/thehague.png"
