@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="De Onvoltooide Rechtsstaat">
-      <change afterPath="$PROJECT_DIR$/static/images/thehague.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/israel-iran-attack.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Viva la revolucion!">
-      <option name="closed" value="true" />
-      <created>1747465739832</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1747465739832</updated>
     </task>
     <task id="LOCAL-00032" summary="Viva la revolucion!">
       <option name="closed" value="true" />
@@ -469,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749668490830</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="De Onvoltooide Rechtsstaat">
+      <option name="closed" value="true" />
+      <created>1749669422068</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1749669422068</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
