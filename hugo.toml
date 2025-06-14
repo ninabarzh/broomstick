@@ -20,6 +20,7 @@ enableRobotsTXT = true
   ShowPostNavLinks = true
   ShowToc = true
   ShowShareButtons = true
+  ShowPostAuthors = true  # Displays author names under post titles
   TocOpen = true
   defaultTheme = "dark"
   logoWidth = "40"
