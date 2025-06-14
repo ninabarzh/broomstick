@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="De Onvoltooide Rechtsstaat">
-      <change afterPath="$PROJECT_DIR$/content/posts/israel-iran-attack.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Israel Iran attack">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/israel-iran-attack.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/israel-iran-attack.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Viva la revolucion!">
-      <option name="closed" value="true" />
-      <created>1747466160194</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1747466160194</updated>
     </task>
     <task id="LOCAL-00033" summary="Viva la revolucion!">
       <option name="closed" value="true" />
@@ -469,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749669422068</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Israel Iran attack">
+      <option name="closed" value="true" />
+      <created>1749847589650</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1749847589650</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Inductive scenario" />
     <MESSAGE value="Inductive scenarios" />
     <MESSAGE value="Dates" />
     <MESSAGE value="Arms trade and Gaza" />
@@ -498,6 +497,7 @@
     <MESSAGE value="Madleen seized" />
     <MESSAGE value="Cleaned" />
     <MESSAGE value="De Onvoltooide Rechtsstaat" />
-    <option name="LAST_COMMIT_MESSAGE" value="De Onvoltooide Rechtsstaat" />
+    <MESSAGE value="Israel Iran attack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Israel Iran attack" />
   </component>
 </project>
