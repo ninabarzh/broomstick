@@ -12,6 +12,7 @@ tags:
   - global security
   - geopolitics
   - warfare
+authors: ["john-doe", "jane-smith"]
 ---
 
 Why did Israel really attack Iran? Analysis with wit and additional perspectives by PR included. 
