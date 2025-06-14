@@ -1,7 +1,7 @@
 ---
 title: "The calculated chaos behind Israel's strike on Iran"
 subtitle: "From nuclear paranoia to political survival"
-date: 2025-06-13T12:00:00.000Z
+date: 2025-06-13T23:00:00.000Z
 draft: false
 tags: 
   - Israel 
@@ -92,7 +92,7 @@ But a full nuclear conflagration? Highly unlikely. Iran was close to the bomb, b
 
 And let’s not ignore Israel’s own trajectory – increasingly authoritarian, internally divided, and morally compromised. If Iran’s reckoning is nigh, Israel’s own day of judgement may follow sooner than its leaders imagine.
 
-## Conclusion: A high-stakes gamble with no winners
+## A high-stakes gamble with no winners
 
 Israel’s attack combines genuine security concerns with strategic opportunism and political theatre – the Middle Eastern equivalent of juggling chainsaws while riding a unicycle. Whether it delays Iran’s nuclear ambitions or accelerates them remains to be seen, but one thing is certain: the region just became even more volatile, proving that when it comes to Middle Eastern geopolitics, things can always get worse.
 
@@ -104,6 +104,9 @@ For now, the world watches with the nervous anticipation of spectators at a fire
 
 ## Resources  
 
+- Is Iran as close to building a nuclear weapon as Netanyahu claims? https://www.theguardian.com/world/2025/jun/13/is-iran-as-close-to-building-a-nuclear-weapon-as-netanyahu-claims
+- Iran carried out implosion tests for nuclear weapons development, IAEA reports https://www.jpost.com/middle-east/iran-news/article-857003
+- Pentagon pizza monitor predicted ‘busy night’ ahead of Israel’s attack on Iran https://www.theguardian.com/world/2025/jun/13/pentagon-pizza-delivery-israel-iran-attack
 - Why Israel bombed Iran’s nuclear sites https://m.economictimes.com/news/new-updates/iran-israel-war-why-israel-bombed-irans-nuclear-sites-and-what-it-means-for-global-security-oil-and-trade/articleshow/121817049.cms
 - How the world is reacting to Israel’s attacks on Iran https://www.aljazeera.com/news/2025/6/13/how-the-world-is-reacting-to-israel-attacks-on-iran-nuclear-military-sites
 - Israel’s air might and Iran’s nuclear bunkers https://www.theguardian.com/world/2025/jun/13/israels-air-might-and-irans-nuclear-bunkers-may-make-for-lengthy-conflict  
