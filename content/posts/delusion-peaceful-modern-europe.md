@@ -8,6 +8,7 @@ tags:
   - europe
   - war
   - scenarios
+  - butwaittheresmorechaos
 ---
 
 The received wisdom—trotted out at Davos panels, EU Commission summits, and in the more sentimental columns of the *Financial Times*—is that Europe, having learned its lessons from two world wars, has spent the past eight decades basking in a glow of enlightened tranquillity. No more trenches, no more blitzes. Just a polite consensus of democratic cooperation, cross-border trade, and the occasional fracas over mackerel quotas.

@@ -9,6 +9,7 @@ tags:
   - corporate puppetry
   - hopeless optimism
   - Europe
+  - butwaittheresmorechaos
 ---
 
 **Content Warning**: May cause acute frustration in readers who (a) remember when politics had more than two settings, or (b) still believe electoral systems are designed to represent people.
