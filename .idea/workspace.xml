@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Tags">
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Auteurs">
+      <change afterPath="$PROJECT_DIR$/content/posts/effects-of-budget-cuts.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/israel-iran-attack.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/israel-iran-attack.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Viva la revolucion!">
-      <option name="closed" value="true" />
-      <created>1747469119555</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1747469119555</updated>
     </task>
     <task id="LOCAL-00038" summary="Images swap and clean">
       <option name="closed" value="true" />
@@ -470,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749890888351</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Auteurs">
+      <option name="closed" value="true" />
+      <created>1749894098130</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1749894098130</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Arms trade and Gaza" />
     <MESSAGE value="scenarios tag" />
     <MESSAGE value="Political spectrum" />
     <MESSAGE value="Papercuts rebellion" />
@@ -499,6 +497,7 @@
     <MESSAGE value="Israel Iran attack" />
     <MESSAGE value="PR's perspectives added" />
     <MESSAGE value="Tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tags" />
+    <MESSAGE value="Auteurs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Auteurs" />
   </component>
 </project>
