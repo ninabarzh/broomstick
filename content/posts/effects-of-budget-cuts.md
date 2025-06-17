@@ -19,15 +19,11 @@ Think of it as a guide to burning down your house to save on heating. Only the h
 
 ## Development aid cuts: the generosity recession
 
-### Cost cuts & immediate effects
-
 Several European states—**Germany, France, the Netherlands, Finland, and the UK**—have recently rediscovered their inner Scrooge. Official Development Assistance (ODA) is down by between **8% and 37%**, with Germany lopping off a casual **€1.8 billion**, and France, not to be outdone, slicing **\$2.2 billion** from its flagship aid line.
 
 Naturally, the **Least Developed Countries (LDCs)** are now left holding the begging bowl. In places like Cameroon and Colombia—where clinics and classrooms rely heavily on EU and USAID funds—this means scaled-back services and increasingly fragile state institutions.
 
 Meanwhile, both the Netherlands and France have opted to replace old-fashioned “grants” (also known as *help*) with snazzy “investment-linked loans” (also known as *debt*). Not great news for nations already struggling to keep the lights on.
-
-### Future costs
 
 Cutting development aid doesn’t just tighten belts in the Global South—it severs lifelines. With less international support, fragile states struggle to maintain basic infrastructure, like healthcare, clean water and education. This directly fuels poverty, displacement, and unrest.
 
@@ -41,13 +37,9 @@ Then there’s the diplomatic fallout. Europe’s reputation as a principled glo
 
 ## Climate finance reductions: penny wise, planetary foolish
 
-### Cost cuts & immediate effects
-
 The **UK recently redirected £1 billion** from its climate budget to fund military aid to Ukraine—presumably because you can’t bomb a drought. **Norway paused climate finance altogether**, which is quite the choice for a nation getting rich off oil.
 
 Meanwhile, in a classic bit of accounting sleight of hand, many countries are **rebranding existing development aid as “climate finance”**, allowing them to hit targets on paper while doing sweet FA on the ground. Of the **\$27 billion claimed in 2022**, a good chunk was old money with a shiny new label.
-
-### Future costs
 
 The most immediate consequence of reduced climate finance is the abandonment of projects that directly shield communities from rising seas, desertification and increasingly unhinged weather patterns. In nations like Bangladesh and Zambia, this translates into real lives lost—flooded homes, failed crops, and mass displacement.
 
@@ -61,13 +53,9 @@ Domestically, climate innovation suffers too. Cuts to Horizon Europe and EU4Heal
 
 ## Defence splurges: security by subtraction
 
-### Cost cuts & immediate effects
-
 The **UK’s aid budget dropped to 0.3% of GNI**, while defence spending soared to 2.5%. Switzerland diverted **CHF 321 million** from aid to armed forces, presumably to defend itself against… cows?
 
 Even as Europe retools for war, its **diplomatic services are starved of funds**. A **€40 million annual shortfall** means fewer peacemakers, more fire-brigading.
-
-### Future costs
 
 In theory, beefing up defence should make a region more secure. In practice, however, slashing diplomacy and aid to fund tanks and drones is the geopolitical equivalent of locking your door while your house burns down.
 
@@ -81,13 +69,9 @@ The deeper irony? By neglecting the root causes of instability—poverty, exclus
 
 ## Health and social budgets: the home front cuts
 
-### Cost cuts & immediate effects
-
 The **EU4Health programme faces the axe** or a merger, imperilling everything from **cancer plans to nursing bursaries**. Social funds meant to lift families out of poverty are being hoovered into military coffers.
 
 No surprise, then, that **20 million children in the EU** now live at risk of poverty. Defence of the realm apparently excludes defending children from hunger.
-
-### Future costs
 
 Cutting social budgets in peacetime is already unpopular. Doing so in a polycrisis is akin to removing lifeboats from the Titanic to make room for deck chairs. Take EU4Health—one of the few initiatives learning the hard lessons of COVID. Its potential elimination risks leaving Europe just as unprepared for the next pandemic as it was for the last one.
 
