@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Effects of budget cuts">
-      <change afterPath="$PROJECT_DIR$/content/posts/multi-lingual-search.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="multi-lingual-search">
+      <change afterPath="$PROJECT_DIR$/content/posts/euds.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/effects-of-budget-cuts.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/effects-of-budget-cuts.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Amber">
-      <option name="closed" value="true" />
-      <created>1747484051234</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1747484051234</updated>
     </task>
     <task id="LOCAL-00042" summary="Accenture">
       <option name="closed" value="true" />
@@ -469,11 +462,18 @@
       <option name="project" value="LOCAL" />
       <updated>1750152121255</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="multi-lingual-search">
+      <option name="closed" value="true" />
+      <created>1750799078344</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1750799078345</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Political spectrum" />
     <MESSAGE value="Papercuts rebellion" />
     <MESSAGE value="Images and css changes" />
     <MESSAGE value="Images and madleen.md" />
@@ -498,6 +498,7 @@
     <MESSAGE value="Tags" />
     <MESSAGE value="Auteurs" />
     <MESSAGE value="Effects of budget cuts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Effects of budget cuts" />
+    <MESSAGE value="multi-lingual-search" />
+    <option name="LAST_COMMIT_MESSAGE" value="multi-lingual-search" />
   </component>
 </project>

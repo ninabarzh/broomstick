@@ -13,7 +13,7 @@ tags:
   - future debts
 ---
 
-This cheerful little analysis explores how Europe’s recent budget-slashing spree is playing out—cutting aid, climate finance, health, and all those other inconvenient things that don’t explode or vote. We’ll look at the immediate fallout (spoiler: it’s not great), the long-term consequences (even less great), and how all these “fiscally responsible” choices might cost several times more down the road.
+This cheerful little analysis explores how Europe’s recent budget-slashing spree is playing out—cutting aid, climate finance, health, and all those other inconvenient things that don’t explode or vote. The immediate fallout (spoiler: it’s not great), the long-term consequences (even less great), and how all these “fiscally responsible” choices might cost several times more down the road.
 
 Think of it as a guide to burning down your house to save on heating. Only the house is a continent, and the smoke alarms are also being cut.
 
