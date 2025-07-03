@@ -1,5 +1,5 @@
 ---
-title: "Digging with light: airborne multispectral imaging at ArcheoScienceFest"
+title: "Digging with light: Airborne multispectral imaging"
 subtitle: "How drones, spectral data, and algorithms are revealing buried pasts across Europe — without lifting a spade"
 tags:
   - multispectral imaging
