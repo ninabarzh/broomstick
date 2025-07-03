@@ -6,12 +6,6 @@ date: 2025-07-03T08:00:00.000Z
 draft: false
 ---
 
-Glad you asked — here’s a sector-by-sector breakdown of how power without accountability plays out across Europe, with dry wit intact and plenty of reality checks.
-
----
-
-# Where the power goes missing: a sector-by-sector tour of European unaccountability
-
 We often think of democratic deficits as abstract — something that lives in Brussels conference rooms and academic papers. But in practice, *power without accountability* isn’t just theoretical. It shows up in the bills you pay, the apps you use, the water you drink, and the politicians you never seem to be able to reach.
 
 Here's how it plays out across key sectors:
