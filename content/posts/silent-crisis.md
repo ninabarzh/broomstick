@@ -6,8 +6,8 @@ date: 2025-07-03T00:00:00.000Z
 draft: false
 cover:
   image: "/images/silent-crisis.png"
-  alt: "The game is rigged" 
-  caption: "The game is rigged"
+  alt: "A labyrinth made of spreadsheets and policy papers, with tiny citizens lost inside" 
+  caption: ""
   relative: false 
 ---
 
