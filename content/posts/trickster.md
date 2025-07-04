@@ -4,6 +4,7 @@ subtitle: "From Raven to Matilda to meme-wielding activists — why the world st
 tags:
   - archetypes
   - culture
+  - chaos and order
   - mythology
   - trickster
   - mischief
@@ -13,13 +14,9 @@ tags:
   - activism
   - humour
   - mythology in modernity
+  - butwaittheresmorechaos
 date: 2025-07-04T00:00:00.000Z
 draft: false
-cover:
-  image: "/images/loki.png"
-  alt: "Loki, dressed in sleek modern attire, holding a microphone on a dark, lavish late-night talk show set" 
-  caption: ""
-  relative: false
 ---
 
 The trickster is no ordinary troublemaker. They are the necessary saboteur, the holy vandal, the one who pries open order just enough to let chaos breathe. Found in every corner of the world and across every era, the trickster is an ancient archetype dressed in local clothes — part comedian, part rebel, part divine disruption. They don’t simply play tricks; they expose the trick of the world itself.

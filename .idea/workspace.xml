@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="multi-spectral imaging">
-      <change afterPath="$PROJECT_DIR$/content/posts/trickster.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/loki.png" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="tricksters">
+      <change afterPath="$PROJECT_DIR$/content/posts/trump-as-trickster.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/trickster-trump.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/trickster.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/trickster.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,14 +78,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Added article">
-      <option name="closed" value="true" />
-      <created>1748347731389</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1748347731389</updated>
     </task>
     <task id="LOCAL-00049" summary="economic warfare images">
       <option name="closed" value="true" />
@@ -470,11 +463,18 @@
       <option name="project" value="LOCAL" />
       <updated>1751568719537</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="tricksters">
+      <option name="closed" value="true" />
+      <created>1751622120364</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1751622120364</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Russia drains and some corrections" />
     <MESSAGE value="Russia drains" />
     <MESSAGE value="Cleaning" />
     <MESSAGE value="about.md updated" />
@@ -499,6 +499,7 @@
     <MESSAGE value="silent crisis" />
     <MESSAGE value="missing power" />
     <MESSAGE value="multi-spectral imaging" />
-    <option name="LAST_COMMIT_MESSAGE" value="multi-spectral imaging" />
+    <MESSAGE value="tricksters" />
+    <option name="LAST_COMMIT_MESSAGE" value="tricksters" />
   </component>
 </project>
