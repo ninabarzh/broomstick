@@ -27,7 +27,7 @@ Steelmanning the case, while noting that *laughing at the circus doesn’t mean 
 
 ## Trump the trickster: the joke that ran for president
 
-Donald J. Trump — property mogul, reality TV star, political wrecking ball — is many things. But viewed through the mythic lens of the **trickster**, he becomes oddly legible. Like Anansi, Loki, or Hermes after too much Adderall, Trump doesn’t simply break rules — he points at them, mocks them, and sells merch off the wreckage. He is not the fool. He is the **dealer of foolishness**, and he’s made the world play.
+Donald J. Trump — property mogul, reality TV star, political wrecking ball — is many things. But viewed through the mythic lens of the **[trickster]({{< relref "posts/trickster.md" >}})**, he becomes oddly legible. Like Anansi, Loki, or Hermes after too much Adderall, Trump doesn’t simply break rules — he points at them, mocks them, and sells merch off the wreckage. He is not the fool. He is the **dealer of foolishness**, and he’s made the world play.
 
 Tricksters don’t succeed because they’re right. They succeed because they change the terms of the game. And Trump did just that — not by rising above the absurdity of American politics, but by embodying it so completely that the absurdity could no longer be ignored.
 
@@ -70,7 +70,7 @@ Where previous politicians maintained the illusion of unity and legitimacy, Trum
 
 ## Trickster — but whose?
 
-Unlike Hermes or Coyote, Trump’s trickster energy is not necessarily in service of the people. Traditional tricksters often restore balance by challenging hierarchy. Trump **replicates** hierarchy while pretending to subvert it. He mocks elites while being one. He bashes the system while gaming it. He's the trickster in the palace — not on the road.
+Unlike Hermes or Coyote, Trump’s trickster energy is not necessarily in service of the people. Traditional tricksters often restore balance by challenging hierarchy. Trump **replicates** hierarchy while pretending to subvert it. He mocks [elites]({{< relref "posts/elites-myth.md" >}}) while being one. He bashes the system while gaming it. He's the trickster in the palace — not on the road.
 
 This is why he’s both compelling and dangerous. He offers the performance of resistance, not its reality. Like a meme that feels transgressive but sells T-shirts, his rebellion is always *just enough* to provoke — never enough to liberate.
 
