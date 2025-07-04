@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="missing power">
-      <change beforePath="$PROJECT_DIR$/content/posts/multispectral-imaging.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/multispectral-imaging.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="multi-spectral imaging">
+      <change afterPath="$PROJECT_DIR$/content/posts/trickster.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/loki.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/nina/Development/github/broomstick",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/nina/Development/github/broomstick&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/images" />
@@ -75,14 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Added article">
-      <option name="closed" value="true" />
-      <created>1748333802777</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1748333802777</updated>
     </task>
     <task id="LOCAL-00048" summary="Added article">
       <option name="closed" value="true" />
@@ -468,11 +462,18 @@
       <option name="project" value="LOCAL" />
       <updated>1751568373664</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="multi-spectral imaging">
+      <option name="closed" value="true" />
+      <created>1751568719537</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1751568719537</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added about.md" />
     <MESSAGE value="Russia drains and some corrections" />
     <MESSAGE value="Russia drains" />
     <MESSAGE value="Cleaning" />
@@ -497,6 +498,7 @@
     <MESSAGE value="EUDS" />
     <MESSAGE value="silent crisis" />
     <MESSAGE value="missing power" />
-    <option name="LAST_COMMIT_MESSAGE" value="missing power" />
+    <MESSAGE value="multi-spectral imaging" />
+    <option name="LAST_COMMIT_MESSAGE" value="multi-spectral imaging" />
   </component>
 </project>
