@@ -16,7 +16,7 @@ date: 2025-07-05T00:00:00.000Z
 draft: false
 ---
 
-If Donald Trump is the political Trickster — chaotic, comic, and morally confused — then Vladimir Putin is his mirror opposite: the Tyrant King, sat frozen on the throne. Less Coyote, more Koschei the Deathless. If Trump breaks rules loudly for laughs, Putin bends them in silence, eyes fixed on history’s long game and a map of empire that never quite vanished.
+[If Donald Trump is the political Trickster]({{< relref "posts/trump-as-trickster.md" >}}) — chaotic, comic, and morally confused — then Vladimir Putin is his mirror opposite: the Tyrant King, sat frozen on the throne. Less Coyote, more Koschei the Deathless. If Trump breaks rules loudly for laughs, Putin bends them in silence, eyes fixed on history’s long game and a map of empire that never quite vanished.
 
 To understand Putin is to confront a different archetypal beast altogether. This is not the jester’s theatre. This is the chill of the northern archetype: the shadow sovereign who rules through fear, paralysis, and myth.
 

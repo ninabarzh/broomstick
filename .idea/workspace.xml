@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="tricksters">
-      <change afterPath="$PROJECT_DIR$/content/posts/putin-frozen-north.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="frozen north">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/putin-frozen-north.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/putin-frozen-north.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Inductive scenarios">
-      <option name="closed" value="true" />
-      <created>1748371759677</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1748371759677</updated>
     </task>
     <task id="LOCAL-00052" summary="Dates">
       <option name="closed" value="true" />
@@ -469,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1751624988941</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="frozen north">
+      <option name="closed" value="true" />
+      <created>1751627126364</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1751627126364</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Russia drains" />
     <MESSAGE value="Cleaning" />
     <MESSAGE value="about.md updated" />
     <MESSAGE value="Israel's trinity added" />
@@ -498,6 +497,7 @@
     <MESSAGE value="missing power" />
     <MESSAGE value="multi-spectral imaging" />
     <MESSAGE value="tricksters" />
-    <option name="LAST_COMMIT_MESSAGE" value="tricksters" />
+    <MESSAGE value="frozen north" />
+    <option name="LAST_COMMIT_MESSAGE" value="frozen north" />
   </component>
 </project>
