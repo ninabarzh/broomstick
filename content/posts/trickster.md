@@ -15,7 +15,7 @@ tags:
   - humour
   - mythology in modernity
   - butwaittheresmorechaos
-date: 2025-07-04T00:00:00.000Z
+date: 2025-07-04T04:00:00.000Z
 draft: false
 ---
 
