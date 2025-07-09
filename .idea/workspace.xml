@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="frozen north">
-      <change afterPath="$PROJECT_DIR$/content/posts/eurostack-ngi.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="eurostack">
+      <change afterPath="$PROJECT_DIR$/content/posts/no-single-origin.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/punctuated-equilibrium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/reconciliation-genome-punctuation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/sphenoid-bone.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/flexion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/sphenoid.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,14 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00054" summary="scenarios tag">
-      <option name="closed" value="true" />
-      <created>1748606678062</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1748606678062</updated>
     </task>
     <task id="LOCAL-00055" summary="Political spectrum">
       <option name="closed" value="true" />
@@ -469,11 +466,18 @@
       <option name="project" value="LOCAL" />
       <updated>1751872087036</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="eurostack">
+      <option name="closed" value="true" />
+      <created>1751985365919</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1751985365919</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Cleaning" />
     <MESSAGE value="about.md updated" />
     <MESSAGE value="Israel's trinity added" />
     <MESSAGE value="Plasticity and tag corrections" />
@@ -498,6 +502,7 @@
     <MESSAGE value="multi-spectral imaging" />
     <MESSAGE value="tricksters" />
     <MESSAGE value="frozen north" />
-    <option name="LAST_COMMIT_MESSAGE" value="frozen north" />
+    <MESSAGE value="eurostack" />
+    <option name="LAST_COMMIT_MESSAGE" value="eurostack" />
   </component>
 </project>
