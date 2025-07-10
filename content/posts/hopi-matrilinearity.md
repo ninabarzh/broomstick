@@ -51,7 +51,7 @@ European colonisation introduced a violently different worldview. Binary gender 
 
 Roles that once held ceremonial importance were reframed as “unnatural.” The result was not just cultural suppression but cosmological fracture — a severing of the relational systems that gave meaning to difference.
 
-As with many aspects of Indigenous life, these suppressed traditions did not vanish. They went underground. They adapted. And today, across Turtle Island, there is a quiet resurgence of gender-diverse Indigenous people reclaiming their place in the circle.
+As with many aspects of Indigenous life, these suppressed traditions did not vanish. [They went underground]({{< relref "posts/misunderstanding.md" >}}). They adapted. And today, across Turtle Island, there is a quiet resurgence of gender-diverse Indigenous people reclaiming their place in the circle.
 
 ---
 

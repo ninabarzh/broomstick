@@ -31,7 +31,7 @@ Because for them, the Creator — *Tawa* — was not a king on a cloud, but the 
 
 Creation, they understood, is not an act completed once upon a time, but a continual process — something you participate in. You do not obey it. You live it.
 
-But the Spaniards, seeing masked dancers and prayers to the sun, saw only idolatry. They saw the *kachinas* — sacred spirit-beings who help maintain balance — as demons in disguise. They saw the *sipapu* — the symbolic doorway through which ancestors emerged — as nonsense. They saw the Hopi as lost souls, badly in need of European correction.
+But the Spaniards, seeing masked dancers and prayers to the sun, saw only idolatry. They saw the [kachinas]({{< relref "posts/katsinam.md" >}}) — sacred spirit-beings who help maintain balance — as demons in disguise. They saw the *sipapu* — the symbolic doorway through which ancestors emerged — as nonsense. They saw the Hopi as lost souls, badly in need of European correction.
 
 So they built missions. They baptised children. They banned dances, burned ceremonial objects, and declared Spanish to be the language of God. The Hopi, in public, appeared to comply. But underground, in their *kivas* — the ceremonial chambers beneath the earth — they preserved what the colonists could not comprehend.
 
@@ -43,7 +43,7 @@ They burned the churches. They sent the priests packing. They returned to the ol
 
 Because how do you explain to a man with a sword that the sun is not a god, but a relative? That the maize is not sacred because it’s useful, but because it gives itself? That creation is not a hierarchy, but a web?
 
-The Europeans could not hear this. Their cosmology was vertical: God above, man below, nature at the bottom like a collection of tools. The Hopi’s was horizontal: everything connected, responsibility instead of rule.
+The Europeans could not hear this. Their cosmology was vertical: God above, man below, [woman under them]({{< relref "posts/hopi-matrilinearity.md" >}}), and nature at the bottom like a collection of tools. The Hopi’s was horizontal: everything connected, responsibility instead of rule.
 
 And so they labelled the Hopi “heathens”. The irony, of course, was that the Hopi believed in everything — stone, breath, ancestor, cloud. In time as a circle, not a line. In living rightly, not in dying forgiven.
 
@@ -51,7 +51,7 @@ Over the centuries, the colonists returned — this time with railways, reservat
 
 And *Tawa* still rises every morning over the mesas. Not to judge, but to witness. Not to punish, but to remind.
 
-We are not above the world. We are within it. And that the task of being human is not obedience, but relationship.
+We are not above the world. We are within it. The task of being human is not obedience, but relationship.
 
 ---
 
