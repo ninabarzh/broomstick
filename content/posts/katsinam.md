@@ -93,7 +93,7 @@ In Northern Europe, ritual has been largely secularised or abandoned. Yet beneat
 
 ---
 
-## Conclusion: Unity Through Difference
+## Unity through difference
 
 The Kachinas do not preach sameness — they reveal the beauty and necessity of difference held in harmony. They remind us that spirit is not separate from politics, that nature is not separate from culture, and that North and South were never truly divided — only estranged.
 
@@ -109,7 +109,7 @@ Will we listen, at last, for the song of the flute on the wind?
 
 ---
 
-## Further listening and learning
+## Further listening and exploring
 
 The following links offer traditional Hopi ceremonial music and contextual resources. These are not entertainment or spectacle, but expressions of living culture — songs of planting, rain, prayer, and instruction. They are shared here in a spirit of respect and learning, not appropriation.
 
