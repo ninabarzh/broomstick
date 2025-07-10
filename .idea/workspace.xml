@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="developments in evolutionary biology">
-      <change afterPath="$PROJECT_DIR$/content/posts/hic.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="health industrial complex">
+      <change afterPath="$PROJECT_DIR$/content/posts/katsinam.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/turtle-prophesies.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/blue-star.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,14 +78,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Papercuts rebellion">
-      <option name="closed" value="true" />
-      <created>1748786440194</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1748786440194</updated>
     </task>
     <task id="LOCAL-00057" summary="Images and css changes">
       <option name="closed" value="true" />
@@ -469,11 +463,18 @@
       <option name="project" value="LOCAL" />
       <updated>1752069957078</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="health industrial complex">
+      <option name="closed" value="true" />
+      <created>1752088189952</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1752088189952</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Israel's trinity added" />
     <MESSAGE value="Plasticity and tag corrections" />
     <MESSAGE value="on-prem-cloud.md added" />
     <MESSAGE value="on-prem-cloud.md adapted" />
@@ -498,6 +499,7 @@
     <MESSAGE value="frozen north" />
     <MESSAGE value="eurostack" />
     <MESSAGE value="developments in evolutionary biology" />
-    <option name="LAST_COMMIT_MESSAGE" value="developments in evolutionary biology" />
+    <MESSAGE value="health industrial complex" />
+    <option name="LAST_COMMIT_MESSAGE" value="health industrial complex" />
   </component>
 </project>
