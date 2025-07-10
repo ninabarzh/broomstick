@@ -2,9 +2,9 @@
 title: "The Kachinas and the return to balance"
 subtitle: "Hopi teachings on unity, ceremony, and what the North must remember"
 description: >
-  A deep exploration of Hopi spiritual wisdom, the sacred role of the Kachinas, and the prophetic lessons they offer
-  for healing the divisions between North and South—culturally, spiritually, and ecologically. Written for Northern
-  audiences seeking mature dialogue with Indigenous knowledge.
+  An exploration of Hopi spiritual wisdom, the sacred role of the Kachinas, and the prophetic lessons they offer
+  for healing the divisions between North and South—culturally, spiritually, and ecologically. Written for us, Northern
+  peoples seeking mature dialogue with Indigenous knowledge.
 tags:
   - Hopi teachings
   - Kachinas
