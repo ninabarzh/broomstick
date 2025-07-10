@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Hopi">
-      <change afterPath="$PROJECT_DIR$/content/posts/hopi-matrilinearity.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/hopi-origins.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/spiral.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/misunderstanding.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/The-long-history-of-polite-coercion.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/The-long-history-of-polite-coercion.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,14 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Russia drains">
-      <option name="closed" value="true" />
-      <created>1748948680510</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1748948680510</updated>
     </task>
     <task id="LOCAL-00062" summary="Cleaning">
       <option name="closed" value="true" />
@@ -471,7 +462,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752139800051</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="Hopi">
+      <option name="closed" value="true" />
+      <created>1752157851630</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1752157851630</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
