@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="health industrial complex">
-      <change afterPath="$PROJECT_DIR$/content/posts/katsinam.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/turtle-prophesies.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blue-star.png" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Hopi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/katsinam.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/katsinam.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Images and css changes">
-      <option name="closed" value="true" />
-      <created>1748887656355</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1748887656355</updated>
     </task>
     <task id="LOCAL-00058" summary="Images and madleen.md">
       <option name="closed" value="true" />
@@ -471,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1752088189952</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Hopi">
+      <option name="closed" value="true" />
+      <created>1752135613228</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1752135613228</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Plasticity and tag corrections" />
     <MESSAGE value="on-prem-cloud.md added" />
     <MESSAGE value="on-prem-cloud.md adapted" />
     <MESSAGE value="nimal whispers postponed, vaping added." />
@@ -500,6 +497,7 @@
     <MESSAGE value="eurostack" />
     <MESSAGE value="developments in evolutionary biology" />
     <MESSAGE value="health industrial complex" />
-    <option name="LAST_COMMIT_MESSAGE" value="health industrial complex" />
+    <MESSAGE value="Hopi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hopi" />
   </component>
 </project>

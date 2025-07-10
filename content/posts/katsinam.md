@@ -87,7 +87,7 @@ While these teachings emerge from a specific cultural and ecological context, th
 
 2. **Honour Sacred Agreements**: The Eagle and Condor Prophecy is not a romantic myth — it is a moral imperative. Respect for Indigenous sovereignty, for climate justice, and for non-extractive partnership is the path forward.
 
-3. **Revive Ceremonial Consciousness**: Kachina dances are not performances; they are living prayers. While the North may not share the same rituals, it can recover the principle: that governance, ecology, and community are sacred responsibilities, not bureaucratic chores.
+3. **Revive Ceremonial Consciousness**: Kachina dances are not performances; they are living prayers. While the North may not share the same rituals, it can recover the principle: that governance, ecology, and community are sacred responsibilities, [not bureaucratic chores]({{< relref "posts/a-love-letter-to-bureaucratic-hell.md" >}}).
 
 In Northern Europe, ritual has been largely secularised or abandoned. Yet beneath the surface lies a hunger for meaning, for community, for reconnection. The Kachinas do not invite mimicry, but memory — a remembering of how to honour the cycles of life, how to listen to land, how to lead without conquest.
 
