@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Digital currencies">
+      <change afterPath="$PROJECT_DIR$/content/posts/reisswolf.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/digital-currencies.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/digital-currencies.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/And-now-for-something-completely-different.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/And-now-for-something-completely-different.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/The-long-history-of-polite-coercion.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/The-long-history-of-polite-coercion.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +78,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00066" summary="Plasticity and tag corrections">
-      <option name="closed" value="true" />
-      <created>1749034172617</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1749034172617</updated>
     </task>
     <task id="LOCAL-00067" summary="on-prem-cloud.md added">
       <option name="closed" value="true" />
@@ -469,7 +463,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752221418729</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="Digital currencies">
+      <option name="closed" value="true" />
+      <created>1752260221800</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1752260221800</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

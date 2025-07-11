@@ -40,7 +40,7 @@ Over the long and tedious history of Western political thought (and it is tediou
 
 ### 1. The Paradigm of Difference
 
-Ah yes, the classic: “You have power because you’re special, divine, or just born with the right last name.” This is monarchy, theocracy, and every office job where a middle manager thinks their title means they understand the spreadsheet. In this setup, legitimate power descends from on high, and those without it are expected to shut up, follow orders, and possibly die for king and country. Illegitimate power, meanwhile, is framed as mere rebellion—no matter how justified. If it doesn’t come with a crown, it doesn’t count.
+The classic: “You have power because you’re special, divine, or just born with the right last name.” This is monarchy, theocracy, and every office job where a middle manager thinks their title means they understand the spreadsheet. In this setup, legitimate power descends from on high, and those without it are expected to shut up, follow orders, and possibly die for king and country. Illegitimate power, meanwhile, is framed as mere rebellion—no matter how justified. If it doesn’t come with a crown, it doesn’t count.
 
 ### 2. The Paradigm of Equality
 

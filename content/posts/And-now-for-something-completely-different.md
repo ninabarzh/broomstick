@@ -30,7 +30,7 @@ The lesson? Host your fonts locally. Or face the wrath of The Font Police. (Whic
 
 ### Cookie consent: Death by a thousand clicks
 
-Ah yes, the CNIL—the ever-watchful French data protection regulator—finally had enough of the “click here to accept cookies” scam masquerading as user choice. In a move that shocked absolutely no one but enraged tech lobbyists everywhere, CNIL fined Google and Facebook for making it absurdly easier to say “yes, track me” than “no, kindly piss off”.
+The CNIL—the ever-watchful French data protection regulator—finally had enough of the “click here to accept cookies” scam masquerading as user choice. In a move that shocked absolutely no one but enraged tech lobbyists everywhere, CNIL fined Google and Facebook for making it absurdly easier to say “yes, track me” than “no, kindly piss off”.
 
 Apparently, if you want to accept cookies, it’s a single click. If you want to refuse them, it’s like playing Minesweeper in the dark with a blindfold on—seven clicks, two hidden menus, and a small chance of triggering a newsletter subscription.
 
