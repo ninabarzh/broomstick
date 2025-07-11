@@ -3,8 +3,13 @@ title: "Digital currencies and their discontents"
 subtitle: "The brave new world of money: volatile, traceable, and not entirely yours."
 date: 2025-07-11T00:00:00.000Z
 description: "An irreverent but serious critique of cryptocurrencies and central bank digital currencies (CBDCs), exploring their risks, consequences, and the creeping powers they hand to central authorities."
-tags: ["digital currencies", "CBDC", "cryptocurrency", "monetary policy", "financial surveillance"]
+tags: ["digital currencies", "CBDC", "cryptocurrency", "monetary policy", "financial surveillance", "butwaittheresmorechaos"]
 draft: false
+cover:
+  image: "/images/purchase-blocked.png"
+  alt: "A woman at a supermarket checkout looks confused as the screen reads “PURCHASE BLOCKED: DIETARY POLICY.” Behind her, other shoppers face similar digital payment refusals for reasons like age restriction, carbon limit, and social credit, highlighting a dystopian scenario of programmable money control." 
+  caption: "When your digital pound decides you're not allowed to buy bread—welcome to the brave new world of programmable money and policy-enforced shopping limits."
+  relative: false 
 ---
 
 Digital currencies promise a brave new world of financial innovation. But let us not get carried away with the 

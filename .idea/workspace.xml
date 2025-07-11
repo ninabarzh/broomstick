@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Hopi">
-      <change afterPath="$PROJECT_DIR$/content/posts/digital-currencies.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Digital currencies">
+      <change afterPath="$PROJECT_DIR$/static/images/purchase-blocked.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/digital-currencies.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/digital-currencies.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00064" summary="about.md updated">
-      <option name="closed" value="true" />
-      <created>1748951682692</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1748951682693</updated>
     </task>
     <task id="LOCAL-00065" summary="Israel's trinity added">
       <option name="closed" value="true" />
@@ -469,11 +462,18 @@
       <option name="project" value="LOCAL" />
       <updated>1752163520327</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="Digital currencies">
+      <option name="closed" value="true" />
+      <created>1752217195890</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1752217195890</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="on-prem-cloud.md added" />
     <MESSAGE value="on-prem-cloud.md adapted" />
     <MESSAGE value="nimal whispers postponed, vaping added." />
     <MESSAGE value="Corrected links" />
@@ -498,6 +498,7 @@
     <MESSAGE value="developments in evolutionary biology" />
     <MESSAGE value="health industrial complex" />
     <MESSAGE value="Hopi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hopi" />
+    <MESSAGE value="Digital currencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Digital currencies" />
   </component>
 </project>
