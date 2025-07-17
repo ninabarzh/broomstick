@@ -92,3 +92,9 @@ enableRobotsTXT = true
     name = "Search"
     url = "search"
     weight = 50
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "https://tymyrddin.dev/contact/"
+    weight = 60
