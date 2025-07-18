@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="IoT healthcare">
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="EuroStack">
+      <change afterPath="$PROJECT_DIR$/content/posts/ai-not-inevitable.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/dystopian-displacement.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/futures-of-ai.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/human-ai-symbiosis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/turbulent-coexistence.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ai-future.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/eurostack-healthcare.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/eurostack-healthcare.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +46,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/nina/Development/gitlab/roadmaps",
+    "last_opened_file_path": "/home/nina/Development/github/broomstick",
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
@@ -77,30 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00069" summary="on-prem-cloud.md adapted">
-      <option name="closed" value="true" />
-      <created>1749107653892</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1749107653892</updated>
-    </task>
-    <task id="LOCAL-00070" summary="nimal whispers postponed, vaping added.">
-      <option name="closed" value="true" />
-      <created>1749223256847</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1749223256847</updated>
-    </task>
-    <task id="LOCAL-00071" summary="Corrected links">
-      <option name="closed" value="true" />
-      <created>1749224412800</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1749224412800</updated>
     </task>
     <task id="LOCAL-00072" summary="Corrected links">
       <option name="closed" value="true" />
@@ -470,12 +450,34 @@
       <option name="project" value="LOCAL" />
       <updated>1752620082917</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="IoT healthcare">
+      <option name="closed" value="true" />
+      <created>1752745016062</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1752745016063</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Link to contact page">
+      <option name="closed" value="true" />
+      <created>1752745050395</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1752745050395</updated>
+    </task>
+    <task id="LOCAL-00120" summary="EuroStack">
+      <option name="closed" value="true" />
+      <created>1752745444662</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1752745444662</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Corrected links" />
-    <MESSAGE value="monetary sign" />
     <MESSAGE value="BadBox" />
     <MESSAGE value="Madleen seized" />
     <MESSAGE value="Cleaned" />
@@ -499,6 +501,8 @@
     <MESSAGE value="Digital currencies" />
     <MESSAGE value="Reisswolf" />
     <MESSAGE value="IoT healthcare" />
-    <option name="LAST_COMMIT_MESSAGE" value="IoT healthcare" />
+    <MESSAGE value="Link to contact page" />
+    <MESSAGE value="EuroStack" />
+    <option name="LAST_COMMIT_MESSAGE" value="EuroStack" />
   </component>
 </project>
