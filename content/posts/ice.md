@@ -20,7 +20,7 @@ date: 2025-07-18T08:00:00.000Z
 cover:
   image: "/images/ice-us.png"
   alt: "A diverse group of activists and migrant families link arms in front of an ICE detention bus. Protest signs read “No One Is Illegal” and “Abolish ICE.” Indigenous leaders stand alongside children holding handmade posters. Legal observers document the scene." 
-  caption: "Communities stand their ground: Migrant families, Indigenous leaders, and advocates form a human barrier against deportation. As ICE looms, so does resistance—grounded in solidarity, not fear."
+  caption: "Communities stand their ground: Migrant families, Indigenous leaders, and advocates form a human barrier against deportation. As ICE looms, so does resistance—grounded in solidarity, not fear. A screenshot of a bit of 'Know Your Rights' training on the right."
   relative: false
 ---
 
@@ -116,7 +116,7 @@ distant observers, but as participants in a global resistance to state violence.
 
 Most Europeans have no idea what ICE is, and even fewer grasp its full scope. Use your voice to make visible what is routinely hidden.
 
-* Share survivor testimonies, legal challenges, and verified reports—not just headlines or outrage memes.
+* Share [survivor testimonies](#immigrant-survivor-testimonies--personal-stories), [legal challenges](#legal-challenges--litigation-tracking), and [verified reports](#verified-reports-on-detention-conditions--rights-violations)—not just headlines or outrage memes.
 * Translate key resources into local languages and disseminate through schools, unions, and community groups.
 * Draw the connections between ICE and European parallels—such as Frontex pushbacks, detention centres in Lampedusa, or the outsourcing of EU border control to Libya.
 
@@ -124,8 +124,8 @@ Most Europeans have no idea what ICE is, and even fewer grasp its full scope. Us
 
 Cruelty dressed up as “security policy” must be called out for what it is: authoritarian logic wearing a bureaucratic name tag.
 
-* Challenge politicians and pundits who parrot American-style "border crisis" rhetoric.
-* Push media outlets to stop dehumanising migrants with terms like “illegal immigrant” or “flood.”
+* Challenge politicians and pundits who parrot [American-style "border crisis" rhetoric](https://theconversation.com/how-to-manufacture-a-crisis-deconstructing-donald-trumps-immigration-rhetoric-111049).
+* Push media outlets to stop [dehumanising migrants with terms like “illegal immigrant” or “flood.”](https://mixedmigration.org/op-ed-negative-narratives-mistaken-metaphors-the-need-for-careful-language-on-migration/)
 * Demand that international diplomacy cease treating ICE’s practices as legitimate law enforcement rather than human rights violations.
 
 ### Centre migrant-led and Indigenous voices
@@ -140,17 +140,17 @@ True solidarity means stepping back so others can be heard. Listen to those dire
 
 Europe is not neutral. European tech firms, consultants, and even universities have been complicit in exporting surveillance tools, border tech, and research to ICE and similar agencies.
 
-* Investigate and challenge partnerships between EU institutions and US enforcement entities.
+* Investigate and challenge [partnerships between EU institutions and US enforcement entities](https://www.ice.gov/news/releases/ice-signs-agreement-join-europols-efforts-target-human-smuggling).
 * Campaign for ethical procurement policies that prohibit collaboration with human rights abusers.
-* Demand scrutiny of whether biometric databases, AI systems, or predictive policing tools developed in Europe are being used in ICE’s operations.
+* Demand scrutiny of whether [biometric databases, AI systems, or predictive policing tools developed in Europe](#europolice-collaboration--european-aibiometric-systems) are being used in ICE’s operations.
 
 ### Support transnational resistance
 
 The machinery of detention and deportation does not respect borders—so neither should the resistance.
 
 * Push EU parliamentarians and local representatives to condemn ICE practices and support US grassroots campaigns.
-* Fund legal defence and advocacy groups across borders—from US detention monitors to European watchdogs scrutinising Frontex.
-* Back efforts to prosecute human rights abuses in international forums or courts where US institutions fail to act.
+* Fund legal defence and advocacy groups across borders—from [US detention monitors](https://www.freedomforimmigrants.org/monitoring-investigations) to [European watchdogs scrutinising Frontex](https://www.hrw.org/news/2024/04/24/eu-misses-opportunity-frontex-transparency-accountability).
+* Back efforts to prosecute human rights abuses in international forums or courts where US institutions fail to act. I have not found active international legal cases prosecuting US Immigration and Customs Enforcement (ICE) for human rights abuses. While numerous human rights organizations have documented systemic violations within ICE detention facilities, including medical neglect, prolonged solitary confinement, and mistreatment of detainees, these issues have not yet led to formal prosecutions in international courts.
 
 ### Vote like it matters—it does
 
@@ -166,6 +166,31 @@ Standing with the abused means standing between them and the abuser, even across
 wider authoritarian disease, then dismantling its impunity is not just an American task—it is a global imperative.
 
 ## If you think this sounds extreme, read these
+
+### Immigrant survivor testimonies & personal stories
+
+* [Alliance for Immigrant Survivors – Resources & stories](https://www.immigrantsurvivors.org/resources-1) - A curated hub of personal narratives, legal insights, and advocacy tools highlighting gender‑based and immigration-related trauma.
+* [ACLU – *The Survivors: Stories of People Released from ICE Detention During the COVID‑19 Pandemic* (pdf)](https://www.aclu.org/wp-content/uploads/publications/20210512-ice-detention-report.pdf) - Features first‑hand accounts from detainees who sued ICE during the pandemic and were released—detailing overcrowding, illness, family separations, and psychological impact.
+
+### Legal challenges & litigation tracking
+
+* [Just Security – Litigation Tracker: Legal Challenges to Trump Administration Actions](https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/) - Includes ongoing court cases challenging immigration enforcement policies, including ICE procedures and expedited deportations.
+
+### Verified reports on detention conditions & rights violations
+
+* [Physicians for Human Rights / Harvard – “Endless Nightmare”: Torture and Inhuman Treatment in Solitary Confinement](https://phr.org/our-work/resources/endless-nightmare-solitary-confinement-in-us-immigration-detention/) - Based on FOIA documents and interviews, this report reveals systematic misuse of prolonged solitary confinement—averaging 27 days and amounting to torture—within ICE detention centres.
+* [American Civil Liberties Union: Fatal Neglect: How ICE Ignores Deaths in Detention (pdf)](https://www.aclu.org/wp-content/uploads/publications/fatal_neglect_acludwnnijc.pdf) - Documents confirmed deaths between 2010–2012 (including suicides) and shows ICE repeatedly ignored medical standards, swept investigations under the rug, and withheld fatality information. ICE has a history ...
+
+### Sharing voices in Europe
+
+* [A history of conflict: Trump's impact on Native American communities | DW News (youtube)](https://www.youtube.com/watch?v=9_gkLA-7cXY) - This 20-minute documentary takes you inside a reservation — among the most disadvantaged areas in the US — to show how Indigenous communities now face threats to birthright citizenship and basic rights. But why does Trump hold a grudge against the Native Americans? Could a vendetta be fueling his tensions with tribes today? Meanwhile, his proposed cuts to health and education programs have already deepened fears of erasure.
+
+### Europol–ICE Collaboration & European AI/Biometric Systems
+
+* [Europe Is Building a Huge International Facial Recognition System](https://www.wired.com/story/europe-police-facial-recognition-prum/) - Under the Prüm II agreement, EU member states are expanding data-sharing capabilities to include facial recognition data, alongside fingerprints and DNA. This system—which collects biometric profiles on millions of residents and migrants—is being built into European policing infrastructure.
+* [Europol's expanding mandate: European Parliament must stand against unaccountable and discriminatory policing](https://www.fairtrials.org/articles/news/europols-expanding-mandate-european-parliament-must-stand-against-unaccountable-and-discriminatory-policing/) - Meanwhile, Europol's mandate is being expanded to use high-risk AI tools for predictive policing and biometric surveillance. Civil society groups warn that this creates a security AI infrastructure operating without democratic oversight, raising risks of racial profiling and deportation enforcement.
+
+### Even more voices
 
 * [Defend Against ICE Raids and Community Arrests (pdf)](https://immigrantjustice.org/sites/default/files/content-type/page/documents/2017-03/IDP%20CCR%20ICE-Raid-Toolkit%20for%20pb%20symposium.pdf)
 * [Corruption and marginalisation (pdf)](https://knowledgehub.transparency.org/assets/uploads/helpdesk/Corruption-and-marginalisation.pdf)

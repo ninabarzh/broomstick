@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="ICE" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="images">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/ice.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/ice.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,22 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00074" summary="BadBox">
-      <option name="closed" value="true" />
-      <created>1749410453746</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1749410453746</updated>
-    </task>
-    <task id="LOCAL-00075" summary="Madleen seized">
-      <option name="closed" value="true" />
-      <created>1749472972637</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1749472972637</updated>
     </task>
     <task id="LOCAL-00076" summary="Cleaned">
       <option name="closed" value="true" />
@@ -466,11 +453,26 @@
       <option name="project" value="LOCAL" />
       <updated>1752837438891</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="images">
+      <option name="closed" value="true" />
+      <created>1752839392761</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1752839392761</updated>
+    </task>
+    <task id="LOCAL-00124" summary="images">
+      <option name="closed" value="true" />
+      <created>1752839446459</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1752839446459</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Cleaned" />
     <MESSAGE value="De Onvoltooide Rechtsstaat" />
     <MESSAGE value="Israel Iran attack" />
     <MESSAGE value="PR's perspectives added" />
@@ -495,6 +497,7 @@
     <MESSAGE value="EuroStack" />
     <MESSAGE value="AI scenario planning" />
     <MESSAGE value="ICE" />
-    <option name="LAST_COMMIT_MESSAGE" value="ICE" />
+    <MESSAGE value="images" />
+    <option name="LAST_COMMIT_MESSAGE" value="images" />
   </component>
 </project>
