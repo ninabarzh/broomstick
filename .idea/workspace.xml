@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="ICE">
-      <change afterPath="$PROJECT_DIR$/content/posts/climate-collapse-democracy.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="climate-collapse-democracy.md">
+      <change afterPath="$PROJECT_DIR$/content/posts/ice-legal-chain.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00077" summary="Cleaned">
-      <option name="closed" value="true" />
-      <created>1749545205783</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1749545205783</updated>
     </task>
     <task id="LOCAL-00078" summary="De Onvoltooide Rechtsstaat">
       <option name="closed" value="true" />
@@ -469,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1752843306808</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="climate-collapse-democracy.md">
+      <option name="closed" value="true" />
+      <created>1752935422553</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1752935422553</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="De Onvoltooide Rechtsstaat" />
     <MESSAGE value="Israel Iran attack" />
     <MESSAGE value="PR's perspectives added" />
     <MESSAGE value="Tags" />
@@ -498,6 +497,7 @@
     <MESSAGE value="AI scenario planning" />
     <MESSAGE value="images" />
     <MESSAGE value="ICE" />
-    <option name="LAST_COMMIT_MESSAGE" value="ICE" />
+    <MESSAGE value="climate-collapse-democracy.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="climate-collapse-democracy.md" />
   </component>
 </project>
