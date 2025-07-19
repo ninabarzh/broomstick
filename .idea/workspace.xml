@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="images">
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="ICE">
+      <change afterPath="$PROJECT_DIR$/content/posts/climate-collapse-democracy.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/ice.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/ice.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00076" summary="Cleaned">
-      <option name="closed" value="true" />
-      <created>1749479997095</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1749479997095</updated>
     </task>
     <task id="LOCAL-00077" summary="Cleaned">
       <option name="closed" value="true" />
@@ -469,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752839446459</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="ICE">
+      <option name="closed" value="true" />
+      <created>1752843306808</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1752843306808</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -496,8 +496,8 @@
     <MESSAGE value="Link to contact page" />
     <MESSAGE value="EuroStack" />
     <MESSAGE value="AI scenario planning" />
-    <MESSAGE value="ICE" />
     <MESSAGE value="images" />
-    <option name="LAST_COMMIT_MESSAGE" value="images" />
+    <MESSAGE value="ICE" />
+    <option name="LAST_COMMIT_MESSAGE" value="ICE" />
   </component>
 </project>
