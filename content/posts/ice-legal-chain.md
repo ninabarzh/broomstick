@@ -86,8 +86,9 @@ called this inflammatory. One might suggest that the only thing truly inflamed i
 
 The geographical placement of ICE facilities speaks volumes. A disproportionate number are located in Southern states, 
 particularly in rural areas where the carceral economy is one of the few growth industries. Staff are often drawn from 
+people [groomed to hate](https://www.youtube.com/watch?v=BqUf4LoanSk) (Life, take two! youtube) and in general from 
 communities steeped in the disciplinary traditions of the American South: punishment as order, whiteness as civility, 
-and cruelty as civic duty.
+and cruelty as civic duty. 
 
 Reports from detainees confirm the thematic consistency. Racial slurs, denial of medical care, retaliation for minor 
 infractions, arbitrary solitary confinement—none of this is accidental. It is cultural continuity with a federal 

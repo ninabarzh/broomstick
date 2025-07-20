@@ -42,7 +42,10 @@ disturbingly real.
 
 ### ICE operates without meaningful checks and balances
 
-Due process, that quaint notion upon which democratic systems supposedly rest, becomes more of a suggestion than a guarantee when ICE gets involved. Consider the case of Davino Watson, a US citizen held by ICE for nearly three years despite having repeatedly provided evidence of his citizenship. His Kafkaesque ordeal—detained, ignored, and shuffled between jails without legal representation—epitomises the agency’s operational impunity.
+Due process, that quaint notion upon which democratic systems supposedly rest, becomes more of a suggestion than a 
+guarantee when ICE gets involved. Consider [the case of Davino Watson](https://www.nhpr.org/npr-blogs/2017-08-01/u-s-citizen-who-was-held-by-ice-for-3-years-denied-compensation-by-appeals-court), a US citizen held by ICE for nearly three years 
+despite having repeatedly provided evidence of his citizenship. His Kafkaesque ordeal—detained, ignored, and shuffled 
+between jails without legal representation—epitomises the agency’s operational impunity.
 
 This is not an outlier. Detainees, including minors and US citizens, frequently face proceedings without guaranteed legal counsel or timely hearings. The bureaucratic indifference is not merely cruel; it is systematised. Worse still, the erosion of constitutional protections is not confined to border crossings. Within the so-called “constitution-free zone”—a 100-mile swathe from any US border, home to two-thirds of the population—Fourth Amendment rights are regularly suspended in practice. ICE agents detain and question individuals on the basis of appearance, language, or proximity to perceived "suspicious" areas, with racial profiling masquerading as operational efficiency.
 
@@ -98,7 +101,7 @@ The political will to do so, however, remains uncertain. In the absence of refor
 
 ## Reckoning with a system designed to brutalise
 
-At its core, ICE is not a broken system. It is a system working exactly as designed: to instil fear, suppress dissent, and control through coercion. It undermines democratic norms, violates human rights, and perpetuates cycles of trauma under the guise of law enforcement.
+At its core, ICE is not a broken system. It is a [system working exactly as designed]({{< relref "posts/ice-legal-chain.md" >}}): to instil fear, suppress dissent, and control through coercion. It undermines democratic norms, violates human rights, and perpetuates cycles of trauma under the guise of law enforcement.
 
 Europe must not turn away. We know too well the dangers of bureaucracies unmoored from justice. The fight for transparency, oversight, and human dignity must cross borders, just as ICE’s abuses do.
 

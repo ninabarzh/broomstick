@@ -35,7 +35,7 @@ Arctic, warming nearly four times faster than the global average, is a
 [bellwether for planetary collapse](https://www.arcticwwf.org/newsroom/features/arctic-sea-ice-maximum-crisis-as-ice-melts-and-risks-rise/). 
 As Carlo warns, the convergence of ocean circulation breakdown and toxic algal blooms could render Earth uninhabitable 
 for most mammals, leaving only the ultra-rich in artificial bunkers—a dystopia where sensory deprivation replaces 
-lived experience. This article steelmans his argument, synthesising climate science, critiques of anarcho-capitalism, 
+lived experience. This article verifies his arguments, synthesising climate science, critiques of anarcho-capitalism, 
 and democratic reform proposals to avert systemic collapse.  
 
 ---
@@ -82,7 +82,8 @@ Bunkers relying on complex global supply chains—whether for pharmaceuticals or
 
 ## A call to leash and rebuild (change from within)
 
-The IPCC’s "now or never" warning underscores the urgency of dismantling systems that prioritise profit over planetary survival. To avoid Carlo’s dystopia of ecological and sensory impoverishment, ordinary Europeans can take concrete steps.   
+The IPCC’s "now or never" warning underscores the urgency of dismantling systems that prioritise profit over planetary 
+survival. To avoid Carlo’s dystopia of ecological and sensory impoverishment, ordinary Europeans can take concrete steps.   
 
 ### Join or initiate citizens’ assemblies 
  
@@ -140,7 +141,7 @@ Advocate for universal access to renewables, ensuring green transitions do not l
 
 ### Join or support climate-focused NGOs  
 
-Organisations like [ClientEarth](https://www.clientearth.org/) and [Friends of the Earth](https://friendsoftheearth.eu/) combine legal action, policy advocacy, and public campaigns to force systemic change. Support them through donations, volunteering, or participating in their campaigns. Alternatives are offered by the [EUCOMMEET platform](https://www.eucommeet.eu/) facilitate cross-border climate dialogues, countering polarisation.  
+Organisations like [ClientEarth](https://www.clientearth.org/) and [Friends of the Earth](https://friendsoftheearth.eu/) combine legal action, policy advocacy, and public campaigns to force systemic change. Support them through donations, volunteering, or participating in their campaigns. Alternatives are offered by the [EUCOMMEET platform](https://www.eucommeet.eu/) facilitating cross-border climate dialogues and countering polarisation.  
 
 ### Use digital tools for corporate accountability 
  
