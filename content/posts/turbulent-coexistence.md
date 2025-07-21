@@ -87,4 +87,4 @@ The world had not collapsed. That, at least, was something.
 
 ---
 
-PS: In a museum I found a human-AI collaborative sculpture standing next to a plaque: *“This piece is unfinished. And so are we.”*
+PS: In a museum I found a human-AI collaborative sculpture standing next to a plaque: *“This piece is unfinished. And so are we.”*, a scenario for [futures of AI]({{< relref "posts/futures-of-ai.md" >}}).

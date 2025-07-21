@@ -19,59 +19,30 @@ enough, thank you."
 
 Or, perhaps more plausibly, because the world is too much of a mess to continue.
 
-These are the paths where the AI revolution runs into mud—political, social, economic—and spins its wheels. It is less 
-exciting than robot uprisings, but far more realistic.
+[This is a path where the AI revolution runs into mud]({{< relref "posts/futures-of-ai.md" >}})—political, social, 
+economic—and spins its wheels. It is less exciting than robot uprisings, but somewhat more realistic.
 
-## What could stop AI?
+---
 
-### Public resistance to AI becomes entrenched
+It is almost quaint how the world once worshipped artificial intelligence like it was the second coming of progress. The 2020s promised a future where machines would effortlessly solve our problems—if only we let them. But as the decade wore on, reality had other plans.
 
-Instead of being a temporary backlash, the public pushback against AI surveillance, job displacement, and algorithmic 
-nonsense solidifies into cultural norms, legal frameworks, and political platforms. AI becomes associated with 
-intrusion and inequality rather than convenience and innovation. People do not merely complain about facial recognition; 
-they vote to ban it. Schools reject automated assessment with the same vehemence previously reserved for surprise 
-inspections. Hiring platforms ditch algorithmic CV filtering in favour of—gasp—reading them. The social licence to 
-operate collapses. Tech firms are no longer welcomed with TED Talk applause, but with parliamentary inquiries and 
-pointed sarcasm.
+Let us start with education, because that was where the cracks first appeared. Automated essay grading systems, championed as a way to save teachers time, quickly revealed their flaws. In 2024, a major school district in the United States quietly discontinued the use of an AI grading tool after complaints mounted that it consistently penalised essays that used creative language or unconventional arguments. Teachers reported that the system was "grading like a robot," missing nuance and context, and students felt unfairly judged. This was not some isolated incident; several districts across Europe and Asia followed suit, recognising that education needed human judgement more than algorithms.
 
-### Regulation slows development deliberately
+Facial recognition technology faced similar challenges. By 2025, multiple studies had confirmed the persistent bias against darker-skinned individuals, leading cities such as London and Berlin to impose strict limits or outright bans on public sector use. One particularly notable case involved a man in Glasgow who was repeatedly misidentified by a facial recognition system as a suspect in unrelated crimes. His ordeal became a cause célèbre, fueling campaigns that eventually saw the UK Parliament adopt comprehensive legislation regulating surveillance technologies. What was once hailed as a security upgrade became synonymous with state overreach and privacy violations.
 
-Governments, sensing the mood and perhaps enjoying the rare chance to be ahead of a curve, introduce regulatory 
-regimes that are not mere guidelines but hard limits. Risk assessments are required for all deployments. Liability 
-is non-transferable. Firms cannot bury ethics statements in footnotes or distract with glossy promo videos. National 
-AI regulators have teeth—and, for once, use them. Supranational alliances coordinate bans and standards. Research 
-slows down not because it is technically impossible, but because there are now actual rules, and flouting them 
-comes with consequences. Imagine that.
+The employment sector had its own reckoning. Amazon’s infamous 2018 recruiting algorithm was only the tip of the iceberg. By the late 2020s, as more companies adopted AI-powered hiring tools, numerous lawsuits surfaced alleging discriminatory practices against women, older applicants, and candidates with non-linear career paths. One global financial firm faced a public relations disaster when their AI system repeatedly filtered out applicants from minority-serving universities. The backlash led to a wave of companies reverting to human-led recruitment processes, sometimes augmented but never replaced by algorithms. It turned out, as many suspected, that AI was far too reliant on flawed historical data to be truly fair.
 
-### Global crises interrupt AI’s momentum
+Tech companies, once the untouchable darlings of innovation, faced mounting political and public pressure. The 2021 Facebook whistleblower revelations about algorithmic amplification of misinformation was just the beginning. Governments around the world launched inquiries into algorithmic transparency and accountability. CEOs found themselves summoned before parliamentary committees, no longer celebrated but grilled over the social impact of their technologies. The shiny veneer cracked.
 
-Wars, famines, energy crises, and climate disasters have a rather flattening effect on budget lines and research 
-agendas. AI takes a backseat when basic needs come roaring to the front. With supply chains fractured, data centres 
-flooded, and the price of silicon spiking beyond the reach of academic labs, the idea of training another 
-trillion-parameter model begins to sound like building a luxury yacht during a drought. It is possible that the world 
-becomes too chaotic to prioritise digital cleverness over clean water.
+Regulation finally caught up. The European Union’s AI Act, enacted in 2027, became a blueprint for responsible AI governance worldwide. It mandated rigorous risk assessments, transparency requirements, and clear liability rules. Unlike the toothless guidelines of the past, these laws came with enforceable penalties. This led to a marked slowdown in the deployment of new AI systems, as firms adjusted to the new reality where flouting rules meant serious fines. It was a reminder that innovation without accountability is a recipe for disaster.
 
-### Economic disincentives shrink AI investment
+And then the world threw more fuel on the fire. The global energy crisis of 2029–30 caused data centre outages and pushed chip prices to historic highs. Climate-related disasters disrupted supply chains further. Ambitious plans to train ever-larger AI models stalled, as the costs—and optics—became untenable. It was a classic case of “first things first.” Clean water, reliable energy, and food security demanded attention over another trillion-parameter model.
 
-The economic bubble around generative AI bursts. Investors realise that hallucinating chatbots and uncanny valley 
-avatars are not, in fact, guaranteed profit engines. As the market flattens, overhyped ventures fold. Return on 
-investment becomes anaemic. Real value creation turns out to be harder than a flashy demo. The AI arms race fizzles 
-not with a bang but with a quarterly loss report. Suddenly, 'AI-powered' is not a selling point—it is a risk on the 
-balance sheet.
+Investors soon realised that the dazzling demos of hallucinating chatbots and hyper-realistic avatars were not translating into profits. Many AI startups folded or pivoted to more pragmatic applications, such as AI-assisted maintenance in manufacturing or localised health diagnostics. The phrase “AI-powered” went from a headline-grabbing buzzword to a cautionary label in investor memos. The arms race that had seemed inevitable fizzled into cautious, deliberate development.
 
-### Cultural shifts favour low-tech resilience
+Culturally, societies began to prize resilience over raw computational power. Screen-free schooling became the norm in many countries, with parents pushing back against tech saturation. Communities demanded human oversight over algorithmic governance. Techno-minimalism became a mainstream lifestyle. Digital detoxes were no longer weekend indulgences but integrated into daily routines. The obsession with optimisation gave way to appreciation for comprehension and thoughtful decision-making.
 
-In the wake of repeated social and technical shocks, cultures begin to romanticise low-tech, local, and resilient 
-systems. The idea that bigger models mean better futures loses its shine. Parents push for screen-free education. 
-Communities invest in local decision-making rather than algorithmic governance. Techno-minimalism becomes aspirational. 
-A digital detox is no longer a weekend hobby but a way of life. People who once worshipped optimisation begin to 
-prioritise comprehension.
+But do not mistake this for a dystopian retreat. Rather, it was humanity’s moment of clarity. We collectively decided that AI is a tool—sometimes invaluable, often overhyped, and always subject to human judgment and control. Progress was no longer measured by how fast machines could learn or how convincingly they could mimic humans, but by how wisely we chose to wield them.
 
-## Not collapse, but intentional slowdown
-
-Importantly, this is not a doomsday vision. It is a future where societies say: let us slow down, let us regulate, let 
-us rethink. AI does not need to become omnipotent, omnipresent, or omniscient. It can be just another tool—occasionally 
-useful, often overhyped, and ultimately answerable to human needs. Perhaps progress is not measured by how quickly 
-machines learn, but by how wisely we decide when they should not.
-
+So, next time your AI assistant fumbles, or your phone suggests something absurd, smile. Because we learned to slow AI down before it ran rampant—selling yachts during energy crises was never going to be our legacy. And honestly, that is progress worth having.
 

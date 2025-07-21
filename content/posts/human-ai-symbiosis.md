@@ -63,4 +63,4 @@ That counted for something.
 
 ---
 
-PS: *"The machines are clever. But we are still in charge of wonder."*
+PS: *"The machines are clever. But we are still in charge of wonder."*, a scenario for [futures of AI]({{< relref "posts/futures-of-ai.md" >}}).

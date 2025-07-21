@@ -65,5 +65,5 @@ And that, for now, is enough.
 
 ---
 
-PS: They promised AI would free us. They never said *from what*.
+PS: They promised AI would free us. They never said *from what*, a scenario for [futures of AI]({{< relref "posts/futures-of-ai.md" >}}).
 

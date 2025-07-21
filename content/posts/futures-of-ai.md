@@ -26,7 +26,7 @@ architecture illustrating [evitability of AI progress]({{< relref "posts/ai-not-
 
 *Humanity does not disappear. It upgrades.*
 
-In this best-case scenario in-the-box, AI becomes a collaborative tool rather than a replacement. Artists co-create with algorithms. Decision-making systems support—rather than override—human judgement. Policies prioritise human well-being, equity, and the right to disconnect. Work becomes more meaningful, not less, as automation offloads drudgery and amplifies human insight.
+[In this best-case scenario in-the-box]({{< relref "posts/human-ai-symbiosis.md" >}}), AI becomes a collaborative tool rather than a replacement. Artists co-create with algorithms. Decision-making systems support—rather than override—human judgement. Policies prioritise human well-being, equity, and the right to disconnect. Work becomes more meaningful, not less, as automation offloads drudgery and amplifies human insight.
 
 This future assumes global cooperation on ethical AI development, major public investments in education and reskilling, and robust legal frameworks that prevent data monopolies and algorithmic discrimination. Think the EU’s GDPR meets MIT’s Media Lab, with a dash of open-source utopianism.
 
@@ -40,7 +40,7 @@ alignment is a long shot unless crises forces unity.
 
 *AI is neither salvation nor doom. It is an erratic roommate with too much control over the thermostat.*
 
-In this in-the-box scenario, AI integrates into society unevenly. Some sectors flourish—like biotech, logistics, and 
+[In this likely in-the-box scenario]({{< relref "posts/turbulent-coexistence.md" >}}), AI integrates into society unevenly. Some sectors flourish—like biotech, logistics, and 
 education—while others crumble or hollow out. Legal frameworks lag behind innovation. Disinformation blooms. Labour 
 markets swing unpredictably between boom and bust. Surveillance becomes normalised but not total. Culture becomes 
 fragmented, attention spans shrivel, and trust erodes.
@@ -59,7 +59,7 @@ ecological impacts mount.
 
 *You will be replaced by a chatbot. Please do not resist. It only makes the quarterly reports worse.*
 
-This is the in-the-box nightmare scenario: A future where AI is weaponised by monopolies and states to maximise 
+[This is an in-the-box nightmare scenario]({{< relref "posts/dystopian-displacement.md" >}}): A future where AI is weaponised by monopolies and states to maximise 
 profit and control. Human creativity is marginalised. Gig work becomes the new serfdom. Surveillance capitalism 
 merges with behavioural nudging, and “democracy” is reduced to UX design. AI-generated content floods the media 
 sphere, erasing provenance and truth alike. Education becomes adaptive—and hollow. Reskilling fails. UBI never arrives.
@@ -134,7 +134,8 @@ It is what we are willing to *let* it do—to us, for us, and with us.
 
 *AI promised to save the world, but forgot to factor in the electricity bill. Now we're politely, yet firmly, showing it the door.*
 
-This is the "enough is enough" scenario – where society collectively raises an eyebrow at AI's excesses and stages the 
+[This is an "enough is enough" scenario]({{< relref "posts/ai-not-inevitable.md" >}}) – where society collectively 
+raises an eyebrow at AI's excesses and stages the 
 most British of rebellions: a orderly yet devastating retreat. Having witnessed data centres guzzling power like a 
 student at an all-you-can-drink brunch, job markets collapsing faster than a supermarket shelf in a panic-buying spree, 
 and culture becoming as synthetic as a Wetherspoons carpet, the masses revolt with startling civility.
