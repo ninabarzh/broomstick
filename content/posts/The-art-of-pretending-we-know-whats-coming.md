@@ -97,7 +97,7 @@ Cyberattacks surged. So did costs. Espionage became aggressive sport. Cartels ch
 
 If governments and cartels can’t protect you, build your own club.
 
-The deviant scenario. Not in a saucy way—just one that doesn’t align with neo-liberal fantasies.
+The deviant scenario. Not in a saucy way—just one that doesn’t align with neoliberal fantasies.
 
 Individuals got tired of being tracked and hacked. Government and hacker groups labelled them dissidents, terrorists, or “concerned citizens” (the horror). Businesses, naturally, saw profiles as emotional leverage.
 

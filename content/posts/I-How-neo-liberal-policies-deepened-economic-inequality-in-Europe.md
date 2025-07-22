@@ -1,11 +1,12 @@
 ---
-title: Europe Inc. I. How neo-liberal policies deepened economic inequality in Europe
+title: Europe Inc. I. How neoliberal policies deepened economic inequality in Europe
 date: 2025-05-13T22:00:00.000Z
 draft: false
 tags:
   - inequality
   - EU
   - Europe
+  - butwaittheresmorechaos
 ---
 
 Neoliberalism crept into Europe wearing a sharp suit and talking about efficiency. It promised a leaner, meaner state, less red tape, more growth, and a brighter future. What it delivered was stagnant wages, crumbling services, and Jeff Bezos in a rocket. For Europe, the cost has been clear: growing inequality, weakened public institutions, and a sense that someone, somewhere, has sold the family silver—and is now renting it back to us with interest.
@@ -15,9 +16,10 @@ Contrary to pub-table conspiracy theories, none of this involved secret meetings
 Welcome to Europe Inc., a four-part series on how neoliberalism turned the European project into a corporate shareholder meeting. From inequality to militarism, corporate capture to resistance, this isn’t just a critique — it’s a guided tour through the ruins and a map to the exits. Steeped in dry wit, and entirely unaffiliated with any hedge fund.
 
 ![](/images/boardroom.png#center)
+
 ***
 
-### Tax cuts and deregulation: champagne for some, flat lager for the rest
+## Tax cuts and deregulation: champagne for some, flat lager for the rest
 
 Let’s begin with the tax cuts. From Paris to Berlin, and London to Lisbon, tax policies since the 1980s have followed the same basic script: reduce top rates, deregulate markets, and tell the public it’ll all ‘trickle down’ eventually—like a broken toilet in a penthouse flat.
 
@@ -29,7 +31,7 @@ Wolff reminds us this wasn't an economic accident—it was class warfare by Powe
 
 ***
 
-### Austerity: your crisis, their opportunity
+## Austerity: your crisis, their opportunity
 
 When the 2008 financial meltdown hit—a crisis caused by reckless lending, overleveraged banks, and the sort of risk management you'd expect at a student house party—governments across Europe sprang into action. They bailed out the banks and handed the invoice to everyone else.
 
@@ -41,7 +43,7 @@ As Wolff puts it, austerity isn’t about saving money. It’s about shifting th
 
 ***
 
-### Privatisation: now with extra inefficiency
+## Privatisation: now with extra inefficiency
 
 One of neoliberalism’s greatest magic tricks is convincing people that privatisation is always more efficient. The reality? Services get worse, accountability vanishes, and prices go up—unless you're a shareholder, in which case, congratulations.
 
@@ -55,7 +57,7 @@ Privatisation, as Wolff notes, doesn’t just change who owns a service—it cha
 
 ***
 
-### This was the plan all along
+## This was the plan all along
 
 There’s no need for cloak-and-dagger theories here. Neoliberalism wasn’t imposed by shadowy cabals—it was loudly championed by think tanks, lobby groups, and business leaders who published their intentions in glossy pamphlets with lots of graphs.
 
@@ -65,7 +67,7 @@ Wolff is clear: neoliberalism is a class project. It’s the reassertion of elit
 
 ***
 
-### Where next?
+## Where next?
 
 Inequality in Europe isn’t an unfortunate byproduct—it’s baked into the model. But there are signs of fatigue. Strikes have returned with force. Public ownership is no longer taboo. And younger generations, priced out of housing and saddled with debt, are considerably less enchanted by the gospel of free markets.
 

@@ -1,5 +1,5 @@
 ---
-title: "The Hunger Games was a Documentary"
+title: "The Hunger Games was a documentary?"
 subtitle: "When Spectacle Replaces Substance"
 description: "What if Panem was not a warning, but a press release? A sharp-eyed look at the world through the lens of The Hunger Games—exploring algorithmic gladiators, performative politics, and the ritualised theatre of power disguised as entertainment."
 draft: false
@@ -209,13 +209,15 @@ data. Their suffering is monetised. Their future is embargoed.
 
 ---
 
-This is the world beneath the surface: divided, purposed, extracted, and managed. But purpose assigned is not purpose accepted. And suppression, however total, always leaks. Districts do not stay quiet forever.
+This is the world beneath the surface: [divided, purposed, extracted, and managed in a zero-sum game]({{< relref "posts/zero-sum-game.md" >}}). 
+But purpose assigned is not purpose accepted. And suppression, however total, always leaks. Districts do not stay quiet 
+forever.
 
 ---
 
 ## Who is who in our very real game
 
-President Snow is the architect of stability through fear. He is calm, composed, and always in control. He rarely raises his voice, because others will do the silencing for him. He represents those who wield power not through brute force, but through systems of compliance. Think of technocrats who manipulate economies, or autocrats who smile for the cameras while imprisoning dissent.
+President Snow is the architect of [stability through fear]({{< relref "posts/status-quo.md" >}}). He is calm, composed, and always in control. He rarely raises his voice, because others will do the silencing for him. He represents those who wield power not through brute force, but through systems of compliance. Think of technocrats who manipulate economies, or autocrats who smile for the cameras while imprisoning dissent.
 
 President Coin, by contrast, is the revolutionary turned bureaucrat. She seeks justice, but only on her terms. Her version of the future looks suspiciously like the past, with different faces in charge. She represents the co-opting of rebellion, the capture of insurgency by centrists who seek power as an end, not a means.
 
@@ -227,9 +229,9 @@ Peeta Mellark, with his careful words and idealistic heart, is the moderate forc
 
 Haymitch Abernathy is the veteran who knows too much. They have seen too many cycles to believe in any of them. Their 
 cynicism is armour. They drink (or use other forms of self-medication) not just to forget, but because they remember 
-far too much. They try to teach not just how to survive, but how to outwit a system designed to consume Katnisses and 
-Peetas. They are the disillusioned activists, the scholars who stay in the fight but trust no one. Much appreciated, 
-Haymitch.
+far too much. They try to teach not just how to survive, but [how to outwit a system designed to consume Katnisses and 
+Peetas]({{< relref "posts/zero-sum-game/#breaking-the-game-is-non-zero-sum-possible" >}}). They are the disillusioned 
+activists, the scholars who stay in the fight but trust no one. Much appreciated, Haymitch and Ushie.
 
 ## When spectacle replaces substance in the Arena
 
@@ -245,17 +247,19 @@ The true battle, as ever, is not survival. It is relevance. Or worse: redemption
 
 Even rebellion is now a product. It is sponsored, analysed, tested in A/B trials. Movements rise and fall not on ideology but on virality. The Capitol permits rebellion so long as it is monetisable and does not reach the plumbing.
 
-A true rebellion — one that alters the extractive logic of the game — must not only break the rules, but also refuse to play.
+A true rebellion — one that alters the extractive logic of the game — [needs to not only break the rules, but also refuse to play their zero-sum game]({{< relref "posts/zero-sum-game/#breaking-the-game-is-non-zero-sum-possible" >}}).
 
 ## The odds are never in your favour
 
-Panem is not a future warning. It is a mirror with some stage makeup. We do not need to imagine a world where the few feast while the many are made to fight for crumbs. We live in it. We livestream it.
+Panem is not a future warning. It is a mirror with some stage makeup. We do not need to imagine a world where the few 
+feast while the many are made to fight for crumbs. We live in it. We livestream it.
 
-The lesson of *The Hunger Games* is not that dystopia might come. It is that it can be normalised, televised, and turned into a franchise. It can even be democratised.
+The lesson of *The Hunger Games* is not that dystopia might come. It is that it can be normalised, televised, 
+and turned into a franchise. It can even be democratised.
 
 So sharpen your arrows, or switch off the screen. Either way, play smart. The arena is everywhere now.
 
 And don’t worry. Just like in Panem, the Capitol is already working on rebooting the Games in the Metaverse.
 
-Next season: Hunger Games: AI Edition. Contestants must prompt, code, and beg for compute credits. Sponsors include OpenAI, Alphabet, and the Ministry of Labour Efficiency.
-
+**Next season**: Hunger Games: AI Edition. Contestants must prompt, code, and beg for compute credits. Sponsors 
+include OpenAI, Alphabet, and the Ministry of Labour Efficiency.

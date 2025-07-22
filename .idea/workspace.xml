@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="AI">
-      <change afterPath="$PROJECT_DIR$/content/posts/hunger-games.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Hunger games projection">
+      <change afterPath="$PROJECT_DIR$/content/posts/status-quo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/zero-sum-game.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/I-How-neo-liberal-policies-deepened-economic-inequality-in-Europe.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/I-How-neo-liberal-policies-deepened-economic-inequality-in-Europe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/II-Corporate-hijacking-of-democracy-and-policy.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/II-Corporate-hijacking-of-democracy-and-policy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/III-The-real-motives-behind-Europes-war-economy-push.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/III-The-real-motives-behind-Europes-war-economy-push.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/IV-Resistance-and-alternatives-reclaiming-democracy.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/IV-Resistance-and-alternatives-reclaiming-democracy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/The-art-of-pretending-we-know-whats-coming.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/The-art-of-pretending-we-know-whats-coming.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/hunger-games.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/hunger-games.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/russia-drains.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/russia-drains.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,22 +84,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00081" summary="Israel Iran attack">
-      <option name="closed" value="true" />
-      <created>1749847589650</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1749847589650</updated>
-    </task>
-    <task id="LOCAL-00082" summary="PR's perspectives added">
-      <option name="closed" value="true" />
-      <created>1749888337343</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1749888337343</updated>
     </task>
     <task id="LOCAL-00083" summary="PR's perspectives added">
       <option name="closed" value="true" />
@@ -469,11 +461,26 @@
       <option name="project" value="LOCAL" />
       <updated>1753106919808</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="Hunger games projection">
+      <option name="closed" value="true" />
+      <created>1753173731808</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1753173731808</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Hunger games projection">
+      <option name="closed" value="true" />
+      <created>1753173752850</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1753173752850</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Auteurs" />
     <MESSAGE value="Effects of budget cuts" />
     <MESSAGE value="multi-lingual-search" />
     <MESSAGE value="EUDS" />
@@ -498,6 +505,7 @@
     <MESSAGE value="Links added and spelling corrections" />
     <MESSAGE value="evangelicals and woke" />
     <MESSAGE value="AI" />
-    <option name="LAST_COMMIT_MESSAGE" value="AI" />
+    <MESSAGE value="Hunger games projection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hunger games projection" />
   </component>
 </project>

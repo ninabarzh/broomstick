@@ -10,8 +10,7 @@ tags:
   - butwaittheresmorechaos
 ---
 
-*Note: All personal names have been anonymised unless the individual has a verifiable public presence. I choose to 
-run risks; I will not make that choice for others.*
+*Note: All personal names have been anonymised unless the individual has a verifiable public presence and wishes to be visible. I choose to run risks; I will not make that choice for others.*
 
 He was 21 and already battling high blood pressure. His doctors confirmed it. His exemption papers were in order. But that didn't stop them from coming for him. One morning in spring 2025, he opened his door to find officers holding a digital summons. No discussion. No delay. He was on a bus to a training facility by nightfall. Within a week, he was at the Ukrainian border—terrified, untrained, and furious.
 

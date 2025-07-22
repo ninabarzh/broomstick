@@ -8,6 +8,7 @@ tags:
   - war profiteering
   - EU
   - Europe
+  - butwaittheresmorechaos
 ---
 
 When European leaders speak of “security”, it’s worth asking: security for whom, exactly?
@@ -22,7 +23,7 @@ Welcome to Europe Inc., a four-part series on how neoliberalism turned the Europ
 
 ***
 
-### Military Keynesianism: austerity with better PR
+## Military Keynesianism: austerity with better PR
 
 Back in the day, Keynesianism meant public investment to stimulate the economy—think new schools, railways, or green jobs. Today’s version swaps solar panels for missiles and hospital beds for tanks. Welcome to military Keynesianism, where the state finally spends again—just not on you.
 
@@ -36,7 +37,7 @@ Apparently, there’s always money—provided it explodes.
 
 ***
 
-### The Ukraine war: not just a tragedy, but a market opportunity
+## The Ukraine war: not just a tragedy, but a market opportunity
 
 Let’s be clear: Russia’s invasion of Ukraine is illegal, brutal, and devastating. But the Western response hasn’t just been about solidarity—it’s been a windfall for the arms industry.
 
@@ -50,7 +51,7 @@ All the while, budgets for social care, education, and housing remain “under p
 
 ***
 
-### Enemies wanted: apply within
+## Enemies wanted: apply within
 
 Of course, you can’t justify this kind of spending without a convincing enemy. Russia fits the bill, but as Grace Blakeley points out, the real competition isn't between countries—it's between defence firms. And to stay relevant, they need threats. Existential ones.
 
@@ -62,7 +63,7 @@ We are witnessing, in real time, the manufacture of a permanent war economy—on
 
 ***
 
-### Austerity and militarisation: two sides of the same (bad) coin
+## Austerity and militarisation: two sides of the same (bad) coin
 
 There’s a grim symmetry here. The same governments that said there was no money for mental health services now roll out billion-euro arms deals. The same ministers who told teachers to tighten belts now sign off on new submarines. All in the name of “security”.
 
@@ -74,7 +75,7 @@ It’s a dangerous loop: economic neglect breeds resentment; resentment breeds p
 
 ***
 
-### Weapons instead of welfare: the new consensus
+## Weapons instead of welfare: the new consensus
 
 This is the quiet consensus emerging across Europe: that defence spending is inevitable, desirable, even moral—while social investment is optional, wasteful, and unaffordable. It’s an economic fantasy wrapped in patriotic bunting.
 
@@ -84,7 +85,7 @@ Once upon a time, defence spending was a reluctant necessity. Now it’s a growt
 
 ***
 
-### The bottom line: follow the money (again)
+## Follow the money (again)
 
 As always, it comes back to incentives. Defence contractors want contracts. Politicians want growth. Media outlets—many with shareholders of their own—prefer not to bite the hand that advertises. And so the cycle continues.
 

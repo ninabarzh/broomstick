@@ -6,9 +6,10 @@ tags:
   - democracy
   - EU
   - Europe
+  - butwaittheresmorechaos
 ---
 
-For decades, European politics has resembled a Punch and Judy show, only with fewer laughs and more austerity. On one side, the market-worshipping neo-liberals clutching their spreadsheets and “fiscal responsibility.” On the other, vaguely embarrassed centrists who occasionally tut at inequality but still vote for trade deals written by Exxon lawyers. The stage is well-lit. The audience, increasingly, is not impressed.
+For decades, European politics has resembled a Punch and Judy show, only with fewer laughs and more austerity. On one side, the market-worshipping neoliberals clutching their spreadsheets and “fiscal responsibility.” On the other, vaguely embarrassed centrists who occasionally tut at inequality but still vote for trade deals written by Exxon lawyers. The stage is well-lit. The audience, increasingly, is not impressed.
 
 But while corporate power has captured institutions from Westminster to Brussels, it hasn’t silenced resistance. Across the continent, citizens, thinkers, activists and even the odd rogue economist are challenging the capture—not just with slogans, but with blueprints for change. This isn’t about utopia. It’s about damage control, dignity, and doing better than a system that currently functions like a vending machine for billionaires.
 
@@ -18,7 +19,7 @@ Welcome to Europe Inc., a four-part series on how neoliberalism turned the Europ
 
 ***
 
-### Ban the chequebooks: campaign finance with training wheels off
+## Ban the chequebooks: campaign finance with training wheels off
 
 Prem Sikka, who knows the UK’s economic corruption inside out and probably has the receipts, is unequivocal: if you want a functioning democracy, you need to ban private donations. Not “regulate” them. Not “limit” them. Ban them. Entirely.
 
@@ -30,9 +31,9 @@ It’s time to stop treating political parties like private businesses with loya
 
 ***
 
-### Democratising the economy: not a radical idea, just long overdue
+## Democratising the economy: not a radical idea, just long overdue
 
-Let’s be clear: neo-liberal economics is not an inevitability. It’s a choice—albeit one imposed, repeated, and repackaged so often it now feels like gravity.
+Let’s be clear: neoliberal economics is not an inevitability. It’s a choice—albeit one imposed, repeated, and repackaged so often it now feels like gravity.
 
 Across Europe, however, that spell is weakening. Economists like Grace Blakeley, Yanis Varoufakis, and Thomas Piketty are openly rejecting the script. Their ideas aren’t fringe—they’re practical. Wealth taxes. Public ownership of energy and transport. Housing as a right, not an asset class. Even the IMF, usually the spiritual home of polite austerity sadists, has flirted with wealth redistribution in recent papers.
 
@@ -44,7 +45,7 @@ Economic democracy isn’t ideology—it’s survival.
 
 ***
 
-### Rewilding the media landscape: journalism without yachts
+## Rewilding the media landscape: journalism without yachts
 
 Independent media is the lifeblood of informed democracy. Which is why it’s treated with such disdain by those in power.
 
@@ -60,7 +61,7 @@ Because when media exists only to protect the powerful, democracy becomes little
 
 ***
 
-### Mutual aid, co-ops and people who won’t wait politely
+## Mutual aid, co-ops and people who won’t wait politely
 
 Politics doesn’t only happen in parliaments. It happens in housing co-ops in Bologna, solidarity kitchens in Athens, and citizen energy collectives in Copenhagen.
 
@@ -72,7 +73,7 @@ This is politics, too—just not the kind that gets televised.
 
 ***
 
-### From managed decline to organised resistance
+## From managed decline to organised resistance
 
 None of this is simple. The road to reclaiming democracy isn’t a straight line. It’s a mosaic—messy, multilingual, sometimes maddening. But it’s happening. And it doesn’t require utopian thinking. Just a refusal to keep settling for a democracy that functions more like a customer feedback form for Goldman Sachs.
 

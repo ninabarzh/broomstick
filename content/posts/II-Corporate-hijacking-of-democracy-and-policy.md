@@ -6,6 +6,7 @@ tags:
   - democracy
   - EU
   - Europe
+  - butwaittheresmorechaos
 cover:
   image: "/images/1.png"
   alt: "The game is rigged" 
@@ -23,7 +24,7 @@ Welcome to Europe Inc., a four-part series on how neoliberalism turned the Europ
 
 ***
 
-### Political donations: legalised bribery, with better stationery
+## Political donations: legalised bribery, with better stationery
 
 Let’s begin with the grubby bit that still manages to wear cufflinks: political donations. In theory, these are contributions to support democratic debate. In practice, they function as an investment—one that expects policy returns.
 
@@ -35,7 +36,7 @@ As political economist Prem Sikka bluntly puts it, “governments indulge corpor
 
 ***
 
-### Regulatory capture: when the fox writes the hen-house manual
+## Regulatory capture: when the fox writes the hen-house manual
 
 Regulatory capture sounds technical, but it’s quite straightforward: it’s when the people supposed to keep corporations in check are instead taking notes from them. Or jobs. Or, occasionally, both.
 
@@ -49,7 +50,7 @@ This isn’t illegal. It’s just depressingly normal.
 
 ***
 
-### Corporate welfare: socialism for the rich
+## Corporate welfare: socialism for the rich
 
 When workers ask for fair pay, it’s "inflationary". When the public sector requests funding, it's "unsustainable". But when corporations need a bailout, the cheque is in the post before the ink is dry.
 
@@ -59,7 +60,7 @@ In essence, it’s corporate welfare: the taxpayer takes the risk, the executive
 
 ***
 
-### The illusion of free trade: freedom for whom, exactly?
+## The illusion of free trade: freedom for whom, exactly?
 
 Free trade, like diet cola, promises all the benefits with none of the side effects. In reality, modern trade deals are less about removing tariffs and more about empowering corporations to sue governments for daring to regulate.
 
@@ -71,7 +72,7 @@ So yes, trade is freer. For corporations. Everyone else? Not so much.
 
 ***
 
-### Guns, not butter: following the money
+## Guns, not butter: following the money
 
 Ever wonder why defence budgets are ballooning while schools beg for glue sticks? It’s not because Europe is full of warmongers—it’s because defence spending is reliably profitable and politically safe.
 
@@ -83,7 +84,7 @@ It’s no coincidence that ex-politicians regularly turn up on the boards of arm
 
 ***
 
-### Democracy for sale: barely used, apply within
+## Democracy for sale: barely used, apply within
 
 Europe still holds elections. Parliament buildings still stand. The language of democracy—choice, accountability, transparency—is still repeated like a prayer. But behind the scenes, policy is shaped by those with the deepest pockets and the most persistent lobbyists.
 
@@ -93,7 +94,7 @@ As Wolff might put it, this isn’t democracy failing—it’s capitalism succee
 
 ***
 
-### What next?
+## What next?
 
 The good news? This isn’t inevitable. The structure may be rigged, but it’s not unchangeable. Public awareness is growing. Grass-roots movements are pushing back—from campaign finance reform to demands for corporate transparency and fair taxation. Some parliaments (especially in the Nordics) remain relatively robust. And citizens still have the power to demand more than theatre.
 
