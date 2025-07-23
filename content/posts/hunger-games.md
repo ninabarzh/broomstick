@@ -217,17 +217,28 @@ forever.
 
 ## Who is who in our very real game
 
-President Snow is the architect of [stability through fear]({{< relref "posts/status-quo.md" >}}). He is calm, composed, and always in control. He rarely raises his voice, because others will do the silencing for him. He represents those who wield power not through brute force, but through systems of compliance. Think of technocrats who manipulate economies, or autocrats who smile for the cameras while imprisoning dissent.
+President Snow are the architects of [stability through fear]({{< relref "posts/status-quo.md" >}}). They are calm, 
+composed, and always in control. They rarely raise their voice, because others will do the silencing for them. They 
+are those who wield power not through brute force, but through systems of compliance. Think of technocrats who 
+manipulate economies, or autocrats who smile for the cameras while imprisoning dissent.
 
-President Coin, by contrast, is the revolutionary turned bureaucrat. She seeks justice, but only on her terms. Her version of the future looks suspiciously like the past, with different faces in charge. She represents the co-opting of rebellion, the capture of insurgency by centrists who seek power as an end, not a means.
+President Coin, by contrast, are the revolutionary turned bureaucrats. They seek justice, but only on their terms. 
+Their version of the future looks suspiciously like the past, with different faces in charge. They are the centrists
+co-opting rebellion and capturing insurgency, seeking power as an end, not a means.
 
-Caesar Flickerman is the entertainer in chief, the manicured mouthpiece of the regime. He makes horror look palatable and normalises violence with a grin. In the modern world, he can be found on every mainstream talk show, podcast, or news outlet that tells you everything is fine as the water rises. He is charisma without conscience.
+Caesar Flickerman are the entertainers in chief, the manicured mouthpieces of the regime. They make horror look 
+palatable and normalise violence with a grin. They can be found on mainstream talk shows, podcasts, 
+or news outlets that tell you everything is fine as the water rises. They are charisma without conscience.
 
-Katniss Everdeen is the reluctant rebel, the symbol thrust into the spotlight. She does not seek to lead but is forced to act. She stands in for every public figure who becomes the face of resistance without asking to be. We consume their image, amplify their message, and often abandon them to burnout or backlash.
+Katniss Everdeen are the reluctant rebels, the symbols thrust into the spotlight. They do not seek to lead but are 
+forced to act. They are every public figure who becomes the face of resistance without asking to be. We consume 
+their image, amplify their message, and often abandon them to burn out or backlash.
 
-Peeta Mellark, with his careful words and idealistic heart, is the moderate forced to adapt. He wishes for peace but understands that to survive, one must perform. He represents the liberal voices trying to navigate a world built for extremes.
+Peeta Mellark, with careful words and idealistic heart, are the moderate people, forced to adapt. They wish for peace 
+but understand that to survive, one must perform. They are the liberal voices trying to navigate a world built for 
+extremes.
 
-Haymitch Abernathy is the veteran who knows too much. They have seen too many cycles to believe in any of them. Their 
+Haymitch Abernathy are the veterans who know too much. They have seen too many cycles to believe in any of them. Their 
 cynicism is armour. They drink (or use other forms of self-medication) not just to forget, but because they remember 
 far too much. They try to teach not just how to survive, but [how to outwit a system designed to consume Katnisses and 
 Peetas]({{< relref "posts/zero-sum-game/#breaking-the-game-is-non-zero-sum-possible" >}}). They are the disillusioned 
