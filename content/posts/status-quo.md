@@ -183,5 +183,5 @@ Or, and hear me out, you could [stop pretending the arena ever had rules in your
 favour]({{< relref "hunger-games/#the-odds-are-never-in-your-favour/" >}}) and [play some non-zero-sum games instead]({{< relref "posts/zero-sum-game.md/" >}}).
 "*
 
-Dry, bitter, and tragically accurate—Haymitch’s wisdom tends to hit like a cocktail disguised as a joke.
+Dry, bitter, and tragically accurate—Haymitch’s wisdom tends to hit home disguised as a joke.
 
