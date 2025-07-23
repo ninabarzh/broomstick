@@ -19,7 +19,7 @@ Those with power—states, corporations, elites, and multilateral institutions�
 
 **Delay reform** by insisting they need more data or need more time to think. There is always one more impact assessment to commission, one more committee to convene, one more future meeting to vaguely schedule. This bureaucratic procrastination is not accidental. It is governance as a stalling tactic.
 
-**Dilute pressure** by claiming they are listening to all stakeholders. Of course, some stakeholders are given plush conference rooms and buffet lunches, while others are kept in the waiting room. Inclusivity, it seems, has tiers.
+**Dilute pressure** by [claiming they are listening to all stakeholders]({{< relref "posts/climate-collapse-democracy/#join-or-initiate-citizens-assemblies" >}}). Of course, some stakeholders are given plush conference rooms and buffet lunches, while others are kept in the waiting room. Inclusivity, it seems, has tiers.
 
 **Distract dissent** with an [endless stream of spectacle—sports tournaments, algorithmically curated outrage, and shiny gadgets]({{< relref "posts/hunger-games/#when-spectacle-replaces-substance-in-the-arena" >}}), algorithmically curated outrage, and shiny gadgets that offer neither ownership nor liberation. The trick is to keep people too entertained, angry, or exhausted to organise.
 
