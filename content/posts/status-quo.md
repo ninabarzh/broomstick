@@ -31,11 +31,11 @@ Why fix what continues to benefit them?
 
 Institutions are meant to regulate, redistribute, and reform. In practice, they have become prestige hotels for privilege:
 
-The **IMF** continues to prescribe austerity as if it were a multivitamin—universally applicable, mildly unpleasant, and backed by questionable science. The effects are well-known: reduced public services, rising inequality, and social unrest. But old habits die hard, especially when they serve creditors.
+The **[IMF]({{< relref "posts/i-how-neo-liberal-policies-deepened-economic-inequality-in-europe/#austerity-your-crisis-their-opportunity/" >}})** continues to prescribe austerity as if it were a multivitamin—universally applicable, mildly unpleasant (to the IMF), and backed by questionable science. The effects are well-known: reduced public services, rising inequality, and social unrest. But old habits die hard, especially when they serve creditors.
 
 The **UN Security Council** is stuck in 1945 cosplay. It clings to its permanent members and veto powers like sacred relics, despite representing a world order that has long since expired. Reform is regularly proposed and just as regularly buried beneath procedural molasses.
 
-**Corporate lobbyists** write legislation with pens dipped in shareholder ink. Elected officials are, more often than not, mere stenographers. The democratic process may still involve voting, but the drafting process involves dinners, donations, and discreet drafting notes.
+**[Corporate lobbyists]({{< relref "posts/ii-corporate-hijacking-of-democracy-and-policy/" >}})** write legislation with pens dipped in shareholder ink. Elected officials are, more often than not, mere stenographers. The democratic process may still involve voting, but the drafting process involves dinners, donations, and discreet drafting notes.
 
 The global system is not broken. It was built this way—*to stabilise privilege, not to challenge it*.
 
