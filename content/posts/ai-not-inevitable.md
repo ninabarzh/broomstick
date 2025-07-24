@@ -1,5 +1,5 @@
 ---
-title: "The Great Pullback"
+title: "The Great Pullback (best case)"
 subtitle: "The future where AI progress stalls (and that is not a bad thing)"
 description: "Not utopia, not apocalypse, but a kind of socio-technical ceasefire. This is what it could look like if humanity decided to walk away from runaway AI development."
 date: 2025-07-21T06:00:00.000Z
