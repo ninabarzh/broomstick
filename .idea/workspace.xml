@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Hunger games projections">
-      <change beforePath="$PROJECT_DIR$/content/posts/status-quo.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/status-quo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,14 +75,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00087" summary="Effects of budget cuts">
-      <option name="closed" value="true" />
-      <created>1750064560798</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1750064560798</updated>
     </task>
     <task id="LOCAL-00088" summary="Effects of budget cuts">
       <option name="closed" value="true" />
@@ -468,7 +460,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753262632328</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="Hunger games projections">
+      <option name="closed" value="true" />
+      <created>1753263199918</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1753263199918</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

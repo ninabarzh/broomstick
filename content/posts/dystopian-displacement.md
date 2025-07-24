@@ -4,7 +4,7 @@ subtitle: "A short story about when AI goes wrong (and takes everything else wit
 description: "A bleak vision of mass automation, algorithmic governance, and creative decay. Humanity loses the plot—and the rights—to its own story."
 date: 2025-07-21T04:00:00.000Z
 draft: false
-tags: ["AI futures", "automation", "creative collapse", "dystopia", "algorithmic control", "job loss", "scenarios", "scenario planning", "worst case"]
+tags: ["AI", "automation", "creative collapse", "dystopia", "algorithmic control", "job loss", "scenarios", "scenario planning", "worst case"]
 ---
 
 Elena remembered when the world still made some sort of sense. Not much, admittedly—it had always teetered somewhere between absurd and unbearable—but at least back then, she could lie to herself about having a job, a future, or a say in how things turned out.

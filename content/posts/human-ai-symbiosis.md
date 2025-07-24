@@ -4,7 +4,7 @@ subtitle: "A short story about the future that did not ruin everything"
 description: "A hopeful scenario where humans and AI evolve in tandem, supported by democratic oversight, ethical design, and creative partnerships. Utopian? Maybe. Possible? Just barely."
 date: 2025-07-21T00:00:00.000Z
 draft: false
-tags: ["AI futures", "symbiosis", "creativity", "human-centric AI", "democracy", "tech optimism", "scenarios", "scenario planning", "best case"]
+tags: ["AI", "symbiosis", "creativity", "human-centric AI", "democracy", "tech optimism", "scenarios", "scenario planning", "best case"]
 ---
 
 Pau was late, again, thanks to the AI-run tram that insisted on pausing for precisely 12.4 seconds at each station 

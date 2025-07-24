@@ -4,7 +4,7 @@ subtitle: "The future where AI progress stalls (and that is not a bad thing)"
 description: "Not utopia, not apocalypse, but a kind of socio-technical ceasefire. This is what it could look like if humanity decided to walk away from runaway AI development."
 date: 2025-07-21T06:00:00.000Z
 draft: false
-tags: ["AI futures", "AI regulation", "technology backlash", "geopolitics", "sustainability", "AI limits", "scenarios", "scenario planning", "best case", "butwaittheresmorechaos"]
+tags: ["AI", "technology backlash", "geopolitics", "sustainability", "AI limits", "scenarios", "scenario planning", "best case", "butwaittheresmorechaos"]
 cover:
   image: "images/ceasefire-stack.png"
   alt: "A futuristic building in the shape of a data stack, with each layer representing a halted phase of AI development: machine learning, neural networks, general intelligence. Each level more incomplete than the last. Signs of abandonment—cranes frozen mid-air, architectural plans strewn across a cracked smart glass wall. Above, a billboard shows a serene Earth with the slogan: “We chose balance."

@@ -4,7 +4,7 @@ subtitle: "A short story about navigating a future that refuses to decide betwee
 description: "A messy middle ground where AI advances unevenly, governance lags, inequality worsens, and society scrambles to adapt. Chaos isn’t coming—it’s already here."
 date: 2025-07-21T02:00:00.000Z
 draft: false
-tags: ["AI futures", "labour", "governance", "inequality", "automation", "uncertainty", "scenarios", "scenario planning", "likely case", "butwaittheresmorechaos",]
+tags: ["AI", "labour", "governance", "inequality", "automation", "uncertainty", "scenarios", "scenario planning", "likely case", "butwaittheresmorechaos",]
 ---
 
 Elijah never quite knew how to answer the question, "So, what do you *do*?"

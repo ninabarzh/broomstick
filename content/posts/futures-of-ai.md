@@ -4,7 +4,7 @@ subtitle: "Exploring possible outcomes of AI's rise—and what shapes them"
 description: "From utopian harmony to chaotic adaptation and full-blown displacement, exploring plausible futures for AI and the cross-cutting forces shaping them."
 date: 2025-07-21T08:00:00.000Z
 draft: false
-tags: ["AI futures", "governance", "automation", "labour", "democracy", "public agency", "scenarios", "scenario-planning", "best case", "worst case", "likely case"]
+tags: ["AI", "governance", "automation", "labour", "democracy", "public agency", "scenarios", "scenario-planning", "best case", "worst case", "likely case"]
 ---
 
 As AI systems gallop into the mainstream, humanity is left staggering somewhere behind, still deciding whether it is 
