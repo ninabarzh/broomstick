@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="AI">
-      <change afterPath="$PROJECT_DIR$/content/posts/update-weaponised-data.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Weaponised data" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,14 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00090" summary="multi-lingual-search">
-      <option name="closed" value="true" />
-      <created>1750799078344</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1750799078345</updated>
     </task>
     <task id="LOCAL-00091" summary="EUDS">
       <option name="closed" value="true" />
@@ -469,11 +458,18 @@
       <option name="project" value="LOCAL" />
       <updated>1753386130288</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="Weaponised data">
+      <option name="closed" value="true" />
+      <created>1753794438286</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1753794438286</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="multi-lingual-search" />
     <MESSAGE value="EUDS" />
     <MESSAGE value="silent crisis" />
     <MESSAGE value="missing power" />
@@ -498,6 +494,7 @@
     <MESSAGE value="Hunger games projection" />
     <MESSAGE value="Hunger games projections" />
     <MESSAGE value="AI" />
-    <option name="LAST_COMMIT_MESSAGE" value="AI" />
+    <MESSAGE value="Weaponised data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Weaponised data" />
   </component>
 </project>

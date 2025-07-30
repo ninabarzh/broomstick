@@ -107,7 +107,7 @@ effectively facilitating surveillance under humanitarian pretence.
 Emotion‑recognition tech in schools and protests increasingly profiles and alienates vulnerable populations.
 Here’s your text with the added academic grounding for the “weak scientific foundations” claim:
 
-Emotion‑recognition AI**—flawed, biased, and built on [weak scientific foundations](https://arxiv.org/abs/2009.00502)—
+Emotion‑recognition AI—flawed, biased, and built on [weak scientific foundations](https://arxiv.org/abs/2009.00502)—
 has left classrooms and protest spaces the latest sites of digital profiling. In China and India, systems that 
 ['read' emotions during lessons](https://www.axios.com/2019/11/02/china-emotion-recognition) push students to 
 perform for the camera, while in U.S. schools, tools like 
@@ -179,7 +179,7 @@ addressing data inequity in infrastructure planning.
 
 ### Ethical data labour in AI
 
-[Indian startup **Karya** offers a model that pays rural and marginalised language speakers fairly](https://time.com/6297403/the-workers-behind-ai-rarely-see-its-rewards-this-indian-startup-wants-to-fix-that/)—and provides them 
+[Indian startup Karya offers a model that pays rural and marginalised language speakers fairly](https://time.com/6297403/the-workers-behind-ai-rarely-see-its-rewards-this-indian-startup-wants-to-fix-that/)—and provides them 
 royalties when their voice data is resold. It’s an emerging fair-labour model for AI data production.
 
 ### Indigenous-led frameworks & biodiversity
@@ -194,20 +194,20 @@ royalties when their voice data is resold. It’s an emerging fair-labour model 
 
 ## Power and consent revisited
 
-* **Who defines impact in 2025?** Still mostly funders, tech vendors, and governments—but increasingly mediated by opaque algorithmic impact scores.
-* **Informed consent is a myth** in many contexts: few end-users of data fully understand what their data may power, share, or enable.
-* **Data sovereignty works—but rarely scales.** Indigenous communities are ahead: frameworks and infrastructure rooted in CARE principles and local governance models are emerging, though mainstream adoption lags.
+* Who defines impact in 2025? Still mostly funders, tech vendors, and governments—but increasingly mediated by opaque algorithmic impact scores.
+* Informed consent is a myth in many contexts: few end-users of data fully understand what their data may power, share, or enable.
+* Data sovereignty works—but rarely scales. Indigenous communities are ahead: frameworks and infrastructure rooted in CARE principles and local governance models are emerging, though mainstream adoption lags.
 
 ---
 
 ## Ways forward
 
-1. **Adopt data minimalism**: collect only essential data, hold it briefly, and destroy it when no longer needed.
-2. **Support community-led infrastructure**: data cooperatives, federated clouds, local hosting, encryption‑first tools that embed consent and control.
-3. **Centre qualitative narratives**: human stories are valid forms of evidence—don’t defer to dashboards alone.
-4. **Demand algorithmic transparency clauses** in tech vendor contracts and opt‑out rights for disruptive technologies.
-5. **Build cross‑movement alliances**: privacy advocates, AI ethicists, humanitarian workers, Indigenous and marginalised groups working together to reclaim control.
-6. **[Push for algorithmic reparations](https://www.wired.com/story/move-algorithmic-reparation-calls-racial-justice-ai/)**: design tools explicitly to reduce harm and redistribute resources to historically oppressed groups.
+1. Adopt data minimalism: collect only essential data, hold it briefly, and destroy it when no longer needed.
+2. Support community-led infrastructure: data cooperatives, federated clouds, local hosting, encryption‑first tools that embed consent and control.
+3. Centre qualitative narratives: human stories are valid forms of evidence—don’t defer to dashboards alone.
+4. Demand algorithmic transparency clauses in tech vendor contracts and opt‑out rights for disruptive technologies.
+5. Build cross‑movement alliances: privacy advocates, AI ethicists, humanitarian workers, Indigenous and marginalised groups working together to reclaim control.
+6. [Push for algorithmic reparations](https://www.wired.com/story/move-algorithmic-reparation-calls-racial-justice-ai/): design tools explicitly to reduce harm and redistribute resources to historically oppressed groups.
 
 ---
 
