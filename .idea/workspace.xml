@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Weaponised data">
-      <change afterPath="$PROJECT_DIR$/content/posts/weizenbaum.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="weizenbaum">
+      <change afterPath="$PROJECT_DIR$/content/posts/divd.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/divd.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,22 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00092" summary="silent crisis">
-      <option name="closed" value="true" />
-      <created>1751562313206</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1751562313206</updated>
-    </task>
-    <task id="LOCAL-00093" summary="silent crisis">
-      <option name="closed" value="true" />
-      <created>1751562470342</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1751562470343</updated>
     </task>
     <task id="LOCAL-00094" summary="missing power">
       <option name="closed" value="true" />
@@ -469,11 +454,26 @@
       <option name="project" value="LOCAL" />
       <updated>1753851784184</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="weizenbaum">
+      <option name="closed" value="true" />
+      <created>1754230390215</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1754230390216</updated>
+    </task>
+    <task id="LOCAL-00142" summary="weizenbaum">
+      <option name="closed" value="true" />
+      <created>1754230410040</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1754230410040</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="EUDS" />
     <MESSAGE value="silent crisis" />
     <MESSAGE value="missing power" />
     <MESSAGE value="multi-spectral imaging" />
@@ -498,6 +498,7 @@
     <MESSAGE value="Hunger games projections" />
     <MESSAGE value="AI" />
     <MESSAGE value="Weaponised data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Weaponised data" />
+    <MESSAGE value="weizenbaum" />
+    <option name="LAST_COMMIT_MESSAGE" value="weizenbaum" />
   </component>
 </project>
