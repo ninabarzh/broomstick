@@ -126,7 +126,8 @@ Key strategies include adopting an “assume breach” mindset, tightening your 
 
 The challenges are significant: unknown unknowns, false positives, and ever‑evolving attacker techniques, not to mention the fragility of supply chains. Emerging tools such as AI‑driven anomaly detection, runtime application self‑protection, and cloud‑native security patterns are promising, but they are no substitute for disciplined, continuous threat modelling.
 
-In short: you cannot predict the unpredictable, but you can design systems that fail gracefully, detect mischief quickly, and recover before the whole thing unravels.
+In short: you cannot predict the unpredictable, but you can design systems that fail gracefully, detect mischief 
+quickly, and recover [before the whole thing unravels]({{< relref "posts/divd.md" >}}).
 
 
 
