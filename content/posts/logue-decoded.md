@@ -1,0 +1,110 @@
+---  
+title: "The killing code: Masonic symbols and the concealment of frontier Violence" 
+subtitle: "How a 19th-century settler's encrypted diary exposes Australia’s silenced past—and the institutions that still will not speak of it"  
+description: "A 19th-century cipher. A settler’s cryptic accounts of violence. A modern-day silence. The discovery of Lionel Logue’s encoded diaries forces a reckoning with how colonial atrocities were concealed—and who benefits from keeping them obscured."
+draft: false
+date: 2025-08-04
+tags:  
+  - colonialism
+  - violence  
+  - freemasonry  
+  - Australian history  
+  - cipher  
+  - historical memory  
+  - frontier wars  
+  - secrecy
+  - pigpen
+---
+
+## Symbols, silence, and the shadow of colonial violence
+
+On 4 August 2025, [The Guardian published an investigation into a set of unusual diary entries by a Western Australian settler named Logue](https://www.theguardian.com/australia-news/ng-interactive/2025/aug/04/the-killing-code-strange-symbols-in-a-wa-settlers-diaries-lay-bare-frontier-atrocities-ntwnfb). 
+The diaries, kept between 1879 and 1883, appear to record acts of violence against Aboriginal people — not in plain 
+language, but in a series of geometric symbols. Researchers identified these as a form of the [pigpen cipher](https://en.wikipedia.org/wiki/Pigpen_cipher), a code historically associated with Freemasonry and other fraternal organisations.
+
+The coded entries suggest an unsettling record:
+
+* **4 July 1881** – Symbols translate to an account of riding with others near the Chapman River, “shot at blacks” and “killed one” before driving off the survivors.
+* **14 August 1882** – A passage describes capturing “five blacks”, chaining them, and later “punished” them by firing rifles in their direction, hitting at least one.
+* **20 February 1883** – The code appears to note “blacks camped by waterhole” and “gave them peppering” — a euphemism that, in period context, seems to indicate gunfire.
+
+These examples, though not in plain English, align with known patterns of violence during Western Australia’s frontier 
+era. The *Guardian*’s consulted historians argue the symbols are more than personal shorthand — they appear to be 
+deliberate concealment of activities that could be considered crimes even in their own time.
+
+## The pigpen cipher in plain language
+
+The pigpen cipher looks complicated, but it is just a way of swapping each letter for a simple shape. Those shapes come from two “grids” and two “X” shapes, with and without dots.
+
+Think of it like a treasure map — the shape tells you where the “letter” is hiding.
+
+When you write in pigpen cipher, you never write the letters — you only draw the shape of the box or triangle that holds them.
+
+```text
+Grid without dots:          Grid with dots:
++---+---+---+               +---+---+---+
+| A | B | C |               | J | K | L |
++---+---+---+               +---+---+---+
+| D | E | F |               | M | N | O |
++---+---+---+               +---+---+---+
+| G | H | I |               | P | Q | R |
++---+---+---+               +---+---+---+
+
+X without dots:             X with dots:
+ \   S   /                   \   V   /
+  \     /                     \     /
+ T \ U / W                   Y \ Z /  
+```
+
+* A is the top-left corner shape from the plain grid.
+* K is the same top-left corner shape, but with a dot (because it is in the dotted grid).
+* S is the top triangle from the plain X.
+* V is that same top triangle shape, but with a dot inside.
+
+Dots tell the reader “use the second half of the alphabet.”
+
+**Encoding and decoding:**
+
+To encode:
+
+* Write your message.
+* Replace each letter with the shape from its position in the grid/X (dot or no dot as needed).
+
+To decode:
+
+* Identify the shape in the diary.
+* Match it to the grid/X position and note whether it has a dot.
+* Write down the letter that corresponds.
+
+Like so:
+
+![Coded and decoded pigpen](/images/logue-decoded.png)
+
+## The question of Logue’s masonry membership
+
+The *Guardian* does not state that Logue was a Freemason. However, the choice of cipher raises the possibility. Pigpen ciphers have long been part of Masonic teaching materials and symbolism, though they were also used in scouting, puzzles, and other non-Masonic contexts.
+
+Separately, historical records confirm that a **Lionel Logue** — the Australian speech therapist to King George VI — was an active Freemason, initiated in 1908 and later serving as Worshipful Master of St George’s Lodge in Western Australia. Whether the diarist and the later speech therapist are the same individual is not proven in the public record, and any connection remains speculative.
+
+## The matter of response
+
+As of August 2025, no public statement appears to have been issued by any Masonic lodge, Grand Lodge, or affiliated 
+organisation in Western Australia, or Australia more broadly, in response to the diary revelations. This silence is 
+notable given the public interest generated by the cipher’s Masonic associations.
+
+Masonic bodies in Australia generally present themselves as non-political, charitable fraternities. Public engagement 
+with historical controversies — especially those touching on colonial violence — is rare, and there seems to be no 
+institutional precedent for addressing such a matter.
+
+## Silence as a data point
+
+The absence of any Masonic comment could stem from uncertainty about the diarist’s membership, from a reluctance to 
+engage in politically sensitive historical debate, or simply from lack of awareness within current lodges. Regardless 
+of the reason, the silence stands out against the backdrop of a detailed public investigation.
+
+Until archival evidence makes the connection clearer, the relationship between the diarist’s use of a Masonic cipher 
+and his possible membership remains an open question. What is certain is that the combination of secrecy, symbolism, 
+and the apparent recording of violent acts invites reflection — not just on individual behaviour, but on how 
+institutions choose to respond, or not respond, when uncomfortable histories emerge.
+
+
