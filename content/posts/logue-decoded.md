@@ -52,9 +52,12 @@ Grid without dots:          Grid with dots:
 +---+---+---+               +---+---+---+
 
 X without dots:             X with dots:
- \   S   /                   \   V   /
-  \     /                     \     /
- T \ U / W                   Y \ Z /  
+
+   \ S /                       \ T /
+    \ /                         \ /
+ U   X   W                   V   X   X
+    / \                         / \
+   / Y \                       / Z \
 ```
 
 * A is the top-left corner shape from the plain grid.
@@ -77,7 +80,11 @@ To decode:
 * Match it to the grid/X position and note whether it has a dot.
 * Write down the letter that corresponds.
 
-Logue's pigpen is an adapted form, so find which symbol represents what place in the grids and the letter it represents (`_|` is `A` for example in Logues' variant):
+Logue's pigpen is an adapted form, so find which symbol represents what place in the grids(`_|` is `A` for example in Logues' variant):
+
+![Coded and decoded pigpen](/images/logue-code.png)
+
+This message then becomes:
 
 ![Coded and decoded pigpen](/images/logue-decoded.png)
 
