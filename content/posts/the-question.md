@@ -20,7 +20,7 @@ that AI will be “10 times bigger than the Industrial Revolution.” Disruption
 will adapt, as it always does. The challenge is simply to manage the turbulence.
 
 In the other corner, we have Joseph Weizenbaum, 
-[reflecting in the 1980s on his earlier work](https://web.archive.org/web/20211002104454/http://tech.mit.edu/V105/N16/weisen.16n.html) designing a banking system for processing physical cheques. It was an intricate, technically satisfying project. Only years later did it occur to him that no one had asked whether automating cheque processing at scale was socially desirable, or what knock-on effects it might have. “It never occurred to me to ask,” he admitted.
+[reflecting in the 1980s on his earlier work]({{< relref "posts/weizenbaum.md" >}}) designing a banking system for processing physical cheques. It was an intricate, technically satisfying project. Only years later did it occur to him that no one had asked whether automating cheque processing at scale was socially desirable, or what knock-on effects it might have. “It never occurred to me to ask,” he admitted.
 
 Hassabis starts from the premise that AI should happen — the question is how fast. Weizenbaum learned the hard way that asking “Should this happen?” is the question most professionals never even think to put on the table.
 

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="zero day threat modelling">
-      <change afterPath="$PROJECT_DIR$/content/posts/the-question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="the question">
+      <change beforePath="$PROJECT_DIR$/content/posts/the-question.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/the-question.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +75,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00097" summary="tricksters">
-      <option name="closed" value="true" />
-      <created>1751622120364</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1751622120364</updated>
     </task>
     <task id="LOCAL-00098" summary="tricksters">
       <option name="closed" value="true" />
@@ -469,11 +460,18 @@
       <option name="project" value="LOCAL" />
       <updated>1754253292361</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="the question">
+      <option name="closed" value="true" />
+      <created>1754305062490</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1754305062490</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="multi-spectral imaging" />
     <MESSAGE value="tricksters" />
     <MESSAGE value="frozen north" />
     <MESSAGE value="eurostack" />
@@ -498,6 +496,7 @@
     <MESSAGE value="weizenbaum" />
     <MESSAGE value="divd" />
     <MESSAGE value="zero day threat modelling" />
-    <option name="LAST_COMMIT_MESSAGE" value="zero day threat modelling" />
+    <MESSAGE value="the question" />
+    <option name="LAST_COMMIT_MESSAGE" value="the question" />
   </component>
 </project>
