@@ -99,8 +99,6 @@ Weizenbaum’s greatest fear was that the younger generation would never grow ol
 
 The fear has diversified. The threat of sudden nuclear annihilation still exists, but it now sits alongside climate collapse, synthetic pandemics, destabilising cyber‑attacks, and autonomous weapons escalation. The common thread is the same: capabilities racing ahead of political maturity. The menu of potential endings is longer; the appetite for slowing down hasn’t grown.
 
-Here’s a closing reflection that ties all the “nows” into one last, sharp takeaway:
-
 ---
 
 ## Reflection in 2025
