@@ -34,7 +34,8 @@ deliberate concealment of activities that could be considered crimes even in the
 
 ## The pigpen cipher in plain language
 
-The pigpen cipher looks complicated, but it is just a way of swapping each letter for a simple shape. Those shapes come from two “grids” and two “X” shapes, with and without dots.
+The pigpen cipher looks complicated, but it is just a way of swapping each letter for a simple shape. Those shapes 
+come from two “grids” and two “X” shapes, with and without dots.
 
 Think of it like a treasure map — the shape tells you where the “letter” is hiding.
 
@@ -76,7 +77,7 @@ To decode:
 * Match it to the grid/X position and note whether it has a dot.
 * Write down the letter that corresponds.
 
-Like so:
+Logue's pigpen is an adapted form, so find which symbol represents what place in the grids and the letter it represents (`_|` is `A` for example in Logues' variant):
 
 ![Coded and decoded pigpen](/images/logue-decoded.png)
 
