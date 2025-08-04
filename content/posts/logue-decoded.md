@@ -44,11 +44,11 @@ When you write in pigpen cipher, you never write the letters — you only draw t
 ```text
 Grid without dots:          Grid with dots:
 +---+---+---+               +---+---+---+
-| A | B | C |               | J | K | L |
+| A | C | E |               | B | D | F |
 +---+---+---+               +---+---+---+
-| D | E | F |               | M | N | O |
+| G | I | K |               | H | J | L |
 +---+---+---+               +---+---+---+
-| G | H | I |               | P | Q | R |
+| M | O | Q |               | N | P | R |
 +---+---+---+               +---+---+---+
 
 X without dots:             X with dots:
@@ -80,9 +80,8 @@ To decode:
 * Match it to the grid/X position and note whether it has a dot.
 * Write down the letter that corresponds.
 
-Logue's pigpen is an adapted form, so find which symbol represents what place in the grids(`_|` is `A` for example in Logues' variant):
-
-![Coded and decoded pigpen](/images/logue-code.png)
+Logue's pigpen is an adapted form with the letters non-sequentially placed in the grids, so find which symbol 
+represents what place in the grids and what letter it represents (see grids above). 
 
 This message then becomes:
 
