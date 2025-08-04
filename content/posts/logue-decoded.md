@@ -1,5 +1,5 @@
 ---  
-title: "The killing code: Masonic symbols and the concealment of frontier Violence" 
+title: "The killing code: Masonic symbols and the concealment of frontier violence" 
 subtitle: "How a 19th-century settler's encrypted diary exposes Australia’s silenced past—and the institutions that still will not speak of it"  
 description: "A 19th-century cipher. A settler’s cryptic accounts of violence. A modern-day silence. The discovery of Lionel Logue’s encoded diaries forces a reckoning with how colonial atrocities were concealed—and who benefits from keeping them obscured."
 draft: false
