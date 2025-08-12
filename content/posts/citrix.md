@@ -33,6 +33,10 @@ The first, [CVE-2025-6543](https://nvd.nist.gov/vuln/detail/CVE-2025-6543), was 
 
 The second flaw, [CVE-2025-5777](https://nvd.nist.gov/vuln/detail/CVE-2025-5777), became known as Citrix Bleed 2.0. It allowed the theft of “session tokens” — digital passes that prove you are already logged in and therefore do not need to provide your password again. These tokens are what keep you connected to your email or work portal without repeatedly authenticating. In the wrong hands, they work like cloned security badges: they bypass not only passwords, but also two-factor authentication systems designed to stop intruders.
 
+For those interested in understanding how vulnerabilities like these are identified, analysed, and prioritised, see 
+[Zero-day threat modelling](https://broomstick.tymyrddin.dev/posts/zero-day-threat-modelling/). It offers a clear guide 
+on how defenders assess unknown or newly discovered software flaws before patches are available.
+
 ### The attack unfolds
 
 * May 2025 – Security analysts noticed suspicious internet scanning of Citrix systems, later linked to a group with Russian state ties, dubbed [Laundry Bear](https://cybersecuritynews.com/dutch-intelligence-laundry-bear/). This was not a gang of opportunists; it was an outfit with a track record in espionage.
@@ -50,10 +54,6 @@ When the breach was uncovered, they erased logs and other traces, making it diff
 Citrix had released patches to fix both flaws, but installing them is rarely instantaneous. Large organisations must schedule, test, and sometimes delay updates to avoid breaking essential systems. Unfortunately, attackers have no such operational constraints.
 
 The real weakness was the delay between knowing about the problem and fixing it. That is the window in which attackers thrive.
-
-For those interested in understanding how vulnerabilities like these are identified, analysed, and prioritised, see 
-[Zero-day threat modelling](https://broomstick.tymyrddin.dev/posts/zero-day-threat-modelling/). It offers a clear guide 
-on how defenders assess unknown or newly discovered software flaws before patches are available.
 
 While the Dutch breach was a measured, deliberate intrusion, the [CitrixBleed 2.0 vulnerability has affected over 
 100 organisations worldwide](https://www.securityweek.com/citrixbleed-2-100-organizations-hacked-thousands-of-instances-still-vulnerable/), with thousands of instances remaining vulnerable months after patches were released. 
