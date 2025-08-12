@@ -66,7 +66,7 @@ of a widespread and ongoing challenge.
 
 If the Laundry Bear attribution holds, this was more than a disruptive act — it was a strategic probe. Targeting the justice system of an EU state undermines public trust, clogs the machinery of law, and signals that even core democratic institutions can be quietly stalled. It sends a message to other European states: your critical systems are reachable, and we know where to knock. The attack was a reminder that in modern geopolitics, destabilisation does not require troops on borders. Sometimes, it just requires the right bug in the wrong system.
 
-## Lessons that should not need repeating
+## Groundhog day for digital security
 
 Security updates are not housekeeping; they are structural repairs. Ignoring them because the timing is awkward is like noticing a crack in a dam wall and deciding to deal with it after the rainy season.
 

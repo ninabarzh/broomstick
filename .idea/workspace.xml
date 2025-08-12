@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Reactionary International">
-      <change afterPath="$PROJECT_DIR$/content/posts/citrix.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/citrix.png" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="citrix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/citrix.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/citrix.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,22 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00108" summary="Hopi">
-      <option name="closed" value="true" />
-      <created>1752139375690</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1752139375690</updated>
-    </task>
-    <task id="LOCAL-00109" summary="Hopi">
-      <option name="closed" value="true" />
-      <created>1752139800051</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1752139800051</updated>
     </task>
     <task id="LOCAL-00110" summary="Hopi">
       <option name="closed" value="true" />
@@ -470,11 +453,26 @@
       <option name="project" value="LOCAL" />
       <updated>1754390494596</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary="citrix">
+      <option name="closed" value="true" />
+      <created>1754995080771</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1754995080771</updated>
+    </task>
+    <task id="LOCAL-00158" summary="citrix">
+      <option name="closed" value="true" />
+      <created>1754995611298</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1754995611298</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="health industrial complex" />
     <MESSAGE value="Hopi" />
     <MESSAGE value="Digital currencies" />
     <MESSAGE value="Reisswolf" />
@@ -499,6 +497,7 @@
     <MESSAGE value="weizenbaum.md" />
     <MESSAGE value="removed logue" />
     <MESSAGE value="Reactionary International" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reactionary International" />
+    <MESSAGE value="citrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="citrix" />
   </component>
 </project>
