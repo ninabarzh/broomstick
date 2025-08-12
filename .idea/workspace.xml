@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="removed logue">
-      <change afterPath="$PROJECT_DIR$/content/posts/ri.md" afterDir="false" />
+    <list default="true" id="86304849-78d0-44a0-a35b-01d015880693" name="Changes" comment="Reactionary International">
+      <change afterPath="$PROJECT_DIR$/content/posts/citrix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/citrix.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,14 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747148912423</updated>
-    </task>
-    <task id="LOCAL-00107" summary="Hopi">
-      <option name="closed" value="true" />
-      <created>1752138765776</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1752138765776</updated>
     </task>
     <task id="LOCAL-00108" summary="Hopi">
       <option name="closed" value="true" />
@@ -469,11 +462,18 @@
       <option name="project" value="LOCAL" />
       <updated>1754384092335</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="Reactionary International">
+      <option name="closed" value="true" />
+      <created>1754390494596</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1754390494596</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="developments in evolutionary biology" />
     <MESSAGE value="health industrial complex" />
     <MESSAGE value="Hopi" />
     <MESSAGE value="Digital currencies" />
@@ -498,6 +498,7 @@
     <MESSAGE value="logue" />
     <MESSAGE value="weizenbaum.md" />
     <MESSAGE value="removed logue" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed logue" />
+    <MESSAGE value="Reactionary International" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reactionary International" />
   </component>
 </project>
