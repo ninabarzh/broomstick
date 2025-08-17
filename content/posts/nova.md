@@ -120,7 +120,7 @@ Nova will continue leaking data in chunks to maintain pressure. They will parade
 
 ### Industry reaction
 
-Hospitals and labs will scramble for cyber insurance, though premiums will spike. Expect a wave of “urgent audits” and half-hearted patch sprints. Consultancies will feast on post-mortems. Sadly, many will file the incident under “exceptional” until the next breach repeats the same pattern.
+Hospitals and labs will scramble for cyber insurance, though premiums will spike. Expect a wave of “urgent audits” and half-hearted [patch sprints]({{< relref "posts/patch-sprint.md" >}}). Consultancies will feast on post-mortems. Sadly, many will file the incident under “exceptional” until the next breach repeats the same pattern.
 
 ### Patients
 
