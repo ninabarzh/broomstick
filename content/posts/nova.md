@@ -12,8 +12,12 @@ tags:
   - unpatched peril
   - hackable inertia
   - digital neglect
+cover:
+  image: "/images/nova.png"
+  alt: "A dimly lit Dutch medical laboratory at night, blue computer screens casting eerie glow on abandoned workstations. In the foreground, a glowing red 'NOVA' ransomware message pulses ominously on a monitor. Through a broken Citrix NetScaler interface window, shadowy digital figures in hoodies are seen stealing floating files labeled 'BSN', 'Medical Records', and 'GDPR'. A large countdown timer displays '72 Hours' in red, nearly expired. In the background, a frustrated IT admin in a lab coat facepalms while a GDPR fine notice materializes from a printer." 
+  caption: ""
+  relative: false
 ---
-
 
 In July 2025, the Dutch healthcare sector faced one of its most devastating cybersecurity crises to date. The ransomware group Nova infiltrated Clinical Diagnostics NMDL, a laboratory critical to the Netherlands’ national cervical cancer screening program, exfiltrating 300 GB of sensitive patient data—including names, addresses, citizen service numbers (BSNs), and intimate medical test results 69. The breach, which affected 485,000 women and extended to other medical examinations, exposed systemic vulnerabilities in healthcare IT infrastructure, third-party risk management, and regulatory compliance.
 
