@@ -15,6 +15,11 @@ tags:
   - "OopsSec"
   - "team building exercises"
   - "controlled panic"
+cover:
+  image: "/images/patch-sprint.png"
+  alt: "A satirical, office-themed cybersecurity training scene. Picture a group of IT professionals in a drab, fluorescent-lit office, dressed in mismatched uniforms, frantically applying digital patches to oversized, cartoonish computer systems. One technician is holding a giant, comically large patch labeled 'Patch or Perish,' while another is performing an exaggerated interpretive dance in front of a screen displaying a 'Vulnerability Detected' alert. A third is hastily scribbling patch logs with titles like 'Closed this vulnerability before the auditors noticed.' In the background, a leaderboard shows teams competing with humorous names like 'Patch Commandos' and 'Agents of Chaos.' The atmosphere is chaotic yet humorous, capturing the essence of a gamified, high-pressure patching sprint." 
+  caption: ""
+  relative: false
 ---
 
 The objective of this patch sprint choreography is to elevate the tedious act of patching from a soul-crushing 
