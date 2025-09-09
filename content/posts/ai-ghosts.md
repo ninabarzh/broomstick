@@ -64,7 +64,7 @@ The coming waves demand proactive, adaptive, AI-supported defences.
 * Data, not dashboards: Defence systems must learn from real-time, massive-scale data across multiple environments, not just a local SIEM with stale signatures.
 * Human-AI collaboration: Humans cannot out-click machines, but they can provide judgement. Defence will be a hybrid sport.
 
-### What to build first?
+## What to build first?
 
 Based on which problems will hit first, which will scale fastest, and which will hurt the most if you’re not ready, a shot at priority defences to build first:
 
