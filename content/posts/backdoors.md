@@ -70,7 +70,7 @@ The Clipper Chip failed. CALEA weakened infrastructure.
 each time, the backers muttered darkly about “national security,” and each time reality intervened with the subtlety 
 of a falling piano."
 
-## Implications for ordinary people (that is, you)
+## Implications for ordinary people (that is, you and me)
 
 What does all this mean for the person reading this on a phone, hoping the battery lasts the day? Quite a lot. 
 Your banking app, your medical portal, your family WhatsApp group—they all rely on encryption. Introduce a backdoor, 
@@ -83,8 +83,18 @@ are like leaving your front door ajar with a sign saying “burglars, please kno
 The social consequences are worse. Backdoors are a tyrant’s dream. They turn private life into public property, 
 dissent into evidence, and everyone into suspects. And before you insist that “our democracy would never do that,” 
 remember how anti-terror laws have been cheerfully applied to 
-[tax collection](https://www.theguardian.com/uk/2011/sep/25/anti-terrorism-law-used-tax) and other bureaucratic 
-delights. Once the mechanism exists, it will be used.
+[stop and search in the UK](https://www.hrw.org/report/2010/07/04/without-suspicion/stop-and-search-under-terrorism-act-2000) and other bureaucratic 
+delights. Or like the 
+[US PATRIOT Act’s “roving wiretap” provision](https://www.justice.gov/archive/ll/highlights.htm)—intended for 
+tracking terrorism suspects—has been used in ordinary financial crimes, including tax fraud investigations. 
+The Department of Justice confirms how these powers have crossed into non-terrorist territory. As for the EU, well, 
+it has [more loopholes than a wizard’s sock](https://www.amnesty.org/en/latest/press-release/2017/01/eu-orwellian-counter-terrorism-laws-stripping-rights-under-guise-of-defending-them/). 
+Misuse of emergency powers has been recorded in several EU member countries.
+
+It is a classic playbook: (claim to) build a tool for extreme circumstances, then use it for everyday administration. 
+Once the authority is established, it’s a rubber stamp away from being re-hired for auditing.
+
+***Once the mechanism exists, it will be used, said Veterinari.***
 
 ## The bottom line: skeleton keys and fairy tales
 
@@ -97,4 +107,6 @@ resilience. Instead, they persist in demanding skeleton keys, apparently believi
 This is like giving Granny Weatherwax the Sceptre of Omnicide and asking her to “only use it when absolutely necessary.” 
 Possible, perhaps, but not exactly comforting.
 
-The truth is simple: encryption without exceptions is the last defence between citizens and chaos. Undermine it, and you are not protecting anyone. You are handing burglars the crown jewels and asking politely that they return them later.
+The truth is simple: encryption without exceptions is the last defence between citizens and chaos. Undermine it, 
+and you are not protecting anyone. You are handing burglars the crown jewels and asking politely that they return 
+them later.
