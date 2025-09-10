@@ -31,8 +31,8 @@ delighted.
 
 Then came [PRISM](https://www.eff.org/deeplinks/2013/06/what-we-need-to-know-about-prism) and 
 [BULLRUN](https://www.eff.org/deeplinks/2013/09/crucial-unanswered-questions-about-nsa-bullrun-program), which sound 
-less like surveillance programs and more like pub quiz teams. They would win every round, except the one on “ethics.” 
-These provided intelligence agencies with convenient ways to collect *all the information, everywhere, all the time.*
+less like surveillance programs and more like pub quiz teams where the program wins every round, except the one on “ethics.” 
+These programs provided intelligence agencies with convenient ways to collect *all the information, everywhere, all the time.*
 
 Not to be left out, the United Kingdom brought forth the 
 [Investigatory Powers Act](https://www.theregister.com/2016/12/06/parallel_construction_lies_in_english_courts/), 
