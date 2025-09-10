@@ -66,8 +66,8 @@ Every serious cryptographer has pointed this out repeatedly, and governments hav
 and commissioning yet another doomed scheme.
 
 The Clipper Chip failed. CALEA weakened infrastructure. 
-[Apple refused the FBI](https://www.theguardian.com/technology/2016/feb/17/inside-the-fbis-encryption-battle-with-apple), 
-each time, the backers muttered darkly about “national security,” and each time reality intervened with the subtlety 
+[Apple refused the FBI](https://www.theguardian.com/technology/2016/feb/17/inside-the-fbis-encryption-battle-with-apple). 
+Each time, the backers muttered darkly about “national security,” and each time reality intervened with the subtlety 
 of a falling piano."
 
 ## Implications for ordinary people (that is, you and me)
@@ -85,8 +85,8 @@ dissent into evidence, and everyone into suspects. And before you insist that �
 remember how anti-terror laws have been cheerfully applied to 
 [stop and search in the UK](https://www.hrw.org/report/2010/07/04/without-suspicion/stop-and-search-under-terrorism-act-2000) and other bureaucratic 
 delights. Or like the 
-[US PATRIOT Act’s “roving wiretap” provision](https://www.justice.gov/archive/ll/highlights.htm)—intended for 
-tracking terrorism suspects—has been used in ordinary financial crimes, including tax fraud investigations. 
+[US PATRIOT Act’s “roving wiretap” provision](https://www.justice.gov/archive/ll/highlights.htm), intended for 
+tracking terrorism suspects, used in ordinary financial crimes, including tax fraud investigations. 
 The Department of Justice confirms how these powers have crossed into non-terrorist territory. As for the EU, well, 
 it has [more loopholes than a wizard’s sock](https://www.amnesty.org/en/latest/press-release/2017/01/eu-orwellian-counter-terrorism-laws-stripping-rights-under-guise-of-defending-them/). 
 Misuse of emergency powers has been recorded in several EU member countries.
