@@ -1,6 +1,6 @@
 ---
 title: "Power without accountability: Europe’s silent crisis"
-subtitle: "Beneath Europe’s democratic façade lies a web of decision-making without scrutiny. This article exposes how power is wielded with minimal visibility — and why it matters."
+subtitle: "Beneath Europe’s democratic façade lies a web of decision-making without scrutiny. How power is wielded with minimal visibility — and why it matters."
 tags: ["accountability", "EU", "governance", "technocracy", "power", "democracy"]
 date: 2025-07-03T00:00:00.000Z
 draft: false
