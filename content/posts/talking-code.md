@@ -19,8 +19,6 @@ These literal translations are not only a chuckle for the seasoned security geek
 we need careful coding. They turn intimidating vulnerabilities into short, witty sentences that make you laugh — 
 and maybe shiver a little. Dive in, enjoy the humour, and see old nemeses in a whole new light.
 
-Got it. I removed the “corrections” notes from the last column and kept only the security-focused notes. The code is still correct syntax/semantics, and safe-ish context is implied.
-
 # C / C++
 
 | Code                                                                              | Translation                                                        | Security note                                                             | 
