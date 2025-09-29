@@ -7,46 +7,58 @@ date: 2025-09-29T02:00:00.000Z
 draft: false
 ---
 
-Picture a journalist, a scientist, or even your neighbour, declaring solemnly: *"I am being objective."* The words sound dignified, don’t they? Objective, impartial, fact-driven—like a well-polished broom sweeping all bias into the corner. And yet, beneath the polished surface, the broom often only sweeps in the direction that maintains the existing hierarchy.
+Picture a journalist, a scientist, or even your neighbour declaring with solemn authority: *"I am being objective."* Dignified, is it not? Objective, impartial, fact-driven—like a well-polished broom sweeping all bias into the corner. Only, as with most magical brooms, it has a particular corner it prefers: the one that keeps the powerful comfortable and the inconvenient quiet.
 
-Objectivity is frequently presented as a moral or intellectual shield, a way of claiming distance from messy human feelings, politics, or ethical dilemmas. But claiming objectivity is not a neutral act. Like neutrality, it carries consequences: it frequently protects those already in power and silences the vulnerable.
+Objectivity is often paraded as a moral or intellectual suit of armour, allowing humans to avoid messy feelings, politics, or ethical dilemmas. But claiming objectivity is rarely neutral. Like neutrality, it carries consequences. Often, it shields those already in power while quietly silencing the vulnerable.
 
-I argue that objectivity, in practice, is rarely pure. By examining historical cases, moral reasoning, and contemporary examples, it becomes clear that “objective” perspectives are always framed by context, power, and perspective.
+Peering under the cloak of “objectivity” and see what lurks: a dust bunny here, a conveniently ignored atrocity there, all swept neatly under a rug that smells faintly of privilege.
 
-## Science and the illusion of neutrality
+## When “objective” reasoning became a weapon
 
-Consider the 19th-century eugenics movement. Scientists and statisticians presented “objective” findings about human intelligence and heredity. Numbers, charts, and tables gave an air of irrefutable neutrality. Yet these “objective” conclusions were used to justify sterilisation, segregation, and discriminatory laws, disproportionately harming marginalized communities.
+### The eugenics spectacle
 
-The key lesson: presenting conclusions as objective does not make them morally neutral. The veneer of objectivity lent authority to policies that were anything but ethical. When historical context and power imbalances are ignored, objectivity becomes a weapon for the already powerful.
+The 19th and early 20th centuries loved nothing more than “objective” science with the power to ruin lives. Eugenics presented cold, statistical charts on human intelligence and heredity. Figures danced across tables like obedient marionettes, all allegedly impartial. Yet these figures justified sterilisation, segregation, and discriminatory laws, disproportionately harming marginalized communities.
+
+Numbers alone do not a moral compass make. In this case, objectivity became a cudgel in the hands of the already powerful.
+
+### Phrenology and the skulls of smugness
+
+Earlier, Victorian scientists measured skulls, nostrils, and eyebrows with a rigour that would impress any overzealous librarian. “Scientific” conclusions about intelligence or criminality were drawn from cranial bumps, delighting racists and colonial administrators alike. The data was impeccable, the conclusions morally bankrupt. Objectivity, you see, had a wicked sense of humour.
+
+### Legal objectivity and Jim Crow
+
+Courts in the United States often claimed to administer law “objectively.” Yet, during Jim Crow, objectivity meant: follow the letter of the law while ignoring that the law itself was a deeply immoral invention. Justice, in this context, was objective only in that it consistently oppressed.
+
 
 ## The moral and philosophical argument
 
-Philosophers and ethicists have long noted the limitations of pure objectivity.
+Philosophers and ethicists have long noted that pure objectivity is a myth dressed in fine linen:
 
-* Hannah Arendt warned that detachment without moral awareness can lead to complicity, famously analysing how bureaucratic “just following orders” logic enabled atrocities during the Holocaust.
-* Sandra Harding and other feminist theorists critique “objectivity” as often reflecting the perspective of dominant groups, masking social biases as neutral facts.
+* Hannah Arendt warned that detachment without moral awareness can lead to complicity, famously analysing bureaucratic “just following orders” logic in the Holocaust.
+* Sandra Harding and other feminist theorists critique “objectivity” as reflecting the perspective of dominant groups, masking social biases as neutral facts.
+* Karl Popper noted that science progresses through conjectures and refutations, not through absolute, context-free truths. Claiming objectivity often becomes a polite way of saying: *"I will report the facts that inconvenience no one with influence."*
 
-From these perspectives, objectivity is less a universal truth than a reflection of who gets to define what counts as “neutral.” Claiming objectivity often functions as a polite way of saying: *"I will report the facts that do not inconvenience me or those in power."*
+## The illusion of balance in modern contexts
 
-## The illusion of balance
+### False equivalence masquerading as fairness
 
-### False equivalence as objectivity
+Consider climate change denial, where a handful of contrarians are given equal space alongside the overwhelming consensus. Audiences leave thinking the debate is a duel: bulldozer versus feather, while journalists nod sagely. Objectivity has been reduced to a spectator sport.
 
-Modern media frequently invokes objectivity to justify presenting “both sides” of a debate, even when one side is demonstrably harmful or false. Consider climate change denial: giving equal airtime to a handful of contrarians alongside overwhelming scientific consensus creates an illusion of balance. Neutrality masquerading as objectivity misleads the audience while appearing fair-minded.
+### Neutrality with a twist
 
-### Numbers without context
+Predictive policing, credit scoring, and hiring algorithms often claim objectivity because they run on data. Yet the data carries history’s biases like a grumpy baggage handler. Algorithmic outputs harm marginalized communities disproportionately, all while the company smiles and says, *"It is objective, madam, we assure you!"*
 
-Algorithmic “objectivity” is another modern trap. Credit scoring, predictive policing, and hiring algorithms often claim to be objective because they use data and statistics. Yet these systems inherit societal biases encoded in historical data. Claiming objectivity allows companies and institutions to deny responsibility when the results disproportionately harm marginalized communities.
+### The velvet rope of rigour
 
-### Gatekeeping disguised as neutrality
+Even scholarly objectivity can be a gatekeeper. Whose research is “credible”? Often it is the work that aligns with dominant norms. Scholars from marginalized groups face additional scrutiny, while mainstream perspectives glide by, carried on a cloud of assumed neutrality.
 
-Even in scholarly settings, objectivity can serve as a gatekeeping tool. Decisions about whose research is “rigorous” or “credible” are frequently influenced by social and cultural norms. Scholars from marginalized groups often face additional scrutiny under the guise of methodological rigor, while mainstream perspectives glide past criticism under the protective cloak of objectivity.
+### Courts in fancy dress
+
+Modern courts, despite robes and wigs, still show us the limits of objectivity. When statutes disproportionately target certain groups, judges can proclaim, with perfect objectivity, that they are simply following the law. Objectivity in this case is the fine art of being impartial while helping the system maintain its biases.
 
 ## Objectivity is not a neutral force
 
-Objectivity is a useful tool—but only if wielded with awareness of context, power, and impact. Without this, it becomes a shield for the already powerful and a weapon against those without privilege. Like neutrality, claiming objectivity does not absolve moral responsibility.
-
-Rejecting the myth of objective impartiality does not mean abandoning reason; it means acknowledging perspective, context, and the consequences of one’s choices. In short, objectivity is not an inherent virtue. It is only as ethical as the person—or institution—claiming it.
+Objectivity is useful—but only if wielded with awareness of context, power, and impact. Left unchecked, it shields the powerful and lashes out at the powerless. Like neutrality, claiming objectivity does not absolve moral responsibility. Rejecting the myth of objective impartiality does not abandon reason; it recognises perspective, context, and consequence. Objectivity is not inherently virtuous. It is only as ethical as the person—or institution—claiming it.
 
 ## Evidence locker
 
