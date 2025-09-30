@@ -53,7 +53,7 @@ Progress demands reflection, courage, and decisive action. Amplifying marginalis
 
 ## Evidence locker
 
-* [Tutu, Desmond. Public speeches and interviews](https://www.nobelprize.org/prizes/peace/1984/tutu/interview/?utm_source=chatgpt.com).
+* [Tutu, Desmond. Public speeches and interviews](https://www.nobelprize.org/prizes/peace/1984/tutu/interview).
 * [Wiesel, Elie. *Night* (PDF](https://www.renaissanceacademyschools.com/uploads/1/5/2/9/15294762/night_book.pdf?utm_source=chatgpt.com).
 * [King, Martin Luther Jr. Public sermons and writings, Stanford King Institute](https://kinginstitute.stanford.edu/king-papers/documents/index-sermon-topics?utm_source=chatgpt.com).
 * [Freire, Paulo. *Pedagogy of the Oppressed*, Archive.org](https://archive.org/details/PedagogyOfTheOppressed-English-PauloFriere?utm_source=chatgpt.com).
