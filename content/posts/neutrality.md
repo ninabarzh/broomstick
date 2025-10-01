@@ -54,11 +54,11 @@ Progress demands reflection, courage, and decisive action. Amplifying marginalis
 ## Evidence locker
 
 * [Tutu, Desmond. Public speeches and interviews](https://www.nobelprize.org/prizes/peace/1984/tutu/interview).
-* [Wiesel, Elie. *Night* (PDF](https://www.renaissanceacademyschools.com/uploads/1/5/2/9/15294762/night_book.pdf?utm_source=chatgpt.com).
-* [King, Martin Luther Jr. Public sermons and writings, Stanford King Institute](https://kinginstitute.stanford.edu/king-papers/documents/index-sermon-topics?utm_source=chatgpt.com).
-* [Freire, Paulo. *Pedagogy of the Oppressed*, Archive.org](https://archive.org/details/PedagogyOfTheOppressed-English-PauloFriere?utm_source=chatgpt.com).
-* [*New-York Tribune*, 1861 archives, Library of Congress](https://www.loc.gov/resource/sn83030213/1861-01-31/ed-1/?st=gallery&utm_source=chatgpt.com).
-* [Disunion series, *New York Times*, historical analysis, Archive.org](https://archive.org/details/newyorktimesdisu0000unse_v8k2?utm_source=chatgpt.com).
+* [Wiesel, Elie. *Night* (PDF](https://www.renaissanceacademyschools.com/uploads/1/5/2/9/15294762/night_book.pdf).
+* [King, Martin Luther Jr. Public sermons and writings, Stanford King Institute](https://kinginstitute.stanford.edu/king-papers/documents/index-sermon-topics).
+* [Freire, Paulo. *Pedagogy of the Oppressed*, Archive.org](https://archive.org/details/PedagogyOfTheOppressed-English-PauloFriere).
+* [*New-York Tribune*, 1861 archives, Library of Congress](https://www.loc.gov/resource/sn83030213/1861-01-31/ed-1/?st=gallery).
+* [Disunion series, *New York Times*, historical analysis, Archive.org](https://archive.org/details/newyorktimesdisu0000unse_v8k2).
 * [Mapping Police Violence, 2025](https://mappingpoliceviolence.us/).
 * [Gallaudet Research Institute, 2023](https://www.gallaudet.edu/research/).
 * [Stop Street Harassment, 2024](https://www.stopstreetharassment.org/).
