@@ -3,6 +3,9 @@ title: Defendable Internet?
 date: 2023-02-01T23:00:00.000Z
 draft: false
 tags:
+  - policy
+  - governance
+  - incentives
   - security
   - digital security
   - Internet
@@ -14,9 +17,7 @@ Back then, the network engineers in the room weren’t pondering threats to demo
 
 Security? That was someone else’s problem—possibly yours, dear user. Or no one’s. Because, in the end, crime and aggression were just unfortunate side effects of human nature. Nothing a routing protocol could fix.
 
-***
-
-### Fast-forward to 2023: The Future is on fire
+## Fast-forward to 2023: The Future is on fire
 
 Now the Internet isn’t just carrying cat pictures and unsolicited email about Bitcoin investments. It’s the beating heart of banks, hospitals, water treatment plants, nuclear facilities, airports, toaster ovens, vibrators, and democracy itself. And it’s still riddled with holes large enough to drive a botnet through.
 
@@ -26,9 +27,7 @@ Meanwhile, defenders are trying to hold the line with one hand while filling out
 
 The result? Security by duct tape and burnout.
 
-***
-
-### What if we actually designed a secure Internet?
+## What if we actually designed a secure Internet?
 
 Crazy idea, right?
 
@@ -40,9 +39,7 @@ By the time Black Hat Europe 2022 rolled around, the answer was clear: [A defend
 
 Right. Just like addressing global inequality, tackling the climate crisis, or getting rid of leaf blowers. Technically possible. Politically hilarious.
 
-***
-
-### Let's talk about the “Dark Side” (Hint: It's not just hackers)
+## Let's talk about the “Dark Side” (Hint: It's not just hackers)
 
 People love to talk about the “dark side” of the Internet like it’s a shadowy underworld populated by hoodie-wearing teens and rogue AIs. But the real dark side? It’s the stuff we don’t talk about. The impacts ignored, postponed, or hand-waved away with corporate speak and a slide deck.
 
@@ -55,9 +52,7 @@ Some modest questions, if I may:
 * Why is it so hard to look past the next breach, news cycle, or keynote announcement? 
 * And if time can be sliced finer and finer, have we shaved it down to the microsecond? Is our digital world shaped by what fits into a sprint cycle, a click-through, a dopamine hit? 
 
-***
-
-### The real question
+## The real question
 
 We ask, "Is a defendable Internet possible?"
 
