@@ -9,6 +9,7 @@ tags:
   - security
   - digital security
   - Internet
+  - resilience
 ---
 
 David Clark remembers the moment the Internet’s Pandora’s box creaked open and said, “Hello, world.” It was 2 November 1988, and the Morris Worm was slithering its way through cyberspace like a python on speed. Designed with the innocence of a curious grad student and the destruction of a cyber sledgehammer, it crashed some 6,000 machines—roughly one-tenth of the Internet at the time. Not bad for an opening act.
