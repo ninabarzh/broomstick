@@ -176,7 +176,7 @@ The road ahead seems to look somewhat like:
 
 * More of the same: Breaches, botnets, ransomware, periodic outrage, no systemic change.
 * Collapse: A catastrophic incident (not necessarily digital) is either the end or it forces hasty reform, probably at the expense of civil liberties.
-* [Reform]({{< relref "posts/defendable-internet3.md" >}}): Liability, secure-by-design mandates, genuine funding for digital infrastructure — theoretically possible, practically unlikely.
+* [Reform]({{< relref "posts/defendable-internet3.md" >}}): Liability, secure-by-design mandates, genuine funding for digital infrastructure — theoretically possible, practically highly unlikely.
 * Balkanisation: Regional internets emerge, some secure, most repressive, none particularly user-friendly.
 
 ## Conclusion
