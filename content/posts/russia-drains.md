@@ -65,7 +65,7 @@ Evading service now comes with fines of up to five million rubles (roughly £39,
 
 Lawyers working on draft evasion cases increasingly face intimidation themselves. Several conscription support groups have been labelled “foreign agents” or banned outright.
 
-## Why this matters: war fatigue and state fragility
+## War fatigue and state fragility
 
 ### A dwindling army
 

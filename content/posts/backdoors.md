@@ -107,6 +107,6 @@ resilience. Instead, they persist in demanding skeleton keys, apparently believi
 This is like giving Granny Weatherwax the Sceptre of Omnicide and asking her to “only use it when absolutely necessary.” 
 Possible, perhaps, but not exactly comforting.
 
-The truth is simple: encryption without exceptions is the last defence between citizens and chaos. Undermine it, 
+Encryption without exceptions is the last defence between citizens and chaos. Undermine it, 
 and you are not protecting anyone. You are handing burglars the crown jewels and asking politely that they return 
 them later.

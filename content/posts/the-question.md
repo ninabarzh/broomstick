@@ -40,7 +40,7 @@ Once you accept inevitability, “problem-first” thinking becomes irrelevant. 
 
 ## Institutional and cultural barriers
 
-The truth is, most organisations do not reward asking “Do we need this?” They reward delivery, novelty, and efficiency. Shipping a feature is rewarded; stopping a project because it is not the right problem is often career-limiting.
+Most organisations do not reward asking “Do we need this?” They reward delivery, novelty, and efficiency. Shipping a feature is rewarded; stopping a project because it is not the right problem is often career-limiting.
 
 Competition intensifies this. In technology, there is always a lurking fear: “If we do not build it, someone else will.” The result is a race to ship first, with no one willing to pump the brakes to re-examine the map.
 

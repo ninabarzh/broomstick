@@ -97,7 +97,7 @@ internet (with corporations doing the extracting). China favours a tightly contr
 doing the extracting). The European Union favours a regulated internet (with regulators extracting fines). None of 
 these models are particularly interested in building something genuinely safe for the user.
 
-Add to this the lobbying clout of tech giants, and the result is political inertia. It is hard to imagine a 
+Add to this the lobbying clout of tech giants, and you get political inertia. It is hard to imagine a 
 parliament voting for strict liability laws when the platforms in question fund election campaigns. The undefendable 
 internet persists, in part, because too many powerful actors benefit from its insecurity.
 

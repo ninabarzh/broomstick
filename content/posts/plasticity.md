@@ -69,7 +69,7 @@ Consider gender roles. The notion that boys are ‘naturally’ boisterous and g
 
 Culture, in this light, becomes a kind of environmental pressure—shaping not only behaviour but even biology. Studies have shown that literacy can affect how brains are wired. Musical training thickens specific brain regions. Stress alters hormonal profiles. And then there’s language: tonal languages like Mandarin demand different neural real estate than English or Finnish. None of this is preordained. It’s life experience, scaffolded by a very plastic brain.
 
-So while evolutionary psychologists might wax lyrical about meat-gathering instincts, the truth is likely messier. We're improvisers, borrowing from instinct, culture, memory, and a hefty dose of trial and error. Think less "genetic puppet" and more "crowdsourced jazz".
+So while evolutionary psychologists might wax lyrical about meat-gathering instincts, the issue is likely messier. We're improvisers, borrowing from instinct, culture, memory, and a hefty dose of trial and error. Think less "genetic puppet" and more "crowdsourced jazz".
 
 ## Resources and further reading
 

@@ -36,7 +36,7 @@ Tech moguls are still pouring millions into "life extension" startups. This whil
 
 In a year where we can't even agree on basic science or human decency, the idea that we're ready for immortality is laughable. The same people who can't be bothered to wear a mask in Publix want to live forever? Please.
 
-The truth is, mortality is nature's way of saying "alright, next!" And frankly, that doesn't sound so bad. Now if you'll excuse me, I need to go wash my hands for the 47th time today.
+Mortality is nature's way of saying "alright, next!" And frankly, that doesn't sound so bad. Now if you'll excuse me, I need to go wash my hands for the 47th time today.
 
 So, would you like to live forever?
 …Didn’t think so.
