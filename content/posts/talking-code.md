@@ -1,6 +1,6 @@
 ---
 title: "Talking code"
-description: "Ever wondered what your stack overflows, null dereferences, or untrusted evals would say if they could talk? Welcome to the world of security code translations — where every risky snippet gets a snarky, human-friendly voice. From C/C++ to Python and shell, these translations turn potential disasters into hilarious “literal interpretations.” Fun for anyone who loves reading between the lines ... literally."
+description: "Ever wondered what your stack overflows, null dereferences, or untrusted evals would say if they could talk? Welcome to the world of security code translations — where every risky snippet gets a snarky, human-friendly voice. From C/C++ to Python and shell, these translations turn potential disasters into hilarious “literal interpretations.” Fun for anyone who loves reading between the lines literally."
 tags: ["security", "humour", "code snippets", "C/C++", "python", "shell"]
 date: 2025-09-21T00:00:00.000Z
 draft: false

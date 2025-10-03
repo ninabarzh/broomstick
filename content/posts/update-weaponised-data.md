@@ -43,14 +43,12 @@ laid out participatory AI guidelines centring Indigenous priorities in Latin Ame
 
 European initiatives like Gaia‑X and the International Data Spaces Association (IDSA) offer federated and 
 standards-based data-sharing frameworks that provide more technical control and sovereignty over cloud infrastructure. 
-But ... 
+And :
 
 *Early in the Gaia-X project, open source software advocates warned against corporate capture of Gaia-X by large 
 companies. They referred to Gaia-X as a possible Trojan horse of big tech in Europe, and made comparisons to the 
 French State-sponsored cloud project Andromeda that had been launched 10 years earlier and which resulted in 
 public funds benefiting large non-European industry players.* - [WikiPedia: Gaia-X](https://en.wikipedia.org/wiki/Gaia-X)
-
----
 
 ## What has worsened
 
@@ -82,8 +80,6 @@ intended as sovereign protection, it arguably also diluted control.
 
 * [According to *C4ISRNET* (June 22, 2022)](https://www.c4isrnet.com/2022/06/22/how-the-cloud-saved-ukraines-data-from-russian-attacks/), Ukraine had a law prohibiting cloud storage of government data (mandating it be stored locally), but amended this law just days before Russia’s invasion so that critical data could be evacuated into the cloud. That—illustrating data dispersal into Europe—may have compromised sovereign control even as it protected data from physical attack.
 * [Microsoft itself (January 2023 / later commentary)](https://news.microsoft.com/en-cee/2023/01/20/how-technology-helped-ukraine-resist-during-wartime/) confirms its role in transferring Ukrainian digital infrastructure into datacentres across Europe to maintain continuity and resist cyberattacks. While essential for survival, this meant data ended up hosted outside Ukraine’s borders, subject to [foreign legal regimes—raising possible sovereignty trade-offs](https://blogs.microsoft.com/on-the-issues/2025/04/30/european-digital-commitments/).
-
----
 
 ## What is new since 2015
 
@@ -167,8 +163,6 @@ vulnerability assessments—were curated primarily by external data entities
 (e.g. [the mwBTFreddy AI dataset](https://arxiv.org/abs/2505.01242)), with 
 local communities [largely excluded from decision‑making or sharing in the insights derived](https://www.idinsight.org/article/malawis-cyclone-freddy-an-evidence-informed-response-effort/).
 
----
-
 ## Case studies and recent initiatives
 
 ### AI for rural mapping—good or bad?
@@ -190,15 +184,11 @@ royalties when their voice data is resold. It’s an emerging fair-labour model 
 
 [Recent academic work describes “community data cooperatives” and combined data‑pool models](https://arxiv.org/abs/2503.05950) to enable rural communities to co‑control and benefit from local data—and build equitable AI ecosystems.
 
----
-
 ## Power and consent revisited
 
 * Who defines impact in 2025? Still mostly funders, tech vendors, and governments—but increasingly mediated by opaque algorithmic impact scores.
 * Informed consent is a myth in many contexts: few end-users of data fully understand what their data may power, share, or enable.
 * Data sovereignty works—but rarely scales. Indigenous communities are ahead: frameworks and infrastructure rooted in CARE principles and local governance models are emerging, though mainstream adoption lags.
-
----
 
 ## Ways forward
 
@@ -208,8 +198,6 @@ royalties when their voice data is resold. It’s an emerging fair-labour model 
 4. Demand algorithmic transparency clauses in tech vendor contracts and opt‑out rights for disruptive technologies.
 5. Build cross‑movement alliances: privacy advocates, AI ethicists, humanitarian workers, Indigenous and marginalised groups working together to reclaim control.
 6. [Push for algorithmic reparations](https://www.wired.com/story/move-algorithmic-reparation-calls-racial-justice-ai/): design tools explicitly to reduce harm and redistribute resources to historically oppressed groups.
-
----
 
 ## 2025
 

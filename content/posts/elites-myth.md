@@ -22,7 +22,7 @@ In this debate, ‘elite’ typically refers to a broad but socially specific cl
 
 Political and media elites fall under this banner too — those who shape policy or public opinion, sometimes accused of living in an echo chamber sealed off from the concerns of the rest. When populists rail against “the Hague” or “Brussels,” they are invoking this caste of decision-makers and commentators, many of whom appear to have lost contact with lived experience outside the Randstad, Westminster, or the 7th arrondissement.
 
-Finally, there's the knowledge class — professionals in finance, tech, or high-end services, whose technical roles increasingly drive the modern economy. Their decisions, often executed via algorithm or boardroom fiat, affect millions, while their social responsibilities appear... optional, at best.
+Finally, there's the knowledge class — professionals in finance, tech, or high-end services, whose technical roles increasingly drive the modern economy. Their decisions, often executed via algorithm or boardroom fiat, affect millions, while their social responsibilities appear optional, at best.
 
 In short, when critics complain of an “elite surplus,” they mean a ruling class that feels economically bulletproof, culturally self-referential, and politically evasive. A fair description — if not always an accurate diagnosis.
 

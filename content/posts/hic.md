@@ -27,7 +27,7 @@ less concerned with healing the sick and more focused on healing its quarterly e
 First, let us examine the financialisation bit — a word economists like to throw around to sound clever when 
 describing capitalism eating its own liver. In the pharmaceutical context, financialisation means that **shareholder 
 value now trumps actual drug development**. It is not that new treatments are not welcome, it is just that they are a 
-bit... inconvenient, really, when compared to the tidy certainty of stock buybacks, dividend payouts, and the thrill 
+bit inconvenient, really, when compared to the tidy certainty of stock buybacks, dividend payouts, and the thrill 
 of a good merger.
 
 Take Pfizer, for example. Between 2006 and 2015, the company spent a staggering **\$139 billion** on share buybacks 

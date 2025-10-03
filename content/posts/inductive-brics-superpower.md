@@ -124,7 +124,7 @@ There is no formal BRICS+ military pact, but member states begin to act with col
 
 Germany now needs yuan for lithium, dirhams for oil, and gold to stabilise the Bundesbank’s nerves. France tries to revive European unity by bombing Mali—again. Eastern Europe quietly invites US troops back, hoping to avoid becoming the next pet project of BRICS+ “peacekeepers”.
 
-<span style="color:#ffbf00;text-align:center;">*Call it what you want. It walks like a superpower, it talks like a superpower ... and it smells faintly of crude oil and panic.* — Polish foreign minister, 2035</span>
+<span style="color:#ffbf00;text-align:center;">*Call it what you want. It walks like a superpower, it talks like a superpower and it smells faintly of crude oil and panic.* — Polish foreign minister, 2035</span>
 
 ---
 

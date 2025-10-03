@@ -32,7 +32,7 @@ In the UK, a single businessman, Frank Hester, donated £10 million to the Conse
 
 Across Europe, it's a familiar pattern. In Germany, car manufacturers all but wrote the emissions policy—until they were caught lying about it, of course. In France, the gilets jaunes protests were partly fuelled by anger over a government that found billions for tax cuts at the top while raising fuel prices for ordinary workers. In Brussels, the European Parliament hosts over 12,000 registered lobbyists. That’s about 25 lobbyists per MEP. Makes you wonder if they’ve got assigned seating.
 
-As political economist Prem Sikka bluntly puts it, “governments indulge corporations... while condemning most voters to misery.” That’s not hyperbole. That’s just reading the budget.
+As political economist Prem Sikka bluntly puts it, “governments indulge corporations `[]` while condemning most voters to misery.” That’s not hyperbole. That’s just reading the budget.
 
 ***
 

@@ -182,7 +182,7 @@ wider authoritarian disease, then dismantling its impunity is not just an Americ
 ### Verified reports on detention conditions & rights violations
 
 * [Physicians for Human Rights / Harvard – “Endless Nightmare”: Torture and Inhuman Treatment in Solitary Confinement](https://phr.org/our-work/resources/endless-nightmare-solitary-confinement-in-us-immigration-detention/) - Based on FOIA documents and interviews, this report reveals systematic misuse of prolonged solitary confinement—averaging 27 days and amounting to torture—within ICE detention centres.
-* [American Civil Liberties Union: Fatal Neglect: How ICE Ignores Deaths in Detention (pdf)](https://www.aclu.org/wp-content/uploads/publications/fatal_neglect_acludwnnijc.pdf) - Documents confirmed deaths between 2010–2012 (including suicides) and shows ICE repeatedly ignored medical standards, swept investigations under the rug, and withheld fatality information. ICE has a history ...
+* [American Civil Liberties Union: Fatal Neglect: How ICE Ignores Deaths in Detention (pdf)](https://www.aclu.org/wp-content/uploads/publications/fatal_neglect_acludwnnijc.pdf) - Documents confirmed deaths between 2010–2012 (including suicides) and shows ICE repeatedly ignored medical standards, swept investigations under the rug, and withheld fatality information. ICE has a history.
 
 ### Sharing voices in Europe
 

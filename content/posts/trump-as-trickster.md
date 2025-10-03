@@ -86,4 +86,4 @@ And in that sense, he’s done what tricksters have always done:
 * He’s turned the system inside out and revealed its laughable entrails.
 * He’s made the lie so big, so loud, so orange, that we finally had to see it.
 
-**The joke isn’t just on us — it *is* us.** And sadly, it is costing a lot of lives ...
+**The joke isn’t just on us — it *is* us.** And sadly, it is costing a lot of lives.

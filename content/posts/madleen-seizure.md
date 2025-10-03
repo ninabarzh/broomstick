@@ -27,7 +27,7 @@ Activists reported that before boarding, Israeli drones sprayed the ship with an
 peaceful mission into something resembling a badly planned chemistry experiment. What was it?
 
 1. Most likely, it was some variety of tear gas or irritant powder—standard fare for crowd control, though usually deployed on land, not at sea. A maritime twist on the classic "please disperse, but also mind the waves" strategy.
-2. Imagine if it was just ... flour. A culinary misunderstanding gone awry. "We thought they were smuggling baguettes!" cried the drone operator, as activists coughed and blinked in a cloud of organic, stone-ground whole wheat.
+2. Imagine if it was just flour. A culinary misunderstanding gone awry. "We thought they were smuggling baguettes!" cried the drone operator, as activists coughed and blinked in a cloud of organic, stone-ground whole wheat.
 3. A theatrical flourish—coating the ship in white chalk like a ghostly protest banner, ensuring the Madleen looked appropriately haunted as it was towed to Ashdod.
 4. A secret tracking compound! Now every activist unknowingly carries a microscopic beacon, allowing Mossad to monitor their future café orders and library visits. (Note: This is not confirmed. But neither was the drone attack on the Conscience, so… narrows eyes.)
 5. Nature’s own crowd control. Poseidon himself took one look at the flotilla and sighed, "Not this again," before hosing them down with frothy indignation.

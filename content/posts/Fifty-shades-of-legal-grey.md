@@ -31,7 +31,7 @@ Now, on to digital consent. Same theme, different costume.
 
 The GDPR arrived in 2018 with trumpet fanfare and heroic PR. At long last, the data-hoarding juggernauts would be tamed! Europe’s digital citizens would finally be free to say no!
 
-Except... we weren’t.
+Except we weren’t.
 
 Within hours, the internet was plastered with “agree or go away” banners. Facebook and Google were slapped with lawsuits for “coerced consent”. And thus, a new grey area was born—cleverly branded as user empowerment, but actually just a formalisation of the surveillance economy.
 

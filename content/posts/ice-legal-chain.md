@@ -40,7 +40,7 @@ Spoiler: it is all going rather swimmingly for the oppressors.
 
 The 13th Amendment, popularly celebrated for abolishing slavery, does no such thing. The text reads:
 
-*“Neither slavery nor involuntary servitude, **except as a punishment for crime**... shall exist within the United States.”*
+*“Neither slavery nor involuntary servitude, **except as a punishment for crime** shall exist within the United States.”*
 
 That small clause—“except as a punishment for crime”—has quietly enabled the rebranding of slavery into a booming 
 carceral economy. In the immediate aftermath of emancipation, the Southern states wasted no time criminalising 

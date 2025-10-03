@@ -16,7 +16,7 @@ When we peel back the layers of our cognitive machinery, we find some rather emb
 
 Then there's conspiratorial thinking, that peculiar mental gymnastics routine where random events become sinister plots – a cognitive coping mechanism particularly favoured during times of stress or powerlessness. It's remarkable how a dash of anxiety and a pinch of boredom can transform otherwise sensible people into amateur detectives seeing clues in cereal box designs.
 
-Our capacity for apocalyptic fantasising deserves special mention. There's something perversely comforting about believing we'll witness the end times – it lends drama to otherwise mundane existences. This psychological quirk explains why doomsday predictions have remained stubbornly popular since... well, probably since the first human looked at the sky and thought "That cloud looks angry." The appeal is obvious: if the world's ending, suddenly your unfinished taxes don't seem so important.
+Our capacity for apocalyptic fantasising deserves special mention. There's something perversely comforting about believing we'll witness the end times – it lends drama to otherwise mundane existences. This psychological quirk explains why doomsday predictions have remained stubbornly popular, probably since the first human looked at the sky and thought "That cloud looks angry." The appeal is obvious: if the world's ending, suddenly your unfinished taxes don't seem so important.
 
 ### Special mentions
 
