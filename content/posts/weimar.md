@@ -3,7 +3,7 @@ title: "How Weimar mistakes echo today"
 subtitle: "Lessons from history and their warnings for modern democracy"
 description: "An analysis of the missteps that were instrumental in the collapse of the Weimar Republic and how similar patterns can be observed in contemporary politics. Not a prediction, but a cautionary projection."
 draft: false
-date: 2025-10-03
+date: 2025-10-03T00:00:00.000Z
 tags: ["Weimar", "history", "democracy", "political analysis", "lessons"]
 ---
 
