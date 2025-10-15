@@ -1,5 +1,5 @@
 ---
-title: "What now? Can we build a defendable internet?"
+title: "The question now is: what can we do?"
 subtitle: "Exploring practical steps to make the internet more secure, resilient, and reliable"
 author: "Nienke Fokma"
 date: 2025-10-01
@@ -12,12 +12,12 @@ tags:
   - Internet
   - resilience
 draft: false
-description: "An exploration of steps to address the structural weaknesses of the internet and move towards a more defendable digital world."
+description: "An exploration to address the structural weaknesses of the internet and move towards a more defendable digital world."
 ---
 
 [The internet is fundamentally broken]({{< relref "posts/defendable-internet2.md" >}}).
 
-The question now is: what can we actually do about it? The answer is messy, expensive, and occasionally involves telling very powerful people that their business model is morally questionable.
+The question now is: what can we do? The answer is messy, expensive, and occasionally involves telling very powerful people that their business model is morally questionable.
 
 ## Accepting the obvious
 
