@@ -1,7 +1,7 @@
 ---
 title: "The deadly cost of environmental defence"
 subtitle: "Corporate greed, armed groups, and state complicity are killing those who protect the planet"
-description: "Since 2012, over two thousand environmental defenders have been killed worldwide. Investigating the lethal intersection of corporate greed, organised crime, and state complicity, with case studies from Latin America and the systemic dangers faced by Indigenous communities."
+description: "Since 2012, over two thousand environmental defenders have been killed. Investigating the lethal intersection of corporate greed, organised crime, and state complicity, with case studies from Latin America and the systemic dangers faced by Indigenous communities."
 date: 2025-10-03T02:00:00.000Z
 draft: false
 tags: 
@@ -17,7 +17,7 @@ tags:
   - Indigenous rights
 ---
 
-Since 2012, over 2,000 environmental defenders have been killed around the world for standing up against projects 
+Since 2012, over 2,000 environmental defenders have been killed for standing up against projects 
 that put land, water, and local communities at risk. In 2023 alone, 196 people died: 79 in Colombia, 25 in Brazil, 
 18 in Mexico, and another 18 in Honduras. Indigenous peoples — about 6% of the global population — accounted for 
 43% of the victims. The pattern suggests a systemic problem, tied to corporate interests, armed groups, organised 

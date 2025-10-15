@@ -8,10 +8,9 @@ tags: ["Weimar", "history", "democracy", "political analysis", "lessons"]
 ---
 
 In [Weimar Republic 2.0 (2022)]({{< relref "posts/Weimar-republic-20.md" >}}), I traced the threads tying the collapse 
-of the Weimar Republic (1919‑1933) to the fraying edges of modern democracy. Like a compass in a storm, pointing out 
-the shoals and reefs that could lie hidden beneath familiar waters. Weimar did not implode in a single night of 
-dramatic fireworks; it unraveled in small, human‑sized blunders, the sort that make history sigh and mutter, 
-“I told you so.”
+of the Weimar Republic (1919‑1933) to the fraying edges of modern democracy. It highlighted the hidden dangers in 
+modern democracy. Weimar did not implode in a single night of dramatic fireworks; it unraveled in small, human‑sized 
+blunders, the sort that make history sigh and mutter, "I told you so."
 
 This post builds on that compass, first by examining, with careful attention and more detail, the missteps that 
 seem to have felled Weimar, and then by holding a polite, wary mirror up to today’s politics. Consider it a projection, 

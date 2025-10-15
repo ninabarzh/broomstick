@@ -15,7 +15,7 @@ draft: false
 description: "An exploration of steps to address the structural weaknesses of the internet and move towards a more defendable digital world."
 ---
 
-[The internet is broken]({{< relref "posts/defendable-internet2.md" >}}). Not the “buffering on YouTube” kind of broken, but fundamentally, architecturally, absurdly broken. We know why: history, culture, economics, politics, and human laziness have all conspired to turn it into a precarious tower of routers teetering on a cliff.
+[The internet is fundamentally broken]({{< relref "posts/defendable-internet2.md" >}}).
 
 The question now is: what can we actually do about it? The answer is messy, expensive, and occasionally involves telling very powerful people that their business model is morally questionable.
 

@@ -9,7 +9,9 @@ draft: false
 
 Picture a journalist, a scientist, or even your neighbour declaring with solemn authority: *"I am being objective."* Dignified, is it not? Objective, impartial, fact-driven—like a well-polished broom sweeping all bias into the corner. Only, as with most magical brooms, it has a particular corner it prefers: the one that keeps the powerful comfortable and the inconvenient quiet.
 
-Objectivity is often paraded as a moral or intellectual suit of armour, allowing humans to avoid messy feelings, politics, or ethical dilemmas. But claiming objectivity is rarely neutral. Like neutrality, it carries consequences. Often, it shields those already in power while quietly silencing the vulnerable.
+Objectivity can sometimes be used to avoid confronting ethical dilemmas. 
+
+And claiming objectivity is rarely neutral. Like neutrality, it carries consequences. Often, it shields those already in power while quietly silencing the vulnerable.
 
 Peering under the cloak of “objectivity” and see what lurks: a dust bunny here, a conveniently ignored atrocity there, all swept neatly under a rug that smells faintly of privilege.
 

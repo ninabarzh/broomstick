@@ -20,7 +20,7 @@ grow by the day. Healthcare, energy, and transport carry the heaviest burdens.
 
 ## The patient-facing nightmare
 
-Hospitals and clinics are the most visible examples of this precarious state. Every day, lives depend on machines and systems conceived in a different era, when floppy disks were a mark of sophistication. Electronic health records, imaging machines, and ICU monitors often run on unsupported operating systems, and many hospitals are uncertain which devices are even connected to their networks. Vendors supplying medical technology have rarely been held accountable for security, and procurement contracts tend to value cost or certification above protection against cyberattacks.
+Hospitals and clinics are the most visible examples of this precarious state. Every day, lives depend on machines and systems conceived in a different era, when floppy disks were a mark of sophistication. Many hospitals run EHRs, imaging machines, and ICU monitors on unsupported systems, often unaware which devices are networked. Vendors supplying medical technology have rarely been held accountable for security, and procurement contracts tend to value cost or certification above protection against cyberattacks.
 
 In May 2021, [Ireland’s Health Service Executive was paralysed by a Conti ransomware attack](https://www.hse.ie/eng/services/publications/conti-cyber-attack-on-the-hse-full-report.pdf) that froze IT systems nationwide, published confidential patient data, and imposed recovery costs exceeding €100 million. One can only imagine the pandemonium in hospitals as staff juggled paperwork in a world designed for glowing screens and automated alerts.
 
