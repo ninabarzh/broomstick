@@ -56,7 +56,7 @@ The archetype is not metaphorical—it walks among us. A few exponents of this T
 
 ### **Vladimir Putin – The deathless czar**
 
-Putin emerged in a Russia desperate for order. The post-Soviet 1990s were marked by oligarchs, debt, and national humiliation. Putin arrived not with a grand vision, but with the promise of **stability**. Factories reopened, crime fell, and the old Soviet anthem hummed again. This wasn’t transformative governance—it was **recovery through preservation**.
+Putin emerged in a Russia desperate for order. The post-Soviet 1990s were marked by oligarchs, debt, and national humiliation. Putin arrived not with a grand vision, but with the promise of **stability**. Factories reopened, crime fell, and the old Soviet anthem hummed again. This wasn’t governance—it was **recovery through preservation**.
 
 Over the years, that order calcified. Institutions didn’t reform; they became scripts for his continued relevance. The Constitutional Court bends around his terms, regional governors answer to his approval, and even local elections exist only to confirm his dominance. He is not accountable to structures—**they serve him, and depend on him**.
 
@@ -96,7 +96,7 @@ His teaching is perhaps:
 
 ### **Ali Khamenei – The cloistered cleric**
 
-After the 1979 Revolution, Iran chose a new path. Khamenei epitomises the permanency of its clerical structure. His quiet authority has outlived countless presidents, protests, and geopolitical realignments. Power, for him, is institutional insulation.
+After the 1979 Revolution, Iran chose a new path. Khamenei epitomises the permanency of its clerical structure. His quiet authority has outlived countless presidents, protests, and geopolitical restructuring. Power, for him, is institutional insulation.
 
 He rules not by charisma but by the weight of **religious ritual and administrative amnesia**. Friday prayers, fatwas, and political trials serve as constant reminders: this system is preserved not by elections but by doctrine.
 
@@ -165,7 +165,7 @@ His success came through co-option: wealth redistributed through patronage, civi
 
 Hun Sen retired in 2023, handing power to his son, Hun Manet, who largely continues his father’s policies. Cambodia remains a one-party state with tight control over politics, media, and civil society.
 
-The seamless transition to his son demonstrates the frozen king’s dynasty principle: power preserved not through merit but inheritance, perpetuating stagnation under the veneer of change.
+The smooth transition to his son demonstrates the frozen king’s dynasty principle: power preserved not through merit but inheritance, perpetuating stagnation under the veneer of change.
 
 Today’s Cambodia is stable, but it lacks Civic life. Opposition exists only in exodus. Hun Sen built institutions—but always with himself at their heart.
 
@@ -215,6 +215,6 @@ Their rule demonstrates the risks of **sacrificing circulation for stability**, 
 
 Perhaps humanity’s greatest lesson from these Kings is not the brilliance of their strategy, but the fragility of any power that fears the next step—and so never takes it. These rulers don’t just freeze themselves—they freeze systems that should breathe. They show us that freezing power is a strategy of fear and control, but it is not immunity.
 
-The wheel of history turns—sometimes violently, sometimes slowly—but it never stops. Systems that cease to evolve become tombs, and tombs, sooner or later, crack. The era of Frozen Kings is not over, but cracks are already forming in several regimes. Some prepare for succession; others face collapse or transformation.
+The wheel of history turns—sometimes violently, sometimes slowly—but it never stops. Systems that cease to evolve become tombs, and tombs, sooner or later, crack. The era of Frozen Kings is not over, but cracks are already forming in several regimes. Some prepare for succession; others face collapse or change.
 
 Power that fears change ensures its own eventual demise? The real challenge is whether renewal will come through fracture or evolution?

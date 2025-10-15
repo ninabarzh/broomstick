@@ -20,8 +20,8 @@ trajectory—from literal vigilance to political litmus test—reveals how langu
 In its earliest uses, “woke” carried the weight of bodily survival and communal resistance.
 
 In 1923, Jamaican activist Marcus Garvey exhorted his diasporic audience with the cry, 
-“Wake up Ethiopia! Wake up Africa!”—a metaphorical awakening to racial oppression and collective empowerment. You can 
-still [look for him in the WhirlWind](https://youtu.be/YY-lbMsGLus?feature=shared&t=104).
+“Wake up Ethiopia! Wake up Africa!”—a metaphorical awakening to racial oppression and collective self-determination. 
+You can still [look for him in the WhirlWind](https://youtu.be/YY-lbMsGLus?feature=shared&t=104).
 
 In 1938, blues musician [Lead Belly recorded *Scottsboro Boys*](https://www.youtube.com/watch?v=VrXfkPViFIE), a song 
 protesting the wrongful conviction of nine Black teenagers in the Jim Crow South. At its conclusion he warned listeners, 
@@ -53,7 +53,7 @@ oppression. *"And now that Mr Garvey done woke me up, I am gon’ stay woke”*,
 
 Fast-forward to the 2010s and the Black Lives Matter protests following 
 [Ferguson and the killing of Michael Brown](https://apnews.com/article/shootings-police-us-news-st-louis-michael-brown-9aa32033692547699a3b61da8fd1fc62): 
-“stay woke” transformed into a rallying cry in slogans and social media, signalling urgent awareness of systemic 
+“stay woke” changed into a rallying cry in slogans and social media, signalling urgent awareness of systemic 
 racism and police violence.
 
 By the 2020s the term had been weaponised by conservatives. Figures such as Florida governor Ron DeSantis turned it 

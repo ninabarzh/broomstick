@@ -20,7 +20,7 @@ A few master-strokes of planned obsolescence:
 * Washing Machines – Built to survive exactly two years (conveniently, one month past the warranty). The vital components? Made of cheese. The rest? Titanium. Just enough to lull you into a false sense of value before the drum falls off mid-cycle.
 * Printer Ink Cartridges – Equipped with "smart" chips that scream "I’M EMPTY!" when they’re still 40% full. Refill them? Oh no, that would be reckless. Never mind that the printer itself costs less than the ink required to print a single PDF.
 * Disposable Razors – A marvel of modern engineering. The blades? Sharp enough for three shaves. The handle? Sturdy enough to last a lifetime you’ll never use it for.
-* Nylon Stockings – Originally strong enough to tow a tank, now designed to disintegrate if you so much as look at them wrong. Because nothing says "female empowerment" like forcing women to buy new tights every time they leave the house.
+* Nylon Stockings – Originally strong enough to tow a tank, now designed to disintegrate if you so much as look at them wrong. Because nothing says "female power" like forcing women to buy new tights every time they leave the house.
 * Smartphones – Soldered-in batteries with secret kill switches that ensure your phone becomes a brick after 18 months. Apple calls it "optimised battery performance". We call it "planned senility".
 
 ### The Environmental Catastrophe No One Wants to Talk About
@@ -37,8 +37,8 @@ All this corporate trickery doesn’t just empty your wallet—it fills landfill
 
 Even "eco-friendly" innovations aren’t safe. Lead-free solder sounds virtuous, until you realise it grows "tin whiskers"—tiny conductive hairs that deliberately short-circuit your devices over time. Nothing says "sustainability" like engineering failure into the very atoms of your product.
 
-### In conclusion
+### Happier?
 
 Planned obsolescence is the perfect metaphor for modern capitalism: a system that thrives on selling you things you don’t need, that don’t last, and that you’ll have to replace before you’ve even finished paying for them.
 
-But hey—at least the shareholders are happy.
+At least the shareholders are happy.

@@ -18,7 +18,7 @@ draft: false
 
 For decades, the story of Homo sapiens was told as a relatively straightforward ascent: one lineage, one continent, one eventual global success. But the latest genetic research suggests that our origins were anything but tidy. Instead of a single evolutionary path, modern humans appear to have emerged from the long-delayed reunion of two ancient lineages—distant cousins who had gone their separate ways over a million years earlier.
 
-This new model, built on cutting-edge genomic analysis rather than fossil fragments, reveals a far messier beginning: a braid, not a branch. 
+This new model, built on genomic analysis rather than fossil fragments, reveals a far messier beginning: a braid, not a branch. 
 
 ## The two-stem model: one species, two deep ancestries
 
@@ -40,7 +40,7 @@ Africa's shifting climates likely played a key role. During the Saharan "Green" 
 
 Modern humans left Africa more than once, but only the **last major migration**, between **70,000 and 50,000 years ago**, managed to colonise the globe. What made this wave different?
 
-The answer seems to lie in **adaptability**. These migrating humans carried with them not only the genetic legacy of Stem 2’s neural refinements, but also a growing toolkit of symbolic behaviour and cultural exchange. They adapted to deserts, forests, coasts, and tundra, often within a few generations. Cave art, personal ornamentation, and microlithic tools point to enhanced problem-solving and planning abilities. Earlier migrations lacked this behavioural flexibility and left few traces behind.
+The answer seems to lie in **adaptability**. These migrating humans carried with them not only the genetic legacy of Stem 2’s neural refinements, but also a growing toolkit of symbolic behaviour and cultural exchange. They adapted to deserts, forests, coasts, and tundra, often within a few generations. Cave art, personal ornamentation, and microlithic tools point to improved problem-solving and planning abilities. Earlier migrations lacked this behavioural flexibility and left few traces behind.
 
 This cognitive and cultural edge may be the true legacy of the two-stem remix: not just bigger brains, but more adaptable minds.
 

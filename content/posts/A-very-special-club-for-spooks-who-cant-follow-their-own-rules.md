@@ -19,9 +19,9 @@ The agreement was meant to "streamline" intelligence-sharing between allies—wh
 
 ### The legal loophole (Or: How to be above the law without even trying)
 
-Politicians love to drone on about oversight and restraint, but here’s the kicker: if GCHQ can’t legally snoop on Brits, the NSA will do it for them—and vice versa. It’s like a babysitting circle, except instead of watching the kids, they’re hoovering up every email, text, and questionable Google search.
+Politicians love to drone on about oversight and restraint, and here’s the kicker: if GCHQ can’t legally snoop on Brits, the NSA will do it for them—and vice versa. It’s like a babysitting circle, except instead of watching the kids, they’re hoovering up every email, text, and questionable Google search.
 
-And if anyone complains? The laws get "updated"—not to rein in the spies, but to retroactively bless whatever they were already doing. Because when has "we were technically breaking the rules, but now we’ve rewritten them" ever failed as a defence?
+And if anyone complains? The laws get "updated"—not to rein in the spies, but to retroactively bless whatever they were already doing. Because when has "we were technically breaking the rules, and now we’ve rewritten them" ever failed as a defence?
 
 ### Snowden’s Greatest Hits
 
@@ -29,4 +29,4 @@ Thanks to Edward Snowden, we now have a treasure trove of leaked documents provi
 
 ### The Bottom Line
 
-The Five Eyes is less a security alliance and more a mutual blackmail pact, where everyone agrees to ignore the elephant in the room: they’re all breaking their own laws, just via proxy. But hey—at least they’re polite about it.
+The Five Eyes is less a security alliance and more a mutual blackmail pact, where everyone agrees to ignore the elephant in the room: they’re all breaking their own laws, just via proxy. At least they’re polite about it.

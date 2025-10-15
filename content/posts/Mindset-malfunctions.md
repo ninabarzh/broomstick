@@ -14,13 +14,13 @@ Psychologists, in their infinite wisdom, have identified two particularly tellin
 
 When we peel back the layers of our cognitive machinery, we find some rather embarrassing design flaws. Take motivated reasoning, our brain's special talent for making facts conform to feelings. This explains everything from political tribalism to why we'll defend that terrible purchase we really shouldn't have made. 
 
-Then there's conspiratorial thinking, that peculiar mental gymnastics routine where random events become sinister plots – a cognitive coping mechanism particularly favoured during times of stress or powerlessness. It's remarkable how a dash of anxiety and a pinch of boredom can transform otherwise sensible people into amateur detectives seeing clues in cereal box designs.
+Then there's conspiratorial thinking, that peculiar mental gymnastics routine where random events become sinister plots – a cognitive coping mechanism particularly favoured during times of stress or powerlessness. It's remarkable how a dash of anxiety and a pinch of boredom can change otherwise sensible people into amateur detectives seeing clues in cereal box designs.
 
 Our capacity for apocalyptic fantasising deserves special mention. There's something perversely comforting about believing we'll witness the end times – it lends drama to otherwise mundane existences. This psychological quirk explains why doomsday predictions have remained stubbornly popular, probably since the first human looked at the sky and thought "That cloud looks angry." The appeal is obvious: if the world's ending, suddenly your unfinished taxes don't seem so important.
 
 ### Special mentions
 
-The darker corners of our collective psyche reveal even more troubling patterns. Misogyny, that ancient and persistent mindset, continues to thrive by transforming male insecurity into female culpability. It's a remarkable feat of psychological projection that would be impressive if it weren't so damaging. 
+The darker corners of our collective psyche reveal even more troubling patterns. Misogyny, that ancient and persistent mindset, continues to thrive by translating male insecurity into female culpability. It's a remarkable feat of psychological projection that would be impressive if it weren't so damaging. 
 
 ![](/images/how_it_works.png#center)
 

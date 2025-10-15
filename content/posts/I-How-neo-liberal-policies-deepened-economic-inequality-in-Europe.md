@@ -25,7 +25,7 @@ Let’s begin with the tax cuts. From Paris to Berlin, and London to Lisbon, tax
 
 The UK slashed corporation tax from 52% in the early ’80s to just 19% by the late 2010s (with plans to tinker further). France dropped its wealth tax under Macron, hoping the rich would feel more "at home". Spoiler: they felt richer. Across Europe, the average corporate tax rate fell from over 40% to around 21%—all while public services were being told to "tighten belts" so aggressively that some snapped.
 
-Meanwhile, deregulation let financial firms play Monopoly with real economies. Iceland’s banks ballooned to ten times the size of its GDP, and when the crash came, the country was left holding the bill. In the UK, the City of London transformed into a semi-autonomous playground where regulation was politely asked to wait outside.
+Meanwhile, deregulation let financial firms play Monopoly with real economies. Iceland’s banks ballooned to ten times the size of its GDP, and when the crash came, the country was left holding the bill. In the UK, the City of London changed into a semi-autonomous playground where regulation was politely asked to wait outside.
 
 Wolff reminds us this wasn't an economic accident—it was class warfare by PowerPoint. The rich didn’t just win; they got to write the rules and invoice the rest of us for the paper.
 
@@ -33,7 +33,7 @@ Wolff reminds us this wasn't an economic accident—it was class warfare by Powe
 
 ## Austerity: your crisis, their opportunity
 
-When the 2008 financial meltdown hit—a crisis caused by reckless lending, overleveraged banks, and the sort of risk management you'd expect at a student house party—governments across Europe sprang into action. They bailed out the banks and handed the invoice to everyone else.
+When the 2008 financial meltdown hit—a crisis caused by reckless lending, undercapitalised banks, and the sort of risk management you'd expect at a student house party—governments across Europe sprang into action. They bailed out the banks and handed the invoice to everyone else.
 
 Greece was the worst-hit. After accepting EU-IMF bailout terms, it was forced to privatise airports, slash pensions, and fire thousands of civil servants. One Greek hospital reportedly ran out of surgical gloves. But at least Lufthansa got some lovely new terminals.
 
@@ -71,6 +71,6 @@ Wolff is clear: neoliberalism is a class project. It’s the reassertion of elit
 
 Inequality in Europe isn’t an unfortunate byproduct—it’s baked into the model. But there are signs of fatigue. Strikes have returned with force. Public ownership is no longer taboo. And younger generations, priced out of housing and saddled with debt, are considerably less enchanted by the gospel of free markets.
 
-That said, don’t expect neoliberalism to vanish in a puff of logic. It’s resilient, shape-shifting, and well-armed with PR consultants. But as Wolff and others argue, change begins with naming the problem. Neoliberalism isn’t just bad policy—it’s a framework that protects wealth by extracting it from everything else.
+But don’t expect neoliberalism to vanish in a puff of logic. It’s resilient, shape-shifting, and well-armed with PR consultants. But as Wolff and others argue, change begins with naming the problem. Neoliberalism isn’t just bad policy—it’s a framework that protects wealth by extracting it from everything else.
 
 If we want different outcomes—fairer, saner, more human ones—we’ll need a different framework entirely. And maybe, just maybe, a train that runs on time without bankrupting you.

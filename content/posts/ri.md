@@ -52,7 +52,7 @@ sources to minimise bias and strengthen factual accuracy.
 ## Why it is not propaganda
 
 Propaganda tools typically obscure sourcing, present one-sided narratives, and discourage critical examination—none 
-of which aligns with Reactionary International’s openly archived case studies and transparent methodology.
+of which is congruent with Reactionary International’s openly archived case studies and transparent methodology.
 
 Instead, the platform invites readers to inspect data, re‑trace connections, and build upon its findings in 
 independent analysis or reporting.

@@ -10,7 +10,7 @@ date: 2025-07-29T00:00:00.000Z
 Ten years ago, *Nonprofit AF* , in [Weaponized data: How the obsession with data has been hurting marginalized communities](https://nonprofitaf.com/2015/05/weaponized-data-how-the-obsession-with-data-has-been-hurting-marginalized-communities/), 
 warned that nonprofits’ data obsession could dehumanise and harm marginalised communities—reducing lived experiences 
 to reductive metrics, ignoring power dynamics, and prioritising funder dashboards. Now it’s 2025. Technology, AI, 
-data regulation, and global politics have transformed—but many threats have only intensified. What changed? 
+data regulation, and global politics have changed—but many threats have only intensified. What changed? 
 
 ---
 

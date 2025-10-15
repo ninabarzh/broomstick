@@ -1,6 +1,6 @@
 ---
 title: "The patch sprint protocol: A reluctant guide to cybersecurity hygiene"
-subtitle: "Transforming negligent inaction into performative compliance through structured peer pressure"
+subtitle: "Changing negligent inaction into performative compliance through structured peer pressure"
 description: "A sardonic yet practical framework for making vulnerability patching minimally unbearable through gamification, public shaming and biscuit-based incentives."
 date: 2025-08-17T04:00:00Z
 draft: false
@@ -22,11 +22,11 @@ cover:
   relative: false
 ---
 
-The objective of this patch sprint choreography is to elevate the tedious act of patching from a soul-crushing 
+The objective of this patch sprint choreography is to change the tedious act of patching from a soul-crushing 
 administrative duty into a mildly entertaining team exercise—complete with structured chaos, passive-aggressive 
 incentives, and just enough humiliation to ensure participation.
 
-Transform patching from a dreaded chore into a fast, fun, and competitive team activity—complete with gamification, 
+Change patching from a dreaded chore into a fast, fun, and competitive team activity—complete with gamification, 
 music, and rewards—to eliminate [hackable inertia]({{< relref "tags/hackable-inertia" >}}).
 
 ---

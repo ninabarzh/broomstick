@@ -17,7 +17,7 @@ comes with a compliance hangover.
 
 Beyond finance, AI is now the darling of physical security—spotting odd behaviour, identifying faces in crowds, and 
 predicting crimes before they happen (or not). German defence start-up Helsing, for example, has plans to release a 
-swarm of underwater drones with “advanced AI” to enhance naval surveillance. Because nothing says peace of mind like 
+swarm of underwater drones with “advanced AI” to boost naval surveillance. Because nothing says peace of mind like 
 the quiet hum of a robot lurking in the deep.
 
 ![](/images/panopticon2025.png#center)

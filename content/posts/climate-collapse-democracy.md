@@ -90,7 +90,7 @@ survival. To avoid Carlo’s dystopia of ecological and sensory impoverishment, 
 The Global Citizens’ Assembly for People and Planet, launching at COP30, is to provide a structured way to influence policy beyond electoral cycles. 
 
 The [Global Citizens’ Assembly](https://globalassemblies.org) site is the main hub. It presents itself as the home for 
-global and community-level assemblies, with mention of the People and Planet focus and alignment with COP processes 
+global and community-level assemblies, with mention of the People and Planet focus and congruence with COP processes 
 like COP30. However, it seems to represent the model and vision rather than a single, already-convened Global 
 Citizens’ Assembly for People and Planet. The assembly appears to be in the mobilisation or design phase, not convened 
 yet. The design intends to replicate previous national "successes".
@@ -106,7 +106,7 @@ While there was no single consolidated “climate law” passed from the UK’s 
 the Assembly’s ‘Path to Net Zero’ report influenced parliamentary debates and shaped evidence considered by select 
 committees. Many proposals were referenced in legislation and policy discussions in the years afterward.
 
-In short, citizen assemblies can generate rigorous, actionable policy proposals; Few proposals are adopted exactly 
+In short, citizen assemblies can generate policy proposals; Few proposals are adopted exactly 
 as drafted; Political and business pressure routinely dilutes bold measures. Nonetheless, assemblies often move public 
 discourse, nudge legislators and plant seeds for future action.
 
@@ -125,7 +125,7 @@ Move personal banking and pensions away from institutions funding fossil fuel ex
 
 [Vanuatu’s 2024 proposal to criminalise environmental destruction](https://ecojurisprudence.org/initiatives/vanuatu-fiji-and-samoa-proposed-amendment-to-the-rome-statute-to-include-a-crime-of-ecocide/) at the International Criminal Court marks a turning point. Europeans can lobby their governments to endorse this, citing the 72% global public support for ecocide laws. Legal recognition of ecocide would force corporations to weigh profits against criminal liability—a deterrent currently lacking in environmental law.  
 
-### Adopt low-carbon lifestyles with community leverage  
+### Adopt low-carbon lifestyles with community use  
 
 Individual actions matter, but their impact multiplies when communities act together. Energy cooperatives, such as those in Germany and Denmark, allow citizens to collectively own renewable energy projects, cutting emissions while reducing energy poverty. 
 
@@ -157,11 +157,11 @@ Avoid tokenistic conservation—true protection requires banning extractive indu
 
 ### Engage in local rewilding responsibly
 
-Urban greening projects, such as community gardens and wetland restoration, enhance biodiversity while cooling cities. If reintroducing species like beavers, ensure robust community consultation and habitat assessments to prevent conflicts. [Rewilding](https://rewildingeurope.com) must prioritise animal welfare and long-term ecological balance, not just short-term symbolism.  
+Urban greening projects, such as community gardens and wetland restoration, improve biodiversity while cooling cities. If reintroducing species like beavers, ensure community consultation and habitat assessments to prevent conflicts. [Rewilding](https://rewildingeurope.com) must prioritise animal welfare and long-term ecological balance, not just short-term symbolism.  
 
 ### Support climate litigation NGOs  
 
-Despite clear scientific urgency to cut emissions rapidly, many courts hesitate to enforce strict, legally binding targets due to respect for political decision-making and legal complexities. This caution weakens climate law enforcement, making promises less accountable. Supporting specialised climate litigation NGOs—like [ClientEarth](https://www.clientearth.org/latest/news/how-can-the-law-fight-climate-change/) and [Urgenda](https://www.urgenda.nl/en/themas/climate-case/)—helps challenge insufficient action and build stronger legal precedents. Landmark cases, such as the Dutch Urgenda ruling, show litigation’s power to compel real emissions cuts. Continued funding for these groups is essential to push courts toward decisive climate enforcement aligned with science.
+Despite clear scientific urgency to cut emissions rapidly, many courts hesitate to enforce strict, legally binding targets due to respect for political decision-making and legal complexities. This caution weakens climate law enforcement, making promises less accountable. Supporting specialised climate litigation NGOs—like [ClientEarth](https://www.clientearth.org/latest/news/how-can-the-law-fight-climate-change/) and [Urgenda](https://www.urgenda.nl/en/themas/climate-case/)—helps challenge insufficient action and build stronger legal precedents. Landmark cases, such as the Dutch Urgenda ruling, show litigation’s power to compel real emissions cuts. Continued funding for these groups is essential to push courts toward decisive climate enforcement congruent with scientific findings.
 
 ### Demand stricter CSDDD enforcement and expanded scope
 
@@ -173,7 +173,7 @@ Establish enduring partnerships with activists and grassroots organisations from
 
 By working together, we can clearly demonstrate the direct connections between European consumption patterns—such as reliance on fossil fuels, imports linked to deforestation, and excessive resource use—and the worsening climate crises in these vulnerable regions. This collaboration helps dismantle the misconception that climate change is a distant issue, highlighting its immediate and tangible effects on Indigenous peoples, coastal communities, and fragile ecosystems thousands of miles away.
 
-Through coordinated campaigns, shared storytelling, and targeted advocacy at EU institutions, we can ensure climate justice becomes central to European climate policies. This means demanding greater accountability for supply chains, pushing for meaningful reductions in consumption, and empowering affected communities to participate actively in shaping global climate governance. Ultimately, such partnerships foster solidarity, amplify marginalized voices, and drive systemic change towards a fairer and more sustainable future.  
+Through coordinated campaigns, shared storytelling, and targeted advocacy at EU institutions, we can ensure climate justice becomes central to European climate policies. This means demanding greater accountability for supply chains, pushing for meaningful reductions in consumption, and enabling affected communities to participate actively in shaping global climate governance. Ultimately, such partnerships foster solidarity, amplify marginalized voices, and drive systemic change towards a fairer and more sustainable future.  
 
 ### The time for decisive action is now  
 
@@ -186,7 +186,7 @@ We have spent too long playing by rules designed to maintain the status quo. Gov
 ### Build what they will not through direct action
 
 Food sovereignty begins with reclaiming land from corporate control. In Bristol, the 
-[Incredible Edible Network](https://www.incredibleedible.org.uk/news/?/right-to-grow/) transform vacant lots 
+[Incredible Edible Network](https://www.incredibleedible.org.uk/news/?/right-to-grow/) change vacant lots 
 owned by an absentee landlord into community food forests. When served with eviction notices, they organize 
 round-the-clock occupations, using the legal tactic of "adverse possession" to eventually gain ownership. Similar 
 land reclamation movements across Europe show how persistent, organized civil disobedience can create lasting change.
@@ -247,7 +247,7 @@ intervene, the volunteers simply relocate and continue, training new recruits ea
 
 Guerrilla gardening in Europe has flourished as a form of ecological resistance and urban reimagination, particularly 
 in cities where austerity, vacancy, or overdevelopment have left grey zones ripe for reclaiming. From Berlin’s 
-abandoned lots transformed into community herb gardens to London roundabouts secretly seeded with wildflowers, 
+abandoned lots changed into community herb gardens to London roundabouts secretly seeded with wildflowers, 
 these unsanctioned green interventions challenge the sterile logic of urban planning. Groups like 
 [Incredible Edible in the UK](https://www.incredibleedible.org.uk) and Nomadisch Grün in Berlin—famous for 
 [Prinzessinnengarten](https://prinzessinnengarten.net/)—have demonstrated how food-growing and spontaneous 
@@ -264,7 +264,7 @@ at a time.
 
 ### Federated resistance for the long haul
 
-Guerrilla and anarchist archives in Lisbon play a pivotal role in preserving movement history—especially as 
+Guerrilla and anarchist archives in Lisbon play an important role in preserving movement history—especially as 
 official records often erase or marginalize radical practices. A notable example is [the recent creation of a new 
 Anarchist Center](https://anarchistnews.org/content/new-anarchist-center-lisbon) by the Centro de Cultura Libertária, 
 BOESG library, and the newspaper A Batalha, aiming to protect 

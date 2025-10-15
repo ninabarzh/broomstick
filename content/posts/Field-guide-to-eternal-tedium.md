@@ -16,7 +16,7 @@ Tech moguls are still pouring millions into "life extension" startups. This whil
 ### So you want to live forever? Let's think this through
 
 1. Overpopulation: Now with 100% more you
-   Remember when we all briefly cared about flattening the curve? Good times. Now imagine a world where no one ever dies but we still can't agree on whether masks work. Eternal life, eternal arguments about herd immunity.
+   Remember when we all briefly cared about flattening the curve? Good times. Now imagine a world where no one ever dies and we still can't agree on whether masks work. Eternal life, eternal arguments about herd immunity.
 2. New and exciting diseases
    We're currently living through a masterclass in how nature keeps inventing new ways to kill us. COVID-19 might just be the opening act. Wait until we discover Super-MERS or Turbo-Ebola at year 250 of your immortal existence.
 3. Time acceleration syndrome
@@ -28,7 +28,7 @@ Tech moguls are still pouring millions into "life extension" startups. This whil
 6. Career becomes a life sentence
    Working from home in sweatpants seemed novel in April. Try doing your job forever. The phrase "quiet quitting" would take on horrifying new meaning when you realise you're literally never retiring.
 7. Cultural stagnation
-   We're currently stuck in an endless loop of 90s nostalgia and superhero movies. Now imagine that - but forever. Your great-great-great-grandchildren would still be arguing about whether the Friends reunion was any good.
+   We're currently stuck in an endless loop of 90s nostalgia and superhero movies. Now imagine that - and forever. Your great-great-great-grandchildren would still be arguing about whether the Friends reunion was any good.
 8. Violence as performance art
    Remember the toilet paper wars of March? Multiply that by infinity. The Immortal Boredom Riots of 2150 would make the Hunger Games look like a tea party.
 

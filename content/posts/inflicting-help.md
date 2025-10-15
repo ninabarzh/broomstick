@@ -13,14 +13,14 @@ draft: false
 
 “Inflicting help” is the curious human habit of dressing up domination, control, or self-interest in the language of benevolence. It describes well-intentioned or performative actions imposed on others—often without their consent, awareness, or any genuine benefit to them. The giver feels virtuous; the receiver is often disempowered, silenced, or even harmed. The word help suggests care and generosity, but when prefixed with inflicted, it carries the unmistakable sting of condescension and coercion.
 
-It is important to distinguish between help as empowerment and help as control. Empowering help resembles the 
+It is important to distinguish between help as enablement and help as control. Effective help resembles the 
 Montessori principle of “help me to do it myself”: it begins with observation, respect, and creating an environment 
 where individuals can grow in their own direction. It centres their needs and rhythms, offering tools and guidance 
 only as much as they are interested in. The student is not requested to give his or her power away to anyone or 
 anything. 
 
 Controlling help, by contrast, interrupts the process. It imposes solutions, corrects according to the helper’s 
-assumptions, and mistakes dependence for care. Where empowerment nurtures self-mastery and confidence, 
+assumptions, and mistakes dependence for care. Where autonomy nurtures self-mastery and confidence, 
 control stifles initiative and quietly teaches helplessness.
 
 This tension has played out repeatedly across history. “Help” has been weaponised as a justification for 
@@ -130,7 +130,7 @@ intentional or not.
 
 The [Roman Empire's extensive network of roads and aqueducts](https://www.history.com/articles/pax-romana-roman-empire-peace-augustus) serves as a prime example of infrastructure built under the guise of public welfare. While these engineering feats facilitated troop movements and communication, they also served to integrate local economies into the Roman system, often prioritising imperial needs over local welfare. Under Emperor Augustus, Rome constructed 50,000 miles of new roads, easing the movement of troops, information, and goods. The investment of imperial resources in large infrastructure projects integrated the provinces and brought further economic benefits.
 
-European colonial powers justified their expansion by [claiming to bring civilisation and development](https://en.wikipedia.org/wiki/Analysis_of_European_colonialism_and_colonization) to indigenous populations. And this often involved the dismantling of local systems and imposition of foreign governance, leading to long-term cultural and social disruptions. The colonisation of Africa, for instance, led to the disruption of local customary practices and the transformation of socioeconomic systems, with native populations being displaced to clear fertile farmland.
+European colonial powers justified their expansion by [claiming to bring civilisation and development](https://en.wikipedia.org/wiki/Analysis_of_European_colonialism_and_colonization) to indigenous populations. And this often involved the dismantling of local systems and imposition of foreign governance, leading to long-term cultural and social disruptions. The colonisation of Africa, for instance, led to the disruption of local customary practices and the dismantling of socioeconomic systems, with native populations being displaced to clear fertile farmland.
 
 In British India, the introduction of English education, particularly through the policies of Thomas Babington Macaulay, was [framed as a means of enlightenment](http://veda.wikidot.com/article:decolonizing-the-indian-mind). In reality, it was designed to create a class of clerks to serve the colonial administration, often at the expense of indigenous languages and cultures. Macaulay's policy aimed to replace traditional education systems with English-language instruction, fostering a class of interpreters and bureaucrats who would assist in administering the colonial state.
 
@@ -153,7 +153,7 @@ The phenomenon of individuals from affluent countries volunteering in developing
 ## TL;DR
 
 "Help" can sometimes be a guise for control, exploitation, or cultural imposition. Recognising these patterns is 
-crucial in ensuring that assistance is genuinely empowering and respectful of the autonomy and dignity of those 
+crucial in ensuring that assistance is genuinely effective and respectful of the autonomy and dignity of those 
 it aims to support.
 
 *“You can't go around building a better world for people. Only people can build a better world for people. Otherwise it's just a cage.” ~ Terry Pratchett, Witches Abroad*

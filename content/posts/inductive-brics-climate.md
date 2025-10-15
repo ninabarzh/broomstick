@@ -44,7 +44,7 @@ Brazil, for its part, decides to bypass western carbon credit middlemen entirely
 
 ### The "OPEC for renewables" shock (2031)
 
-A sudden dip in Saudi Arabia’s remaining oil reserves sparks panic in energy markets. In a masterstroke of narrative and policy, Riyadh announces a national pivot to “Solar Arabia,” transforming its deserts into glistening hydrogen farms with the flourish only petro-monarchs can manage.
+A sudden dip in Saudi Arabia’s remaining oil reserves sparks panic in energy markets. In a masterstroke of narrative and policy, Riyadh announces a national pivot to “Solar Arabia,” changing its deserts into glistening hydrogen farms with the flourish only petro-monarchs can manage.
 
 Russia, realising its gas pipelines have become less asset and more liability, dives headfirst into Arctic wind power. The turbines are, inexplicably, emblazoned with Putin’s face. Nobody asks why. Nobody dares.
 
@@ -86,7 +86,7 @@ Meanwhile, the New Development Bank launches the "green ruble", a carbon-backed 
 
 ### The ultimate power move (2040): “You sank our emissions, now we own the sky”
 
-With a robust green alliance in place, BRICS+ makes its most audacious move yet. The coalition buys up the global carbon credit market, effectively cornering emissions trading like a climate-conscious Bond villain. Debt relief for Global South nations is now explicitly linked to reforestation and emission sinks. Save trees, cancel debt. It's wildly popular.
+With a strong green alliance in place, BRICS+ makes its most audacious move yet. The coalition buys up the global carbon credit market, effectively cornering emissions trading like a climate-conscious Bond villain. Debt relief for Global South nations is now explicitly linked to reforestation and emission sinks. Save trees, cancel debt. It's wildly popular.
 
 After decades of ice-cold diplomacy, China and India broker a historic détente, enabling the construction of a Himalayan solar belt—a monumental infrastructure project delivering uninterrupted clean energy from Nepal to Singapore.
 

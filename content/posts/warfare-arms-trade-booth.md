@@ -105,7 +105,7 @@ load weapons bound for war zones. In Switzerland,
 the [Group for a Switzerland without an Army (GSoA)](https://en.gsoa.ch/) continues to challenge 
 the country’s profitable but opaque arms exports.
 
-Legal pressure is growing. Nicaragua’s ICJ case against Germany could, if successful, set a transformative precedent. 
+Legal pressure is growing. Nicaragua’s ICJ case against Germany could, if successful, set a precedent. 
 Spanish human rights groups are demanding investigations under Law 53/2007 on arms export controls. And the 
 [European Center for Constitutional and Human Rights (ECCHR)](https://www.ecchr.eu) is coordinating transnational 
 legal campaigns against manufacturers and policymakers alike.

@@ -48,7 +48,7 @@ Jung popularised the term in the 20th century, describing them as “forms witho
 
 Some archetypes refuse to stay dead. Here are a few of the most persistent:
 
-* **The Hero**: Always reluctant at first. Think Odysseus, Beowulf, Katniss Everdeen. Faces the abyss, returns transformed. Usually slightly annoying.
+* **The Hero**: Always reluctant at first. Think Odysseus, Beowulf, Katniss Everdeen. Faces the abyss, returns changed. Usually slightly annoying.
 * **[The Trickster]({{< relref "posts/trickster.md" >}})**: Chaos personified. Loki, Anansi, Raven, Coyote, Bugs Bunny. Boundary-crosser, social irritant, comic relief and sacred rebel rolled into one.
 * **The Great Mother**: Nurturer and devourer. From Isis to Demeter to the Virgin Mary, she gives life and, often, takes it away.
 * **The Wise Old One**: Think Gandalf, Merlin, Obi-Wan. Appears when needed, disappears at the worst possible moment.
@@ -76,7 +76,7 @@ Societies, like people, cycle through archetypes. When a culture is stuck in sha
 
 Archetypes are neither quaint nor obsolete. They are **the mental operating system we forgot we installed**. Whether carved in mammoth ivory or lurking in Netflix scripts, they express our fears, desires, and moral intuitions.
 
-We don’t outgrow them. We grow into them. And when we’re smart, we use them — not to stereotype, but to **illuminate the terrain** of being human.
+We don’t outgrow them. We grow into them. And when we’re smart, we use them — not to stereotype, but to **understand the terrain** of being human.
 
 They are the shadows in the dust. The old roles with new actors. The reasons our deepest stories still rhyme.
 

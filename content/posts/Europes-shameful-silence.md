@@ -41,7 +41,7 @@ International law is unambiguous: the Genocide Convention obliges states to act 
 
 Why does Europe hesitate? Partly fear of domestic backlash. Pro-Israel lobbies wield disproportionate influence, particularly in Germany, where any criticism of Israel is reflexively equated with antisemitism. The far-right—from France’s Le Pen to Italy’s Meloni—cheers on Israel not out of principle, but because it fits their anti-Muslim world-view.
 
-Then there is the fiction of “balance.” European officials insist they are “engaging with both sides,” as if supplying one side with weapons and vetoing sanctions against it constitutes even-handedness. They fret about “alienating Israel” but show no such concern for the millions of Palestinians being starved and bombed. It is not diplomacy; it is complicity with a veneer of respectability.
+Then there is the fiction of “balance.” European officials insist they are “engaging with both sides,” as if supplying one side with weapons and vetoing sanctions against it constitutes even-handedness. They fret about “alienating Israel” and show no such concern for the millions of Palestinians being starved and bombed. It is not diplomacy; it is complicity with a veneer of respectability.
 
 ### What must be done—And why it won’t happen
 

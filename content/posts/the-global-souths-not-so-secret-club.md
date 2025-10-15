@@ -32,7 +32,7 @@ while conveniently ignoring the skeletons rattling in their own financial closet
 
 The first formal BRIC summit in 2009 was less a meeting of minds and more a gathering of countries united by what 
 they opposed (American hegemony) rather than what they supported (any coherent alternative). South Africa's inclusion 
-in 2010, transforming BRIC into BRICS, was the geopolitical equivalent of adding a fifth wheel to a car that wasn't 
+in 2010, rebranding BRIC into BRICS, was the geopolitical equivalent of adding a fifth wheel to a car that wasn't 
 sure where it was driving anyway. But with characteristic emerging market optimism, they pressed on, creating 
 institutions like the New Development Bank - essentially a World Bank tribute act with slightly worse lending terms.
 
@@ -88,9 +88,9 @@ The much-vaunted *BRICS Pay* system is still stuck in the eternal limbo of "pilo
 
 And the proposed common BRICS currency? That’s the monetary equivalent of announcing plans to build a space elevator — technically feasible in theory, prohibitively expensive, and utterly impractical in this century.
 
-### Energy leverage: Now we're talking
+### Energy use: Now we're talking
 
-Where BRICS+ genuinely wields clout is in the global energy market. The expanded bloc now accounts for roughly **44% of global oil production**, giving it considerable leverage — on paper. In practice, coordinating that influence is another matter entirely.
+Where BRICS+ genuinely wields clout is in the global energy market. The expanded bloc now accounts for roughly **44% of global oil production**, giving it considerable use — on paper. In practice, coordinating that influence is another matter entirely.
 
 Expecting Saudi Arabia and Iran to agree on production quotas is like watching two rival football firms try to organise a charity bake sale. The potential for disaster is high, and the likelihood of unity is — at best — fragile.
 
@@ -100,7 +100,7 @@ Expecting Saudi Arabia and Iran to agree on production quotas is like watching t
 
 For all its grand ambitions, BRICS resembles nothing so much as a group project where none of the members 
 particularly like each other. China and India continue their Himalayan staring contest while pretending to be 
-economic partners. Brazil periodically remembers it's actually a Western-aligned democracy and gets cold feet. 
+economic partners. Brazil periodically remembers it's actually a Western-allied democracy and gets cold feet. 
 South Africa struggles to explain why it's even there. And Russia, increasingly a geopolitical pariah, clings to 
 BRICS like a drunk to a lamppost - it's not taking him anywhere useful, but it's better than lying in the gutter.
 
@@ -117,7 +117,7 @@ trajectory will shape not just its member states but the entire global order—w
 powerhouse, an anti-Western bloc, or a fractured coalition. Exploring each scenario’s likelihood, mechanics, 
 and global ripple effects, from trade wars to currency battles.  
 
-Here are four plausible futures for BRICS+, ranging from bureaucratic farce to financial realignment—and how Europe 
+Here are four plausible futures for BRICS+, ranging from bureaucratic farce to financial restructuring—and how Europe 
 might adapt to each.
 
 ---

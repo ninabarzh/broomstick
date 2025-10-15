@@ -45,7 +45,7 @@ Effectiveness does not equal virtue.
 During the Cold War, [psychological influence became institutionalised](https://ia600108.us.archive.org/view_archive.php?archive=/24/items/wikipedia-scholarly-sources-corpus/10.1162.zip&file=10.1162%252F152039702753649656.pdf) through bodies like the 
 Psychological Strategy Board and research projects such as [Project Troy](https://www.theatlantic.com/science/archive/2018/12/project-troy-science-cold-war-psychological-warfare/576847/). 
 Academia and the military fused to maximise reach. 
-Influence was treated as a technical problem to optimise, not a moral one. 
+Influence was treated as a technical problem to improve, not a moral one. 
 The more “scientific” the approach, the further it drifted from democratic accountability.
 
 ---

@@ -29,7 +29,7 @@ consequences of design.
 Thomas Dullien (Halvar Flake) [called this out in 2017](https://lnkd.in/eUshywQU) and the 
 question "Why are we not making a defendable internet?" was [revisited in 2022/23](https://www.youtube.com/watch?v=VRmrn1zO2GM).
 
-A "defendable internet" ought to mean one that is robust, resilient, and reliable, a place where data is not routinely 
+A "defendable internet" ought to mean one that is resilient and reliable, a place where data is not routinely 
 stolen, services do not fall over every Tuesday, and personal privacy is not treated as a quaint hobby for paranoiacs. 
 The technologies to build such a thing exist. What is missing is any genuine appetite to use them. The undefendable 
 internet is not the result of ignorance or inability. It is the result of preference.
@@ -186,7 +186,7 @@ choices that prioritised speed over safety, profit over resilience, control over
 responsibility.
 
 To build a defendable internet would require more than protocols and patches. It would demand cultural change, 
-political courage, economic realignment, and perhaps most difficult of all, human patience.
+political courage, economic restructuring, and perhaps most difficult of all, human patience.
 
 At present, such things appear scarcer than IPv6 adoption. And so we stumble forward on a machine cobbled together 
 with duct tape and denial, telling ourselves that it is progress, while privately hoping that the next catastrophic 

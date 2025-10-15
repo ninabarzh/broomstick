@@ -9,7 +9,7 @@ tags: ["security", "NVD", "CVE", "vulnerability management", "policy", "funding 
 
 The US National Vulnerability Database has slipped from a dull but dependable piece of security plumbing into a 
 sputtering liability. Enrichment of CVEs has stalled, backlogs have exploded, and defenders are left with raw 
-identifiers instead of actionable intelligence. This collapse is not accidental—it is the predictable result of 
+identifiers instead of usable intelligence. This collapse is not accidental—it is the predictable result of 
 political austerity, funding cuts, and a fixation on flashy science over unglamorous infrastructure. In other 
 words, the pipes have burst while Washington debates whether water is really a priority. For security teams all over 
 the world, the message is blunt: stop waiting for rescue. Diversify your sources, automate your own triage, build peer 
@@ -37,7 +37,7 @@ Beyond NIST, [the broader scientific funding ecosystem has been slashed to ribbo
 
 ## A political posture that says “sorry, not sorry” to science
 
-One gets the sense that maintaining something as dull and foundational as the NVD does not quite align with the 
+One gets the sense that maintaining something as dull and foundational as the NVD does not quite fit with the 
 Trump ethos of flashy breakthroughs and “economic security.” Indeed, ideological purges—including stripped LGBTQ+, 
 climate-related and diversity-linked data, as well as mass scientific firings—have become alarmingly de rigueur. 
 Meanwhile, programmes like 
@@ -86,9 +86,9 @@ Waiting for enriched metadata is a fool’s errand. Build your own enrichment pi
 software inventory, asset database, and threat intelligence. Open-source tools like `vulners`, `grype`, and `trivy` 
 can ingest raw CVE data and perform their own classification. Custom scripts that cross-reference CVEs with your 
 installed packages or SBOMs (Software Bills of Materials) will not be as polished as NVD enrichment, but they give 
-you actionable context. Think of it as rolling your own plumbing when the water company has forgotten how pipes work.
+you usable context. Think of it as rolling your own plumbing when the water company has forgotten how pipes work.
 
-### Leverage reproducible builds and binary analysis
+### Use reproducible builds and binary analysis
 
 Attackers exploit the gap between declared vulnerabilities and what actually runs on your systems. Defenders can 
 close that gap by [analysing binaries directly](https://red.tymyrddin.dev/docs/through/reverse-engineering/index.html#foraging-for-secrets-in-binaries). 

@@ -34,7 +34,7 @@ Aggression, another classic "instinct," fares no better. Yes, males of many spec
 If instincts aren’t quite the fixed scripts we thought, what fills the gap? Enter developmental plasticity—the body’s ability to tweak its own blueprint based on the environment:
 
 * Bird song, long held up as innate, is actually a cover version. Young finches need to hear their species’ tunes during a critical window, or they’ll botch the performance. White-crowned sparrows take it further, shunning other birds’ songs like musical snobs.
-* Locusts switch from solitary to swarming modes when crowded, a transformation so dramatic it’s like a quiet librarian morphing into a festival hooligan—all triggered by serotonin.
+* Locusts switch from solitary to swarming modes when crowded, a change so dramatic it’s like a quiet librarian morphing into a festival hooligan—all triggered by serotonin.
 * Daphnia, tiny crustaceans with more survival tricks than a spy novel, grow defensive spines when they smell predators. Miss the cue, and they’ll skip the armour, proving that even "instinctive" defences are negotiable.
 
 ---

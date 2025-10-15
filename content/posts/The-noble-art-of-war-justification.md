@@ -26,7 +26,7 @@ Western legalists, in their infinite wisdom, later claimed “Just War” as an 
 
 ### Legitimisation
 
-Eventually, legal theorists adjusted the so-called law of nations to reflect, and thus rubber-stamp, the status quo of European dominance. A discipline originally born of grappling with colonial slaughter transformed into a polite set of rules for civilised states to chat amongst themselves while excluding the rest of the planet. By definition, “civilised” meant European, of course — an efficient way to keep the club exclusive.
+Eventually, legal theorists adjusted the so-called law of nations to reflect, and thus rubber-stamp, the status quo of European dominance. A discipline originally born of grappling with colonial slaughter changed into a polite set of rules for civilised states to chat amongst themselves while excluding the rest of the planet. By definition, “civilised” meant European, of course — an efficient way to keep the club exclusive.
 
 International law, such as it is, posits the existence of a global society of states that politely nod to certain norms. But let’s be clear: these norms are binding only in the sense that everyone agrees they are, and unenforceable in the sense that no one actually does anything when they’re breached. It’s all very genteel.
 

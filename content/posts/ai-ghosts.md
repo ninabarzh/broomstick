@@ -17,11 +17,11 @@ We are no longer in the age of the lone script kiddie lobbing pre-cooked exploit
 
 ## AI makes attack automation trivial
 
-Attackers will no longer need to hard-code every evasion trick. AI models can learn from network responses, automatically mutate payloads, and optimise their lateral movement as if they were playing a strategy game. Early signs are already here:
+Attackers will no longer need to hard-code every evasion trick. AI models can learn from network responses, automatically mutate payloads, and improve their lateral movement as if they were playing a strategy game. Early signs are already here:
 
 * Autonomous evasion — adaptive systems that can probe defences, adjust their signatures in flight, and even mimic legitimate traffic, for example in [adaptive evasion techniques](https://red.tymyrddin.dev/docs/in/network/roots/icmp/adaptive-evasion-techniques.html).
 * [AI-powered BGP attacks](https://red.tymyrddin.dev/docs/in/network/roots/bgp/ai-powered-bgp-attacks.html) — where models analyse routing tables, spot weak points, and launch precision hijacks to intercept global traffic flows.
-* Protocol-level infiltration — using reinforcement learning to optimise TCP-based attacks and blend with background noise. Examples can be found in [AI-powered TCP attacks](https://red.tymyrddin.dev/docs/in/network/roots/tcp/ai-powered-attacks.html).
+* Protocol-level infiltration — using reinforcement learning to improve TCP-based attacks and blend with background noise. Examples can be found in [AI-powered TCP attacks](https://red.tymyrddin.dev/docs/in/network/roots/tcp/ai-powered-attacks.html).
 * Autonomous campaign systems — swarms of small AI agents coordinating large-scale probing and exploitation without central human oversight. Sketched overview in [autonomous attack systems](https://red.tymyrddin.dev/docs/in/network/roots/icmp/autonomous-attack-systems.html).
 
 The trajectory is obvious: what once required teams of analysts can now be condensed into self-updating playbooks inside a single model.

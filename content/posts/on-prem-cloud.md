@@ -17,7 +17,7 @@ tags:
   - US
 ---
 
-An uncomfortable truth: Every byte uploaded to AWS, Azure, or Google Cloud isn’t just data—it’s *cloud capital*. Coined by economist Yanis Varoufakis, the term captures how tech giants transform your digital activity into privatised infrastructure. It’s not merely about hosting files; it’s about hoarding power. And right now, the United States holds the keys, turning Europe into a lodger in its digital manor.
+An uncomfortable truth: Every byte uploaded to AWS, Azure, or Google Cloud isn’t just data—it’s *cloud capital*. Coined by economist Yanis Varoufakis, the term captures how tech giants change your digital activity into privatised infrastructure. It’s not merely about hosting files; it’s about hoarding power. And right now, the United States holds the keys, turning Europe into a lodger in its digital manor.
 
 But there is an alternative: **cloud-on-prem**—a return to digital self-sufficiency—and European providers like **Hetzner**, who offer control, compliance, and a way to starve the beast. Think of it less as going backwards and more as refusing to pay rent to your colonial landlord.
 

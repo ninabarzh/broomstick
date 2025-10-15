@@ -102,7 +102,7 @@ Threat modelling for zero‑days should not be bolted on at the end. At the desi
 
 Zero trust architecture, when done properly, reduces the blast radius of a zero‑day. Verify every access request. Limit lateral movement so one compromise does not open the whole network. Segment aggressively and use continuous authentication to keep everyone honest.
 
-### Comprehensive monitoring
+### In-depth monitoring
 
 Detection needs depth. Endpoint detection and response can catch misbehaviour on hosts. Network‑traffic analysis can spot odd flows. User and entity behaviour analytics can flag the strange. Memory‑protection mechanisms can stop certain classes of attack in their tracks. Layered together, they give you more than one chance to spot trouble.
 

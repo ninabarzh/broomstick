@@ -62,7 +62,7 @@ In essence, it’s corporate welfare: the taxpayer takes the risk, the executive
 
 ## The illusion of free trade: freedom for whom, exactly?
 
-Free trade, like diet cola, promises all the benefits with none of the side effects. In reality, modern trade deals are less about removing tariffs and more about empowering corporations to sue governments for daring to regulate.
+Free trade, like diet cola, promises all the benefits with none of the side effects. In reality, modern trade deals are less about removing tariffs and more about enabling corporations to sue governments for daring to regulate.
 
 Remember TTIP—the proposed EU-US free trade deal? It collapsed under public pressure, largely because it included Investor-State Dispute Settlement (ISDS) mechanisms. These would have allowed corporations to sue governments in secret tribunals if they introduced laws that cut into profits. You know—things like environmental protections, labour rights, or not letting tobacco companies market to children.
 
@@ -96,6 +96,6 @@ As Wolff might put it, this isn’t democracy failing—it’s capitalism succee
 
 ## What next?
 
-The good news? This isn’t inevitable. The structure may be rigged, but it’s not unchangeable. Public awareness is growing. Grass-roots movements are pushing back—from campaign finance reform to demands for corporate transparency and fair taxation. Some parliaments (especially in the Nordics) remain relatively robust. And citizens still have the power to demand more than theatre.
+The good news? This isn’t inevitable. The structure may be rigged, but it’s not unchangeable. Public awareness is growing. Grassroots movements are pushing back—from campaign finance reform to demands for corporate transparency and fair taxation. Some parliaments (especially in the Nordics) remain relatively resilient. And citizens still have the power to demand more than theatre.
 
 But it starts with honesty. The current system doesn’t just have corporate influence—it runs on it. Until we confront that fact, the lobbyists will keep writing the lines, and the rest of us will keep clapping on cue.

@@ -22,7 +22,7 @@ Security? That was someone else’s problem—possibly yours, dear user. Or no o
 
 Now the Internet isn’t just carrying cat pictures and unsolicited email about Bitcoin investments. It’s the beating heart of banks, hospitals, water treatment plants, nuclear facilities, airports, toaster ovens, vibrators, and democracy itself. And it’s still riddled with holes large enough to drive a botnet through.
 
-Adversaries seem to be having a field day. Why? Because they enjoy the unfair advantage of focus. They don’t need to get sign-off from Legal, pass ISO audits, or attend quarterly stakeholder alignment meetings about whether a risk register should be colour-coded. No. Attackers just attack.
+Adversaries seem to be having a field day. Why? Because they enjoy the unfair advantage of focus. They don’t need to get sign-off from Legal, pass ISO audits, or attend quarterly stakeholder meetings about whether a risk register should be colour-coded. No. Attackers just attack.
 
 Meanwhile, defenders are trying to hold the line with one hand while filling out compliance forms with the other and attending a workshop on “Building Synergies Between Cybersecurity and Cross-Sector Regulation”.
 
@@ -34,7 +34,7 @@ Crazy idea, right?
 
 Thomas Dullien (aka Halvar Flake) and others have poked at this puzzle for years: [why, exactly, don’t we just… build a defendable Internet?](https://www.youtube.com/watch?v=PLJJY5UFtqY)
 
-Their answer? Follow the money. Incentives are misaligned, upside down, and occasionally wearing a fake moustache. The people with the power to change things don’t have the motivation. The people with the motivation don’t have the power. And the people with both tend to get hired by Google and disappear into a black hole of NDA-bound silence.
+Their answer? Follow the money. Incentives are incongruent, upside down, and occasionally wearing a fake moustache. The people with the power to change things don’t have the motivation. The people with the motivation don’t have the power. And the people with both tend to get hired by Google and disappear into a black hole of NDA-bound silence.
 
 By the time Black Hat Europe 2022 rolled around, the answer was clear: [A defendable Internet is technically possible, but only with a complete industry makeover.](https://portswigger.net/daily-swig/black-hat-europe-2022-a-defendable-internet-is-possible-but-only-with-industry-makeover)
 

@@ -28,7 +28,7 @@ This isn’t necessarily illegal, mind you. Just legitimate. Which is to say: it
 
 ## Bourdieu’s capital of recognition: Or, The Emperor’s new authority
 
-Enter Bourdieu, stage left, muttering something clever about “symbolic capital”. He points out that power, like money or a decent reputation, only works if people recognise it. The minute we stop believing in it, it’s just a man shouting in the street (or, let’s face it, a Prime Minister on Question Time). But if enough people squint and say “Yes, that sounds like authority,” it magically transforms into something that governs your life, your work hours, and—if you’re really lucky—your weekend plans.
+Enter Bourdieu, stage left, muttering something clever about “symbolic capital”. He points out that power, like money or a decent reputation, only works if people recognise it. The minute we stop believing in it, it’s just a man shouting in the street (or, let’s face it, a Prime Minister on Question Time). But if enough people squint and say “Yes, that sounds like authority,” it magically changes into something that governs your life, your work hours, and—if you’re really lucky—your weekend plans.
 
 This mystical power-into-authority trick requires legitimacy. It’s like fairy dust, only instead of helping you fly, it helps governments convince people that taxes, surveillance, and policy decisions they had no say in are all perfectly reasonable.
 

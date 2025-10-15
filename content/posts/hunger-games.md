@@ -88,10 +88,10 @@ Extraction is reputational. Their clean image is mined to mask the system’s fi
 
 The population is lulled into complacency with scenic backdrops and carbon accounting spreadsheets, as their natural resources quietly disappear under legalised exploitation.
 
-### District 5 – Energy and leverage
+### District 5 – Energy and use
 
 * Parallel: Russia, Iran, Saudi Arabia, United Arab Emirates
-* Role: Oil, gas, nuclear fuel, petrodollar leverage
+* Role: Oil, gas, nuclear fuel, petrodollar use
 * Cost: Strategic dependency, authoritarianism, cyclical sanctions
 
 These are the energy nodes. They keep the lights on—for a price. Their power lies not in soft influence, but hard necessity. When energy flows, they are tolerated. When it stops, they are demonised. The line between “strategic partner” and “rogue state” depends entirely on pricing and pipelines.
@@ -139,7 +139,7 @@ Hunger is constant. Wages do not meet food costs. Every labour dispute risks job
 ### District 9 – Grain and geopolitics
 
 * Parallel: Ukraine, American Midwest, Brazil, Argentina
-* Role: Wheat, corn, soy, geopolitical leverage
+* Role: Wheat, corn, soy, geopolitical use
 * Cost: Environmental strain, war risk, monoculture dependency
 
 The world’s breadbaskets are political battlegrounds. Control over grain translates into diplomatic influence and domestic unrest. When Ukraine’s ports are blockaded, Africa starves. When Brazil shifts agricultural policy, global markets wobble.
@@ -200,7 +200,7 @@ The population here survives on conviction. It is cold comfort, but it burns cle
 
 **Gaza is not a district. It is the proving ground.**
 
-Gaza is where weapons are tested and crowd-control perfected. It is where surveillance is stress-tested against desperation, and military hardware is transformed into marketable products. Every bombing campaign is followed by a spike in arms sales.
+Gaza is where weapons are tested and crowd-control perfected. It is where surveillance is stress-tested against desperation, and military hardware is repackaged into marketable products. Every bombing campaign is followed by a spike in arms sales.
 
 **Israel**, in this framework, operates across Districts 2 and 3: an enforcer and an innovator. Its population lives with existential anxiety and nationalistic fervour, fuelled by a constant state of militarised readiness. Its economy thrives on security exports; its democracy erodes beneath emergency law.
 

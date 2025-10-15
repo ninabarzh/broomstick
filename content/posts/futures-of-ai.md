@@ -28,11 +28,11 @@ architecture illustrating [evitability of AI progress]({{< relref "posts/ai-not-
 
 [In this best-case scenario in-the-box]({{< relref "posts/human-ai-symbiosis.md" >}}), AI becomes a collaborative tool rather than a replacement. Artists co-create with algorithms. Decision-making systems support—rather than override—human judgement. Policies prioritise human well-being, equity, and the right to disconnect. Work becomes more meaningful, not less, as automation offloads drudgery and amplifies human insight.
 
-This future assumes global cooperation on ethical AI development, major public investments in education and reskilling, and robust legal frameworks that prevent data monopolies and algorithmic discrimination. Think the EU’s GDPR meets MIT’s Media Lab, with a dash of open-source utopianism.
+This future assumes global cooperation on ethical AI development, major public investments in education and reskilling, and legal frameworks that prevent data monopolies and algorithmic discrimination. Think the EU’s GDPR meets MIT’s Media Lab, with a dash of open-source utopianism.
 
 Its likelihood is *moderately low* because it requires sustained global collaboration and democratic governance in a 
 geopolitical moment allergic to both. It is plausible in pockets (the EU, some cooperatives), but systemic global 
-alignment is a long shot unless crises forces unity.
+convergence is a long shot unless crises forces unity.
 
 ---
 
@@ -106,7 +106,7 @@ will define who adapts—and who gets left behind.
 
 ### Creativity vs. automation
 
-The line between tool and replacement is thinning. In Symbiosis, AI enhances expression. In Turbulence, authenticity 
+The line between tool and replacement is thinning. In Symbiosis, AI strengthens expression. In Turbulence, authenticity 
 battles virality. In Displacement, machine-generated culture floods the zone. Copyright, attribution, and societal 
 appetite for “real” human creativity will shape whether artists thrive or starve.
 

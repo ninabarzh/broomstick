@@ -14,7 +14,7 @@ tags:
 
 ## Europe's most successful failure  
 
-The cigarette stands as Europe's most paradoxical public health achievement - a product so lethal it would be banned instantly if invented today, yet so entrenched we've normalised its 700,000 annual deaths. That lit cigarette transforms into a miniature chemical factory producing 7,000 compounds - including 70 known carcinogens - because apparently variety isn't just life's spice, but its premature ending too.  
+The cigarette stands as Europe's most paradoxical public health achievement - a product so lethal it would be banned instantly if invented today, yet so entrenched we've normalised its 700,000 annual deaths. That lit cigarette changes into a miniature chemical factory producing 7,000 compounds - including 70 known carcinogens - because apparently variety isn't just life's spice, but its premature ending too.  
 
 Tar performs its grim alchemy, transmuting healthy lungs into something resembling a Victorian industrialist's handkerchief. Carbon monoxide clings to haemoglobin with the desperation of a Brexit negotiator clinging to sovereignty fantasies, starving tissues of oxygen. Yet despite these horrors, Europe treats smoking with the resigned tolerance of a long-suffering spouse - we know it's bad, but the divorce would be so messy.  
 

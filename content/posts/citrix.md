@@ -1,7 +1,7 @@
 ---
 title: "The Unpatchables: How Citrix turned into a welcome mat"
 subtitle: "A case study in why 'update later' is the cybercriminal’s best friend"
-description: "When Dutch prosecutors found themselves locked out of their own systems in 2025, it wasn’t due to some cutting-edge cyberweapon. The culprits simply used known Citrix flaws – the digital equivalent of entering through a door marked 'Please Hack Here.'"
+description: "When Dutch prosecutors found themselves locked out of their own systems in 2025, it wasn’t due to some cyberweapon. The culprits simply used known Citrix flaws – the digital equivalent of entering through a door marked 'Please Hack Here.'"
 draft: false
 date: 2025-08-12T00:00:00Z
 tags:

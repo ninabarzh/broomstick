@@ -31,7 +31,7 @@ Want to harvest data? Just pick from this exciting menu of excuses:
 * Legitimate interest (i.e., "Because we want to")
 * Public interest (a.k.a. "The government told us to")
 
-4\. **Special (But not that special)** 
+4\. **Special (not that special)** 
 Your face? Protected. Your fingerprints? Protected. Your unique gait as you walk past a surveillance camera? Protected… unless a company really wants it, in which case there are nine loopholes, including "medical research" and "we asked nicely."
 
 5\. **The right to be forgotten (unless we forgot to forget you)** 
@@ -48,7 +48,7 @@ Under GDPR, companies must fess up to leaks within three days—a rule that has 
 Engineers are now legally required to care about privacy before building something, which explains why half of Europe’s tech startups now outsource to countries that don’t speak "compliance."
 
 8\. **"Legitimate Interest" = Corporate gaslighting**
-The GDPR claims to restrict data mining, but Recital 47 casually green-lights direct marketing as a "legitimate interest." Translation: "We need to spam you—for business reasons."
+The GDPR claims to restrict data mining, and Recital 47 casually green-lights direct marketing as a "legitimate interest." Translation: "We need to spam you—for business reasons."
 
 9\. **Anonymised data: The get-out-of-jail-free card**
 Pseudonymisation? Still regulated. True anonymisation? Fair game! This loophole is why your "anonymous" browsing data is now worth its weight in gold (and why Facebook laughs all the way to the bank).
@@ -60,4 +60,4 @@ Even if your company is based in a shed in Wyoming, if you so much as think abou
 
 The GDPR is like a vegan buffet: well-intentioned, painfully earnest, and ultimately ignored by everyone who matters. It’s created more cookie banners than actual privacy, more compliance officers than actual compliance, and more "We’ve updated our policies!" emails than any human should endure.
 
-But hey—at least we’re protected. Or something.
+At least we’re protected. Or something.

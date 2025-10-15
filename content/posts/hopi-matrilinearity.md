@@ -47,7 +47,7 @@ The modern term Two-Spirit, coined in 1990 as a pan-Indigenous reclamation of pr
 
 ## Colonial disruption and the flattening of complexity
 
-European colonisation introduced a violently different worldview. Binary gender norms, heteropatriarchal structures, and Christian moral codes erased or demonised traditional forms of gender diversity. Colonial education systems punished children for speaking their language or practicing their customs — including gender expressions that did not align with the imposed male-female binary.
+European colonisation introduced a violently different worldview. Binary gender norms, heteropatriarchal structures, and Christian moral codes erased or demonised traditional forms of gender diversity. Colonial education systems punished children for speaking their language or practicing their customs — including gender expressions that did not agree with the imposed male-female binary.
 
 Roles that once held ceremonial importance were reframed as “unnatural.” The result was not just cultural suppression but cosmological fracture — a severing of the relational systems that gave meaning to difference.
 

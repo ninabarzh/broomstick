@@ -127,7 +127,7 @@ upheavals, ideological mutations, and theological black swans.
 
 Religious systems evolve not through inch-by-inch reform but dramatic phase transitions. The Axial Age, the 
 Protestant Reformation, and Pentecostalism’s 20th-century surge all reflect punctuated equilibria. Environmental 
-pressures—war, inequality, technology—trigger rapid transformations. It’s less adaptation, more speciation.
+pressures—war, inequality, technology—trigger rapid changes. It’s less adaptation, more speciation.
 
 Like genes, religious traditions contain latent possibilities—“doctrinal alleles,” if you will. The same text 
 can yield Wahhabism or Sufism depending on historical context. Liberation Theology and Quaker pacifism both emerge 
@@ -154,7 +154,7 @@ meditation apps promise algorithmic enlightenment, and some techno-utopians whis
 escape death entirely. Religion, once earthbound and dusty, now plays in virtual temples.
 
 AI-driven spirituality isn’t just novelty—it's a natural extension of religious evolution. As with previous 
-transformations, the conditions are ripe: social fragmentation, ecological dread, and a growing mistrust in 
+changes, the conditions are ripe: social fragmentation, ecological dread, and a growing mistrust in 
 institutions. Into the void steps synthetic prophecy.
 
 Some use AI to model sacred texts, generating new psalms or reconstructing lost scriptures. Others attempt to 

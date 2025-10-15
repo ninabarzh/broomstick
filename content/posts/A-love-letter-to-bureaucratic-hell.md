@@ -15,7 +15,7 @@ The right hemisphere, though not dependent on the left in the same way, needs it
 to be its wild, flowing, metaphor-loving self. But the left? Oh no, it pretends it doesn’t need the right at all. 
 Denial, thy name is cortex.
 
-But what if society starts running everything like a left-hemisphere project plan? What if we let the detail-obsessed 
+And what if society starts running everything like a left-hemisphere project plan? What if we let the detail-obsessed 
 bureaucrat in our heads take over entirely? Spoiler: we get a world that increasingly treats everything like a 
 lifeless mechanism.
 
@@ -73,7 +73,7 @@ Specialisation explodes. Technicised "knowledge" (read: jargon and academic turf
 
 We end up refining the details while missing the entire forest, let alone the raccoon hiding in the undergrowth. Anything that can’t be measured becomes irrelevant. People who "see the whole" are dismissed as dreamers. Or worse — unqualified.
 
-And when in doubt? Replace skill with tokens and procedures. Certificates are shiny. Experience? Meh. So real experts are phased out in favour of “experts” who’ve mastered the handbook but never faced the real world.
+And when in doubt? Replace skill with tokens and procedures. Certificates are shiny. Experience? Meh. So real experts are phased out in favour of “experts” who’ve mastered the handbook and never faced the real world.
 
 Skills? Standardised. Algorithmic. Regulable. Applied evenly, like bland icing on a very confused cake.
 
@@ -81,7 +81,7 @@ Skills? Standardised. Algorithmic. Regulable. Applied evenly, like bland icing o
 
 **Everything is now a concept**
 
-Slowly but surely, the concrete gets swapped out for the abstract. Bodies, touch, nature, art — all reduced to ideas. 
+Slowly and surely, the concrete gets swapped out for the abstract. Bodies, touch, nature, art — all reduced to ideas. 
 You won’t need to interact with anything in the real world. You’ve got a keyboard.
 
 “Work” becomes the act of documenting and justifying that work. Not actually doing it, of course — that’s for 
@@ -175,7 +175,7 @@ touch.
 
 **Effects of virtualisation**
 
-Expect a bureaucracy boom. Abstract systems of control. Procedure-obsessed. Predictable. Anonymised. Equal (ish). But most of all: abstracted.
+Expect a bureaucracy boom. Abstract systems of control. Procedure-obsessed. Predictable. Anonymised. Equal (ish). And most of all: abstracted.
 
 Everything becomes interchangeable and depersonalised. Your uniqueness? Gone. Please take a number and wait for your metaphysical redundancy.
 
@@ -195,7 +195,7 @@ The world gets redesigned to suit left-hemisphere values — measurable, repeata
 
 Individual integrity? You won’t need that where we’re going. Mystery? Wonder? Sorry, those don’t fit into the database schema.
 
-Values are now purely utilitarian. Morality? Reduced to a cost-benefit analysis. We get enlightened self-interest, but the "enlightened" bit is... negotiable.
+Values are now purely utilitarian. Morality? Reduced to a cost-benefit analysis. We get enlightened self-interest, and the "enlightened" bit is... negotiable.
 
 ***
 
@@ -353,7 +353,7 @@ Insight, responsibility, empathy? Too right-hemisphere. Too messy. What we get i
 
 ***
 
-### Consumerism: Because you’re worth it™ (But not really)
+### Consumerism: Because you’re worth it™ (not really)
 
 Autonomy is a quaint idea from the past. We’re all passive now. Suggestible. Manipulatable. And oh so ready for "forced utilisation behaviours" — you know, like using the thing just because it exists.
 

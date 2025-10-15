@@ -61,7 +61,7 @@ In theory, beefing up defence should make a region more secure. In practice, how
 
 Without development support, regions like the Sahel become powder kegs. Extremist groups flourish, coups proliferate, and European embassies scramble to evacuate. Guess who gets to pay for the military interventions that follow? Spoiler: it’s not the countries who cut aid.
 
-Even within the military realm, the spending is far from efficient. Multiple overlapping defence projects—like the EU’s three competing fighter jet programmes—guzzle funds at an astonishing rate, with little to show for it. An estimated €12 billion per year is lost to duplication. That’s money that could be spent on cybersecurity, drone defence, or disinformation resilience—threats which, awkwardly, are growing faster than traditional militaries can respond to them.
+Even within the military, the spending is far from efficient. Multiple overlapping defence projects—like the EU’s three competing fighter jet programmes—guzzle funds at an astonishing rate, with little to show for it. An estimated €12 billion per year is lost to duplication. That’s money that could be spent on cybersecurity, drone defence, or disinformation resilience—threats which, awkwardly, are growing faster than traditional militaries can respond to them.
 
 The deeper irony? By neglecting the root causes of instability—poverty, exclusion, climate change—Europe guarantees it will need ever more military force to contain the fallout. It’s a security spiral powered by fiscal self-sabotage.
 
@@ -71,7 +71,7 @@ The deeper irony? By neglecting the root causes of instability—poverty, exclus
 
 The **EU4Health programme faces the axe** or a merger, imperilling everything from **cancer plans to nursing bursaries**. Social funds meant to lift families out of poverty are being hoovered into military coffers.
 
-No surprise, then, that **20 million children in the EU** now live at risk of poverty. Defence of the realm apparently excludes defending children from hunger.
+No surprise, then, that **20 million children in the EU** now live at risk of poverty. Defence apparently excludes defending children from hunger.
 
 Cutting social budgets in peacetime is already unpopular. Doing so in a polycrisis is akin to removing lifeboats from the Titanic to make room for deck chairs. Take EU4Health—one of the few initiatives learning the hard lessons of COVID. Its potential elimination risks leaving Europe just as unprepared for the next pandemic as it was for the last one.
 

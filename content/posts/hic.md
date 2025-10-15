@@ -1,7 +1,7 @@
 ---
 title: "The health industrial complex: A patent recipe for profit"
 subtitle: "How Big Pharma Captured Public Health with Legal Loopholes and Shareholder Logic"
-description: "A sharp critique of how financialisation and WTO-backed patent regimes transformed the pharmaceutical sector from medical innovator into monopoly landlord. Featuring stock buybacks, TRIPS, and the quiet triumph of rent over remedy."
+description: "A sharp critique of how financialisation and WTO-backed patent regimes changed the pharmaceutical sector from medical innovator into monopoly landlord. Featuring stock buybacks, TRIPS, and the quiet triumph of rent over remedy."
 tags: ["big pharma", "TRIPS", "health industrial complex", "intellectual property", "financialisation", "public health", "political economy"]
 date: 2025-07-09T04:00:00.000Z
 draft: false
@@ -76,7 +76,7 @@ So here we are: a global health regime ostensibly built on scientific progress, 
 To borrow from Orwell: all patients are equal, but some markets are more equal than others.
 
 So next time someone tells you the high cost of medication reflects the high cost of innovation, do ask who paid for 
-the innovation. And where the profits went. And whether the real miracle drug was, all along, **a robust legal 
+the innovation. And where the profits went. And whether the real miracle drug was, all along, **a legal 
 framework for global rent-seeking**.
 
 ## More

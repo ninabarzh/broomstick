@@ -37,7 +37,7 @@ privacy risks or entry points for further exploitation.
 
 ## Signs a device could be infected
 
-Detecting a BadBox-infected device isn’t easy, because it survives factory resets and isn’t visible to antivirus. That said, some red flags include:
+Detecting a BadBox-infected device isn’t easy, because it survives factory resets and isn’t visible to antivirus. Some red flags include:
 
 * The battery or data usage is unusually high even when idle.
 * Pre‑installed apps can’t be uninstalled or disabled.

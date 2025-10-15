@@ -53,7 +53,7 @@ Litigation remains the only real recourse for those wronged, and even then, just
 
 ### Budget and power without proportional oversight
 
-ICE operates with a budget that would make most defence ministries blush. In 2023, it clocked in at \$9.13 billion—more than the budget of the US Marine Corps. One might assume such resources would support humane, well-trained personnel and robust accountability mechanisms. One would be wrong.
+ICE operates with a budget that would make most defence ministries blush. In 2023, it clocked in at \$9.13 billion—more than the budget of the US Marine Corps. One might assume such resources would support humane, well-trained personnel and effective accountability mechanisms. One would be wrong.
 
 Instead, these funds have been funnelled into expanding detention centres, deploying unmarked vehicles for raids, and hiring officers under training standards lower than those imposed on local police. Use-of-force protocols are notably lax, and oversight mechanisms—internal or external—are conspicuous by their absence. The result is a militarised force with extraordinary latitude, insulated from public scrutiny and political consequence.
 

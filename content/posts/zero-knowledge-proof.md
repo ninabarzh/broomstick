@@ -61,7 +61,7 @@ thing – and only the right thing – with no messy spillage.
 
 The finance world is already on it. Soon, you might prove your account has sufficient funds for a payment without revealing the full balance. Need to show you earn above a threshold? You can – without faxing your last three tax returns to half of Europe.
 
-Healthcare stands to benefit enormously. Proving vaccination status or eligibility for treatment without disclosing your full medical record could transform privacy in medicine. 
+Healthcare stands to benefit enormously. Proving vaccination status or eligibility for treatment without disclosing your full medical record could change privacy in medicine. 
 
 Likewise, voting systems could confirm your vote was counted without linking you to a particular choice – the holy grail of democratic transparency.
 

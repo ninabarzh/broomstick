@@ -18,7 +18,7 @@ tags:
   - airgapped
 ---
 
-This guide walks you through setting up multilingual search in Hugo (v0.147.3) using the Docsy theme, **without relying on any CDNs**. No dodgy remote JS includes, no API keys, no Algolia. Just good old-fashioned files, language-specific `index.json`, and some actual control over what your search does. This is based on a working implementation that uses Lunr.js and works entirely offline — useful for privacy-focused or air-gapped deployments. It also assumes you're not here for quick hacks but for a robust, Hugo-friendly setup.
+This guide walks you through setting up multilingual search in Hugo (v0.147.3) using the Docsy theme, **without relying on any CDNs**. No dodgy remote JS includes, no API keys, no Algolia. Just good old-fashioned files, language-specific `index.json`, and some actual control over what your search does. This is based on a working implementation that uses Lunr.js and works entirely offline — useful for privacy-focused or air-gapped deployments. It also assumes you're not here for quick hacks but for a Hugo-friendly setup.
 
 ### Prerequisites
 

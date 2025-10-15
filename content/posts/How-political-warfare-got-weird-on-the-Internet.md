@@ -15,11 +15,11 @@ Serbian elections on Twitter looked less like democratic discourse and more like
 
 Some accounts attack rivals. Others serve as narrative bridges, spreading the gospel of whoever’s paying. None of them are there for the memes.
 
-### Bots: Because why let humans have all the fun?
+### Why let humans have all the fun?
 
 Fake accounts tweeted fake support for obscure parties, got mass-retweeted by randoms from nowhere, and then vanished. Political botnets are the new campaign volunteers—cheaper, tireless, and slightly less conscious.
 
-### Facebook: Filter bubble, but make it Balkan
+### Filter bubble, and make it Balkan
 
 Facebook in Serbia is like a series of locked fish tanks. Everyone’s swimming in circles, seeing only what the algorithm thinks they should. The ruling party rules the airwaves, but opposition pages have rabid Facebook followings—though oddly, not corresponding votes. Funny that.
 
@@ -31,7 +31,7 @@ After the 2014 floods, people who dared to point out the government’s failures
 
 Bloggers, journalists, satirical politicians—they all got the “friendly warning” treatment. The threat didn’t need to be real. Just loud enough to make everyone else shut up.
 
-### The Chilling effect: Now in Beta
+### The Chilling effect in Beta
 
 DDoS attacks, comment brigades, and government trolling don’t need to destroy your content. They just need to wear you down. Run out your bandwidth. Burn your energy. Make you wonder if that blog post is really worth a police visit.
 

@@ -50,7 +50,7 @@ Predictive policing, credit scoring, and hiring algorithms often claim objectivi
 
 ### The velvet rope of rigour
 
-Even scholarly objectivity can be a gatekeeper. Whose research is “credible”? Often it is the work that aligns with dominant norms. Scholars from marginalized groups face additional scrutiny, while mainstream perspectives glide by, carried on a cloud of assumed neutrality.
+Even scholarly objectivity can be a gatekeeper. Whose research is “credible”? Often it is the work that conforms with dominant norms. Scholars from marginalized groups face additional scrutiny, while mainstream perspectives glide by, carried on a cloud of assumed neutrality.
 
 ### Courts in fancy dress
 

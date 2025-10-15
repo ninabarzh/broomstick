@@ -19,7 +19,7 @@ In theory, consent means a person voluntarily agrees to a sexual activity, with 
 
 Spoiler: wearing a skirt, having a pint, or cohabiting are not tacit contracts for sex.
 
-Cue the debate between “no means no” and its shiny rebrand, “yes means yes”. The latter sounds so much more empowering—until you realise a ‘yes’ said under pressure, fear, or expectation is just as hollow as a coerced ‘no’. So the wheel’s been reinvented, but it’s still stuck in the same muddy ditch.
+Cue the debate between “no means no” and its shiny rebrand, “yes means yes”. The latter sounds so much more progressive—until you realise a ‘yes’ said under pressure, fear, or expectation is just as hollow as a coerced ‘no’. So the wheel’s been reinvented, but it’s still stuck in the same muddy ditch.
 
 Here’s a radical idea: how about no coercion full stop? Forget the semantics—stop pushing people’s will around like it’s your shopping trolley.
 
@@ -33,7 +33,7 @@ The GDPR arrived in 2018 with trumpet fanfare and heroic PR. At long last, the d
 
 Except we weren’t.
 
-Within hours, the internet was plastered with “agree or go away” banners. Facebook and Google were slapped with lawsuits for “coerced consent”. And thus, a new grey area was born—cleverly branded as user empowerment, but actually just a formalisation of the surveillance economy.
+Within hours, the internet was plastered with “agree or go away” banners. Facebook and Google were slapped with lawsuits for “coerced consent”. And thus, a new grey area was born—cleverly branded as some sort of user autonomy, but actually just a formalisation of the surveillance economy.
 
 See, before GDPR, the data industry operated in the dark—illegal, yes, but at least honest about it. Post-GDPR, they’re doing the same thing under a patina of legitimacy. Now you can “opt out”—but only after clicking 17 tiny buttons buried in cookie menus designed to look like tax forms.
 

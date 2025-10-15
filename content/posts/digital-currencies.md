@@ -47,7 +47,7 @@ Crypto markets make traditional financial markets look positively sedate. The va
 based on a tweet, a rumour, or Elon Musk deciding he is bored again. It is a volatile mess dressed up as “disruption.” 
 Behind the memes and moon emojis lies a brutal truth: this is not an investment; it is speculation on speed.  
 
-And then there is leveraged trading—the financial equivalent of juggling chainsaws while on fire. People borrow 
+And then there is trading—the financial equivalent of juggling chainsaws while on fire. People borrow 
 huge sums to bet on price movements, often with catastrophic results. When the market moves (which it always does), 
 it does not just eat your investment. It devours your margin, your optimism, and anything else not nailed down. 
 We now have entire subcultures dedicated to coping with the emotional wreckage.  
@@ -102,7 +102,7 @@ a problem. What used to take years of policy nudges could be done with a few lin
 until someone with terrible judgement gets hold of the controls—or worse, someone with *excellent* judgement and no 
 accountability.  
 
-### Enhanced surveillance and policy enforcement  
+### Improved surveillance and policy enforcement  
 
 The public narrative is all about preventing crime, catching tax cheats, and protecting us from economic bad actors. 
 But let us not be naïve. CBDCs make it possible to track every transaction in real time. Governments can trace who 
@@ -147,7 +147,7 @@ coercion.
 
 ---  
 
-Digital currencies are not toys, trends, or tech upgrades. They are instruments of economic transformation—and, 
+Digital currencies are not toys, trends, or tech upgrades. They are instruments of economic change—and, 
 potentially, control. Cryptocurrencies have already shown us the chaos that emerges when financial systems are 
 unmoored from regulation, law, and reason. CBDCs threaten to bring order to that chaos—but the kind of order you 
 get in a high-security prison.  

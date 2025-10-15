@@ -17,7 +17,7 @@ The *European Democracy Shield (EUDS)*—a name that practically screams “impo
 
 ## The EUDS: idealism or institutional theatre?
 
-On paper, the European Democracy Shield is a bold step. It claims to offer a comprehensive defence of democratic norms, combining regulation of digital spaces, protection for media, and support for civil society into one elegant package. But the EU is no stranger to bold declarations. The question is whether this will be another statement of intent with no meaningful enforcement—or something that actually holds the line.
+On paper, the European Democracy Shield is a bold step. It claims to offer a in-depth defence of democratic norms, combining regulation of digital spaces, protection for media, and support for civil society into one elegant package. But the EU is no stranger to bold declarations. The question is whether this will be another statement of intent with no meaningful enforcement—or something that actually holds the line.
 
 At its core, the EUDS is about countering foreign meddling, shoring up electoral integrity, keeping independent media afloat, and giving civil society something more useful than another consultation survey. These are all noble goals. But European politics has a way of turning noble goals into overcomplicated compromises that please no one and protect nothing.
 
@@ -25,7 +25,7 @@ At its core, the EUDS is about countering foreign meddling, shoring up electoral
 
 ### Brussels can legislate. It just struggles to act.
 
-The EU excels at legislation. Its shelves groan under the weight of finely crafted directives and impressively worded charters. But enforcement is another matter entirely. The Shield relies on frameworks like the Digital Services Act and the AI Act, which sound robust until you ask who’s actually enforcing them—and how.
+The EU excels at legislation. Its shelves groan under the weight of finely crafted directives and impressively worded charters. But enforcement is another matter entirely. The Shield relies on frameworks like the Digital Services Act and the AI Act, which sound resilient until you ask who’s actually enforcing them—and how.
 
 Take Romania. Faced with a surge of election interference via TikTok, its regulators responded with the urgency of a committee on a coffee break. Why? Because coordinating 27 national systems, each jealously guarding its sovereignty, is a logistical nightmare. The European Commission can propose all it wants, but enforcement remains largely a national affair. That means patchy, inconsistent, and—when it really matters—too little, too late.
 

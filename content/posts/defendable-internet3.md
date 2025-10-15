@@ -12,7 +12,7 @@ tags:
   - Internet
   - resilience
 draft: false
-description: "An exploration of actionable steps to address the structural weaknesses of the internet and move towards a more defendable digital world."
+description: "An exploration of steps to address the structural weaknesses of the internet and move towards a more defendable digital world."
 ---
 
 [The internet is broken]({{< relref "posts/defendable-internet2.md" >}}). Not the “buffering on YouTube” kind of broken, but fundamentally, architecturally, absurdly broken. We know why: history, culture, economics, politics, and human laziness have all conspired to turn it into a precarious tower of routers teetering on a cliff.
@@ -27,13 +27,13 @@ First, we must acknowledge the unpleasant truth: there is no quick fix. Security
 
 Historically, we have treated digital infrastructure as ephemeral. IoT devices with permanent vulnerabilities, legacy protocols held together with hope and glue, software libraries maintained by single volunteers with full-time jobs — these are the hallmarks of our civilisation.
 
-To create a defendable internet, we need hardware and software that are patchable, auditable, and robust. Systems should survive decades, not quarters. Open standards should be the norm, not a marketing slogan. The digital foundations we lay today must be capable of standing the test of time — and relentless curiosity from people who like poking at things that are not theirs.
+To create a defendable internet, we need hardware and software that are patchable, auditable, and resilient. Systems should survive decades, not quarters. Open standards should be the norm, not a marketing slogan. The digital foundations we lay today must be capable of standing the test of time — and relentless curiosity from people who like poking at things that are not theirs.
 
 ## Fixing incentives
 
 The internet is a tragedy of incentives. Vendors profit from shipping first, not shipping safely. Users click “accept all” because reading terms and conditions is a form of medieval torture. Governments fund offensive cyber capabilities while hoping resilience will magically appear as a side effect.
 
-Aligning incentives is essential. Companies should face meaningful consequences for shipping insecure products. Open-source projects that underpin critical systems deserve sustainable funding, not burnout-driven heroics. And security should be a selling point, not an afterthought buried in legalese.
+Restructuring incentives is essential. Companies should face meaningful consequences for shipping insecure products. Open-source projects that underpin critical systems deserve sustainable funding, not burnout-driven heroics. And security should be a selling point, not an afterthought buried in legalese.
 
 ## Regulation, but intelligently
 
@@ -55,7 +55,7 @@ Even if every one of the above steps succeeds perfectly, breaches will occur. Sy
 
 Building a defendable internet is unglamorous and will frustrate executives, politicians, and users alike. Yet the alternative — continuing to rely on hope, duct tape, and human error — is simply not tenable.
 
-The path forward is clear if unappealing: design for durability, align incentives, regulate intelligently, educate realistically, and plan for compromise. It will be messy and expensive, and it will require acknowledging that our current internet is, frankly, a glorious mess.
+The path forward is clear if unappealing: design for durability, fix the incentives (reward congruent behaviour), regulate intelligently, educate realistically, and plan for compromise. It will be messy and expensive, and it will require acknowledging that our current internet is, frankly, a glorious mess.
 
 Start taking these steps seriously, and we might finally move from sandcastles on quicksand to structures that actually stand a chance. And that, however slowly, is worth the effort.
 

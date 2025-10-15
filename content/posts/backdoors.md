@@ -51,7 +51,7 @@ words. Meanwhile, history shows a strong preference for using them on
 [economic rivals (economic espionage)](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_%282013%E2%80%93present%29#Economic_espionage), 
 and occasionally [their own citizens](https://www.socialistalternative.org/no-to-bushs-war-on-iraq/cointelpro-the-fbis-secret-war-on-the-civil-rights-movement/) when they become inconvenient.
 
-And here is the kicker: criminals are not stupid. They download perfectly robust encryption software from the internet, 
+And here is the kicker: criminals are not stupid. They download encryption software from the internet, 
 beyond the reach of legislation, and carry on. The only people who end up using the weakened systems are ordinary 
 folk—people like you and me—who then get robbed, hacked, and spied on with cheerful efficiency.
 

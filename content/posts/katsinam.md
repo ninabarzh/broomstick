@@ -45,7 +45,7 @@ For Northern Europeans, steeped in a long tradition of Enlightenment rationalism
 
 Her guidance is not gentle in the conventional sense; she teaches through challenge. But her goal is harmony — not conformity. For Europeans accustomed to individualism without initiation, Crow Mother represents the missing role of elderhood: firm, loving, and necessary. Her teachings remind us that real unity does not come from avoiding discomfort, but from passing through it together.
 
-In Northern European societies, rites of passage have largely been reduced to formalities: a graduation, a driver's license, a birthday party. Yet deep transformation requires a journey — often a painful one — into unknown territory. Crow Mother's lash is not punishment; it is refinement. Her lesson is this: only those who have faced themselves can truly stand with others.
+In Northern European societies, rites of passage have largely been reduced to formalities: a graduation, a driver's license, a birthday party. Yet deep change requires a journey — often a painful one — into unknown territory. Crow Mother's lash is not punishment; it is refinement. Her lesson is this: only those who have faced themselves can truly stand with others.
 
 ---
 

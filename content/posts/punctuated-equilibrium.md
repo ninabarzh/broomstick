@@ -12,7 +12,7 @@ cover:
   relative: false 
 ---
 
-When we imagine evolution, we often picture it unfolding at a leisurely, predictable pace—small changes stacking up over time like bricks in a wall. That’s the traditional view: gradualism, the slow grind of nature perfecting its handiwork. But what if evolution doesn’t always play by those rules? What if nature has a taste for the dramatic—long stretches of calm, interrupted by bursts of sudden transformation?
+When we imagine evolution, we often picture it unfolding at a leisurely, predictable pace—small changes stacking up over time like bricks in a wall. That’s the traditional view: gradualism, the slow grind of nature perfecting its handiwork. But what if evolution doesn’t always play by those rules? What if nature has a taste for the dramatic—long stretches of calm, interrupted by bursts of sudden change?
 
 That’s the idea behind *punctuated equilibrium* (PE), a theory introduced in the 1970s by palaeontologists Stephen Jay Gould and Niles Eldredge. Rather than a smooth evolutionary curve, PE proposes a jagged rhythm: long periods where species remain largely unchanged, punctuated by short, intense episodes of change—often triggered by environmental disruption or internal developmental shifts.
 

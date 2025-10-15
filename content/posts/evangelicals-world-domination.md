@@ -65,7 +65,7 @@ Evangelicalism’s appeal lies in its ability to address what secular liberal so
 
 ### Certainty in a chaotic world
 
-Modernity is confusing. Institutions contradict each other, science offers probabilities rather than moral clarity, and truth itself has become a negotiable commodity. Evangelicalism slices through the noise with a sword of absolute claims: the Bible is inerrant, sin is real, and salvation is necessary. It transforms political anxiety into cosmic drama—Trump isn’t just a politician; he’s a Cyrus figure. Israel isn’t just a country; it’s an eschatological countdown clock.
+Modernity is confusing. Institutions contradict each other, science offers probabilities rather than moral clarity, and truth itself has become a negotiable commodity. Evangelicalism slices through the noise with a sword of absolute claims: the Bible is inerrant, sin is real, and salvation is necessary. It changes political anxiety into cosmic drama—Trump isn’t just a politician; he’s a Cyrus figure. Israel isn’t just a country; it’s an eschatological countdown clock.
 
 This "apocalyptic lens" becomes a comfort mechanism. It is not unlike conspiracy theory thinking, where perceived disorder is reorganised into a hidden but intelligible plan—complete with villains, heroes, and a final reckoning. In both cases, the unknown becomes narrativised, and ambiguity becomes intolerable.
 
@@ -77,7 +77,7 @@ But there’s a cost. Dissent is framed as rebellion against God. Questioning th
 
 ### Charismatic authority
 
-Where secular liberal democracies elevate process, evangelicalism elevates personalities. The pastor becomes not just a teacher but a father-figure, CEO, and prophet. The dominant model is patriarchal and often militarised—“spiritual warfare” becomes a real, emotional battle, and leaders adopt a style that is part preacher, part general.
+The culture of secular liberal democracies is one of proceduralism, whereas evangelicalism is often a culture of personality. The pastor becomes not just a teacher but a father-figure, CEO, and prophet. The dominant model is patriarchal and often militarised—“spiritual warfare” becomes a real, emotional battle, and leaders adopt a style that is part preacher, part general.
 
 In times of cultural anxiety—over immigration, gender roles, or secular “decay”—these strongmen fill a vacuum. They promise moral clarity and social cohesion. And because they are presumed to be divinely chosen, criticism becomes sacrilege.
 
