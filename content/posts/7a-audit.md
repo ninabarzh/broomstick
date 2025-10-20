@@ -18,12 +18,14 @@ There is a certain bleak poetry in a security audit.  The word *audit* evokes cl
 and the faint smell of burnt patience. But beneath the bureaucracy lies something far more interesting: an act of seeing.  
 
 A real audit, not a compliance theatre, but the kind that leaves everyone quietly re-evaluating their life choices, 
-is less about ticking boxes than about **mapping power, silence, and fear**. Which is why it belongs not in the 
-company of frameworks, but in the orbit of [Virginia Satir](https://www.satirsystems.com/), 
+is less about ticking boxes than about **mapping the hidden currents that actually keep an organisation secure**. Which 
+is why it belongs not in the company of frameworks, but in the orbit of 
+[Virginia Satir](https://www.satirsystems.com/), 
 [Eyal Weizman](https://forensic-architecture.org/about/team/member/eyal-weizman), 
 and [Trevor Paglen](https://paglen.studio/bio/).  
 
-Satir gave us the *seven A’s*, the emotional architecture of transformation. Weizman taught us that space remembers what people try to forget. Paglen photographs what power hides in plain sight.  
+Satir gave us the *seven A’s*, the emotional architecture of transformation. Weizman taught us that space remembers 
+what people try to forget. Paglen photographs what power hides in plain sight.  
 
 ## The first uncomfortable gaze  
 
