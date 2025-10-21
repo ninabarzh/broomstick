@@ -1,5 +1,5 @@
 ---
-title: 'Multilingual search in Hugo with Docsy — offline and ever so slightly sane'
+title: 'Multilingual search in Hugo with Docsy, offline and ever so slightly sane'
 subtitle: "Activists' humanitarian mission ends in detention, but not in spirit."
 date: 2025-06-24T05:00:00.000Z
 draft: false
@@ -18,11 +18,11 @@ tags:
   - airgapped
 ---
 
-This guide walks you through setting up multilingual search in Hugo (v0.147.3) using the Docsy theme, **without relying on any CDNs**. No dodgy remote JS includes, no API keys, no Algolia. Just good old-fashioned files, language-specific `index.json`, and some actual control over what your search does. This is based on a working implementation that uses Lunr.js and works entirely offline — useful for privacy-focused or air-gapped deployments. It also assumes you're not here for quick hacks but for a Hugo-friendly setup.
+This guide walks you through setting up multilingual search in Hugo (v0.147.3) using the Docsy theme, **without relying on any CDNs**. No dodgy remote JS includes, no API keys, no Algolia. Just good old-fashioned files, language-specific `index.json`, and some actual control over what your search does. This is based on a working implementation that uses Lunr.js and works entirely offline, useful for privacy-focused or air-gapped deployments. It also assumes you're not here for quick hacks but for a Hugo-friendly setup.
 
 ### Prerequisites
 
-You're running Hugo 0.147.3 in production mode, with multilingual content properly structured (e.g. `content/en/`, `content/de/`, etc.), and you're using the Docsy theme — extended version preferred. You will also need to be using Hugo Pipes (which Docsy does), and you are comfortable customising `layouts/` and `assets/`.
+You're running Hugo 0.147.3 in production mode, with multilingual content properly structured (e.g. `content/en/`, `content/de/`, etc.), and you're using the Docsy theme, extended version preferred. You will also need to be using Hugo Pipes (which Docsy does), and you are comfortable customising `layouts/` and `assets/`.
 
 ---
 
@@ -111,12 +111,12 @@ The core Lunr.js library (v2.x preferred). Download from the Lunr.js repo.
 
 Language-specific stemmers and tokenizers:
 
-* `lunr.de.js` — German
-* `lunr.es.js` — Spanish
-* `lunr.fr.js` — French
-* `lunr.nl.js` — Dutch
-* `lunr.tr.js` — Turkish
-* `lunr.stemmer.support.js` — Required by all language plugins
+* `lunr.de.js`, German
+* `lunr.es.js`, Spanish
+* `lunr.fr.js`, French
+* `lunr.nl.js`, Dutch
+* `lunr.tr.js`, Turkish
+* `lunr.stemmer.support.js`, Required by all language plugins
 
 These are all available from the Lunr-languages project, available at: https://github.com/MihaiValentin/lunr-languages. Include only the ones you need, based on the languages in your site.
 
@@ -368,7 +368,7 @@ This is your top-bar search field.
 </form>
 ```
 
-Make sure it points to the correct language path — that's crucial.
+Make sure it points to the correct language path, that's crucial.
 
 ### `layouts/_partials/navbar.html`
 
@@ -390,7 +390,7 @@ At the end:
 
 Lunr.js doesn’t handle every language with equal elegance, and Turkish and Dutch are prime examples. Turkish is agglutinative and context-sensitive, making its tokenisation notoriously tricky. The default stemmer can lead to wildly inaccurate search matches or no matches at all. Dutch, for its part, suffers from compound words and over-aggressive stemming. Searching for "veilig" (safe) might unhelpfully also return pages about "veiligheidscamera" (security camera), even when the original word wasn’t mentioned.
 
-If these languages are essential to your site, consider tweaking the tokenizer or disabling stemming entirely. You may get more predictable results using `this.pipeline.remove(lunr.stemmer)` after loading the language plugin. Or consider preprocessing the content to break down compound words. For now, accept that precision in these languages is an ongoing compromise — not your fault, just linguistics being awkward.
+If these languages are essential to your site, consider tweaking the tokenizer or disabling stemming entirely. You may get more predictable results using `this.pipeline.remove(lunr.stemmer)` after loading the language plugin. Or consider preprocessing the content to break down compound words. For now, accept that precision in these languages is an ongoing compromise, not your fault, just linguistics being awkward.
 
 ---
 

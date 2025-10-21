@@ -20,7 +20,7 @@ cover:
 If you have ever tried to set up a Security Incident Response Team (SIRT) function in a small organisation, you will 
 know that it is not about security, incidents, or even teams. It is about humans behaving badly under stress.
 
-Enter the Satir Change Model — a tool from family therapy that has no right working in cybersecurity, and yet works 
+Enter the Satir Change Model, a tool from family therapy that has no right working in cybersecurity, and yet works 
 better than most "cyber resilience frameworks". 
 
 Her five-stage model maps beautifully onto what happens when a small organisation suddenly decides to "get serious 
@@ -48,7 +48,7 @@ in a Hitchcock movie, do not.
 
 *"What do you mean, we've been breached?"*
 
-Something intrudes. A phishing email that half the staff click on. A ransomware splash screen. Or worse — someone 
+Something intrudes. A phishing email that half the staff click on. A ransomware splash screen. Or worse, someone 
 external asking to see your incident response plan.
 
 The *"Foreign Element"* disrupts the comfortable equilibrium. Suddenly, action is wanted. "Can we have a SIRT 
@@ -74,7 +74,7 @@ ways no longer work, and the new ways do not yet exist.
 Your role now appears to be part facilitator, part therapist, part sheepdog. You listen to people's fears, name 
 them out loud, and introduce the radical concept of *breathing*.
 
-When someone asks, "Can it get any worse?" you smile and say, "It absolutely can — but not for long." Then you 
+When someone asks, "Can it get any worse?" you smile and say, "It absolutely can, but not for long." Then you 
 give them biscuits. Chaos is survivable if there are biscuits.
 
 ## Stage 2½: The transforming idea
@@ -96,13 +96,13 @@ Everyone stares at the list. It is silent for the first time all week.
 Then someone says, quietly: *"So... maybe it's not just about stopping hackers. Maybe it's about us changing how we 
 work."* Someone else adds *"We also need to work on how we respond when things go wrong."*
 
-And there they are — the *"Transforming Ideas".*
+And there they are, the *"Transforming Ideas".*
 
 The moment the organisation realises the threat is not out there, that it is inside, baked into the habits and shortcuts 
 that once made things feel efficient and fast. That insight changes everything. Fear turns into focus.
 The incident stops being something happening to us, and becomes something we can learn from.
 
-You can almost feel the collective exhale. That's the magic of the transforming idea — going from panic to possibility.
+You can almost feel the collective exhale. That's the magic of the transforming idea, going from panic to possibility.
 
 ## Stage 3: Integration
 
@@ -135,7 +135,7 @@ The first few runs are excruciating: roles forgotten, scripts ignored, reply-all
 repetition and mild embarrassment, muscle memory begins to form. Response times drop. Scripts shorten. Procedures 
 finally stick.
 
-This is the *Practice* stage — turning insight into habit. Chaos is still present, but manageable. Laughter 
+This is the *Practice* stage, turning insight into habit. Chaos is still present, but manageable. Laughter 
 becomes a shared coping mechanism rather than panic. The team stops checking the handbook every ten seconds 
 because they *know* it.
 
@@ -165,7 +165,7 @@ It gives permission for things to be messy. It normalises panic as a stage, not 
 managerial fantasy of "smooth transformation" with the far more realistic "structured improvisation" until we 
 get what works best for us.
 
-If you are facilitating this process, your job is not to make people unafraid — it is to help them notice that 
+If you are facilitating this process, your job is not to make people unafraid, it is to help them notice that 
 fear and cognitive dissonances are just the system learning in real time.
 
 ## Famous last words

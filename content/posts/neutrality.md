@@ -11,11 +11,11 @@ Imagine standing on the pavement, observing an injustice unfold. Perhaps a villa
 
 Desmond Tutu, who knew more than a little about elephants on mice, explained it in no uncertain terms: *"If you are neutral in situations of injustice, you have chosen the side of the oppressor."* And just to make sure nobody missed the metaphor, he added: *"If an elephant has its foot on the tail of a mouse and you say that you are neutral, the mouse will not appreciate your neutrality."*
 
-Neutrality is less a moral high ground and more a cosy armchair for the comfortably oblivious. Sitting on the fence does not protect the powerless; it propels the powerful further uphill. Doing nothing is never neutral—it is a choice, and it usually sides with whoever is already winning.
+Neutrality is less a moral high ground and more a cosy armchair for the comfortably oblivious. Sitting on the fence does not protect the powerless; it propels the powerful further uphill. Doing nothing is never neutral, it is a choice, and it usually sides with whoever is already winning.
 
 ## Britain’s “neutrality” in the American civil war
 
-In 1861, Great Britain declared neutrality after the Confederate attack on Fort Sumter. Queen Victoria, on the advice of ministers Viscount Palmerston and Lord John Russell, officially recognised the Confederacy as a legitimate belligerent alongside the Union. Very proper, very neutral—on paper.
+In 1861, Great Britain declared neutrality after the Confederate attack on Fort Sumter. Queen Victoria, on the advice of ministers Viscount Palmerston and Lord John Russell, officially recognised the Confederacy as a legitimate belligerent alongside the Union. Very proper, very neutral, on paper.
 
 In practice, neutrality meant British merchants shipped millions of pounds of saltpetre and over 400,000 rifles to Confederate forces. The Union tut-tutted in outrage. Newspapers like the *New-York Tribune* called Britain out for supporting a slave-owning regime while simultaneously lecturing on morality.
 
@@ -39,7 +39,7 @@ The Black Lives Matter (BLM) movement is not a political convenience. Its demand
 
 ### Silence as harm
 
-[Gallaudet Research Institute, 2023](https://www.gallaudet.edu/research/): Language deprivation affects roughly 70% of Deaf, DeafBlind, DeafDisabled, and Hard of Hearing children, with BIPOC children disproportionately impacted. Professionals who offer “neutral, parent-choice advice” rather than advocating for early access to sign language effectively prolong this deprivation. Neutrality in this context is not safety or prudence—it is negligence dressed up in politeness.
+[Gallaudet Research Institute, 2023](https://www.gallaudet.edu/research/): Language deprivation affects roughly 70% of Deaf, DeafBlind, DeafDisabled, and Hard of Hearing children, with BIPOC children disproportionately impacted. Professionals who offer “neutral, parent-choice advice” rather than advocating for early access to sign language effectively prolong this deprivation. Neutrality in this context is not safety or prudence, it is negligence dressed up in politeness.
 
 ### Silence as complicity
 
@@ -49,7 +49,7 @@ In cases of sexism, failing to intervene is not neutral. It reinforces the behav
 
 Both history and ethics converge on this point: neutrality in the face of oppression is an illusion. Inaction, whether in nineteenth-century geopolitics, contemporary social movements, or everyday interactions, serves the interests of the powerful while undermining the vulnerable.
 
-Progress demands reflection, courage, and decisive action. Amplifying marginalised voices, challenging systemic inequities, and refusing the comfort of passive observation are necessary. Returning to Tutu’s metaphor: if the mouse is to survive, it requires more than passive attention—it requires the elephant to lift its foot, preferably yesterday. Neutrality is not an option. One either contributes to a fairer society or props up the structures of oppression.
+Progress demands reflection, courage, and decisive action. Amplifying marginalised voices, challenging systemic inequities, and refusing the comfort of passive observation are necessary. Returning to Tutu’s metaphor: if the mouse is to survive, it requires more than passive attention, it requires the elephant to lift its foot, preferably yesterday. Neutrality is not an option. One either contributes to a fairer society or props up the structures of oppression.
 
 ## Evidence locker
 

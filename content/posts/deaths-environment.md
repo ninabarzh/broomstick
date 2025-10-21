@@ -19,7 +19,7 @@ tags:
 
 Since 2012, over 2,000 environmental defenders have been killed for standing up against projects 
 that put land, water, and local communities at risk. In 2023 alone, 196 people died: 79 in Colombia, 25 in Brazil, 
-18 in Mexico, and another 18 in Honduras. Indigenous peoples — about 6% of the global population — accounted for 
+18 in Mexico, and another 18 in Honduras. Indigenous peoples, about 6% of the global population, accounted for 
 43% of the victims. The pattern suggests a systemic problem, tied to corporate interests, armed groups, organised 
 crime, and often, state inaction.
 
@@ -31,7 +31,7 @@ Indigenous territories and protected areas to extract resources, and when commun
 In Honduras, the 
 [2024 assassination of Juan López](https://www.ohchr.org/en/press-releases/2024/09/honduras-murder-environmentalist-juan-lopez-criminalisation) 
 underscored this deadly entanglement. López had been campaigning against an iron oxide mining project involving 
-companies like Inversiones Los Pinares and Inversiones Ecotek — notorious for environmental violations. His death 
+companies like Inversiones Los Pinares and Inversiones Ecotek, notorious for environmental violations. His death 
 was not an isolated incident but a symptom of how corporate interests intersect with local political corruption to 
 create a lethal environment for activists.  
 
@@ -47,7 +47,7 @@ Violence against environmental defenders is not limited to corporate actors. Arm
 syndicates often exploit the very same resource-rich territories.  
 
 In Colombia, despite peace agreements with FARC, dissident armed factions continue to dominate mineral- and 
-agriculture-rich regions. [These groups target activists opposing their control](https://www.genocidewatch.com/single-post/more-than-350-environmental-activists-killed-in-colombia-since-2018), ensuring both territorial dominance and financial gain — and making daily life for any local activist a high-stakes gamble.
+agriculture-rich regions. [These groups target activists opposing their control](https://www.genocidewatch.com/single-post/more-than-350-environmental-activists-killed-in-colombia-since-2018), ensuring both territorial dominance and financial gain, and making daily life for any local activist a high-stakes gamble.
 
 In Venezuela, the Uwottüja Indigenous community along the Orinoco Medio River faced violent incursions from 
 dissident FARC elements and the National Liberation Army (ELN) in search of precious metals. Virgilio Trujillo Arana, 
@@ -55,7 +55,7 @@ a local community guard who resisted these incursions, was murdered in 2022. [Th
 
 ## State complicity and impunity
 
-State actors — whether through action, or more often inaction — frequently enable violence against defenders. 
+State actors, whether through action, or more often inaction, frequently enable violence against defenders. 
 In Honduras, the murder of Berta Cáceres in 2016, an activist opposing the Agua Zarca Dam, exposed how corporate 
 projects can operate with military and political backing. Similarly, in Mexico, Carmen López Lugo was killed by 
 perpetrators wielding military-grade weapons, showing how state resources can become instruments of terror, 
@@ -86,7 +86,7 @@ greed, criminality, armed power, and political complicity converge to make envir
 Indigenous and local communities are disproportionately affected, yet international protections remain fragile.  
 
 To prevent further deaths, we need resilient legal frameworks, genuine corporate accountability, international pressure, 
-and steadfast support for those on the frontlines. Environmental advocacy should never be a death sentence — but 
+and steadfast support for those on the frontlines. Environmental advocacy should never be a death sentence, but 
 without systemic change, the lethal cost of defending our planet will keep climbing. (And let us not pretend that 
 small gestures, like a press release or candlelight vigil, are enough.)
 

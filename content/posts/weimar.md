@@ -7,35 +7,35 @@ date: 2025-10-03T00:00:00.000Z
 tags: ["Weimar", "history", "democracy", "political analysis", "lessons"]
 ---
 
-In [Weimar Republic 2.0 (2022)]({{< relref "posts/Weimar-republic-20.md" >}}), I traced the threads linking the collapse of the Weimar Republic (1919‑1933) to the fraying edges of modern democracy. Weimar did not implode overnight; it came apart via a string of small, human‑sized mistakes — the kind that make history mutter, "Told you so," under its breath.
+In [Weimar Republic 2.0 (2022)]({{< relref "posts/Weimar-republic-20.md" >}}), I traced the threads linking the collapse of the Weimar Republic (1919‑1933) to the fraying edges of modern democracy. Weimar did not implode overnight; it came apart via a string of small, human‑sized mistakes, the kind that make history mutter, "Told you so," under its breath.
 
 This post builds on that compass, first examining missteps that felled Weimar, then holding a wary mirror to today’s politics. Consider it a cautious projection, riddled with blind spots, like most maps drawn by people claiming omniscience.
 
-Not melodrama, the goal here: a warning. Democracy does not topple in one blow; it erodes, little by little, and many of those erosions could be avoided — if anyone cared to notice.
+Not melodrama, the goal here: a warning. Democracy does not topple in one blow; it erodes, little by little, and many of those erosions could be avoided ,  if anyone cared to notice.
 
 ## The return of Weimar mistakes?
 
 History rarely repeats itself precisely, but it has a pesky habit of humming the same tune until someone pays attention. The collapse of Weimar and Hitler’s rise were not caused by one dramatic flash, nor some uniquely German knack for goose-stepping. No, it was human blunders stacked atop each other: complacency, opportunism, short-term thinking, and the fatal belief rules could bend forever without breaking.
 
-Look around — Washington, Westminster, Brussels, Budapest — and the habits are back in fashion. Names differ, slogans update, memes sharpen, but the mechanics feel strangely familiar. Democracies? Not fragile flowers. More like stubborn plants politicians water with vinegar until they shrivel.
+Look around ,  Washington, Westminster, Brussels, Budapest, and the habits are back in fashion. Names differ, slogans update, memes sharpen, but the mechanics feel strangely familiar. Democracies? Not fragile flowers. More like stubborn plants politicians water with vinegar until they shrivel.
 
 ## Elites and their pet populists
 
 In Weimar Germany, Franz von Papen and friends assumed they could leash Hitler. He would, they thought, offer popular appeal while the “serious men” ran the state. Instead, he took the leash, tied it around their necks, and threw them under the bus. Lesson simple: assume control of a popular force, underestimate its appetite, and, naturally, be surprised.
 
-Modern politics echoes this. American conservatives treated Trump as a lightning rod; Tory leaders in Britain danced with Farage; across Europe, some centre-right parties experiment with normalising extremists, assuming ministerial seats will neuter them. It is like inviting a fox into the henhouse to manage rats — rarely does anyone survive the experiment unscathed.
+Modern politics echoes this. American conservatives treated Trump as a lightning rod; Tory leaders in Britain danced with Farage; across Europe, some centre-right parties experiment with normalising extremists, assuming ministerial seats will neuter them. It is like inviting a fox into the henhouse to manage rats, rarely does anyone survive the experiment unscathed.
 
 ## The siren call of emergency powers
 
 Article 48 of Weimar’s constitution allowed rule by decree. Initially a safety valve for crises, by the early 1930s it became default. Parliament? A debating club with a roof. Bypassing normal processes? Habitual.
 
-Today: executive orders, emergency authorisations, temporary surveillance laws, omnibus bills — all wrapped in solemn assurances of limitation. Promises that, in practice, vanish faster than decent coffee in a cold office. Once set, such powers cling like damp in a basement, waiting for someone unscrupulous to exploit them.
+Today: executive orders, emergency authorisations, temporary surveillance laws, omnibus bills, all wrapped in solemn assurances of limitation. Promises that, in practice, vanish faster than decent coffee in a cold office. Once set, such powers cling like damp in a basement, waiting for someone unscrupulous to exploit them.
 
 ## Fragmentation of the opposition
 
 Weimar’s left shows the peril of internecine squabbling. Social Democrats and Communists loathed each other more than they feared the Nazis. Their mutual distrust gave Hitler breathing room to consolidate and dismantle resistance.
 
-Today, in the US, progressives sometimes prioritise purity contests over firewalls — as if hashtags could stop tanks. In Europe, centre-left and green parties squabble over policy minutiae while nationalist blocs assemble disciplined voting machinery. Defenders of democracy who cannot sit at one table may find there is no table left.
+Today, in the US, progressives sometimes prioritise purity contests over firewalls, as if hashtags could stop tanks. In Europe, centre-left and green parties squabble over policy minutiae while nationalist blocs assemble disciplined voting machinery. Defenders of democracy who cannot sit at one table may find there is no table left.
 
 ## Political violence and selective outrage
 
@@ -45,21 +45,21 @@ Modern parallels: right-wing militias storm legislatures, called “patriots,”
 
 ## The lure of order in economic crisis
 
-Hyperinflation and the Great Depression destroyed faith in Weimar’s liberal democracy. Desperation made citizens trade freedom for stability — a compromise extremists exploited expertly.
+Hyperinflation and the Great Depression destroyed faith in Weimar’s liberal democracy. Desperation made citizens trade freedom for stability, a compromise extremists exploited expertly.
 
-Today, similar pressures: cost-of-living crises, collapsing housing, precarious work, climate shocks — perfect soil for populists with one-line answers and zero nuance. When democracy seems incapable of solving material problems, the lure of harsh remedies grows, alongside authoritarian promises.
+Today, similar pressures: cost-of-living crises, collapsing housing, precarious work, climate shocks, perfect soil for populists with one-line answers and zero nuance. When democracy seems incapable of solving material problems, the lure of harsh remedies grows, alongside authoritarian promises.
 
 ## Embarrassed defenders of democracy
 
 Weimar’s most damning mistake: its politicians’ reluctance to defend democracy. Treated as Versailles’ unwanted child, it was never cherished, celebrated, or taught as valuable. Pride in democratic norms? Almost absent.
 
-Modern leaders echo this. Democracy becomes a procedure, a cumbersome formality. Meanwhile, authoritarians trumpet greatness, nation, destiny, strength. If democracy is sold like a tax form, the crowd often prefers the circus — clowns included.
+Modern leaders echo this. Democracy becomes a procedure, a cumbersome formality. Meanwhile, authoritarians trumpet greatness, nation, destiny, strength. If democracy is sold like a tax form, the crowd often prefers the circus, clowns included.
 
 ## The enabling act moment
 
 Weimar’s final collapse came not with a bang, but a mundane parliamentary act: the Enabling Act of 1933. Hitler could legislate without Reichstag oversight. Presented as temporary, stabilising, necessary. Those who voted thought control possible. Wrong.
 
-Today: equivalents could emerge — temporary election suspensions, sweeping surveillance powers, emergency decrees. Wrapped in patriotism, prudence, pledges of temporariness, endorsed by moderates convinced of control. History whispers, with a dry chuckle: control rarely works this way.
+Today: equivalents could emerge, temporary election suspensions, sweeping surveillance powers, emergency decrees. Wrapped in patriotism, prudence, pledges of temporariness, endorsed by moderates convinced of control. History whispers, with a dry chuckle: control rarely works this way.
 
 ## Lessons not yet learned
 

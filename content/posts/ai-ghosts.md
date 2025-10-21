@@ -13,16 +13,16 @@ date: 2025-09-01T04:00:00.000Z
 draft: false
 ---
 
-We are no longer in the age of the lone script kiddie lobbing pre-cooked exploits from their mum’s basement. What is emerging instead are *neural ghosts*—AI-powered entities capable of autonomously probing, adapting, and burrowing into networks. Think of them as digital fungi: self-replicating, invisible, and patient enough to live under your floorboards for years before fruiting. Proof-of-concepts like [Neural Ghost](https://red.tymyrddin.dev/docs/in/network/earthworks/mycosec/neural-ghost) and [FungusFiber ISP hijacks](https://red.tymyrddin.dev/docs/in/network/earthworks/fungusfiber/hijack-isp) already sketch what such systems can become: distributed, stealthy, and frighteningly persistent.
+We are no longer in the age of the lone script kiddie lobbing pre-cooked exploits from their mum’s basement. What is emerging instead are *neural ghosts*, AI-powered entities capable of autonomously probing, adapting, and burrowing into networks. Think of them as digital fungi: self-replicating, invisible, and patient enough to live under your floorboards for years before fruiting. Proof-of-concepts like [Neural Ghost](https://red.tymyrddin.dev/docs/in/network/earthworks/mycosec/neural-ghost) and [FungusFiber ISP hijacks](https://red.tymyrddin.dev/docs/in/network/earthworks/fungusfiber/hijack-isp) already sketch what such systems can become: distributed, stealthy, and frighteningly persistent.
 
 ## AI makes attack automation trivial
 
 Attackers will no longer need to hard-code every evasion trick. AI models can learn from network responses, automatically mutate payloads, and improve their lateral movement as if they were playing a strategy game. Early signs are already here:
 
-* Autonomous evasion — adaptive systems that can probe defences, adjust their signatures in flight, and even mimic legitimate traffic, for example in [adaptive evasion techniques](https://red.tymyrddin.dev/docs/in/network/roots/icmp/adaptive-evasion-techniques.html).
-* [AI-powered BGP attacks](https://red.tymyrddin.dev/docs/in/network/roots/bgp/ai-powered-bgp-attacks.html) — where models analyse routing tables, spot weak points, and launch precision hijacks to intercept global traffic flows.
-* Protocol-level infiltration — using reinforcement learning to improve TCP-based attacks and blend with background noise. Examples can be found in [AI-powered TCP attacks](https://red.tymyrddin.dev/docs/in/network/roots/tcp/ai-powered-attacks.html).
-* Autonomous campaign systems — swarms of small AI agents coordinating large-scale probing and exploitation without central human oversight. Sketched overview in [autonomous attack systems](https://red.tymyrddin.dev/docs/in/network/roots/icmp/autonomous-attack-systems.html).
+* Autonomous evasion, adaptive systems that can probe defences, adjust their signatures in flight, and even mimic legitimate traffic, for example in [adaptive evasion techniques](https://red.tymyrddin.dev/docs/in/network/roots/icmp/adaptive-evasion-techniques.html).
+* [AI-powered BGP attacks](https://red.tymyrddin.dev/docs/in/network/roots/bgp/ai-powered-bgp-attacks.html), where models analyse routing tables, spot weak points, and launch precision hijacks to intercept global traffic flows.
+* Protocol-level infiltration, using reinforcement learning to improve TCP-based attacks and blend with background noise. Examples can be found in [AI-powered TCP attacks](https://red.tymyrddin.dev/docs/in/network/roots/tcp/ai-powered-attacks.html).
+* Autonomous campaign systems, swarms of small AI agents coordinating large-scale probing and exploitation without central human oversight. Sketched overview in [autonomous attack systems](https://red.tymyrddin.dev/docs/in/network/roots/icmp/autonomous-attack-systems.html).
 
 The trajectory is obvious: what once required teams of analysts can now be condensed into self-updating playbooks inside a single model.
 
@@ -78,7 +78,7 @@ Finally, BGP and routing manipulation sits at the high end of the spectrum. For 
 
 ## Conclusion
 
-The AI arms race in cyber operations has already started. First will come the low-cost, high-impact waves—phishing at scale, adaptive evasion, automated probing. Then, as nation states refine their toolchains, expect the tectonic shifts: AI-directed BGP hijacks, autonomous swarms, and neural ghosts haunting the backbone of the internet itself.
+The AI arms race in cyber operations has already started. First will come the low-cost, high-impact waves, phishing at scale, adaptive evasion, automated probing. Then, as nation states refine their toolchains, expect the tectonic shifts: AI-directed BGP hijacks, autonomous swarms, and neural ghosts haunting the backbone of the internet itself.
 
 Defenders can either wait to be outpaced or start building their own AI systems now. The window for “humans alone” defence is already closing. 
 

@@ -12,11 +12,11 @@ tags:
   - resilience
 ---
 
-David Clark remembers the moment the Internet’s Pandora’s box creaked open and said, “Hello, world.” It was 2 November 1988, and the Morris Worm was slithering its way through cyberspace like a python on speed. Designed with the innocence of a curious grad student and the destruction of a cyber sledgehammer, it crashed some 6,000 machines—roughly one-tenth of the Internet at the time. Not bad for an opening act.
+David Clark remembers the moment the Internet’s Pandora’s box creaked open and said, “Hello, world.” It was 2 November 1988, and the Morris Worm was slithering its way through cyberspace like a python on speed. Designed with the innocence of a curious grad student and the destruction of a cyber sledgehammer, it crashed some 6,000 machines, roughly one-tenth of the Internet at the time. Not bad for an opening act.
 
 Back then, the network engineers in the room weren’t pondering threats to democracy or ransomware gangs knocking on NHS servers. No, they were earnestly wrestling with TCP packet loss and the excitement of latency reduction. Making things go faster, scale bigger, and connect better. The digital equivalent of building a racetrack and forgetting brakes might be useful.
 
-Security? That was someone else’s problem—possibly yours, dear user. Or no one’s. Because, in the end, crime and aggression were just unfortunate side effects of human nature. Nothing a routing protocol could fix.
+Security? That was someone else’s problem, possibly yours, dear user. Or no one’s. Because, in the end, crime and aggression were just unfortunate side effects of human nature. Nothing a routing protocol could fix.
 
 ## Fast-forward to 2023: The Future is on fire
 
@@ -46,10 +46,10 @@ People love to talk about the “dark side” of the Internet like it’s a shad
 
 Some modest questions, if I may:
 
-* Are the minds of those who think they’ve “won” the Internet—conquered markets, cornered attention, scaled to infinity—locked into that dopamine loop like a tech billionaire on a serotonin drought? 
+* Are the minds of those who think they’ve “won” the Internet, conquered markets, cornered attention, scaled to infinity, locked into that dopamine loop like a tech billionaire on a serotonin drought? 
 * Has short-term thinking become the only thinking? Does “strategic foresight” now mean checking tomorrow’s stock price? 
 * Are we pathologically incapable of planning beyond the next breach or shareholder meeting? 
-* Is this just another legacy tech problem? You know the one—there’s never time to fix the foundations because the house is always on fire. We’ll upgrade… after the next incident. 
+* Is this just another legacy tech problem? You know the one, there’s never time to fix the foundations because the house is always on fire. We’ll upgrade… after the next incident. 
 * Why is it so hard to look past the next breach, news cycle, or keynote announcement? 
 * And if time can be sliced finer and finer, have we shaved it down to the microsecond? Is our digital world shaped by what fits into a sprint cycle, a click-through, a dopamine hit? 
 
@@ -57,10 +57,10 @@ Some modest questions, if I may:
 
 We ask, "Is a defendable Internet possible?"
 
-The answer, increasingly, sounds like: Sure—just not this one.
+The answer, increasingly, sounds like: Sure, just not this one.
 
 Not with this economic system. Not with this incentive structure. Not with “security” defined as the thing you bolt on after the latest zero-day, not as a principle you design for.
 
-So here we are. [The defenders are tired](https://blue.tymyrddin.dev). And [the attackers are thriving](https://red.tymyrddin.dev). The Internet is everywhere. And the “dark side” isn’t just malware or misinformation—it’s the systemic inability to do anything meaningfully preventative.
+So here we are. [The defenders are tired](https://blue.tymyrddin.dev). And [the attackers are thriving](https://red.tymyrddin.dev). The Internet is everywhere. And the “dark side” isn’t just malware or misinformation, it’s the systemic inability to do anything meaningfully preventative.
 
 Security theatre is easy. Structural change is not.

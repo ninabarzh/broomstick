@@ -23,11 +23,11 @@ cover:
 ---
 
 The objective of this patch sprint choreography is to change the tedious act of patching from a soul-crushing 
-administrative duty into a mildly entertaining team exercise—complete with structured chaos, passive-aggressive 
+administrative duty into a mildly entertaining team exercise, complete with structured chaos, passive-aggressive 
 incentives, and just enough humiliation to ensure participation.
 
-Change patching from a dreaded chore into a fast, fun, and competitive team activity—complete with gamification, 
-music, and rewards—to eliminate [hackable inertia]({{< relref "tags/hackable-inertia" >}}).
+Change patching from a dreaded chore into a fast, fun, and competitive team activity, complete with gamification, 
+music, and rewards, to eliminate [hackable inertia]({{< relref "tags/hackable-inertia" >}}).
 
 ---
 

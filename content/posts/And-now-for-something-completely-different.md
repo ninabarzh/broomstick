@@ -30,9 +30,9 @@ The lesson? Host your fonts locally. Or face the wrath of The Font Police. (Whic
 
 ### Cookie consent: Death by a thousand clicks
 
-The CNIL—the ever-watchful French data protection regulator—finally had enough of the “click here to accept cookies” scam masquerading as user choice. In a move that shocked absolutely no one but enraged tech lobbyists everywhere, CNIL fined Google and Facebook for making it absurdly easier to say “yes, track me” than “no, kindly piss off”.
+The CNIL, the ever-watchful French data protection regulator, finally had enough of the “click here to accept cookies” scam masquerading as user choice. In a move that shocked absolutely no one but enraged tech lobbyists everywhere, CNIL fined Google and Facebook for making it absurdly easier to say “yes, track me” than “no, kindly piss off”.
 
-Apparently, if you want to accept cookies, it’s a single click. If you want to refuse them, it’s like playing Minesweeper in the dark with a blindfold on—seven clicks, two hidden menus, and a small chance of triggering a newsletter subscription.
+Apparently, if you want to accept cookies, it’s a single click. If you want to refuse them, it’s like playing Minesweeper in the dark with a blindfold on, seven clicks, two hidden menus, and a small chance of triggering a newsletter subscription.
 
 Who knew “freely given, specific, informed and unambiguous” was supposed to be more than just regulatory poetry?
 
@@ -42,9 +42,9 @@ Who knew “freely given, specific, informed and unambiguous” was supposed to 
 
 Imagine a pop-up appears on your screen. It says, “We respect your privacy.” Then it proceeds to ask you whether 853 ad vendors can gently harvest your data unless you manually untick each box.
 
-That, dear reader, is the Transparency & Consent Framework (TCF) in action—a consent system built by the online ad industry for… well, the online ad industry.
+That, dear reader, is the Transparency & Consent Framework (TCF) in action, a consent system built by the online ad industry for… well, the online ad industry.
 
-The Belgian Data Protection Authority (APD) wasn’t having it. In a moment of rare clarity, they determined that IAB Europe—the folks behind this charming digital labyrinth—is in fact a data controller. And, wouldn’t you know it, their pop-up carnival ride of checkboxes violates the GDPR. All those delightful little “consent strings” that follow you across the internet? Yeah, those are illegal now. Delete everything and start again.
+The Belgian Data Protection Authority (APD) wasn’t having it. In a moment of rare clarity, they determined that IAB Europe, the folks behind this charming digital labyrinth, is in fact a data controller. And, wouldn’t you know it, their pop-up carnival ride of checkboxes violates the GDPR. All those delightful little “consent strings” that follow you across the internet? Yeah, those are illegal now. Delete everything and start again.
 
 (One suspects the real offence here was making regulators use the system themselves.)
 
@@ -52,9 +52,9 @@ The Belgian Data Protection Authority (APD) wasn’t having it. In a moment of r
 
 ### Google Analytics: Big Brother is watching your bounce rate
 
-Meanwhile, over in France, the CNIL took aim at yet another household data vampire—Google Analytics. It turns out that quietly shipping European website traffic data off to the US, where privacy laws have the structural integrity of wet cardboard, might not be entirely compliant with the GDPR.
+Meanwhile, over in France, the CNIL took aim at yet another household data vampire, Google Analytics. It turns out that quietly shipping European website traffic data off to the US, where privacy laws have the structural integrity of wet cardboard, might not be entirely compliant with the GDPR.
 
-Following complaints from NOYB (None of Your Business—yes, really), the CNIL came to the radical conclusion that websites using Google Analytics without proper safeguards are breaking the law. Gasp.
+Following complaints from NOYB (None of Your Business, yes, really), the CNIL came to the radical conclusion that websites using Google Analytics without proper safeguards are breaking the law. Gasp.
 
 The solution? Well, you can try asking Google nicely. Or switch to something with a smidge less surveillance capitalism baked in, like [Burst](https://burst-statistics.app/). No, it’s not as shiny. Yes, it works. And it won’t sell your users’ browsing habits to the highest bidder.
 
@@ -62,12 +62,12 @@ The solution? Well, you can try asking Google nicely. Or switch to something wit
 
 ### The Larch was a warning
 
-All of this—the fonts, the cookies, the “transparent” consent, the analytics—is a digital ecosystem designed around not giving you control. The irony is that the GDPR isn’t even particularly radical. It just asks companies not to treat your personal data like it’s part of a supermarket loyalty scheme.
+All of this, the fonts, the cookies, the “transparent” consent, the analytics, is a digital ecosystem designed around not giving you control. The irony is that the GDPR isn’t even particularly radical. It just asks companies not to treat your personal data like it’s part of a supermarket loyalty scheme.
 
 And yet, the tech giants cling to every dark pattern and loophole like a toddler refusing to eat vegetables.
 
 So yes, sometimes in this mess, you’ll stumble across a Larch. A sudden act of enforcement. A judgment. A fine. A slap on the wrist.
 
-But unless we start asking harder questions about the system—the ad-funded, attention-maximising, data-mining default setting of the internet—there’ll always be another Larch. And another lawsuit.
+But unless we start asking harder questions about the system, the ad-funded, attention-maximising, data-mining default setting of the internet, there’ll always be another Larch. And another lawsuit.
 
 And you’ll still be clicking “refuse all cookies” with the precision of a bomb defusal expert.

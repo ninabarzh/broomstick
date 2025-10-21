@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-“Inflicting help” is the curious human habit of dressing up domination, control, or self-interest in the language of benevolence. It describes well-intentioned or performative actions imposed on others—often without their consent, awareness, or any genuine benefit to them. The giver feels virtuous; the receiver is often disempowered, silenced, or even harmed. The word help suggests care and generosity, but when prefixed with inflicted, it carries the unmistakable sting of condescension and coercion.
+“Inflicting help” is the curious human habit of dressing up domination, control, or self-interest in the language of benevolence. It describes well-intentioned or performative actions imposed on others, often without their consent, awareness, or any genuine benefit to them. The giver feels virtuous; the receiver is often disempowered, silenced, or even harmed. The word help suggests care and generosity, but when prefixed with inflicted, it carries the unmistakable sting of condescension and coercion.
 
 It is important to distinguish between help as enablement and help as control. Effective help resembles the 
 Montessori principle of “help me to do it myself”: it begins with observation, respect, and creating an environment 
@@ -31,7 +31,7 @@ interests of the giver more than the receiver.
 
 Throughout history and into the present, “help” has also served as a weapon of 
 domination, a mechanism for justification, and a form of moral self-adornment. By examining different incarnations 
-of “inflicted help,” the ways in which good intentions—or their performance—mask 
+of “inflicted help,” the ways in which good intentions, or their performance, mask 
 deeper patterns of exploitation and control can be uncovered and recognised.
 
 ## Who does it and why
@@ -62,7 +62,7 @@ congratulate themselves for their “impact.”
 ### States and empires
 
 At its most grandiose, inflicted help is the rhetoric of empire. Colonial powers justified conquest with the 
-civilising mission: bringing railways, schools, and *“moral instruction”* to the allegedly less developed—while 
+civilising mission: bringing railways, schools, and *“moral instruction”* to the allegedly less developed, while 
 extracting resources with great enthusiasm. Missionaries framed Christianisation as salvation while obliterating 
 indigenous beliefs. Modern states echo the same formula with *“nation-building”* projects, promising democracy while 
 exporting military bases and contracts. The British Empire’s tale of railways and schools is a classic example: 
@@ -74,10 +74,10 @@ Across dinner tables, office corridors, aid agencies, and empires, the pattern i
 The motivations are simple, human, and can be inconvenient for anyone on the receiving end.
 
 The helper often steps in out of a need for control or certainty. There is something soothing about fixing 
-other people’s problems—calming one’s own anxiety with the illusion of mastery—while avoiding the far messier 
+other people’s problems, calming one’s own anxiety with the illusion of mastery, while avoiding the far messier 
 task of confronting one’s own helplessness. Sometimes, the motivation is a misinterpreted role. In relationships 
-where one party is “senior” or positioned as the authority—parent to child, manager to employee, coloniser to 
-colonised—it becomes almost instinctive to supply answers, whether or not anyone asked for them. And almost 
+where one party is “senior” or positioned as the authority, parent to child, manager to employee, coloniser to 
+colonised, it becomes almost instinctive to supply answers, whether or not anyone asked for them. And almost 
 always, there is a desire for validation. Helping can feel like performance art: the applause comes in the 
 form of gratitude. When that gratitude fails to appear, resentment slips in, often wrapped in the words: 
 *after all I’ve done for you…*
@@ -86,7 +86,7 @@ The forms this inflicted help takes are equally predictable. There is the help t
 before the recipient has even defined the problem or asked for support. There is the help that arrives in 
 excessive abundance, smothering the recipient until their own problem-solving muscles atrophy. And then 
 there is the help that misses the mark entirely, grounded in the helper’s assumptions rather than the 
-recipient’s reality—like offering swimming lessons when the actual request was for a life jacket.
+recipient’s reality, like offering swimming lessons when the actual request was for a life jacket.
 
 Whether it comes from a meddling neighbour, a well-meaning NGO, or a sprawling empire, inflicted help 
 follows the same script: assume you know better, impose your solutions, expect thanks, and enjoy the warm glow of 
@@ -98,14 +98,14 @@ of “help” is the only one worth having.
 Inflicted help is rarely neutral. Beneath the polished veneer of generosity lies a quiet erosion of autonomy, 
 dignity, and agency. The helper steps in, often motivated by a need for control, the urge to assert authority, 
 or a desire for validation. They assume knowledge the recipient does not possess, offer solutions before they 
-are requested, or provide more assistance than is necessary. On the surface, this seems benign, even kind—but 
+are requested, or provide more assistance than is necessary. On the surface, this seems benign, even kind, but 
 the consequences are immediate and cumulative.
 
 Recipients often internalise the message: you are not competent to manage this yourself. Self-confidence 
 diminishes, initiative falters, and hesitation replaces curiosity. When help arrives too early or in excess, 
 it fosters dependence, sometimes evolving into learned helplessness. By removing the space for individuals 
 to confront challenges on their own, the helper unintentionally stifles learning, critical thinking, and 
-resilience—the very skills needed for autonomy.
+resilience, the very skills needed for autonomy.
 
 There is also a more insidious psychological effect. The recipient may feel guilty for questioning the help, 
 or reluctant to complain, afraid of appearing ungrateful. Gratitude becomes a silent obligation, masking any 
@@ -116,7 +116,7 @@ and the extraction of value.
 
 Whether the helper is a meddling neighbour, a well-meaning NGO, or a sprawling empire, the mechanics and 
 consequences are consistent: the helper satisfies their own psychological needs, while the recipient bears 
-the cost—loss of agency, dependence, stifled growth, and the quiet burden of gratitude. Inflicted help, 
+the cost, loss of agency, dependence, stifled growth, and the quiet burden of gratitude. Inflicted help, 
 in short, teaches compliance under the guise of care.
 
 ## Patterns in practice

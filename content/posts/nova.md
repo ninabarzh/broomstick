@@ -19,7 +19,7 @@ cover:
   relative: false
 ---
 
-In July 2025, the Dutch healthcare sector faced one of its most devastating cybersecurity crises to date. The ransomware group Nova infiltrated Clinical Diagnostics NMDL, a laboratory critical to the Netherlands’ national cervical cancer screening program, exfiltrating 300 GB of sensitive patient data—including names, addresses, citizen service numbers (BSNs), and intimate medical test results 69. The breach, which affected 485,000 women and extended to other medical examinations, exposed systemic vulnerabilities in healthcare IT infrastructure, third-party risk management, and regulatory compliance.
+In July 2025, the Dutch healthcare sector faced one of its most devastating cybersecurity crises to date. The ransomware group Nova infiltrated Clinical Diagnostics NMDL, a laboratory critical to the Netherlands’ national cervical cancer screening program, exfiltrating 300 GB of sensitive patient data, including names, addresses, citizen service numbers (BSNs), and intimate medical test results. The breach, which affected 485,000 women and extended to other medical examinations, exposed systemic vulnerabilities in healthcare IT infrastructure, third-party risk management, and regulatory compliance.
 
 ---
 
@@ -29,7 +29,7 @@ In early July 2025, between the 3rd and the 6th, cybercriminals from the ransomw
 
 At present, the Dutch National Cyber Security Centre (NCSC) hints at involvement of a Citrix NetScaler memory-overflow vulnerability ([CVE-2025-6543](https://nvd.nist.gov/vuln/detail/CVE-2025-6543)), which was publicly disclosed in May and may have been exploited in this case. But the lab had not publicly confirmed that this was the attack vector.
 
-Once inside, Nova extracted a staggering 300 GB of highly sensitive data—ranging from names, addresses, dates of birth and citizen service numbers to test results and healthcare provider details. They then leaked around 100 MB of that trove—covering approximately 53,000 individuals—on the dark web to prove their seriousness.
+Once inside, Nova extracted a staggering 300 GB of highly sensitive data, ranging from names, addresses, dates of birth and citizen service numbers to test results and healthcare provider details. They then leaked around 100 MB of that trove, covering approximately 53,000 individuals, on the dark web to prove their seriousness.
 
 The breach extended beyond cervical cancer data, affecting test results from skin, urine and genital examinations, as well as data from LUMC, Amphia and Alrijne hospitals dating back to 2022.
 
@@ -39,17 +39,17 @@ The breach extended beyond cervical cancer data, affecting test results from ski
 
 ### Late notification
 
-Clinical Diagnostics discovered the breach on 6 July but did not inform BDO (the data controller) until 6 August—a full month later—delaying notification by weeks instead of the GDPR-mandated 72 hours. BDO itself then informed the Dutch Data Protection Authority (AP).
+Clinical Diagnostics discovered the breach on 6 July but did not inform BDO (the data controller) until 6 August, a full month later, delaying notification by weeks instead of the GDPR-mandated 72 hours. BDO itself then informed the Dutch Data Protection Authority (AP).
 
 ### Ransom payment and secrecy
 
-Reports indicate that Clinical Diagnostics paid a multi-million-euro ransom to Nova in hopes of preventing further leaks—an admission the lab would not openly confirm, though indirect hints suggest as much.
+Reports indicate that Clinical Diagnostics paid a multi-million-euro ransom to Nova in hopes of preventing further leaks, an admission the lab would not openly confirm, though indirect hints suggest as much.
 
 ### Regulatory inquiry and possible penalties
 
 The Autoriteit Persoonsgegevens (AP) has launched an investigation to determine whether the lab violated GDPR rules around timely breach notification and damage mitigation. Under Article 33, breaches must be reported within 72 hours; under Article 34, affected individuals must be informed “without undue delay.” Late notification may afford fines up to €20 million or 4 % of global turnover.
 
-Worryingly, some of those affected were residents of women’s shelters, exposing vulnerable individuals to heightened risk—an oversight that only adds to the disaster.
+Worryingly, some of those affected were residents of women’s shelters, exposing vulnerable individuals to heightened risk, an oversight that only adds to the disaster.
 
 ---
 
@@ -57,7 +57,7 @@ Worryingly, some of those affected were residents of women’s shelters, exposin
 
 It is rarely clever to wait for half a million breaches before acting. Let's spell out the bare minimum:
 
-### Patch the basics—promptly
+### Patch the basics, promptly
 
 Equipment like Citrix gateways, VPNs and other internet-facing infrastructure must be patched promptly. The Citrix CVE-2025-6543 patch was published in May; by July, evidence of exploitation was already on the table. If your systems are still ticking away on legacy software, expect to hear about it in the papers.
 
@@ -65,13 +65,13 @@ Equipment like Citrix gateways, VPNs and other internet-facing infrastructure mu
 
 Outsourcing is not a free pass. BDO’s data passed through a subcontracted lab, a single weak link that compromised half a million records. Ensure that all partners meet stringent cybersecurity standards, with audits, penetration tests and shared security protocols.
 
-### Encrypt everything—by default
+### Encrypt everything, by default
 
-Data at rest and in transit must be encrypted. Holding years of data—some legally irrelevant—without proper encryption is not prudent; it is negligence.
+Data at rest and in transit must be encrypted. Holding years of data, some legally irrelevant, without proper encryption is not prudent; it is negligence.
 
 ### Monitor like your reputation depends on it
 
-If 300 GB of data exfiltrates undetected, your logging and monitoring are embarrassingly feeble. Deploy SIEM systems, anomaly detection, honeytokens—anything that alarms when the front door gets pick-pocketed.
+If 300 GB of data exfiltrates undetected, your logging and monitoring are embarrassingly feeble. Deploy SIEM systems, anomaly detection, honeytokens, anything that alarms when the front door gets pick-pocketed.
 
 ### Restore from backups that criminals cannot reach
 
@@ -83,11 +83,11 @@ Social engineering remains a favourite bypass for the tech-literates. Staff must
 
 ### Use ethical hacking
 
-Invite honest testers—white-hat hackers—to probe your systems. An independent check is worth far more than discovering your flaws via publication—or worse, ransom notes.
+Invite honest testers, white-hat hackers, to probe your systems. An independent check is worth far more than discovering your flaws via publication, or worse, ransom notes.
 
 ### And for goodness’ sake, no hush money
 
-Paying ransom only signals weakness. Even if the data disappears for now, the criminals still have it and may resurface. Transparency—alongside immediate notification—is mandatory.
+Paying ransom only signals weakness. Even if the data disappears for now, the criminals still have it and may resurface. Transparency, alongside immediate notification, is mandatory.
 
 ---
 
@@ -97,8 +97,8 @@ Paying ransom only signals weakness. Even if the data disappears for now, the cr
 
 The Dutch Data Protection Authority (AP) has already opened its investigation. Expect:
 
-* Fines: Under GDPR, NMDL (via Eurofins) could face a penalty up to €20 million or 4% of global turnover. Eurofins earns billions globally, so the upper end is technically in play. Realistically, AP will weigh proportionality—but given the egregious month-long silence, expect something significant. A “symbolic slap” would cause political uproar.
-* Binding orders: AP can mandate corrective measures—forcing Eurofins to overhaul its security posture, shorten data retention, and subject itself to third-party audits. Think of it as enforced homework, graded by regulators.
+* Fines: Under GDPR, NMDL (via Eurofins) could face a penalty up to €20 million or 4% of global turnover. Eurofins earns billions globally, so the upper end is technically in play. Realistically, AP will weigh proportionality, but given the egregious month-long silence, expect something significant. A “symbolic slap” would cause political uproar.
+* Binding orders: AP can mandate corrective measures, forcing Eurofins to overhaul its security posture, shorten data retention, and subject itself to third-party audits. Think of it as enforced homework, graded by regulators.
 
 ### Political theatre
 
@@ -140,20 +140,20 @@ For the women and men whose data is already circulating, the consequences are lo
 ## Forecast in one line
 
 Unless regulators make an example of Eurofins with a fine large enough to sting, healthcare will treat this as another 
-embarrassing “incident” rather than a turning point. The clown show will be rescheduled in five years’ time—same tent, 
+embarrassing “incident” rather than a turning point. The clown show will be rescheduled in five years’ time, same tent, 
 same tricks, just different patients.
 
 ---
 
 ## What you can do right now
 
-By this point you may be wondering: fine, Nova got in, lawyers are sharpening their knives, and healthcare needs a crash course in 21st-century security hygiene—but what about me? Can I check if my information is floating around somewhere it should not?
+By this point you may be wondering: fine, Nova got in, lawyers are sharpening their knives, and healthcare needs a crash course in 21st-century security hygiene, but what about me? Can I check if my information is floating around somewhere it should not?
 
-The short answer: not yet. Bevolkingsonderzoek Nederland (BDO NL), which runs the cervical cancer screening programme, has chosen the old-fashioned route of sending letters to everyone whose data was exposed. There is no online lookup service, and for good reason—turning medical records into a searchable website would be handing burglars a master key.
+The short answer: not yet. Bevolkingsonderzoek Nederland (BDO NL), which runs the cervical cancer screening programme, has chosen the old-fashioned route of sending letters to everyone whose data was exposed. There is no online lookup service, and for good reason, turning medical records into a searchable website would be handing burglars a master key.
 
 So, for now, your job is to watch the post. If you participated in the screening programme between 2022 and July 2025, assume your details might have been caught in the breach until you either receive a letter or official reassurance that you are in the clear.
 
-And yes—if a letter lands on your doormat confirming that you were in the breach, you are not powerless. Under GDPR you can claim compensation if mishandling of your data caused you damage, whether financial loss or the less tangible—but very real—stress and anxiety of knowing strangers have your medical details. Dutch courts have already set precedents here. Whether you join a collective action or sue individually, the option is open.
+And yes, if a letter lands on your doormat confirming that you were in the breach, you are not powerless. Under GDPR you can claim compensation if mishandling of your data caused you damage, whether financial loss or the less tangible, but very real, stress and anxiety of knowing strangers have your medical details. Dutch courts have already set precedents here. Whether you join a collective action or sue individually, the option is open.
 
 If lawsuits start piling up, private mucho-money-making healthcare providers may finally take data protection seriously, not out of ethics but out of fear of paying damages.
 

@@ -25,7 +25,7 @@ image of statesmanship to the outside world.
 
 Itamar Ben-Gvir – A convicted inciter to racism and disciple of the banned extremist Meir Kahane, Ben-Gvir has risen 
 from fringe provocateur to National Security Minister. His tenure has been marked by calls for Jewish supremacy, the 
-arming of settlers, and inflammatory visits to the Al-Aqsa compound—actions that have repeatedly escalated tensions. 
+arming of settlers, and inflammatory visits to the Al-Aqsa compound, actions that have repeatedly escalated tensions. 
 His resignation in January 2025 over a Gaza ceasefire deal (and subsequent return in March) underscores his role as a 
 destabilising force in Israeli politics.  
 
@@ -40,12 +40,12 @@ him arguably the more dangerous of the two.
 ## What do they want?
 
 Netanyahu’s priorities are, apparently, survival, first and foremost. His coalition depends on far-right support, meaning 
-he must accommodate their demands—whether expanding settlements, undermining the judiciary, or prolonging the Gaza war. 
+he must accommodate their demands, whether expanding settlements, undermining the judiciary, or prolonging the Gaza war. 
 His balancing act is increasingly precarious, as international patience wears thin and domestic protests grow.  
 
 Ben-Gvir’s demands probably a maximalist approach to security, meaning more guns for settlers, harsher crackdowns on 
 Palestinians, and the erosion of legal restraints on state violence. His resignation over the Gaza ceasefire was 
-performative—he returned once hostilities resumed, proving his influence hinges on perpetual conflict.  
+performative, he returned once hostilities resumed, proving his influence hinges on perpetual conflict.  
 
 Smotrich’s vision seems to be a Greater Israel achieved through bureaucratic annexation. By controlling settlement 
 expansion and West Bank administration, he is methodically erasing the Green Line. His theological belief in divine 
@@ -80,7 +80,7 @@ sanctions on violent settlers. The facade of impunity is cracking.
 ## A government on borrowed time 
 
 Netanyahu’s coalition is a marriage of convenience between a desperate leader and ideological extremists. Their 
-policies—annexation, perpetual war, and the erosion of democracy—are unsustainable. The only question is whether 
+policies, annexation, perpetual war, and the erosion of democracy, are unsustainable. The only question is whether 
 collapse comes from within (protests, military dissent) or from external pressure (sanctions, diplomatic isolation). 
 Either way, the spiral continues.  
 

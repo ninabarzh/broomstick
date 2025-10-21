@@ -25,9 +25,9 @@ First, we must acknowledge the unpleasant truth: there is no quick fix. Security
 
 ## Building things to last
 
-Historically, we have treated digital infrastructure as ephemeral. IoT devices with permanent vulnerabilities, legacy protocols held together with hope and glue, software libraries maintained by single volunteers with full-time jobs — these are the hallmarks of our civilisation.
+Historically, we have treated digital infrastructure as ephemeral. IoT devices with permanent vulnerabilities, legacy protocols held together with hope and glue, software libraries maintained by single volunteers with full-time jobs, these are the hallmarks of our civilisation.
 
-To create a defendable internet, we need hardware and software that are patchable, auditable, and resilient. Systems should survive decades, not quarters. Open standards should be the norm, not a marketing slogan. The digital foundations we lay today must be capable of standing the test of time — and relentless curiosity from people who like poking at things that are not theirs.
+To create a defendable internet, we need hardware and software that are patchable, auditable, and resilient. Systems should survive decades, not quarters. Open standards should be the norm, not a marketing slogan. The digital foundations we lay today must be capable of standing the test of time, and relentless curiosity from people who like poking at things that are not theirs.
 
 ## Fixing incentives
 
@@ -39,7 +39,7 @@ Restructuring incentives is essential. Companies should face meaningful conseque
 
 Yes, regulation can help, but only if it is clever. GDPR-style fines alone are a weak incentive. Effective regulation would mandate maintenance windows, enforce minimum security standards before shipping, and encourage international cooperation. Cybercrime does not respect borders, so resilience standards should not either.
 
-Of course, resistance will be fierce. Change always meets pushback, especially when it threatens profits or prestige. But maintaining the status quo is a choice — a circus that happens to be on fire.
+Of course, resistance will be fierce. Change always meets pushback, especially when it threatens profits or prestige. But maintaining the status quo is a choice, a circus that happens to be on fire.
 
 ## Humans, realistically
 
@@ -53,7 +53,7 @@ Even if every one of the above steps succeeds perfectly, breaches will occur. Sy
 
 ## Conclusion
 
-Building a defendable internet is unglamorous and will frustrate executives, politicians, and users alike. Yet the alternative — continuing to rely on hope, duct tape, and human error — is simply not tenable.
+Building a defendable internet is unglamorous and will frustrate executives, politicians, and users alike. Yet the alternative, continuing to rely on hope, duct tape, and human error, is simply not tenable.
 
 The path forward is clear if unappealing: design for durability, fix the incentives (reward congruent behaviour), regulate intelligently, educate realistically, and plan for compromise. It will be messy and expensive, and it will require acknowledging that our current internet is, frankly, a glorious mess.
 

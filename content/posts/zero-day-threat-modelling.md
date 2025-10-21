@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-Threat modelling for zero-day vulnerabilities is a peculiar exercise in preparing for the unknowable. These are not the comfortable, catalogue‑ready bugs that live in CVE databases. These are the ones nobody—least of all the vendor—has seen fit to admit exist. They arrive without warning, without a patch, and with precisely zero days’ notice before being exploited. The task, therefore, is less about ticking boxes and more about building the sort of resilience that can withstand the unexpected without falling to pieces.
+Threat modelling for zero-day vulnerabilities is a peculiar exercise in preparing for the unknowable. These are not the comfortable, catalogue‑ready bugs that live in CVE databases. These are the ones nobody, least of all the vendor, has seen fit to admit exist. They arrive without warning, without a patch, and with precisely zero days’ notice before being exploited. The task, therefore, is less about ticking boxes and more about building the sort of resilience that can withstand the unexpected without falling to pieces.
 
 ## Understanding zero-day vulnerabilities in threat modelling
 
@@ -27,8 +27,8 @@ Traditional threat modelling often leans heavily on known‑vulnerability databa
 
 ### STRIDE framework adaptation
 
-If you are using the STRIDE methodology—Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, 
-Elevation of privilege—it still has its uses, but it needs a nudge towards the hypothetical. Instead of matching 
+If you are using the STRIDE methodology, Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, 
+Elevation of privilege, it still has its uses, but it needs a nudge towards the hypothetical. Instead of matching 
 threats to known bugs, focus on architectural weaknesses. Examine trust boundaries with a cold eye for where an 
 unknown flaw might slip through. Follow your data flows until you find the dark corners where a payload could be 
 injected. Map out possible privilege‑escalation routes that could be abused by a flaw no one has yet documented. 
@@ -69,7 +69,7 @@ unexploded ordnance.
 ### Attack trees
 
 Attack trees offer a visual way to think through the improbable. Start with the attacker’s ultimate goal as your 
-root node—say, exfiltrating customer data. Branch out into possible routes, including the use of a zero‑day. Keep 
+root node, say, exfiltrating customer data. Branch out into possible routes, including the use of a zero‑day. Keep 
 branching until you reach the leaf nodes, which represent specific techniques such as memory corruption or 
 bypassing input validation. This is a way to think about how the unknown might be combined with the known to 
 create a credible attack chain.
@@ -86,7 +86,7 @@ With no handy signature to spot, you have to know what “normal” looks like f
 
 ### Attack surface reduction
 
-The fewer doors you have, the fewer can be forced open. Disable services and features you do not use. Apply the principle of least privilege religiously. Use micro‑segmentation so that any breach is boxed in. And always, always validate and sanitise inputs—everywhere.
+The fewer doors you have, the fewer can be forced open. Disable services and features you do not use. Apply the principle of least privilege religiously. Use micro‑segmentation so that any breach is boxed in. And always, always validate and sanitise inputs, everywhere.
 
 ### Threat intelligence integration
 
@@ -114,15 +114,15 @@ Artificial intelligence and machine learning can, in theory, detect subtle anoma
 
 Runtime application self‑protection (RASP) bakes defences into the application itself, monitoring behaviour and blocking the suspicious without waiting for external instructions.
 
-In cloud environments, cloud‑native techniques—such as scanning infrastructure‑as‑code, adopting immutable infrastructure, and enforcing policies automatically—offer ways to make entire deployment patterns more resistant to the unexpected.
+In cloud environments, cloud‑native techniques, such as scanning infrastructure‑as‑code, adopting immutable infrastructure, and enforcing policies automatically, offer ways to make entire deployment patterns more resistant to the unexpected.
 
 ## TL;DR: Surviving the unknown
 
-Zero-day vulnerabilities are the software flaws nobody knows about—until they are exploited. Vendors have not patched them, defenders have not planned for them, and yet attackers are more than happy to take advantage. Traditional threat modelling, which leans on known vulnerabilities, is about as useful here as a map of last year’s train delays.
+Zero-day vulnerabilities are the software flaws nobody knows about, until they are exploited. Vendors have not patched them, defenders have not planned for them, and yet attackers are more than happy to take advantage. Traditional threat modelling, which leans on known vulnerabilities, is about as useful here as a map of last year’s train delays.
 
 Instead, zero-day threat modelling requires a behaviour‑centric approach: look for weak points in architecture, watch for deviations from normal behaviour, and reduce the number of doors attackers can try. Established frameworks such as STRIDE and PASTA can be adapted for this by focusing on trust boundaries, data flows, and hypothetical exploitation paths rather than known exploits.
 
-Key strategies include adopting an “assume breach” mindset, tightening your attack surface, and integrating threat intelligence into daily operations. Embedding this thinking into the secure development lifecycle—and coupling it with zero trust principles—helps reduce the impact of a zero‑day even if prevention fails.
+Key strategies include adopting an “assume breach” mindset, tightening your attack surface, and integrating threat intelligence into daily operations. Embedding this thinking into the secure development lifecycle, and coupling it with zero trust principles, helps reduce the impact of a zero‑day even if prevention fails.
 
 The challenges are significant: unknown unknowns, false positives, and ever‑evolving attacker techniques, not to mention the fragility of supply chains. Emerging tools such as AI‑driven anomaly detection, runtime application self‑protection, and cloud‑native security patterns are promising, but they are no substitute for disciplined, continuous threat modelling.
 

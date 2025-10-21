@@ -1,7 +1,7 @@
 ---
 title: "The strange afterlife of 'woke'"
 subtitle: "From Black consciousness to culture war bogeyman"
-description: "Tracing the journey of 'woke' from its radical Black roots through global liberation struggles to its weaponisation by reactionaries—exposing what was lost, stolen, and distorted along the way."
+description: "Tracing the journey of 'woke' from its radical Black roots through global liberation struggles to its weaponisation by reactionaries, exposing what was lost, stolen, and distorted along the way."
 tags: ["woke", "black history", "culture wars", "language", "reactionary politics"]
 draft: false
 date: 2025-07-20T04:00:00.000Z
@@ -13,14 +13,14 @@ cover:
 ---
 
 The term “woke” began its journey not as a fashionable slogan but as a survival mechanism within Black America. Its 
-trajectory—from literal vigilance to political litmus test—reveals how language can be both weapon and shield.
+trajectory, from literal vigilance to political litmus test, reveals how language can be both weapon and shield.
 
 ## Survival and vigilance
 
 In its earliest uses, “woke” carried the weight of bodily survival and communal resistance.
 
 In 1923, Jamaican activist Marcus Garvey exhorted his diasporic audience with the cry, 
-“Wake up Ethiopia! Wake up Africa!”—a metaphorical awakening to racial oppression and collective self-determination. 
+“Wake up Ethiopia! Wake up Africa!”, a metaphorical awakening to racial oppression and collective self-determination. 
 You can still [look for him in the WhirlWind](https://youtu.be/YY-lbMsGLus?feature=shared&t=104).
 
 In 1938, blues musician [Lead Belly recorded *Scottsboro Boys*](https://www.youtube.com/watch?v=VrXfkPViFIE), a song 
@@ -36,7 +36,7 @@ theft and prejudice: “Waking up is a damn sight harder than going to sleep, bu
 
 The term resonates with 
 [W.E.B. Du Bois’s concept of “double consciousness”](https://www.theatlantic.com/magazine/archive/1897/08/strivings-of-the-negro-people/305446/)
-—the psychological tension of possessing an identity shaped by both self‑worth and constant awareness of racial 
+, the psychological tension of possessing an identity shaped by both self‑worth and constant awareness of racial 
 distortion. Being “woke” came to represent the mental labour of being simultaneously Black and aware of how whiteness 
 viewed Blackness.
 
@@ -65,7 +65,7 @@ destabilising force in education, business, and governance.
 
 On one level, “wokeness” echoes the liberatory spirit of consciousness-raising movements. 
 [Paulo Freire’s *Pedagogy of the Oppressed* (1968, pdf)](https://fsi-ebcao.princeton.edu/sites/g/files/toruqf1411/files/media/freire.pdf) 
-promoted awakenings to systemic tyranny—social, political, spiritual. That kind of awareness was not personal vanity 
+promoted awakenings to systemic tyranny, social, political, spiritual. That kind of awareness was not personal vanity 
 but collective insight.
 
 Critics from certain religious or philosophical perspectives [draw parallels between woke ideology and ancient 
@@ -73,8 +73,8 @@ Gnosticism](https://attackthesystem.com/2024/02/23/wokism-is-the-new-face-of-an-
 the belief in hidden truth over surface reality. Some argue that woke identity is curated individually 
 rather than grounded in material facts or shared reality.
 
-Intellectual ancestry also traces through the Frankfurt School and post‑structuralists—Horkheimer, Marcuse, Foucault 
-and Derrida—who deconstructed power hierarchies and normalised skepticism of dominant narratives. Woke critics 
+Intellectual ancestry also traces through the Frankfurt School and post‑structuralists, Horkheimer, Marcuse, Foucault 
+and Derrida, who deconstructed power hierarchies and normalised skepticism of dominant narratives. Woke critics 
 suggest that such philosophical legacies contribute to 
 [modern emphasis on identity and language politics](https://time.com/6290367/susan-neiman-tension-at-the-heart-of-wokeism/).
 
@@ -83,8 +83,8 @@ suggest that such philosophical legacies contribute to
 [For as much as there **is** a left vs right]({{< relref "posts/left-right.md" >}}), on the left, the word appears to 
 be cherished as a moral code: a recognition of injustice and a commitment to equity. On the right, it seems to be 
 reviled as dogma masquerading as decency. It is characterised by critics as overreach, authoritarian thought control, 
-or simply virtue signalling. Corporations co‑opt the term in marketing campaigns—a phenomenon called 
-“woke capitalism”— leading to [further backlash from both activists and conservatives alike](https://www.theguardian.com/commentisfree/article/2024/jun/23/woke-capitalism-gen-z).
+or simply virtue signalling. Corporations co‑opt the term in marketing campaigns, a phenomenon called 
+“woke capitalism”,  leading to [further backlash from both activists and conservatives alike](https://www.theguardian.com/commentisfree/article/2024/jun/23/woke-capitalism-gen-z).
 
 Within Black communities the term is contested. Some embrace its radical roots; others resent its dilution or 
 distortion by journalists, brands, or political opportunists. Institutions like the [NAACP have formally insisted on 
@@ -94,12 +94,12 @@ warning against cultural appropriation and misuse in legislation such as
 
 ## A word walked into a culture war ...
 
-What began as a code for survival—an instruction to remain alert in a world of racial peril—has become an ideological 
+What began as a code for survival, an instruction to remain alert in a world of racial peril, has become an ideological 
 Rorschach test. “Woke” now carries multiple meanings: it can signify resistance, virtue, performative branding, or the 
 erosion of free speech, depending on who is using it and to what end.
 
 Its power, and its controversy, derive from its adaptability. It reflects society’s evolving anxieties about identity, 
-power and truth—and poses a cruel puzzle: how to honour its radical origins while discerning its present distortions.
+power and truth, and poses a cruel puzzle: how to honour its radical origins while discerning its present distortions.
 
 ## Context and commentary
 

@@ -1,9 +1,9 @@
 ---
 title: "Slavery, ICE, and the machinery of control"
-subtitle: "Slavery never needed visible chains—it simply required legislation and a blindfolded public."
+subtitle: "Slavery never needed visible chains, it simply required legislation and a blindfolded public."
 date: 2025-07-19T00:00:00.000Z
 draft: false
-description: "Slavery in the US never vanished—it evolved. This follow-up explores how ICE’s detention regime draws directly from the plantation economy, the legal loopholes of the 13th Amendment, and a long tradition of racial control. Not a bug. A feature."
+description: "Slavery in the US never vanished, it evolved. This follow-up explores how ICE’s detention regime draws directly from the plantation economy, the legal loopholes of the 13th Amendment, and a long tradition of racial control. Not a bug. A feature."
 tags:
   - "immigration"
   - "abolition"
@@ -24,7 +24,7 @@ tags:
 
 The United States Immigration and Customs Enforcement agency (ICE), far from being an unfortunate bureaucratic misstep, 
 represents a meticulous continuation of state-sanctioned racial subjugation. The organisation does not merely enforce 
-immigration law; it embodies the operational logic of a system built—quite literally—on unpaid labour, racial hierarchy, 
+immigration law; it embodies the operational logic of a system built, quite literally, on unpaid labour, racial hierarchy, 
 and legally sanctioned cruelty.
 
 This article serves as a follow-up to [ICE: The shadow of unchecked power]({{< relref "posts/ice.md" >}}), moving 
@@ -42,15 +42,15 @@ The 13th Amendment, popularly celebrated for abolishing slavery, does no such th
 
 *“Neither slavery nor involuntary servitude, **except as a punishment for crime** shall exist within the United States.”*
 
-That small clause—“except as a punishment for crime”—has quietly enabled the rebranding of slavery into a booming 
+That small clause, “except as a punishment for crime”, has quietly enabled the rebranding of slavery into a booming 
 carceral economy. In the immediate aftermath of emancipation, the Southern states wasted no time criminalising 
 mundane behaviour (vagrancy, loitering, existing while Black) to arrest newly freed persons and lease their labour 
 back to private industry. One might call it capitalism’s version of recycling.
 
-Fast-forward to the 21st century: [approximately two million people in the US remain legally enslaved](https://www.vera.org/news/slavery-is-still-legal-for-two-million-people-in-the-u-s). This includes thousands of ICE detainees—individuals not convicted of crimes, but merely awaiting deportation or adjudication. They clean detention facilities, prepare food, and carry out custodial work for private contractors such as GEO Group and CoreCivic. Remuneration ranges from 13 to 40 cents per hour, or in some cases, precisely nothing at all. One might observe that the modern free market has truly mastered the art of “cost efficiency.”
+Fast-forward to the 21st century: [approximately two million people in the US remain legally enslaved](https://www.vera.org/news/slavery-is-still-legal-for-two-million-people-in-the-u-s). This includes thousands of ICE detainees, individuals not convicted of crimes, but merely awaiting deportation or adjudication. They clean detention facilities, prepare food, and carry out custodial work for private contractors such as GEO Group and CoreCivic. Remuneration ranges from 13 to 40 cents per hour, or in some cases, precisely nothing at all. One might observe that the modern free market has truly mastered the art of “cost efficiency.”
 
 This is not “rehabilitation.” It is not “orderly procedure.” It is coerced labour under threat of solitary confinement 
-or basic necessities being withheld. And it is entirely legal—because the law, it turns out, still believes slavery 
+or basic necessities being withheld. And it is entirely legal, because the law, it turns out, still believes slavery 
 to be an excellent business model, provided one avoids calling it by name.
 
 ---
@@ -63,8 +63,8 @@ targeted confinement based on group identity, indefinite detention, isolation
 from legal and medical support, and routine psychological and physical abuse. Add barbed wire, subtract accountability, 
 and you are almost there. 
 
-Historians such as Andrea Pitzer have observed that Donald Trump’s proposed mass deportation scheme—cheerfully 
-revived in 2024—bears remarkable similarity to the architecture of internment in authoritarian regimes. The plans 
+Historians such as Andrea Pitzer have observed that Donald Trump’s proposed mass deportation scheme, cheerfully 
+revived in 2024, bears remarkable similarity to the architecture of internment in authoritarian regimes. The plans 
 call for the construction of large-scale detention centres, military coordination for civilian round-ups, and the 
 suspension of due process under the convenient euphemism of “expedited removal.” One need not squint terribly hard 
 to see the resemblance to historical events we swore never to repeat.
@@ -91,11 +91,11 @@ communities steeped in the disciplinary traditions of the American South: punish
 and cruelty as civic duty. 
 
 Reports from detainees confirm the thematic consistency. Racial slurs, denial of medical care, retaliation for minor 
-infractions, arbitrary solitary confinement—none of this is accidental. It is cultural continuity with a federal 
+infractions, arbitrary solitary confinement, none of this is accidental. It is cultural continuity with a federal 
 budget and a digital intake system.
 
 Where once overseers carried whips, now they carry tasers and clipboards. The uniforms have changed, the ideology 
-has not. ICE may not display a Confederate flag above its compounds, but it does not need to—the policy speaks for 
+has not. ICE may not display a Confederate flag above its compounds, but it does not need to, the policy speaks for 
 itself.
 
 ---
@@ -114,7 +114,7 @@ avoiding the question of abolition.
 
 The mainstream media, predictably, obfuscates. Headlines speak of “border crises” and “migrant surges,” never quite 
 managing to mention that these so-called surges are composed of people fleeing war, poverty, and US-sponsored 
-destabilisation. Instead of asking how many people should be helped, the press asks how many can be “processed”—a 
+destabilisation. Instead of asking how many people should be helped, the press asks how many can be “processed”, a 
 term better suited to meatpacking than human rights.
 
 ---
@@ -128,7 +128,7 @@ To abolish ICE is not a radical demand. It is the bare minimum required to demon
 interest whatsoever in distancing itself from its foundational sins. The same goes for the 13th Amendment’s 
 exception clause. A nation cannot abolish slavery while maintaining its legal right to enslave.
 
-One cannot reform ICE any more than one can “improve” a lynching. It is not malfunctioning—it is succeeding.
+One cannot reform ICE any more than one can “improve” a lynching. It is not malfunctioning, it is succeeding.
 
 The chains are legal. The camps are operating. The silence is profitable.
 

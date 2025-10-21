@@ -16,8 +16,8 @@ Ever received that little gem of an email from IT: “Compliance Reminder”? No
 tiny, accusatory phrase in your inbox like a foghorn in a library. And just like that, the office collectively holds 
 its breath.
 
-Instantly, a strange ritual begins. Even the most relaxed of colleagues—those who haven’t touched the company VPN 
-in months—start opening folders, scanning drives, and muttering about forgotten passwords like they’re uncovering 
+Instantly, a strange ritual begins. Even the most relaxed of colleagues, those who haven’t touched the company VPN 
+in months, start opening folders, scanning drives, and muttering about forgotten passwords like they’re uncovering 
 ancient curses. Karen from marketing begins tearing through her emails as though the server itself might collapse 
 if she doesn’t click the right links. Greg in finance panics at a spreadsheet he hasn’t touched since 2019, 
 convinced it’s harbouring hidden sins.
@@ -59,7 +59,7 @@ lingers, like a half-drunk cup of office coffee left on the radiator: *what if n
 
 ## This is why we cannot have nice things
 
-The brilliance—or cruelty—of IT is that these reminders are both necessary and perfectly phrased to induce panic. 
+The brilliance, or cruelty, of IT is that these reminders are both necessary and perfectly phrased to induce panic. 
 “Failure to comply may result in consequences.” Consequences, yes. That word alone prompts existential reflection 
 on every missed annual security training since 2017.
 
@@ -83,7 +83,7 @@ Imagine instead an email that doesn’t sound like an omen of doom:
     This helps us keep our shared resources secure and avoids any last-minute 
     scrambling.
     
-    If you have questions or run into issues, please reply directly—I’m happy to walk 
+    If you have questions or run into issues, please reply directly, I’m happy to walk 
     through anything, no stress.
     
     Many thanks,
@@ -92,7 +92,7 @@ Imagine instead an email that doesn’t sound like an omen of doom:
 
 No capitalised threats. No vague “consequences.” Just a simple, human tone that acknowledges your time and effort, 
 and invites collaboration rather than panic. And clearly a general email. Compliance reminders like this might 
-actually work—without turning the office into a reenactment of a GOT skirmish.
+actually work, without turning the office into a reenactment of a GOT skirmish.
 
 ### When someone slips
 
@@ -103,7 +103,7 @@ So someone’s clicked the link. No screaming. No mass panic. Here’s an exampl
     Hi [Name],
     
     We noticed a suspicious link was clicked from your account. 
-    No judgement—these things happen to the best of us. 
+    No judgement, these things happen to the best of us. 
 
     To keep everything safe, please:
     
@@ -111,7 +111,7 @@ So someone’s clicked the link. No screaming. No mass panic. Here’s an exampl
     Run the attached security checklist.
     Let us know if anything looks unusual.
     
-    If you need a hand, we’re here to walk through it step by step—seriously, 
+    If you need a hand, we’re here to walk through it step by step, seriously, 
     just reply.
     
     Thanks,
@@ -119,4 +119,4 @@ So someone’s clicked the link. No screaming. No mass panic. Here’s an exampl
     Nina, IT
 
 It doesn’t shame, it doesn’t threaten, it doesn’t blow up the inbox with corporate “penalty language.” It’s calm, 
-practical, and human—people are far more likely to follow the instructions when their dignity survives intact.
+practical, and human, people are far more likely to follow the instructions when their dignity survives intact.

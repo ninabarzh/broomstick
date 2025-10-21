@@ -43,7 +43,7 @@ sunglasses, asking if anyone could break a hundred barrels of oil under sanction
 the quiet determination of guests who’ve been waiting far too long for Africa’s seat at the table. The UAE, ever the 
 polished operator, glided in with a tray of canapés and a portfolio of trade deals.
 
-Argentina, however, never made it past the velvet rope—pulling out at the eleventh hour after a change in government 
+Argentina, however, never made it past the velvet rope, pulling out at the eleventh hour after a change in government 
 reminded everyone that its economic compass still points squarely at the IMF’s front door, hat in hand. Meanwhile, 
 Saudi Arabia remains at the 
 door, sipping something expensive and undecided, its application still "under consideration" as of mid-2025.
@@ -53,7 +53,7 @@ a tolerance for photo ops with Vladimir Putin (or whatever wax replica the Kreml
 ability to nod solemnly when China extols the virtues of 
 "win-win cooperation" without bursting into laughter. For Europe, watching once-reliable partners like the UAE and 
 (potentially) Saudi Arabia court BRICS+ is like seeing your local pub agree to host a conspiracy theory 
-symposium—not yet disastrous, but definitely unnerving.
+symposium, not yet disastrous, but definitely unnerving.
 
 The current BRICS+ composition includes nine countries (Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, 
 Iran, and the UAE).
@@ -69,30 +69,30 @@ less revolutionary.
 
 ### The New Development Bank: Big promises, cautious chequebook
 
-Since its launch in 2015, the New Development Bank (NDB) has disbursed around \$39 billion in loans — roughly what the 
+Since its launch in 2015, the New Development Bank (NDB) has disbursed around \$39 billion in loans, roughly what the 
 World Bank dishes out on a quiet Tuesday. It was founded as the BRICS bloc’s shiny new alternative to the Bretton 
 Woods institutions, pledging to fund infrastructure and sustainable development in member countries. And to be fair, 
 it has stuck fairly close to that script.
 
-In practice, the NDB’s lending portfolio is cautious and conservative. Between 2015 and 2024, most of the money went to transport, energy, and water projects — think roads, hydroelectric dams, and sanitation systems. Renewables are increasingly in the mix, though fossil fuels haven’t exactly been given the boot.
+In practice, the NDB’s lending portfolio is cautious and conservative. Between 2015 and 2024, most of the money went to transport, energy, and water projects, think roads, hydroelectric dams, and sanitation systems. Renewables are increasingly in the mix, though fossil fuels haven’t exactly been given the boot.
 
-China, unsurprisingly, wears two hats — as both the largest contributor and a major indirect beneficiary. Its companies are often involved in construction contracts, and many projects follow the subtle contours of Belt and Road logic. India has focused on urban infrastructure and metro lines, while Brazil and South Africa have drawn loans for energy and healthcare. Russia’s access has dwindled under the weight of sanctions, though the NDB has tiptoed carefully to avoid being seen as politically compromised — no small feat, given the diplomatic messiness of its membership.
+China, unsurprisingly, wears two hats, as both the largest contributor and a major indirect beneficiary. Its companies are often involved in construction contracts, and many projects follow the subtle contours of Belt and Road logic. India has focused on urban infrastructure and metro lines, while Brazil and South Africa have drawn loans for energy and healthcare. Russia’s access has dwindled under the weight of sanctions, though the NDB has tiptoed carefully to avoid being seen as politically compromised, no small feat, given the diplomatic messiness of its membership.
 
-And while the NDB talks a good game about de-dollarisation, most of its loans are still denominated in US dollars, euros, or Chinese yuan. Local currency lending is on the rise — but slowly. In theory, this reduces reliance on the Western financial system. In practice, it’s more about insulating borrowers from exchange rate mood swings than upending global finance.
+And while the NDB talks a good game about de-dollarisation, most of its loans are still denominated in US dollars, euros, or Chinese yuan. Local currency lending is on the rise, but slowly. In theory, this reduces reliance on the Western financial system. In practice, it’s more about insulating borrowers from exchange rate mood swings than upending global finance.
 
-With the 2024 expansion, the bank is expected to extend its reach into Africa and the Middle East. Whether its internal machinery can scale as quickly as its ambition remains to be seen. For now, the NDB sits somewhere between cautious lender and diplomatic prop — more talk show than power player.
+With the 2024 expansion, the bank is expected to extend its reach into Africa and the Middle East. Whether its internal machinery can scale as quickly as its ambition remains to be seen. For now, the NDB sits somewhere between cautious lender and diplomatic prop, more talk show than power player.
 
 ### BRICS pay and the space elevator of currency dreams
 
-The much-vaunted *BRICS Pay* system is still stuck in the eternal limbo of "pilot phase" — like a bus route that’s always *coming soon*. As of late 2024, it exists as a decentralised payment messaging platform meant to allow transactions in local currencies between members. China has backed it enthusiastically, but it’s yet to seriously rival SWIFT or shake off its beta-label branding.
+The much-vaunted *BRICS Pay* system is still stuck in the eternal limbo of "pilot phase", like a bus route that’s always *coming soon*. As of late 2024, it exists as a decentralised payment messaging platform meant to allow transactions in local currencies between members. China has backed it enthusiastically, but it’s yet to seriously rival SWIFT or shake off its beta-label branding.
 
-And the proposed common BRICS currency? That’s the monetary equivalent of announcing plans to build a space elevator — technically feasible in theory, prohibitively expensive, and utterly impractical in this century.
+And the proposed common BRICS currency? That’s the monetary equivalent of announcing plans to build a space elevator, technically feasible in theory, prohibitively expensive, and utterly impractical in this century.
 
 ### Energy use: Now we're talking
 
-Where BRICS+ genuinely wields clout is in the global energy market. The expanded bloc now accounts for roughly **44% of global oil production**, giving it considerable use — on paper. In practice, coordinating that influence is another matter entirely.
+Where BRICS+ genuinely wields clout is in the global energy market. The expanded bloc now accounts for roughly **44% of global oil production**, giving it considerable use, on paper. In practice, coordinating that influence is another matter entirely.
 
-Expecting Saudi Arabia and Iran to agree on production quotas is like watching two rival football firms try to organise a charity bake sale. The potential for disaster is high, and the likelihood of unity is — at best — fragile.
+Expecting Saudi Arabia and Iran to agree on production quotas is like watching two rival football firms try to organise a charity bake sale. The potential for disaster is high, and the likelihood of unity is, at best, fragile.
 
 ---
 
@@ -113,11 +113,11 @@ team equal playing time regardless of ability - heartwarming in theory, disastro
 ## Future scenarios for BRICS+  
 
 The BRICS+ alliance is at a crossroads, balancing between lofty ambitions and geopolitical realities. Its future 
-trajectory will shape not just its member states but the entire global order—whether as a paper tiger, an economic 
+trajectory will shape not just its member states but the entire global order, whether as a paper tiger, an economic 
 powerhouse, an anti-Western bloc, or a fractured coalition. Exploring each scenario’s likelihood, mechanics, 
 and global ripple effects, from trade wars to currency battles.  
 
-Here are four plausible futures for BRICS+, ranging from bureaucratic farce to financial restructuring—and how Europe 
+Here are four plausible futures for BRICS+, ranging from bureaucratic farce to financial restructuring, and how Europe 
 might adapt to each.
 
 ---
@@ -136,7 +136,7 @@ Global impact:
 - Europe breathes easy: No threat to EU trade or financial systems. Brussels may even chuckle at the bloc’s dysfunction.  
 - Developing world disillusionment: Countries like Ethiopia or Argentina, which joined for economic alternatives, see few tangible benefits.  
 
-Wildcard: A major crisis (e.g., Russia’s collapse) could force BRICS+ to act—or implode.  
+Wildcard: A major crisis (e.g., Russia’s collapse) could force BRICS+ to act, or implode.  
 
 ---
 
@@ -165,7 +165,7 @@ Obstacles:
 Likelihood: Very low
 
 Mechanics:  
-- Common BRICS+ currency launched, backed by gold/oil reserves—a "dragon-ruble-riyal" frankenstein.  
+- Common BRICS+ currency launched, backed by gold/oil reserves, a "dragon-ruble-riyal" frankenstein.  
 - Joint security pact formed (Russia sells S-400s to Iran; China builds bases in Africa).  
 - Coordinated UN voting to block Western resolutions (e.g., on Ukraine, Taiwan).  
 
@@ -192,7 +192,7 @@ Mechanics:
 Global impact:  
 - Short-term chaos: Markets panic as BRICS Pay collapses; oil prices swing wildly.  
 - Europe’s opportunity: Exploits the split to lure India/Saudi into EU trade pacts.  
-- China’s isolation deepens: Forced to double down on Belt and Road—or risk irrelevance.  
+- China’s isolation deepens: Forced to double down on Belt and Road, or risk irrelevance.  
 
 Trigger Events:  
 - India-China border clash (again).  
@@ -211,7 +211,7 @@ Europe’s fate hinges on which scenario unfolds:
 2. If BRICS+ succeeds (other scenarios):  
    - Euro under pressure as yuan gains reserve status. ECB scrambles to defend monetary sovereignty.  
    - Sanctions become toothless: EU can no longer isolate Iran/Russia without economic blowback.  
-   - Tech decoupling: Forced to choose between US semiconductors and Chinese 5G—a lose-lose.  
+   - Tech decoupling: Forced to choose between US semiconductors and Chinese 5G, a lose-lose.  
 
 Wildcard: A "BRICS-EU détente" where Brussels brokers deals with factions (e.g., India+South Africa vs. China+Russia).  
 
@@ -221,11 +221,11 @@ Wildcard: A "BRICS-EU détente" where Brussels brokers deals with factions (e.g.
 
 The bloc’s real power lies in its potential to disrupt, not its current coherence. Even in its weakest form 
 ([first scenario](#the-united-nations-20-scenario)), it erodes Western unipolarity. In its strongest 
-([third scenario](#the-anti-west-alliance-scenario)), it could rewrite global rules—though 
+([third scenario](#the-anti-west-alliance-scenario)), it could rewrite global rules, though 
 that remains fantasy for now.  
 
 As BRICS+ gathers steam (or sputters theatrically), Europe faces a familiar choice: retreat into transatlantic 
-routines or learn to dance with new partners—some of whom don't believe in choreography. In a world of shifting 
+routines or learn to dance with new partners, some of whom don't believe in choreography. In a world of shifting 
 alliances, perhaps the real game is less about joining blocs and more about playing them off each other. Your 
 move, Brussels.
 

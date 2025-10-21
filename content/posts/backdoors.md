@@ -53,7 +53,7 @@ and occasionally [their own citizens](https://www.socialistalternative.org/no-to
 
 And here is the kicker: criminals are not stupid. They download encryption software from the internet, 
 beyond the reach of legislation, and carry on. The only people who end up using the weakened systems are ordinary 
-folk—people like you and me—who then get robbed, hacked, and spied on with cheerful efficiency.
+folk, people like you and me, who then get robbed, hacked, and spied on with cheerful efficiency.
 
 It is as if the Patrician of Ankh-Morpork insisted that every lock in the city be built with a master key, while 
 every actual thief simply used their own private locks and laughed.
@@ -73,7 +73,7 @@ of a falling piano."
 ## Implications for ordinary people (that is, you and me)
 
 What does all this mean for the person reading this on a phone, hoping the battery lasts the day? Quite a lot. 
-Your banking app, your medical portal, your family WhatsApp group—they all rely on encryption. Introduce a backdoor, 
+Your banking app, your medical portal, your family WhatsApp group, they all rely on encryption. Introduce a backdoor, 
 and you may as well post your credit card number on the office noticeboard.
 
 When [China was caught](https://www.reuters.com/world/china/china-exploited-backdoors-us-firms-2024-05-14/) 

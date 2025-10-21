@@ -14,8 +14,8 @@ Mobile apps are those delightful little spies we willingly invite into our pocke
 
 ### The Great Permission Heist
 
-* Terms of Service & Privacy Policies are not agreements—they’re hostage notes written in legalese. The average Privacy Policy is 2,518 words long (because transparency is best served as an unreadable wall of text). Reading all the policies for your installed apps would take 16 hours—or roughly the time it takes to regret your life choices.
-* "Free" apps are the worst offenders. They’re not free—you’re just paying in personal data instead of cash.
+* Terms of Service & Privacy Policies are not agreements, they’re hostage notes written in legalese. The average Privacy Policy is 2,518 words long (because transparency is best served as an unreadable wall of text). Reading all the policies for your installed apps would take 16 hours, or roughly the time it takes to regret your life choices.
+* "Free" apps are the worst offenders. They’re not free, you’re just paying in personal data instead of cash.
 * Pre-installed apps are the ultimate betrayal. Your carrier forces them on you (looking at you, Serbian media apps), and you can’t even delete them. Net neutrality? More like net absurdity.
 
 ### "But why do they need all these permissions?"
@@ -32,9 +32,9 @@ Some apps (like Google Search) demand 40+ permissions to function, while alterna
 
 ### Follow the money (Because your data is the currency)
 
-* Ads, ads, ads! Banners, pop-ups, fake surveys—your screen is now a billboard.
+* Ads, ads, ads! Banners, pop-ups, fake surveys, your screen is now a billboard.
 * "Monetisation" is just a fancy word for "selling your soul in increments."
-* Third-party trackers are bad, but mobile apps are worse—because you agreed to this nonsense by clicking "Accept."
+* Third-party trackers are bad, but mobile apps are worse, because you agreed to this nonsense by clicking "Accept."
 
 ### The final joke
 
@@ -46,7 +46,7 @@ We’ve reached peak absurdity:
 
 ### The bottom line
 
-Your smartphone isn’t yours—it’s a data extraction tool disguised as a gadget. And the worst part? You signed off on it.
+Your smartphone isn’t yours, it’s a data extraction tool disguised as a gadget. And the worst part? You signed off on it.
 
 But hey, at least Candy Crush is fun, right? (Until it starts reading your emails.)
 

@@ -9,11 +9,11 @@ tags:
   - GDPR
 ---
 
-You’d think something called the General Data Protection Regulation might actually protect data. You’d be wrong. Along with its elder cousin, the ICCPR, GDPR was hailed as the Great Hope™—a beacon of digital dignity in a world run by surveillance capitalists. But instead of taming the beast, it handed it a clipboard and told it to tick some boxes.
+You’d think something called the General Data Protection Regulation might actually protect data. You’d be wrong. Along with its elder cousin, the ICCPR, GDPR was hailed as the Great Hope™, a beacon of digital dignity in a world run by surveillance capitalists. But instead of taming the beast, it handed it a clipboard and told it to tick some boxes.
 
-The GDPR officially kicked in at the stroke of midnight on 25 May 2018, like some sort of data privacy Cinderella. It was meant to give users the sacred gift of choice—to say yes or no to having their personal lives vacuumed up, analysed, monetised, and passed around like cheap party favours. What we actually got was an avalanche of “consent” banners and passive-aggressive pop-ups saying: “Agree or get lost.”
+The GDPR officially kicked in at the stroke of midnight on 25 May 2018, like some sort of data privacy Cinderella. It was meant to give users the sacred gift of choice, to say yes or no to having their personal lives vacuumed up, analysed, monetised, and passed around like cheap party favours. What we actually got was an avalanche of “consent” banners and passive-aggressive pop-ups saying: “Agree or get lost.”
 
-On day one, the fine folks at [noyb.eu](https://noyb.eu/) (None Of Your Business, in case you missed the joke) filed complaints against Google, Facebook, WhatsApp, and Instagram for what they rightly called “forced consent”. Because let’s be honest—when “agreeing” is the only way to access the service, it’s not consent. It’s coercion, wrapped in legalese.
+On day one, the fine folks at [noyb.eu](https://noyb.eu/) (None Of Your Business, in case you missed the joke) filed complaints against Google, Facebook, WhatsApp, and Instagram for what they rightly called “forced consent”. Because let’s be honest, when “agreeing” is the only way to access the service, it’s not consent. It’s coercion, wrapped in legalese.
 
 ## Meanwhile, in Politics...
 
@@ -46,7 +46,7 @@ Everyone has the right to control their digital identity. No more profiling, no 
 
 ### Article 3 – Artificial Intelligence
 
-Everyone has the right to know what algorithms are doing to them. They should be transparent, accountable, and not treated like sorcery. Big decisions must involve a human being—preferably one who isn’t asleep at the wheel.
+Everyone has the right to know what algorithms are doing to them. They should be transparent, accountable, and not treated like sorcery. Big decisions must involve a human being, preferably one who isn’t asleep at the wheel.
 
 ### Article 4 – Truth
 
@@ -58,10 +58,10 @@ Everyone has the right to buy things that weren’t made in violation of basic d
 
 ### Article 6 – Fundamental Rights Lawsuits
 
-Everyone has the right to sue the trousers off institutions that systematically trample their rights. The European Courts should be open for business—and not just to lobbyists.
+Everyone has the right to sue the trousers off institutions that systematically trample their rights. The European Courts should be open for business, and not just to lobbyists.
 
 ***
 
 ### Sign the Demand
 
-It’s time to stop pretending the current system is working. If the law can’t keep up with the times, it’s time to change the law. [Sign to demand Six New Fundamental Rights](https://you.wemove.eu/campaigns/for-new-fundamental-rights-in-europe). Because box-ticking is not the same as freedom—and we're not consenting to this nonsense any more.
+It’s time to stop pretending the current system is working. If the law can’t keep up with the times, it’s time to change the law. [Sign to demand Six New Fundamental Rights](https://you.wemove.eu/campaigns/for-new-fundamental-rights-in-europe). Because box-ticking is not the same as freedom, and we're not consenting to this nonsense any more.

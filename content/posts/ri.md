@@ -39,7 +39,7 @@ journalists and civil society actors. The [About section](https://reactionary.in
 International outlines the consortium’s structure, partner organisations and thematic scope, assuring transparency 
 in both authorship and intent.
 
-## How the research is conducted
+## How the research is done
 
 [Although not named OSINT](https://shadowdragon.io/blog/osint-techniques/), 
 investigators use open‑source intelligence techniques to base their work entirely on publicly available documents, 
@@ -51,14 +51,14 @@ sources to minimise bias and strengthen factual accuracy.
 
 ## Why it is not propaganda
 
-Propaganda tools typically obscure sourcing, present one-sided narratives, and discourage critical examination—none 
+Propaganda tools typically obscure sourcing, present one-sided narratives, and discourage critical examination, none 
 of which is congruent with Reactionary International’s openly archived case studies and transparent methodology.
 
 Instead, the platform invites readers to inspect data, re‑trace connections, and build upon its findings in 
 independent analysis or reporting.
 
 The platform has been visibly featured and referenced by progressive media such as [Common Dreams](https://www.commondreams.org) 
-and [Convergence Magazine](https://convergencemag.com/)—an openness wholly inconsistent with a secretive 
+and [Convergence Magazine](https://convergencemag.com/), an openness wholly inconsistent with a secretive 
 “shadow site” model.
 
 ## Funding and financial transparency
@@ -84,8 +84,8 @@ of verified and factual information.
 
 Its investigations follow on the investigative traditions of 
 [OSINT pioneers like Bellingcat](https://www.bellingcat.com/resources/articles/2016/07/14/a-brief-history-of-open-source-intelligence/), 
-whose forensic analyses of global events—from [MH17](https://www.wired.com/story/iran-plane-crash-news/) to war-crime 
-accountability—demonstrate how public-source evidence can powerfully challenge disinformation.
+whose forensic analyses of global events, from [MH17](https://www.wired.com/story/iran-plane-crash-news/) to war-crime 
+accountability, demonstrate how public-source evidence can powerfully challenge disinformation.
 
 Its research has been cited or used by academic experts on extremism, civic watchdog organisations, and independent 
 journalists investigating political and digital influence networks.
@@ -100,7 +100,7 @@ media literacy curricula; activists and researchers can use the data to support 
 
 ## The case for open investigation
 
-When critics invoke labels like “propaganda” or “shadow site”, transparency remains the strongest rebuttal—and 
+When critics invoke labels like “propaganda” or “shadow site”, transparency remains the strongest rebuttal, and 
 Reactionary International’s open methodology, global contributor pool, and public funding appeals embody that 
 principle.
 
@@ -108,7 +108,7 @@ By making all claims traceable, inviting external validation and enabling use of
 platform strengthens the information ecosystem against secrecy, manipulation and disinformation.
 
 Readers and researchers who engage with the material can independently verify findings, follow investigative threads, 
-and support a more informed public discourse—underscoring that openness, not propaganda, is the core of the project.
+and support a more informed public discourse, underscoring that openness, not propaganda, is the core of the project.
 
 ---
 

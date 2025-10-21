@@ -1,7 +1,7 @@
 ---
 title: "The Hunger Games was a documentary?"
 subtitle: "When Spectacle Replaces Substance"
-description: "What if Panem was not a warning, but a press release? A sharp-eyed look at the world through the lens of The Hunger Games—exploring algorithmic gladiators, performative politics, and the ritualised theatre of power disguised as entertainment."
+description: "What if Panem was not a warning, but a press release? A sharp-eyed look at the world through the lens of The Hunger Games, exploring algorithmic gladiators, performative politics, and the ritualised theatre of power disguised as entertainment."
 draft: false
 tags: 
   - dystopia
@@ -13,7 +13,7 @@ tags:
 date: 2025-07-22T00:00:00.000Z
 cover:
   image: "/images/mockingjay.png"
-  alt: "A mockingjay made of circuit wires and broken earbuds, wings outstretched in front of a massive firewall wall covered in legal disclaimers, biometric scans, and opt-in checkboxes. Flames flicker around it—not rebellion, but branding." 
+  alt: "A mockingjay made of circuit wires and broken earbuds, wings outstretched in front of a massive firewall wall covered in legal disclaimers, biometric scans, and opt-in checkboxes. Flames flicker around it, not rebellion, but branding." 
   caption: ""
   relative: false
 ---
@@ -33,11 +33,11 @@ Its defining characteristic is not cruelty, but indifference dressed as benevole
 ## A world divided by purpose and stripped of dignity
 
 Panem is fiction. The global economy is not. But both rely on the same machinery: divide, assign function, 
-extract value, suppress dissent. Each region is slotted into a role—not based on justice, history, or dignity, 
+extract value, suppress dissent. Each region is slotted into a role, not based on justice, history, or dignity, 
 but utility to a centralised order. And as with all rigid systems, what is efficient is rarely humane.
 
 The world is not just divided by borders; it is divided by purpose. These purposes are not chosen by the people who 
-live them. They are assigned—by markets, by empires, by history rewritten in trade agreements. And the dignity of 
+live them. They are assigned, by markets, by empires, by history rewritten in trade agreements. And the dignity of 
 choice is one of the first things to go.
 
 ### District 1 – Luxury and illusion
@@ -46,7 +46,7 @@ choice is one of the first things to go.
 * Role: Luxury manufacturing, high-end exports, image management
 * Cost: Cultural pressure, demographic collapse, social stagnation
 
-These are the polished faces of global capitalism. Precision cars, designer electronics, sterile efficiency. Their economies revolve around appearance—premium branding, technological edge, and international rankings. They export excellence, but import dependency. Their infrastructure is immaculate; their birth rates are catastrophic.
+These are the polished faces of global capitalism. Precision cars, designer electronics, sterile efficiency. Their economies revolve around appearance, premium branding, technological edge, and international rankings. They export excellence, but import dependency. Their infrastructure is immaculate; their birth rates are catastrophic.
 
 Extraction here is psychological. Productivity is extracted from overstressed populations in exchange for prosperity and the illusion of stability. Mental health crises are widespread, and national identity is hollowed out in the service of competitiveness.
 
@@ -58,9 +58,9 @@ Their role is to convince the rest of the system that it is working. It is not.
 * Role: Global military enforcement, arms production, order maintenance
 * Cost: Endless war, militarised society, moral corrosion
 
-District 2 does not innovate for peace. It innovates to maintain the peace of empire—enforced with drone strikes and doctrine. The United States leads with overwhelming force, followed by its NATO partners. Israel contributes boutique enforcement, refined in real-world laboratories such as Gaza.
+District 2 does not innovate for peace. It innovates to maintain the peace of empire, enforced with drone strikes and doctrine. The United States leads with overwhelming force, followed by its NATO partners. Israel contributes boutique enforcement, refined in real-world laboratories such as Gaza.
 
-Populations here are told they are safe because they are feared. Yet they are constantly anxious. Veterans are abandoned, gun deaths are routine, and dissent is criminalised by algorithm. Surveillance is not an exception—it is the architecture.
+Populations here are told they are safe because they are feared. Yet they are constantly anxious. Veterans are abandoned, gun deaths are routine, and dissent is criminalised by algorithm. Surveillance is not an exception, it is the architecture.
 
 Extraction is both economic and emotional: taxes fund war, media sells fear, and patriotism becomes a marketable drug.
 
@@ -72,7 +72,7 @@ Extraction is both economic and emotional: taxes fund war, media sells fear, and
 
 District 3 powers the machine. Code, chips, and network infrastructure originate from these regions, often under immense pressure to deliver under unstable conditions. Taiwan balances on a geopolitical fault line, India supplies an outsourced brain trust, and Eastern Europe is the back office of the digital empire.
 
-Israel reappears here—spying software, predictive policing, and surveillance platforms quietly integrated into Western democracies. These are the tools of modern control.
+Israel reappears here, spying software, predictive policing, and surveillance platforms quietly integrated into Western democracies. These are the tools of modern control.
 
 Extraction here is intellectual. Knowledge is siphoned, patented elsewhere, and used to reinforce a hierarchy in which the builder rarely owns the blueprint. Labour is invisible until a crisis shuts down the factory.
 
@@ -84,7 +84,7 @@ Extraction here is intellectual. Knowledge is siphoned, patented elsewhere, and 
 
 These maritime economies are paraded at COP conferences and climate panels. They are the poster children for eco-modernity, carbon neutrality, and guilt-offsetting. Meanwhile, fisheries collapse under quotas, marine biodiversity wanes, and oceanic dead zones expand.
 
-Extraction is reputational. Their clean image is mined to mask the system’s filth. When the climate bill comes due, these regions will find they were not leading the change—they were stalling it politely.
+Extraction is reputational. Their clean image is mined to mask the system’s filth. When the climate bill comes due, these regions will find they were not leading the change, they were stalling it politely.
 
 The population is lulled into complacency with scenic backdrops and carbon accounting spreadsheets, as their natural resources quietly disappear under legalised exploitation.
 
@@ -94,7 +94,7 @@ The population is lulled into complacency with scenic backdrops and carbon accou
 * Role: Oil, gas, nuclear fuel, petrodollar use
 * Cost: Strategic dependency, authoritarianism, cyclical sanctions
 
-These are the energy nodes. They keep the lights on—for a price. Their power lies not in soft influence, but hard necessity. When energy flows, they are tolerated. When it stops, they are demonised. The line between “strategic partner” and “rogue state” depends entirely on pricing and pipelines.
+These are the energy nodes. They keep the lights on, for a price. Their power lies not in soft influence, but hard necessity. When energy flows, they are tolerated. When it stops, they are demonised. The line between “strategic partner” and “rogue state” depends entirely on pricing and pipelines.
 
 Extraction here is literal: oil, gas, uranium. But it is also cultural. Traditions are co-opted to justify control, dissent is silenced in the name of stability, and wealth is hoarded by the few while the many remain precariously close to subsistence.
 
@@ -118,7 +118,7 @@ Population-level suppression is normalised. Protests are crushed, ethnic minorit
 * Role: Timber, biodiversity, ecological services
 * Cost: Deforestation, land grabs, human rights abuses
 
-The green lungs of the planet are treated as kindling. Forests are felled not for need but for greed—mahogany for luxury, palm oil for processed snacks, charcoal for export. Indigenous communities are displaced under the guise of development, their knowledge ignored and their lands stolen.
+The green lungs of the planet are treated as kindling. Forests are felled not for need but for greed, mahogany for luxury, palm oil for processed snacks, charcoal for export. Indigenous communities are displaced under the guise of development, their knowledge ignored and their lands stolen.
 
 Extraction here is brutal and visible. The trees fall, the soil washes away, and the animals vanish. Human rights activists go missing with alarming regularity.
 
@@ -154,7 +154,7 @@ The population lives under price volatility and climate uncertainty. Farmers are
 * Role: Meat production, dairy, wool, cultural imagery
 * Cost: Environmental damage, rural poverty, market volatility
 
-Meat is marketed as tradition—barbecue pits, open fields, ethical ranching. In reality, feedlots, hormones, and slaughterhouse automation dominate. These regions export identity along with steak.
+Meat is marketed as tradition, barbecue pits, open fields, ethical ranching. In reality, feedlots, hormones, and slaughterhouse automation dominate. These regions export identity along with steak.
 
 Extraction is symbolic. These societies are asked to perform authenticity while their agriculture is mechanised and foreign-owned. The animals are not the only ones commodified.
 
@@ -204,7 +204,7 @@ Gaza is where weapons are tested and crowd-control perfected. It is where survei
 
 **Israel**, in this framework, operates across Districts 2 and 3: an enforcer and an innovator. Its population lives with existential anxiety and nationalistic fervour, fuelled by a constant state of militarised readiness. Its economy thrives on security exports; its democracy erodes beneath emergency law.
 
-**The people of Gaza, meanwhile, are not just oppressed—they are studied while they are killed.** Their resistance is 
+**The people of Gaza, meanwhile, are not just oppressed, they are studied while they are killed.** Their resistance is 
 data. Their suffering is monetised. Their future is embargoed.
 
 ---
@@ -246,11 +246,11 @@ activists, the scholars who stay in the fight but trust no one. Much appreciated
 
 ## When spectacle replaces substance in the Arena
 
-This is not merely entertainment. It is a ritual of obedience disguised as honour. The Capitol’s spectacle says: we own your children, your grief, your hope—and we shall repackage it as content. The pain is real, but the stage is ours. It is how power parades itself in plain sight while insisting you clap along. Every arrow loosed in the arena is calibrated for theatrical effect. Death becomes a plot device. Suffering is dressed up for the gala.
+This is not merely entertainment. It is a ritual of obedience disguised as honour. The Capitol’s spectacle says: we own your children, your grief, your hope, and we shall repackage it as content. The pain is real, but the stage is ours. It is how power parades itself in plain sight while insisting you clap along. Every arrow loosed in the arena is calibrated for theatrical effect. Death becomes a plot device. Suffering is dressed up for the gala.
 
 Our own version is no less cynical. Streaming platforms serve us algorithmically curated tragedies, outrage refined for emotional engagement. We gamify collapse. Climate disaster? Queue the influencer fundraiser livestream. War crimes? Here’s a ten-part true crime series. Economic despair? Add to cart. We do not watch to understand; we watch to feel something, briefly. We vote with clicks and forget with scrolls. There is always another episode. The feed must go on.
 
-The tributes of our world are not chosen by lottery but by virality. Influencers, whistleblowers, political figureheads, and public scapegoats—each offered up to the digital arena. Their weapons are no longer swords and snares, but words, optics, algorithms, and edits. Image is all. Their enemies? Often, the audience. The crowd that demands authenticity one minute and blood the next. A misstep, a misunderstood phrase, a bad haircut during the wrong news cycle—and the arena turns.
+The tributes of our world are not chosen by lottery but by virality. Influencers, whistleblowers, political figureheads, and public scapegoats, each offered up to the digital arena. Their weapons are no longer swords and snares, but words, optics, algorithms, and edits. Image is all. Their enemies? Often, the audience. The crowd that demands authenticity one minute and blood the next. A misstep, a misunderstood phrase, a bad haircut during the wrong news cycle, and the arena turns.
 
 The true battle, as ever, is not survival. It is relevance. Or worse: redemption. And in this gamified theatre of power, no one leaves unbranded.
 
@@ -258,7 +258,7 @@ The true battle, as ever, is not survival. It is relevance. Or worse: redemption
 
 Even rebellion is now a product. It is sponsored, analysed, tested in A/B trials. Movements rise and fall not on ideology but on virality. The Capitol permits rebellion so long as it is monetisable and does not reach the plumbing.
 
-A true rebellion — one that alters the extractive logic of the game — [needs to not only break the rules, but also refuse to play their zero-sum game]({{< relref "posts/zero-sum-game/#breaking-the-game-is-non-zero-sum-possible" >}}).
+A true rebellion, one that alters the extractive logic of the game, [needs to not only break the rules, but also refuse to play their zero-sum game]({{< relref "posts/zero-sum-game/#breaking-the-game-is-non-zero-sum-possible" >}}).
 
 ## The odds are never in your favour
 

@@ -19,7 +19,7 @@ To understand what fake imagery can look like, one has to do it. So I investigat
 around it began, as all terrible ideas do, with a whisper: "What if under water, but capitalism?" 
 
 Armed with nothing but a keyboard and a dream of a silly image, I set out to create the ultimate underwater dystopian 
-office scene—a place where octopuses ring up kelp groceries, clownfish drown in paperwork, and shrimp riot against the 
+office scene, a place where octopuses ring up kelp groceries, clownfish drown in paperwork, and shrimp riot against the 
 1% (plankton).
 
 After more thought, the final prompt for the text-to-image:
@@ -42,7 +42,7 @@ The first attempts were disasters.
 
 * Bing rendered the shark boss as a smiling realtor (absolutely unacceptable).
 * Leonardo.Ai gave the octopus six tentacles and a PhD in existential despair (close, but no cigar).
-* NightCafe conjured a mystical abandoned cart—none of the demanded creatures, yet strangely compelling. 
+* NightCafe conjured a mystical abandoned cart, none of the demanded creatures, yet strangely compelling. 
 
 ![](/images/underwater-cart.png#center)
 
@@ -69,7 +69,7 @@ Still, the octopus, if it was generated, refused to look tired enough.
 
 ### Chapter 4: The breakthrough
 
-Then—DALL-E 3 answered the call.
+Then, DALL-E 3 answered the call.
 
 Suddenly, there it was. I had won.
 

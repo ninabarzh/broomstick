@@ -1,13 +1,13 @@
 ---
 title: "The myth of objectivity"
-subtitle: "Why claiming objectivity is rarely neutral—and often helps the powerful"
+subtitle: "Why claiming objectivity is rarely neutral, and often helps the powerful"
 description: "An exploration of why objectivity is often a convenient illusion, examining historical, philosophical, and modern examples from eugenics to media false equivalence and algorithmic bias."
 tags: ["objectivity", "neutrality", "ethics", "social justice", "history", "media", "algorithms", "bias", "academia"]
 date: 2025-09-29T02:00:00.000Z
 draft: false
 ---
 
-Picture a journalist, a scientist, or even your neighbour declaring with solemn authority: *"I am being objective."* Dignified, is it not? Objective, impartial, fact-driven—like a well-polished broom sweeping all bias into the corner. Only, as with most magical brooms, it has a particular corner it prefers: the one that keeps the powerful comfortable and the inconvenient quiet.
+Picture a journalist, a scientist, or even your neighbour declaring with solemn authority: *"I am being objective."* Dignified, is it not? Objective, impartial, fact-driven, like a well-polished broom sweeping all bias into the corner. Only, as with most magical brooms, it has a particular corner it prefers: the one that keeps the powerful comfortable and the inconvenient quiet.
 
 Objectivity can sometimes be used to avoid confronting ethical dilemmas. 
 
@@ -60,7 +60,7 @@ Modern courts, despite robes and wigs, still show us the limits of objectivity. 
 
 ## Objectivity is not a neutral force
 
-Objectivity is useful—but only if wielded with awareness of context, power, and impact. Left unchecked, it shields the powerful and lashes out at the powerless. Like neutrality, claiming objectivity does not absolve moral responsibility. Rejecting the myth of objective impartiality does not abandon reason; it recognises perspective, context, and consequence. Objectivity is not inherently virtuous. It is only as ethical as the person—or institution—claiming it.
+Objectivity is useful, but only if wielded with awareness of context, power, and impact. Left unchecked, it shields the powerful and lashes out at the powerless. Like neutrality, claiming objectivity does not absolve moral responsibility. Rejecting the myth of objective impartiality does not abandon reason; it recognises perspective, context, and consequence. Objectivity is not inherently virtuous. It is only as ethical as the person, or institution, claiming it.
 
 ## Evidence locker
 

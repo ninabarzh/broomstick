@@ -14,8 +14,8 @@ tags:
 ---
 
 In September 2023, the Israeli Ministry of Defence released a promotional video for its Iron Sting precision mortar 
-system. The footage—taken from a drone—shows a building in Gaza being obliterated. It isn’t merely a military 
-demonstration; it’s a sales pitch. The message? *Our weapons work. And they work because we’ve used them—on real 
+system. The footage, taken from a drone, shows a building in Gaza being obliterated. It isn’t merely a military 
+demonstration; it’s a sales pitch. The message? *Our weapons work. And they work because we’ve used them, on real 
 people, in real places, with very real consequences.*
 
 ![](/images/combat-proven.png#center)
@@ -26,13 +26,13 @@ or politically justifiable to turn war zones into testing grounds for profit?*
 
 ## Gaza as a weapons laboratory
 
-Gaza—under blockade and densely populated—has become one of the world’s most brutally consistent testing grounds for 
+Gaza, under blockade and densely populated, has become one of the world’s most brutally consistent testing grounds for 
 Israeli military hardware. Companies like Elbit Systems, Rafael Advanced Defense Systems, and Israel Aerospace 
 Industries benefit directly from each IDF incursion.
 
 When Hermes 900 drones were deployed over Gaza during Operation Protective Edge in 2014, they weren’t just carrying 
 out surveillance or airstrikes. They were collecting data for future sales. Within months, over 20 countries had 
-placed orders. Their “combat debut” wasn’t a side note—it was the selling point.
+placed orders. Their “combat debut” wasn’t a side note, it was the selling point.
 
 The cost of this field testing is overwhelmingly borne by civilians. An estimated 37% of the 2,200 Palestinians 
 killed in 2014 died in drone strikes. In the marketing material, this human toll becomes a metric of “performance 
@@ -59,12 +59,12 @@ Trade Treaty (ATT), which aims to prevent arms sales to human rights violators. 
 operate with fewer formal constraints.
 
 Even ATT signatories find workarounds. The UK and Ireland, for instance, have repeatedly approved “dual-use” 
-exports—goods with both civilian and military applications—that quietly find their way into Israeli weapon systems. 
+exports, goods with both civilian and military applications, that quietly find their way into Israeli weapon systems. 
 In 2022, Ireland approved such exports to firms with clear military portfolios. In 2024, despite mounting evidence 
 of war crimes in Gaza, contracts with Israeli defence firms *doubled*.
 
 Official rhetoric hasn’t helped. In 2023, an Israeli minister infamously referred to Palestinians as 
-“human animals”—a dehumanising frame that turns civilians into unwilling R\&D subjects. Legal safeguards become 
+“human animals”, a dehumanising frame that turns civilians into unwilling R\&D subjects. Legal safeguards become 
 rhetorical wallpaper. UN resolutions, such as the 2024 call to halt arms transfers to Israel, generate headlines 
 but rarely consequences. The UK approved over \$169 million in arms licences in the months that followed. Realpolitik, 
 as ever, outpaces principle.
@@ -81,13 +81,13 @@ flats and dead children filled the news cycle. Neutrality in name only.
 
 Germany approved €326 million in arms exports to Israel in 2023 alone, including Leopard tanks and fighter jet 
 components. France has sold surveillance tech and dual-use equipment with the usual ambiguity baked into the paperwork. 
-Italy and Spain continue their dealings more discreetly—proof that ethical posturing often depends on the angle of the 
+Italy and Spain continue their dealings more discreetly, proof that ethical posturing often depends on the angle of the 
 camera.
 
 Legal resistance is rising. In the UK, groups like Al-Haq have launched lawsuits arguing that British-made components 
 used in F-35s implicate the country in war crimes. French campaigners such as AFPS and ACAT-France are also taking 
 arms companies and the state to court. Germany, meanwhile, now finds itself at the International Court of Justice, 
-sued by Nicaragua for aiding genocide. It’s slow going—but the paper trail is building.
+sued by Nicaragua for aiding genocide. It’s slow going, but the paper trail is building.
 
 ## Resistance and alternatives
 

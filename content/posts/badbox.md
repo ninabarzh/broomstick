@@ -1,6 +1,6 @@
 ---
 title: 'BadBox 2.0: When devices spy straight out of the box'
-subtitle: "Even brand-new tablets and TVs can come preloaded with malware. Why that matters, especially in IPA support work — and how to spot the risk."
+subtitle: "Even brand-new tablets and TVs can come preloaded with malware. Why that matters, especially in IPA support work and how to spot the risk."
 date: 2025-06-08T00:00:00.000Z
 draft: false
 tags: 
@@ -12,7 +12,7 @@ tags:
   - malware
 ---
 
-You’ve spotted a cheap Android tablet or TV box online, taken by how cheap it looks—until you plug it in. Now, interred in its firmware, there’s malware. Not something you can remove, because it's buried beneath the operating system.
+You’ve spotted a cheap Android tablet or TV box online, taken by how cheap it looks, until you plug it in. Now, interred in its firmware, there’s malware. Not something you can remove, because it's buried beneath the operating system.
 
 This is **BadBox**: a class of threats embedded in devices at the factory or during shipping. It isn’t just an app you can delete; it's pre-installed, hidden in the firmware, and ready to phone home as soon as the device connects to the internet.
 
@@ -20,7 +20,7 @@ This is **BadBox**: a class of threats embedded in devices at the factory or dur
 
 ## What is BadBox, really?
 
-BadBox isn’t a single mystery app but a poisoning of the device supply chain. Anxiously cheap devices—like tablets, Android TV boxes, routers and even children’s tablets—leave the factory already compromised. As soon as you power them up, they begin connecting to remote servers run by threat actors.
+BadBox isn’t a single mystery app but a poisoning of the device supply chain. Anxiously cheap devices, like tablets, Android TV boxes, routers and even children’s tablets, leave the factory already compromised. As soon as you power them up, they begin connecting to remote servers run by threat actors.
 
 These compromised devices are used for fraud, stolen data collection, installing more malware, account hijacking, and even turning your device into a proxy for cybercriminal activity.
 
@@ -29,7 +29,7 @@ These compromised devices are used for fraud, stolen data collection, installing
 ## Why should survivors and advocates care?
 
 For services working with survivors of [intimate partner abuse (IPA)](https://blue.tymyrddin.dev/docs/ipa/)), this 
-isn’t abstract tech horror—it’s a real-world threat. Off‑brand devices donated to shelters, community centres, or 
+isn’t abstract tech horror, it’s a real-world threat. Off‑brand devices donated to shelters, community centres, or 
 survivors may be unknowingly infected. Once in the wild, they morph from helpful tools into surveillance nodes, 
 privacy risks or entry points for further exploitation.
 
@@ -44,18 +44,18 @@ Detecting a BadBox-infected device isn’t easy, because it survives factory res
 * The device behaves strangely or feels sluggish right from the start.
 * It connects to obscure servers or IPs as soon as it goes online.
 
-Network‑aware IT teams using tools like Pi-hole, DNS logging or firewall analysis may pick up unusual connections. But most users won’t notice — and that’s exactly why it matters.
+Network‑aware IT teams using tools like Pi-hole, DNS logging or firewall analysis may pick up unusual connections. But most users won’t notice, and that’s exactly why it matters.
 
 ---
 
 ## What has research uncovered?
 
 In October 2023, Human Security’s Satori team first uncovered at least 74,000 infected devices, including Android 
-phones, tablets and TV boxes—all based on variations of the Triada backdoor. By December, a Bitsight report detailed 
+phones, tablets and TV boxes, all based on variations of the Triada backdoor. By December, a Bitsight report detailed 
 a botnet of over 190,000 Android devices, including smart TVs and smartphones, active across Russia, China, India, 
 Belarus, Brazil, and Ukraine. In March 2025, researchers confirmed that BadBox 2.0 had spread to roughly 
 **one million** devices globally, including tablets, projectors, and infotainment systems. Most alarming of all: 
-the compromises weren’t confined to ultra-cheap devices — high-end models like Yandex smart TVs and Hisense 
+the compromises weren’t confined to ultra-cheap devices, high-end models like Yandex smart TVs and Hisense 
 smartphones were also affected.
 
 Germany’s security agency even sinkholed BadBox servers tied to 30,000 compromised devices in late 2024.

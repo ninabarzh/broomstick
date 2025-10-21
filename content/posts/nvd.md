@@ -9,7 +9,7 @@ tags: ["security", "NVD", "CVE", "vulnerability management", "policy", "funding 
 
 The US National Vulnerability Database has slipped from a dull but dependable piece of security plumbing into a 
 sputtering liability. Enrichment of CVEs has stalled, backlogs have exploded, and defenders are left with raw 
-identifiers instead of usable intelligence. This collapse is not accidental—it is the predictable result of 
+identifiers instead of usable intelligence. This collapse is not accidental, it is the predictable result of 
 political austerity, funding cuts, and a fixation on flashy science over unglamorous infrastructure. In other 
 words, the pipes have burst while Washington debates whether water is really a priority. For security teams all over 
 the world, the message is blunt: stop waiting for rescue. Diversify your sources, automate your own triage, build peer 
@@ -18,7 +18,7 @@ networks, and treat metadata as survival gear, not a luxury.
 ## A slow-motion collapse beneath everyone’s radar
 
 The National Vulnerability Database (NVD) has not exactly been thriving. Since around mid-March 2024, enrichment of 
-new CVEs has all but halted—only a fraction of entries have the vital metadata that security professionals rely on: 
+new CVEs has all but halted, only a fraction of entries have the vital metadata that security professionals rely on: 
 CWE designations, CVSS scores, CPE data and the like. Imagine throwing thousands of vulnerabilities over the fence 
 without bothering to label them. It is precisely that careless. 
 [Data shows](https://www.infosecurity-magazine.com/news/nist-vulnerability-database/) that from 2,700 new CVEs only 
@@ -38,23 +38,23 @@ Beyond NIST, [the broader scientific funding ecosystem has been slashed to ribbo
 ## A political posture that says “sorry, not sorry” to science
 
 One gets the sense that maintaining something as dull and foundational as the NVD does not quite fit with the 
-Trump ethos of flashy breakthroughs and “economic security.” Indeed, ideological purges—including stripped LGBTQ+, 
-climate-related and diversity-linked data, as well as mass scientific firings—have become alarmingly de rigueur. 
+Trump ethos of flashy breakthroughs and “economic security.” Indeed, ideological purges, including stripped LGBTQ+, 
+climate-related and diversity-linked data, as well as mass scientific firings, have become alarmingly de rigueur. 
 Meanwhile, programmes like 
-[the US AI Safety Institute (AISI) were all but gutted](https://www.reddit.com/r/neoliberal/comments/1ith08a/us_ai_safety_institute_will_be_gutted_axios/)—think hundreds of roles cut, 
+[the US AI Safety Institute (AISI) were all but gutted](https://www.reddit.com/r/neoliberal/comments/1ith08a/us_ai_safety_institute_will_be_gutted_axios/), think hundreds of roles cut, 
 especially those tied to “guardrails” setting the tone for responsible AI.
 
 ## Mounting CVE tsunami meets bureaucratic snail pace
 
-If there was ever a classic case of being overwhelmed by one’s own success—or failure, in this case—the NVD provides 
+If there was ever a classic case of being overwhelmed by one’s own success, or failure, in this case, the NVD provides 
 it. CVE submissions surged by about 32 per cent in 2024, only sharpening the contrast between blame-worthy growth 
 and severely diminished processing capacity. Security researchers have been raising alarms. One open letter noted 
-that only 4,355 of over 10,000 CVEs had been processed—with a mere 245 handled since March 2024. This is not just 
+that only 4,355 of over 10,000 CVEs had been processed, with a mere 245 handled since March 2024. This is not just 
 a lag; it is a breakdown [widely seen as threatening national cybersecurity](https://www.reddit.com/r/cybersecurity/comments/1c4q4zv/why_i_signed_an_open_letter_to_congress_on_the/).
 
 ## A reluctant sparrow tries to pick up the slack
 
-Enter CISA—the Cybersecurity and Infrastructure Security Agency—[stepping into the void with its “vulnrichment” 
+Enter CISA, the Cybersecurity and Infrastructure Security Agency, [stepping into the void with its “vulnrichment” 
 initiative](https://www.reversinglabs.com/blog/cisas-new-vulnrichment-program-attempts-to-address-nvd-slowdown). 
 Its analysts are now enriching CVEs with CVSS, CPE, CWE and Known-Exploited-Vulnerability data. 
 About 1,300 CVEs have already seen the benefit, thanks to this half-burnt, hero-in-the-making programme
@@ -94,7 +94,7 @@ Attackers exploit the gap between declared vulnerabilities and what actually run
 close that gap by [analysing binaries directly](https://red.tymyrddin.dev/docs/through/reverse-engineering/index.html#foraging-for-secrets-in-binaries). 
 Tools such as Ghidra, BinDiff, or commercial platforms like ReversingLabs can detect vulnerable code signatures 
 without waiting for a CVE to be neatly tagged. [Reproducible builds](https://reproducible-builds.org/) add another 
-layer of defence, letting teams verify that what they are running matches what upstream vendors intended—no mystery 
+layer of defence, letting teams verify that what they are running matches what upstream vendors intended, no mystery 
 dependencies.
 
 ### Participate in peer networks

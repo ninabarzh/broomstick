@@ -9,7 +9,7 @@ tags:
 
 As we huddle in our homes during this charming pandemic summer, Silicon Valley's finest have apparently decided that what the world really needs isn't a vaccine or functioning government - but a way for rich men to never die. Because billionaires clearly don't have enough advantages already.
 
-Today several biotech companies, fuelled by Silicon Valley fortunes, are devoted to “life extension” — or as some put it, to solving “the problem of death.” \~ [The Men Who Want to Live Forever, Dara Horn, New York Times, Jan 2018](https://www.nytimes.com/2018/01/25/opinion/sunday/silicon-valley-immortality.html).
+Today several biotech companies, fuelled by Silicon Valley fortunes, are devoted to “life extension”, or as some put it, to solving “the problem of death.” \~ [The Men Who Want to Live Forever, Dara Horn, New York Times, Jan 2018](https://www.nytimes.com/2018/01/25/opinion/sunday/silicon-valley-immortality.html).
 
 Tech moguls are still pouring millions into "life extension" startups. This while the rest of us are Googling "can you disinfect groceries with vodka" and trying to remember what human touch feels like. Priorities!
 

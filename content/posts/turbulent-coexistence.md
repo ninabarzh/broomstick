@@ -1,7 +1,7 @@
 ---
 title: "Turbulent coexistence (likely case)"
 subtitle: "A short story about navigating a future that refuses to decide between utopia and collapse"
-description: "A messy middle ground where AI advances unevenly, governance lags, inequality worsens, and society scrambles to adapt. Chaos isn’t coming—it’s already here."
+description: "A messy middle ground where AI advances unevenly, governance lags, inequality worsens, and society scrambles to adapt. Chaos isn’t coming, it’s already here."
 date: 2025-07-21T02:00:00.000Z
 draft: false
 tags: ["AI", "labour", "governance", "inequality", "automation", "uncertainty", "scenarios", "scenario planning", "likely case", "butwaittheresmorechaos",]
@@ -11,7 +11,7 @@ Elijah never quite knew how to answer the question, "So, what do you *do*?"
 
 He could say *AI liaison*, but that sounded pompous and vaguely sinister. He could say *digital compliance coordinator*, but even his mother snorted at that one. In truth, he spent most of his days arguing with regulatory software about whether the hospital's cancer diagnostics model violated EU data transparency directives or merely flirted with them.
 
-It was 2028, and Elijah worked at a hospital that could diagnose rare cancers with 99% accuracy. The machine—he refused to call it a colleague—could parse blood data, family history, and MRI scans in seconds. It was not always right, but it was close enough that human oversight had become more symbolic than necessary.
+It was 2028, and Elijah worked at a hospital that could diagnose rare cancers with 99% accuracy. The machine, he refused to call it a colleague, could parse blood data, family history, and MRI scans in seconds. It was not always right, but it was close enough that human oversight had become more symbolic than necessary.
 
 This, naturally, made the middle managers nervous.
 
@@ -21,7 +21,7 @@ At lunch, Dr Neumann muttered over her falafel: “Twenty years of medicine, and
 
 Meanwhile, down in procurement, the lights flickered. The hospital’s new AI model required more power than the building’s entire 1990s wing. Rumour had it they were reactivating an old coal plant in Texas just to keep ChatGPT-7 online.
 
-That was the thing about progress—it always arrived needing an extension cord.
+That was the thing about progress, it always arrived needing an extension cord.
 
 On paper, society was thriving. Children had AI tutors that adapted to their moods and learning styles. Patients lived longer. Traffic lights in Munich were now so efficient that cyclists began arriving places early and visibly distraught.
 
@@ -31,7 +31,7 @@ The city’s biggest art exhibit featured a giant screen looping machine-generat
 
 And yet, tucked behind velvet ropes and pretentious font choices, another room housed the “100% Human-Made” exhibit. The queue was longer. Much longer.
 
-Elijah visited on a weekend. He saw a canvas painted by someone’s arthritic grandmother and wept. Not because it was good—but because it was *touched*.
+Elijah visited on a weekend. He saw a canvas painted by someone’s arthritic grandmother and wept. Not because it was good, but because it was *touched*.
 
 The next election was coming. The candidates had AI advisors, AI-written speeches, and AI-managed campaigns. They also had deepfake scandals, viral misinformation, and algorithmically amplified conspiracy theories.
 
@@ -59,7 +59,7 @@ The irony, of course, was that while politicians bickered, companies simply move
 
 But not everything was awful.
 
-Germany had rolled out a scheme called *Kurzarbeit für KI*—a sort of part-time work safety net for professionals displaced by automation. It was bureaucratic, confusing, and occasionally effective.
+Germany had rolled out a scheme called *Kurzarbeit für KI*, a sort of part-time work safety net for professionals displaced by automation. It was bureaucratic, confusing, and occasionally effective.
 
 Carbon taxes on data centres funded a small wind farm outside Vienna. Artist collectives formed certification groups to label work as “authentically human.” Sometimes this involved finger-painting with actual blood. Elijah tried not to judge.
 
@@ -81,7 +81,7 @@ Years later, he would look back and describe the era as *wobbly*. Not apocalypti
 
 Progress arrived tangled in lawsuits and protest hashtags. Innovation wore a hard hat and came with risk disclaimers. The old systems refused to die gracefully, and the new ones arrived buggy, overconfident, and perpetually "in beta."
 
-But somehow—messily, imperfectly—they adapted. People adapted.
+But somehow, messily, imperfectly, they adapted. People adapted.
 
 The world had not collapsed. That, at least, was something.
 

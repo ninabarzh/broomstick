@@ -21,7 +21,7 @@ cover:
 
 In July 2025, the Netherlands faced a crisis that unfolded not in public squares but across invisible networks. The Public Prosecution Service, several courts, and parts of the Ministry of Justice were forced to halt operations. Hearings were postponed, case files became inaccessible, and whole sections of the justice system were brought to a standstill.
 
-The cause was not ransomware flashing on screens or stolen data dumped online. It was the silent exploitation of Citrix NetScaler — a remote-access system used by thousands of organisations to let staff work securely from anywhere. Think of Citrix as a heavily guarded front door to an office: only authorised people can enter, and it keeps prying eyes out. In theory. In July, that door had both a faulty lock and an absent guard.
+The cause was not ransomware flashing on screens or stolen data dumped online. It was the silent exploitation of Citrix NetScaler, a remote-access system used by thousands of organisations to let staff work securely from anywhere. Think of Citrix as a heavily guarded front door to an office: only authorised people can enter, and it keeps prying eyes out. In theory. In July, that door had both a faulty lock and an absent guard.
 
 ## How it happened
 
@@ -31,7 +31,7 @@ The attackers’ success hinged on two critical security flaws that had been pub
 
 The first, [CVE-2025-6543](https://nvd.nist.gov/vuln/detail/CVE-2025-6543), was a software vulnerability that allowed an intruder to seize control of a Citrix system remotely. Imagine a locksmith’s error that meant a skeleton key could be shaped from a photograph of the lock.
 
-The second flaw, [CVE-2025-5777](https://nvd.nist.gov/vuln/detail/CVE-2025-5777), became known as Citrix Bleed 2.0. It allowed the theft of “session tokens” — digital passes that prove you are already logged in and therefore do not need to provide your password again. These tokens are what keep you connected to your email or work portal without repeatedly authenticating. In the wrong hands, they work like cloned security badges: they bypass not only passwords, but also two-factor authentication systems designed to stop intruders.
+The second flaw, [CVE-2025-5777](https://nvd.nist.gov/vuln/detail/CVE-2025-5777), became known as Citrix Bleed 2.0. It allowed the theft of “session tokens”, digital passes that prove you are already logged in and therefore do not need to provide your password again. These tokens are what keep you connected to your email or work portal without repeatedly authenticating. In the wrong hands, they work like cloned security badges: they bypass not only passwords, but also two-factor authentication systems designed to stop intruders.
 
 For those interested in understanding how vulnerabilities like these are identified, analysed, and prioritised, see 
 [Zero-day threat modelling](https://broomstick.tymyrddin.dev/posts/zero-day-threat-modelling/). It offers a clear guide 
@@ -64,7 +64,7 @@ of a widespread and ongoing challenge.
 
 ### The wider implications
 
-If the Laundry Bear attribution holds, this was more than a disruptive act — it was a strategic probe. Targeting the justice system of an EU state undermines public trust, clogs the machinery of law, and signals that even core democratic institutions can be quietly stalled. It sends a message to other European states: your critical systems are reachable, and we know where to knock. The attack was a reminder that in modern geopolitics, destabilisation does not require troops on borders. Sometimes, it just requires the right bug in the wrong system.
+If the Laundry Bear attribution holds, this was more than a disruptive act, it was a strategic probe. Targeting the justice system of an EU state undermines public trust, clogs the machinery of law, and signals that even core democratic institutions can be quietly stalled. It sends a message to other European states: your critical systems are reachable, and we know where to knock. The attack was a reminder that in modern geopolitics, destabilisation does not require troops on borders. Sometimes, it just requires the right bug in the wrong system.
 
 ## Groundhog day for digital security
 
@@ -74,7 +74,7 @@ It is also a mistake to think you are too small, too niche, or too important to 
 data and a connection to the internet, you qualify as prey.
 
 And session tokens are not harmless technical leftovers. Session tokens are crown jewels. Protect them as fiercely as 
-your passwords. Weakly implemented tokens have been exploited before — for instance, the 
+your passwords. Weakly implemented tokens have been exploited before, for instance, the 
 [Brute-forcing a stay-logged-in cookie](https://red.tymyrddin.dev/docs/in/app/burp/auth/9) 
 walkthrough shows how a poorly designed session cookie can be guessed and used to access another user’s account.
 The principle is the same: once an attacker holds a valid token, they hold the keys to the building.

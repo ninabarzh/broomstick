@@ -12,38 +12,38 @@ tags:
 
 *Note: All personal names have been anonymised unless the individual has a verifiable public presence and wishes to be visible. I choose to run risks; I will not make that choice for others.*
 
-He was 21 and already battling high blood pressure. His doctors confirmed it. His exemption papers were in order. But that didn't stop them from coming for him. One morning in spring 2025, he opened his door to find officers holding a digital summons. No discussion. No delay. He was on a bus to a training facility by nightfall. Within a week, he was at the Ukrainian border—terrified, untrained, and furious.
+He was 21 and already battling high blood pressure. His doctors confirmed it. His exemption papers were in order. But that didn't stop them from coming for him. One morning in spring 2025, he opened his door to find officers holding a digital summons. No discussion. No delay. He was on a bus to a training facility by nightfall. Within a week, he was at the Ukrainian border, terrified, untrained, and furious.
 
-Stories like his are no longer rare in Russia. Since the beginning of the full-scale invasion of Ukraine in 2022, hundreds of thousands of young men have fled, gone underground, or tried to disappear into the folds of the system. Two waves of exodus—first in late 2022, then again in 2025—have gutted Russia’s young workforce and exposed growing cracks in the state’s ability to maintain both war effort and internal cohesion. If the first wave was panic, the second is exhaustion.
+Stories like his are no longer rare in Russia. Since the beginning of the full-scale invasion of Ukraine in 2022, hundreds of thousands of young men have fled, gone underground, or tried to disappear into the folds of the system. Two waves of exodus, first in late 2022, then again in 2025, have gutted Russia’s young workforce and exposed growing cracks in the state’s ability to maintain both war effort and internal cohesion. If the first wave was panic, the second is exhaustion.
 
-Behind the headlines lies a desperate truth: the Kremlin is running out of people—and out of time.
+Behind the headlines lies a desperate truth: the Kremlin is running out of people, and out of time.
 
 ## Tactics of evasion: how Russians avoid the draft
 
-### Medical exemptions — increasingly ignored
+### Medical exemptions, increasingly ignored
 
-In 2022, many hoped that having the right medical paperwork might shield them. Hypertension, flat feet, epilepsy—these were once reliable ways out. But by 2025, deferments have thinned to a whisper. Even those with serious conditions are being swept up. Courts, once a faint hope, now serve more as confirmation of futility than sources of relief.
+In 2022, many hoped that having the right medical paperwork might shield them. Hypertension, flat feet, epilepsy, these were once reliable ways out. But by 2025, deferments have thinned to a whisper. Even those with serious conditions are being swept up. Courts, once a faint hope, now serve more as confirmation of futility than sources of relief.
 
 A 24-year-old man in Samara broke down in court after his appeal against conscription was dismissed, despite multiple medical diagnoses. “They didn’t even look at my file,” he said afterwards. “The judge just asked if I had ever posted anti-war content.”
 
-### Physical escape — no longer simple
+### Physical escape, no longer simple
 
 In 2022, train stations in southern Russia teemed with men in their twenties, clutching overpriced tickets to 
 Kazakhstan or Georgia. Social media was full of posts asking about border crossings and visa rules. “How much to 
 get to Almaty?” “Can I still cross at Verkhny Lars?”
 
-By 2025, border closures and digital tracking have narrowed escape routes. Armenia and Georgia remain accessible—
+By 2025, border closures and digital tracking have narrowed escape routes. Armenia and Georgia remain accessible, 
 but barely. Border guards now demand digital clearance, and many find their internal passports marked with silent bans. 
 A young man trying to flee via Sochi in early 2025 found his internal travel permissions revoked in real time. 
 “It was like the wall closed behind me while I was still in the queue.”
 
 ![A young Russian man in a darkened train station, clutching a hastily packed bag, glancing anxiously at a digital conscription notice flashing on his phone screen. In the background, shadowy figures in military uniforms patrol, while a torn propaganda poster of Putin peels off the wall. The atmosphere is tense, cinematic, and dystopian, with a muted color palette of grays and blues, evoking fear and urgency](/images/russian-youth.png#center)
 
-### Underground resistance — break a leg, save a life
+### Underground resistance, break a leg, save a life
 
 In cities like Yekaterinburg and Rostov, a new black market thrives: fake diagnoses, forged military papers, even brokers arranging staged injuries. Some young men go further. A quietly spreading Telegram channel gives advice on how to “accidentally” break a limb, what to say in a hospital, and how to act mentally unfit without triggering psychiatric detention.
 
-Others never get the chance. Conscription officers increasingly offer “voluntary contracts” under duress. Men are lured into military offices for paperwork checks, then told they’ve already signed their deployment orders. Many are shipped to volatile regions like Belgorod within 48 hours—without ever seeing a lawyer.
+Others never get the chance. Conscription officers increasingly offer “voluntary contracts” under duress. Men are lured into military offices for paperwork checks, then told they’ve already signed their deployment orders. Many are shipped to volatile regions like Belgorod within 48 hours, without ever seeing a lawyer.
 
 ## The Kremlin’s crackdown: closing the loopholes
 
@@ -57,7 +57,7 @@ The new system, centralised under the Ministry of Digital Development, now links
 
 In Moscow alone, human rights monitors reported over 3,000 detentions in the first quarter of 2025. Police raided gyms, language schools, and even gaming cafés. One 26-year-old was stopped at a metro station, shoved into a van, and by midnight was at a training base. He was forced to swear the military oath with a black eye and a shaking voice.
 
-“The raids come in waves,” said an observer from OVD-Info, the rights group. “It’s not about quotas—it’s about fear. They want men to know that any door might open onto a uniform.”
+“The raids come in waves,” said an observer from OVD-Info, the rights group. “It’s not about quotas, it’s about fear. They want men to know that any door might open onto a uniform.”
 
 ### Legal threats and family pressure
 
@@ -71,13 +71,13 @@ Lawyers working on draft evasion cases increasingly face intimidation themselves
 
 By 2025, the Kremlin’s manpower shortage has become impossible to conceal. Poorly trained conscripts are sent to the border with minimal equipment and no clear command structure. Casualty rates remain high, though independent tracking is now nearly impossible inside Russia.
 
-The state has turned to foreigners. Recruits from Nepal, Tajikistan, and Kyrgyzstan have been offered fast-track citizenship in exchange for service. Videos circulate of Nepali men speaking broken Russian in muddy trenches—some later found dead, their families never notified.
+The state has turned to foreigners. Recruits from Nepal, Tajikistan, and Kyrgyzstan have been offered fast-track citizenship in exchange for service. Videos circulate of Nepali men speaking broken Russian in muddy trenches, some later found dead, their families never notified.
 
 ### Public trust in freefall
 
 Patriotic unity, once the propaganda line, now feels like a bitter joke to many. Families feel abandoned and deceived. A 20-year-old conscript’s mother described watching state TV proclaim “voluntary service” while her son sent panicked voice messages from a barracks 20km from the front. “The Kremlin lies all the time,” she said.
 
-Even state workers—once considered a loyal base—are growing restless. Several IT specialists conscripted via digital summonses have since fled abroad or gone underground.
+Even state workers, once considered a loyal base, are growing restless. Several IT specialists conscripted via digital summonses have since fled abroad or gone underground.
 
 ### The economic toll
 

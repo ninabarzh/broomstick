@@ -8,12 +8,12 @@ draft: false
 cover:
   image: "/images/purchase-blocked.png"
   alt: "A woman at a supermarket checkout looks confused as the screen reads “PURCHASE BLOCKED: DIETARY POLICY.” Behind her, other shoppers face similar digital payment refusals for reasons like age restriction, carbon limit, and social credit, highlighting a dystopian scenario of programmable money control." 
-  caption: "When your digital pound decides you're not allowed to buy bread—welcome to the brave new world of programmable money and policy-enforced shopping limits."
+  caption: "When your digital pound decides you're not allowed to buy bread, welcome to the brave new world of programmable money and policy-enforced shopping limits."
   relative: false 
 ---
 
 Digital currencies promise a brave new world of financial innovation. But let us not get carried away with the 
-techno-optimism. These things are not just magic internet money—they come with a tangled web of risks, from 
+techno-optimism. These things are not just magic internet money, they come with a tangled web of risks, from 
 eye-watering scams to dystopian surveillance features. Especially when central banks start sniffing around with 
 programmable money and “policy precision”.  
 
@@ -29,7 +29,7 @@ A breakdown of what could possibly go wrong.
 
 ### Lack of legal protections and irreversible transactions  
 
-With your bank, if something goes wrong—say, you pay the wrong person or someone pinches your card—there is at 
+With your bank, if something goes wrong, say, you pay the wrong person or someone pinches your card, there is at 
 least the faint hope of recourse. You ring a hotline, fill out a form, and maybe, just maybe, get your money back. In 
 crypto, however, there is no hotline. There is no desk. There is no human. There is just a cold, indifferent 
 blockchain telling you: “tough luck.”  
@@ -38,7 +38,7 @@ Every transaction is final. Accidentally sent your life savings to a scammer? Th
 best bet is to tweet about it and hope the internet takes pity. Meanwhile, fraud has become endemic. In 2024 
 alone, crypto scammers ran off with \$12.4 billion (€11.4 billion). That is billion, with a “b.” The scams are 
 getting cleverer, too: fake influencers, AI-generated girlfriend-boyfriend combos, investment platforms with slick 
-interfaces and zero actual assets. The promise of decentralisation has unfortunately extended to accountability—there 
+interfaces and zero actual assets. The promise of decentralisation has unfortunately extended to accountability, there 
 is none.  
 
 ### Extreme volatility and investment risks  
@@ -47,7 +47,7 @@ Crypto markets make traditional financial markets look positively sedate. The va
 based on a tweet, a rumour, or Elon Musk deciding he is bored again. It is a volatile mess dressed up as “disruption.” 
 Behind the memes and moon emojis lies a brutal truth: this is not an investment; it is speculation on speed.  
 
-And then there is trading—the financial equivalent of juggling chainsaws while on fire. People borrow 
+And then there is trading, the financial equivalent of juggling chainsaws while on fire. People borrow 
 huge sums to bet on price movements, often with catastrophic results. When the market moves (which it always does), 
 it does not just eat your investment. It devours your margin, your optimism, and anything else not nailed down. 
 We now have entire subcultures dedicated to coping with the emotional wreckage.  
@@ -56,10 +56,10 @@ We now have entire subcultures dedicated to coping with the emotional wreckage.
 
 The crypto space is a treasure trove for hackers. With no central oversight and billions sloshing around in 
 digital wallets, it is a target-rich environment for every cybercriminal from bedroom teenager to North Korean cyber 
-unit. Phishing attacks, malware, exchange hacks—it is all on the menu. Once your wallet is emptied, there is no 
+unit. Phishing attacks, malware, exchange hacks, it is all on the menu. Once your wallet is emptied, there is no 
 magical undo button. You are out of luck and likely out of rent.  
 
-Even the so-called “safer” side of the ecosystem—stablecoins—has proven anything but. These are digital tokens 
+Even the so-called “safer” side of the ecosystem, stablecoins, has proven anything but. These are digital tokens 
 supposedly pegged to real-world currencies like the dollar. But that peg can wobble or snap entirely. When TerraUSD 
 collapsed in 2022, \$18 billion went up in digital smoke. In 2023, a hiccup in the banking system saw USDC 
 temporarily depeg. And unlike actual bank deposits, these things are not insured. You lose, you lose.  
@@ -73,12 +73,12 @@ especially if you have ever linked your wallet to a centralised exchange.
 
 CBDCs take the surveillance game to a whole new level. Imagine a system where every transaction you make is visible 
 to the central bank. Not just the big purchases, but the coffees, the subscriptions, the late-night kebabs. All 
-recorded, all analysable, all potentially weaponised. This is not just financial infrastructure—it is the 
+recorded, all analysable, all potentially weaponised. This is not just financial infrastructure, it is the 
 architecture for behavioural control. And once it is in place, you do not get to opt out.  
 
 ### Financial system instability  
 
-Digital currencies are not just disruptive in a hip Silicon Valley way—they threaten to destabilise the financial 
+Digital currencies are not just disruptive in a hip Silicon Valley way, they threaten to destabilise the financial 
 system itself. If people start pulling deposits out of banks en masse and plonking them into CBDC wallets or 
 stablecoins, banks lose access to the cheap, stable funding that underpins their lending. Less money in, less money 
 out. Cue credit crunch.  
@@ -99,7 +99,7 @@ app), they can tweak the economy with a surgical precision previously reserved f
 
 Want to inject stimulus? No problem. Want to apply negative interest rates directly to consumer wallets? Also not 
 a problem. What used to take years of policy nudges could be done with a few lines of code. It is all very exciting 
-until someone with terrible judgement gets hold of the controls—or worse, someone with *excellent* judgement and no 
+until someone with terrible judgement gets hold of the controls, or worse, someone with *excellent* judgement and no 
 accountability.  
 
 ### Improved surveillance and policy enforcement  
@@ -108,7 +108,7 @@ The public narrative is all about preventing crime, catching tax cheats, and pro
 But let us not be naïve. CBDCs make it possible to track every transaction in real time. Governments can trace who 
 gave money to what, when, and why. That kind of power is tempting, and once installed, rarely scaled back.  
 
-And then there is programmable money. It is not science fiction—it is in the design docs. Money that expires. Money 
+And then there is programmable money. It is not science fiction, it is in the design docs. Money that expires. Money 
 that only works in certain shops. Money that shuts off if your carbon footprint’s too high. Sounds like dystopia? 
 That is because it is. When your money starts making decisions for you, we have passed the point of financial 
 autonomy and entered the era of algorithmic paternalism.  
@@ -125,7 +125,7 @@ behavioural nudge. Welcome to central banking, rebranded as social engineering.
 
 ### Influence over financial inclusion (or exclusion)  
 
-CBDCs have been marketed as a tool for inclusion—giving digital wallets to people who have been left out of the 
+CBDCs have been marketed as a tool for inclusion, giving digital wallets to people who have been left out of the 
 traditional banking system. Sounds good. But this utopia is full of caveats. Without a smartphone, a data plan, or 
 the right documents, many will still be locked out. The same systemic exclusion, now on shinier infrastructure.  
 
@@ -136,26 +136,26 @@ financial institutions; CBDCs just make it faster and harder to contest.
 ### Global monetary competition  
 
 The world is not waiting. China has already launched its digital yuan and is rolling it out with purpose. The EU and 
-US are scrambling to catch up, each viewing CBDCs as geopolitical tools. It is not just about domestic efficiency—it 
+US are scrambling to catch up, each viewing CBDCs as geopolitical tools. It is not just about domestic efficiency, it 
 is about power projection. The currency that dominates international trade in the digital age will carry influence 
 beyond economics.  
 
 If multiple CBDCs start vying for supremacy, we are not looking at a smooth transition to a globalised future. We 
 are looking at monetary Balkanisation, with capital controls, cyber attacks, and economic nationalism baked into the 
-system. The 21st-century currency wars will not be fought with guns—they will be fought with code, consent, and 
+system. The 21st-century currency wars will not be fought with guns, they will be fought with code, consent, and 
 coercion.  
 
 ---  
 
-Digital currencies are not toys, trends, or tech upgrades. They are instruments of economic change—and, 
+Digital currencies are not toys, trends, or tech upgrades. They are instruments of economic change, and, 
 potentially, control. Cryptocurrencies have already shown us the chaos that emerges when financial systems are 
-unmoored from regulation, law, and reason. CBDCs threaten to bring order to that chaos—but the kind of order you 
+unmoored from regulation, law, and reason. CBDCs threaten to bring order to that chaos, but the kind of order you 
 get in a high-security prison.  
 
 This is about more than money. It is about autonomy, transparency, and the future of civil liberties in a digitised 
 economy. Yes, innovation matters. But not if it leads us down a path where every pound/euro/dollar/currency is tracked, 
 every transaction controlled, and every citizen treated like a node in a machine. Proceed with caution. And maybe keep 
-a few coins in the mattress—just in case the algorithm decides you have misbehaved.  
+a few coins in the mattress, just in case the algorithm decides you have misbehaved.  
 
 ---  
 

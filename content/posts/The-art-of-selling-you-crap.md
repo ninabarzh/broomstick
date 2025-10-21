@@ -25,7 +25,7 @@ A few master-strokes of planned obsolescence:
 
 ### The Environmental Catastrophe No One Wants to Talk About
 
-All this corporate trickery doesn’t just empty your wallet—it fills landfills with mountains of perfectly avoidable waste. But why bother making things repairable when you can just sell the same customer a slightly worse version of last year’s model?
+All this corporate trickery doesn’t just empty your wallet, it fills landfills with mountains of perfectly avoidable waste. But why bother making things repairable when you can just sell the same customer a slightly worse version of last year’s model?
 
 ### How to fight back (If you can be bothered)
 
@@ -35,7 +35,7 @@ All this corporate trickery doesn’t just empty your wallet—it fills landfill
 
 ### The final irony
 
-Even "eco-friendly" innovations aren’t safe. Lead-free solder sounds virtuous, until you realise it grows "tin whiskers"—tiny conductive hairs that deliberately short-circuit your devices over time. Nothing says "sustainability" like engineering failure into the very atoms of your product.
+Even "eco-friendly" innovations aren’t safe. Lead-free solder sounds virtuous, until you realise it grows "tin whiskers", tiny conductive hairs that deliberately short-circuit your devices over time. Nothing says "sustainability" like engineering failure into the very atoms of your product.
 
 ### Happier?
 

@@ -12,7 +12,7 @@ Poverty is that charming social construct we can pretend isn’t entirely our fa
 ### Debunking the Greatest Hits of Poverty Misconceptions
 
 **Myth 1: "Poor people did it to themselves."** 
-Oh yes, because nothing says personal responsibility like being born into a postcode with failing schools, zero job prospects, and a healthcare system that considers paracetamol a luxury. Poverty is absolutely a choice—if your choices are between starvation and indentured servitude.
+Oh yes, because nothing says personal responsibility like being born into a postcode with failing schools, zero job prospects, and a healthcare system that considers paracetamol a luxury. Poverty is absolutely a choice, if your choices are between starvation and indentured servitude.
 
 **Myth 2: "Education is the great equaliser!"** 
 Because obviously, the only thing standing between a malnourished child and a six-figure salary is attendance. Never mind that in 2000, the world could have educated every child for less than 1% of its military budget. But why fund pencils when you can fund Predator drones?
@@ -21,20 +21,20 @@ Because obviously, the only thing standing between a malnourished child and a si
 Tell that to the woman who dies in childbirth because the nearest hospital is a three-day walk away. Or the child whose "asthma" is actually chronic mould poisoning from their council flat. But sure, let’s blame their lifestyle choices.
 
 **Myth 4: "Just get a job!"** 
-The classic. Because job creation has worked so well thus far—unless you count zero-hour contracts, gig economy exploitation, and wages so low they’d make Dickens blush. But yes, by all means, pull yourself up by your bootstraps—assuming you can afford boots.
+The classic. Because job creation has worked so well thus far, unless you count zero-hour contracts, gig economy exploitation, and wages so low they’d make Dickens blush. But yes, by all means, pull yourself up by your bootstraps, assuming you can afford boots.
 
 **Myth 5: "Ending poverty is too expensive."** 
 Funny, we never seem to lack funds for bank bailouts, corporate tax cuts, or weapons to "defend democracy" (read: resource grabs). But universal basic income? Oh no, think of the economy!
 
 ### The stigma special: Blaming the poor for being poor
 
-Nothing unites the comfortable classes like the smug certainty that poverty is a moral failing. Laziness! Bad decisions! A counterproductive attitude! Never mind that most poor people work themselves to the bone—often in unpaid "essential" roles—while the real leeches of society lounge in offshore tax havens.
+Nothing unites the comfortable classes like the smug certainty that poverty is a moral failing. Laziness! Bad decisions! A counterproductive attitude! Never mind that most poor people work themselves to the bone, often in unpaid "essential" roles, while the real leeches of society lounge in offshore tax havens.
 
 But by all means, let’s keep pretending poverty is an individual problem, rather than the inevitable result of a system designed to funnel wealth upwards. Collective action? Perish the thought.
 
 ### The job creation farce
 
-"A strong economy lifts all boats!" they cry, as if we haven’t spent decades watching wages stagnate while CEO pay skyrockets. The truth? Our economy isn’t designed to eliminate poverty—it’s designed to manage it. Poverty keeps the gears grinding: cheap labour, desperate workers, and a permanent underclass to frighten the middle into compliance.
+"A strong economy lifts all boats!" they cry, as if we haven’t spent decades watching wages stagnate while CEO pay skyrockets. The truth? Our economy isn’t designed to eliminate poverty, it’s designed to manage it. Poverty keeps the gears grinding: cheap labour, desperate workers, and a permanent underclass to frighten the middle into compliance.
 
 ### How to actually end poverty (But we won’t)
 
@@ -49,4 +49,4 @@ But of course, we won’t do any of this. Instead, we’ll keep funnelling billi
 
 The same system that creates poverty then sells itself as the solution to poverty. It’s like setting fire to a house and charging for the water to put it out.
 
-But hey—at least the shareholders are happy.
+But hey, at least the shareholders are happy.

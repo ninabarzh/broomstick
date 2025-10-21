@@ -15,7 +15,7 @@ automated paperwork and plausible deniability. Still, not all is rosy. Explainab
 are breathing down necks, and integration often resembles a Frankensteinian patchwork. Innovation, it seems, 
 comes with a compliance hangover.
 
-Beyond finance, AI is now the darling of physical security—spotting odd behaviour, identifying faces in crowds, and 
+Beyond finance, AI is now the darling of physical security, spotting odd behaviour, identifying faces in crowds, and 
 predicting crimes before they happen (or not). German defence start-up Helsing, for example, has plans to release a 
 swarm of underwater drones with “advanced AI” to boost naval surveillance. Because nothing says peace of mind like 
 the quiet hum of a robot lurking in the deep.
@@ -25,8 +25,8 @@ the quiet hum of a robot lurking in the deep.
 ## Convergence of physical and digital monitoring
 
 Surveillance has gone from watching CCTV tapes in a dingy room to something called “visual intelligence,” where 
-AI analyses footage in real-time for anything resembling trouble—or, occasionally, a dog mistaken for a burglar. 
-This AI-augmented vision is increasingly tied into the grand convergence of IT, OT, and security systems—because if 
+AI analyses footage in real-time for anything resembling trouble, or, occasionally, a dog mistaken for a burglar. 
+This AI-augmented vision is increasingly tied into the grand convergence of IT, OT, and security systems, because if 
 you’re going to be vulnerable, you might as well be efficiently vulnerable.
 
 The UK's Royal Navy is piloting Project Cabot, which aims to have uncrewed undersea vehicles communicate with 
@@ -54,7 +54,7 @@ their risk of reoffending. The next phase? A system to predict potential murdere
 
 **Belgium** 
 
-A recent report has dared to suggest that predictive policing might not be entirely ethical—particularly when it 
+A recent report has dared to suggest that predictive policing might not be entirely ethical, particularly when it 
 relies on dodgy databases and sociological guesswork. Brussels, ever the voice of reason, is considering a ban.
 
 **Hungary**
@@ -66,7 +66,7 @@ participants. It’s privacy invasion meets political repression, with a dash of
 
 **Saudi Arabia** 
 
-NEOM, the futuristic $8.8 trillion megacity, promises jetpacks, robot servants, and—of course—total surveillance. 
+NEOM, the futuristic $8.8 trillion megacity, promises jetpacks, robot servants, and, of course, total surveillance. 
 Reports of forced displacements and up to 21,000 worker deaths have somewhat dulled the shine, though the PR 
 brochures remain top notch.
 
@@ -85,7 +85,7 @@ and its export to other regimes makes Orwell look quaint. Exporting digital repr
 
 **India**
 
-India’s surveillance sector is booming. AI tools are deployed with gusto—even as spyware scandals, Supreme Court 
+India’s surveillance sector is booming. AI tools are deployed with gusto, even as spyware scandals, Supreme Court 
 probes, and human rights concerns pile up like unread privacy policies.
 
 ### Africa
@@ -93,7 +93,7 @@ probes, and human rights concerns pile up like unread privacy policies.
 **South Africa**
 
 Gauteng province has partnered with Vumacam to install over 6,000 cameras loaded with AI capabilities like licence 
-plate recognition and behaviour detection. Naturally, there’s no real regulation for this sort of thing—but rest 
+plate recognition and behaviour detection. Naturally, there’s no real regulation for this sort of thing, but rest 
 assured, someone somewhere is watching.
 
 **Uganda**
@@ -106,7 +106,7 @@ social media and stifle dissent. Proof that surveillance tech, once acquired, ra
 **Argentina**
 
 Argentina has launched an AI crime prediction unit, apparently inspired by *Minority Report* and a generous 
-interpretation of due process. It uses historical data to divine future misdeeds—bias included at no extra charge.
+interpretation of due process. It uses historical data to divine future misdeeds, bias included at no extra charge.
 
 **Brazil** 
 
@@ -124,7 +124,7 @@ Creative, certainly. Legal? Not so much.
 ## Privacy vs. security tensions
 
 [Federated learning](https://indigo.tymyrddin.dev/docs/landscape/hybrid.html#federated-learning) and privacy-preserving 
-AI are all the rage in marketing decks. Apple champions on-device processing, which is lovely—until you realise your 
+AI are all the rage in marketing decks. Apple champions on-device processing, which is lovely, until you realise your 
 phone still knows more about you than your best mate. 
 
 The US, meanwhile, warns of AI-enabled disinformation, though it’s unclear if the concern is ethical or competitive.
@@ -134,9 +134,9 @@ owned by the world's largest advertising firm?
 
 ## Global power shifts
 
-Surveillance is no longer just about keeping an eye on things—it’s about who controls the eye. 
+Surveillance is no longer just about keeping an eye on things, it’s about who controls the eye. 
 The battlefield now spans land, sea, space, and that murky zone where your toaster knows more than you do. And the 
-AI arms race shows no sign of slowing down—especially with authoritarian states writing the rulebook as they go.
+AI arms race shows no sign of slowing down, especially with authoritarian states writing the rulebook as they go.
 
 ## Resources
 
