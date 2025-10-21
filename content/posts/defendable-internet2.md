@@ -29,7 +29,7 @@ consequences of design.
 Thomas Dullien (Halvar Flake) [called this out in 2017](https://lnkd.in/eUshywQU) and the 
 question "Why are we not making a defendable internet?" was [revisited in 2022/23](https://www.youtube.com/watch?v=VRmrn1zO2GM).
 
-A "defendable internet" ought to mean one that is resilient and reliable, a place where data is not routinely 
+A "defendable internet" could mean one that is resilient and reliable, a place where data is not routinely 
 stolen, services do not fall over every Tuesday, and personal privacy is not treated as a quaint hobby for paranoiacs. 
 The technologies to build such a thing exist. What is missing is any genuine appetite to use them. The undefendable 
 internet is not the result of ignorance or inability. It is the result of preference.
