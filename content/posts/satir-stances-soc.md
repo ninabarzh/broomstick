@@ -66,7 +66,7 @@ outcome is secondary; the human pattern is the objective.
 Controlled failure is essential. This is mostly about the discomfort of imperfection without organisational damage. 
 
 Satir’s concept of allowing highlights the value of a pause between stimulus and reaction. In a SOC, this pause 
-might be a thirty-second breath before responding to a high-priority alert, or a quick team huddle to clarify roles. 
+might be a thirty-second breath before responding to a high-priority alert, or a quick team stand-up to clarify roles. 
 This allows individuals to notice their stances again and avoid knee-jerk reactions.
 
 After each simulated incident, hold a reflection session. Ask participants to name one emotional response they 
