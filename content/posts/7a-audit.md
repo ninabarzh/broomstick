@@ -1,7 +1,7 @@
 ---
 title: "The audit as x-ray"
-subtitle: "ISO 27001 meets Weizman’s forensic poetics, Satir’s radical empathy, and the covert cartography of Trevor Paglen."
-description: "ISO 27001 meets Weizman’s forensic poetics, Satir’s radical empathy, and the covert cartography of Trevor Paglen."
+subtitle: "Security audits meets Weizman’s forensic poetics, Satir’s radical empathy, and the covert cartography of Trevor Paglen."
+description: "Security audits meets Weizman’s forensic poetics, Satir’s radical empathy, and the covert cartography of Trevor Paglen."
 date: 2025-10-20T14:00:00+02:00
 tags:
   - security audit
@@ -10,7 +10,6 @@ tags:
   - Eyal Weizman
   - Trevor Paglen
   - ethics
-  - ISO 27001
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: "The relational firewall"
 subtitle: "Protecting systems by protecting the humans inside them."
 description: "Code can fail, alerts can flood, but a team that understands its own dynamics can contain chaos before it spreads. Satir’s insights make it tangible."
-date: 2025-10-20T14:00:00+02:00
+date: 2025-10-21T02:00:00+02:00
 tags:
   - muscle memory
   - Virginia Satir

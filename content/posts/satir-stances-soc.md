@@ -2,7 +2,7 @@
 title: "Muscle memory for incident stress"
 subtitle: "Resilience under pressure."
 description: "Resilience under pressure."
-date: 2025-10-21T14:00:00+02:00
+date: 2025-10-21T00:00:00+02:00
 tags:
   - SOC
   - muscle memory
