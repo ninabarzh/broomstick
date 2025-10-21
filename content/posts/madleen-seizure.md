@@ -63,7 +63,7 @@ first chapter" in a longer struggle.
 This was no ordinary protest voyage. The *Madleen* represented the latest attempt to challenge Israel’s 17-year 
 blockade of Gaza, a policy that has turned the strip into what the UN calls a "humanitarian hellscape". With one 
 in five Gazans now facing famine, the activists’ cargo, modest as it was, symbolised something radical: the idea that 
-people should not starve under collective punishment.
+people are not to starve under collective punishment.
 
 ## A flicker of hope?  
 

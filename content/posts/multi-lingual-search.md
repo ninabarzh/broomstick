@@ -101,7 +101,7 @@ excludeFromSearch: true
 
 ## 3. Required JavaScript files
 
-All the JavaScript should be local. Place these in your `assets/js/` or `static/js/` folder as needed. Source: https://github.com/olivernn/lunr.js
+All the JavaScript can be local. Place these in your `assets/js/` or `static/js/` folder as needed. Source: https://github.com/olivernn/lunr.js
 
 ### `static/js/lunr.js`
 

@@ -213,7 +213,7 @@ These rulers stand as living testaments to what it means to **outstay one’s ma
 
 Their rule demonstrates the risks of **sacrificing circulation for stability**, **succession for stasis**, and **pluralism for parochialism**.
 
-Perhaps humanity’s greatest lesson from these Kings is not the brilliance of their strategy, but the fragility of any power that fears the next step, and so never takes it. These rulers don’t just freeze themselves, they freeze systems that should breathe. They show us that freezing power is a strategy of fear and control, but it is not immunity.
+Perhaps humanity’s greatest lesson from these Kings is not the brilliance of their strategy, but the fragility of any power that fears the next step, and so never takes it. These rulers don’t just freeze themselves, they freeze systems that could breathe. They show us that freezing power is a strategy of fear and control, but it is not immunity.
 
 The wheel of history turns, sometimes violently, sometimes slowly, but it never stops. Systems that cease to evolve become tombs, and tombs, sooner or later, crack. The era of Frozen Kings is not over, but cracks are already forming in several regimes. Some prepare for succession; others face collapse or change.
 

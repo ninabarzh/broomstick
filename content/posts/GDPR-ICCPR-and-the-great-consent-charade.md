@@ -34,7 +34,7 @@ The trouble is, Europe’s current constitutions are about as helpful as a fax m
 
 ## Introducing: Six New Fundamental Rights
 
-So, what if we rewrote the script? No more tinkering around the edges. Let’s have a proper constitutional reboot. Here’s what the Charter of Fundamental Rights should say in 2025:
+So, what if we rewrote the script? No more tinkering around the edges. Let’s have a proper constitutional reboot. Here’s what the Charter of Fundamental Rights could say in 2025:
 
 ### Article 1 – Environment
 
@@ -42,7 +42,7 @@ Everyone has the right to live in an environment that is healthy, protected, and
 
 ### Article 2 – Digital Self-Determination
 
-Everyone has the right to control their digital identity. No more profiling, no more manipulation. Ads that follow you around the internet should be classified as stalking.
+Everyone has the right to control their digital identity. No more profiling, no more manipulation. Ads that follow you around the internet could be classified as stalking.
 
 ### Article 3 – Artificial Intelligence
 
@@ -50,7 +50,7 @@ Everyone has the right to know what algorithms are doing to them. They could be 
 
 ### Article 4 – Truth
 
-Everyone has the right to expect that people in power occasionally tell the truth. Lies should come with a health warning, like cigarettes.
+Everyone has the right to expect that people in power occasionally tell the truth. Lies could come with a health warning, like cigarettes.
 
 ### Article 5 – Globalisation
 
@@ -58,7 +58,7 @@ Everyone has the right to buy things that weren’t made in violation of basic d
 
 ### Article 6 – Fundamental Rights Lawsuits
 
-Everyone has the right to sue the trousers off institutions that systematically trample their rights. The European Courts should be open for business, and not just to lobbyists.
+Everyone has the right to sue the trousers off institutions that systematically trample their rights. The European Courts could be open for business, and not just to lobbyists.
 
 ***
 

@@ -44,7 +44,7 @@ Yet, like an ageing actor still trotted out for nostalgia's sake, this framework
 The modern political arena is a mess of contradictions that refuse to stay neatly in their boxes. Take populism, for instance. Both left-wing figures like Bernie Sanders and right-wing demagogues like Donald Trump rail against elites, yet their economic policies could hardly be more different. Similarly, environmentalism is often lazily labelled as left-wing, despite conservative conservationists like Theodore Roosevelt having championed it over a century ago. And then there's libertarianism, which cheerfully mixes left-wing social freedoms with right-wing economic deregulation, leaving the traditional spectrum looking rather flustered.  
 
 ### Globalisation and new cleavages  
-The old left-right model was built for an industrial age, where the great battle was between workers and capitalists. Today, politics is shaped by entirely different forces. Cultural identity, immigration, race, gender, now dominates debates. Technology introduces new dilemmas: who owns data? How should artificial intelligence be governed? And then there's climate change, an issue that cuts across traditional divides, uniting some conservatives and progressives in alarm while leaving others in mutual denial.  
+The old left-right model was built for an industrial age, where the great battle was between workers and capitalists. Today, politics is shaped by entirely different forces. Cultural identity, immigration, race, gender, now dominates debates. Technology introduces new dilemmas: who owns data? How can artificial intelligence be governed? And then there's climate change, an issue that cuts across traditional divides, uniting some conservatives and progressives in alarm while leaving others in mutual denial.  
 
 ### The rise of anti-establishment politics  
 Increasingly, voters are rejecting both left and right establishment parties, opting instead for movements that defy easy classification. Trump's promise to "drain the swamp" and Jeremy Corbyn's socialist critique of New Labour both thrived on anti-elite sentiment, despite occupying opposite ends of the traditional spectrum. Meanwhile, a growing number of voters seem to care less about ideology and more about pragmatism, what works, rather than what fits the dogma.  
@@ -83,7 +83,7 @@ Deepfakes now swing elections from India to Iowa, yet regulators are still polis
 ---
 
 ### Arguing over deckchair aesthetics while the iceberg looms   
-Europe's Green Deal should unify all, yet it fractures along left-right pantomime lines: the right champions nuclear (France's Macron), the left demands only renewables (Germany's Greens), and both dismiss the Romanian coal miner who needs retraining *today*. Farmers blockade Paris over diesel subsidies, while Greek olive growers parch, rural-urban disparities deepen into chasms (20% in a decade). Climate refugees? A "future problem" for the right; "colonial fallout" for the left. Neither funds Mediterranean rescue fleets.  
+Europe's Green Deal could unify all, yet it fractures along left-right pantomime lines: the right champions nuclear (France's Macron), the left demands only renewables (Germany's Greens), and both dismiss the Romanian coal miner who needs retraining *today*. Farmers blockade Paris over diesel subsidies, while Greek olive growers parch, rural-urban disparities deepen into chasms (20% in a decade). Climate refugees? A "future problem" for the right; "colonial fallout" for the left. Neither funds Mediterranean rescue fleets.  
 
 *Why the dichotomy fails*: The debate fixates on *energy sources* (left: wind/solar; right: nuclear/oil) not *energy justice*. Portugal's "just transition" fund, retraining fossil fuel workers *before* plants close, shames Europe's dithering.  
 
@@ -139,7 +139,7 @@ The task isn't left or right, but to build systems resilient to both. After all,
 ## Conclusion  
 
 The left-right spectrum was a useful, if crude, 19th-century heuristic. But 21st-century politics is too complex for 
-such binary thinking. Instead of forcing ideologies into outdated boxes, we should focus on policy-specific 
+such binary thinking. Instead of forcing ideologies into outdated boxes, we could focus on policy-specific 
 solutions, universal basic income, AI governance, green energy, that cut across traditional divides. We need 
 coalitions that bring together left-libertarians and right-wing environmentalists, tech-savvy conservatives and 
 data-privacy progressives. Perhaps a solution is to reject polarisation in favour of something increasingly radical: 

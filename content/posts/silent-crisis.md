@@ -71,7 +71,7 @@ The solution is not to dismantle institutions, but to rewire them for visibility
 
 That means ending decision-by-stealth. Publish draft legislation, trade deals, and policy directives early, debate openly, and translate into accessible language. Citizens cannot engage with what they don’t see.
 
-It means restoring parliamentary relevance. National assemblies should stop rubber-stamping EU directives and start shaping their input upstream. At the EU level, the European Parliament needs more than symbolic power, especially over the Commission’s agenda.
+It means restoring parliamentary relevance. National assemblies could stop rubber-stamping EU directives and start shaping their input upstream. At the EU level, the European Parliament needs more than symbolic power, especially over the Commission’s agenda.
 
 It means taming the shadow state of consultants, advisory councils, and PPPs. PPPs stands for Public-Private Partnerships, a charming euphemism for what happens when governments decide they can't (or won't) deliver certain public services or infrastructure projects on their own, and instead team up with private companies. These actors must be subject to the same transparency, audit, and conflict-of-interest standards as formal institutions.
 

@@ -1,6 +1,6 @@
 ---
 title: 'Cloud-on-prem vs Big Tech'
-subtitle: "Or: Why Your Data Shouldn’t Fund Silicon Valley’s Technofeudal Empire"
+subtitle: "Or: Do not fund Silicon Valley’s technofeudal empire"
 date: 2025-06-05T05:00:00.000Z
 draft: false
 tags: 

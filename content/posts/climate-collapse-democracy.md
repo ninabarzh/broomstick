@@ -169,7 +169,7 @@ The CSDDD entered into force on 25 July 2024. EU Member States have until 26 Jul
 
 ### Partner to fight climate injustice
 
-Establish enduring partnerships with activists and grassroots organisations from the [Arctic](#arctic-focused-partnerships) and [Global South](#global-south-grassroots-and-activist-networks), whose communities face the harshest climate impacts while having contributed minimally to the problem. These partnerships should focus on elevating their voices and lived experiences within European policy debates and public awareness campaigns.
+Establish enduring partnerships with activists and grassroots organisations from the [Arctic](#arctic-focused-partnerships) and [Global South](#global-south-grassroots-and-activist-networks), whose communities face the harshest climate impacts while having contributed minimally to the problem. These partnerships could focus on elevating their voices and lived experiences within European policy debates and public awareness campaigns.
 
 By working together, we can clearly demonstrate the direct connections between European consumption patterns, such as reliance on fossil fuels, imports linked to deforestation, and excessive resource use, and the worsening climate crises in these vulnerable regions. This collaboration helps dismantle the misconception that climate change is a distant issue, highlighting its immediate and tangible effects on Indigenous peoples, coastal communities, and fragile ecosystems thousands of miles away.
 

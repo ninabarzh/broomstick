@@ -114,7 +114,7 @@ avoiding the question of abolition.
 
 The mainstream media, predictably, obfuscates. Headlines speak of “border crises” and “migrant surges,” never quite 
 managing to mention that these so-called surges are composed of people fleeing war, poverty, and US-sponsored 
-destabilisation. Instead of asking how many people should be helped, the press asks how many can be “processed”, a 
+destabilisation. Instead of asking how many people could be helped, the press asks how many can be “processed”, a 
 term better suited to meatpacking than human rights.
 
 ---

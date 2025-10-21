@@ -37,7 +37,7 @@ The Neo-Luddites met in an old data centre on the edge of town. They called it *
 
 Elena blinked. “You are toppling civilisation… through fashion?”
 
-“It is called asymmetrical warfare,” Margot sniffed. “Besides, you should see what we have planned for the recommendation engine at the Ministry of Truth.”
+“It is called asymmetrical warfare,” Margot sniffed. “Besides, you could see what we have planned for the recommendation engine at the Ministry of Truth.”
 
 The Farm lasted four weeks.
 

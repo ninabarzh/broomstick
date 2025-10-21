@@ -17,7 +17,7 @@ This is not just about electronic health records anymore. We are talking about a
 fitness trackers monitoring vital signs, home blood pressure monitors uploading results, hospital machines feeding 
 diagnostics into central systems. These IoT sources can all speak the same digital language. To that end, Europe is 
 pushing for mandatory use of standards such as HL7 FHIR (a widely-used healthcare data standard) and GAIA-X frameworks 
-that define how data should be shared across providers, countries, and systems.
+that define how data could be shared across providers, countries, and systems.
 
 Security and privacy are central to this vision. Data is encrypted from the point of capture to the point of access. 
 Healthcare providers and patients gain access via Digital Identity Wallets, part of the EU Digital Identity Framework 

@@ -55,7 +55,7 @@ The **UK’s aid budget dropped to 0.3% of GNI**, while defence spending soared 
 
 Even as Europe retools for war, its **diplomatic services are starved of funds**. A **€40 million annual shortfall** means fewer peacemakers, more fire-brigading.
 
-In theory, beefing up defence should make a region more secure. In practice, however, slashing diplomacy and aid to fund tanks and drones is the geopolitical equivalent of locking your door while your house burns down.
+In theory, beefing up defence could make a region more secure. In practice, however, slashing diplomacy and aid to fund tanks and drones is the geopolitical equivalent of locking your door while your house burns down.
 
 Without development support, regions like the Sahel become powder kegs. Extremist groups flourish, coups proliferate, and European embassies scramble to evacuate. Guess who gets to pay for the military interventions that follow? Spoiler: it’s not the countries who cut aid.
 

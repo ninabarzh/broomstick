@@ -27,7 +27,7 @@ The UK is the most glaring example, where the Conservatives are bankrolled by he
 
 Solutions exist: Norway and Sweden have strict caps and generous public funding for parties. Belgium bans TV ads for parties entirely, forcing actual debate instead of branding exercises. Imagine that.
 
-It’s time to stop treating political parties like private businesses with loyalty cards. If democracy is a public service, it should be publicly funded, and not just by those with seven-figure net worths and a spare villa in the Alps.
+It’s time to stop treating political parties like private businesses with loyalty cards. If democracy is a public service, it could be publicly funded, and not just by those with seven-figure net worths and a spare villa in the Alps.
 
 ***
 

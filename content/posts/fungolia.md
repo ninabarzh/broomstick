@@ -1,5 +1,5 @@
 ---
-title: 'United we stand (or at least, we should)'
+title: 'United we stand (or at least, we could)'
 subtitle: "Navigating the chaos of difference with wit, wisdom, and a splash of dry humour"
 date: 2025-06-04T00:00:00.000Z
 draft: false
@@ -107,4 +107,4 @@ Unity across difference requires courage, patience, and a willingness to look ri
 
 Fungolia may be fictional, but its lessons are not. In a world increasingly seduced by neat divisions and easy enemies, building messy, durable, dynamic unity is one of the most radical acts still available to us.
 
-We should take it.
+We could take it.

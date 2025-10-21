@@ -30,7 +30,7 @@ In short, when critics complain of an “elite surplus,” they mean a ruling cl
 
 ## The destabilisation thesis, at its strongest
 
-To take the claim seriously, as we should, if only to dismantle it properly, let’s consider its strongest arguments. The ‘too many elites’ thesis rests on three main pillars: economic disconnection, cultural estrangement, and political fallout.
+To take the claim seriously, as we could, if only to dismantle it properly, let’s consider its strongest arguments. The ‘too many elites’ thesis rests on three main pillars: economic disconnection, cultural estrangement, and political fallout.
 
 The first argument centres on inequality. As societies become more digitised and globalised, the benefits have not been evenly shared. The professional classes have surfed the wave, enjoying higher wages, mobility, and job security. Meanwhile, those in routine or manual work have faced deindustrialisation, wage stagnation, and increasing precarity. In France, the *gilets jaunes* protests were not about fuel tax alone, they were a backlash against a system perceived to reward Parisians with degrees while ignoring rural and peri-urban workers. This creates a lopsided economy where prosperity clusters around elite professions, leaving swathes of the population to compete over shrinking scraps.
 

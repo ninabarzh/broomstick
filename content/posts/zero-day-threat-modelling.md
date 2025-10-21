@@ -96,7 +96,7 @@ You may not know the exact shape of the next zero‑day, but you can watch for i
 
 ### Secure development lifecycle integration
 
-Threat modelling for zero‑days should not be bolted on at the end. At the design stage, architect systems with resistance to unknown flaws in mind. In development, stick to secure coding practices and use static analysis. In testing, add fuzzing and dynamic analysis to catch the things you did not expect. At deployment, layer in runtime protections that will not wait for a patch before acting.
+Threat modelling for zero‑days is not to be bolted on at the end. At the design stage, architect systems with resistance to unknown flaws in mind. In development, stick to secure coding practices and use static analysis. In testing, add fuzzing and dynamic analysis to catch the things you did not expect. At deployment, layer in runtime protections that will not wait for a patch before acting.
 
 ### Zero trust principles
 

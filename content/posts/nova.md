@@ -159,7 +159,7 @@ If lawsuits start piling up, private mucho-money-making healthcare providers may
 
 While waiting for snailmail, a few defensive manoeuvres are wise:
 
-* Stay alert for scams: Phishing emails, texts, or calls that refer to your medical results or citizen service number (BSN) should be treated with extreme suspicion.
+* Stay alert for scams: Treat phishing emails, texts, or calls that refer to your medical results or citizen service number (BSN) with extreme suspicion.
 * Check your financial life: Keep an eye on bank accounts, credit alerts, or any unusual requests tied to your BSN.
 * Verify before you trust: If someone contacts you claiming to be from a health service, pause and confirm through official channels before handing over anything.
 * Ask if you are unsure: If you never receive a letter but are losing sleep over it, call BDO NL or speak with authorities to get clarity on your status.

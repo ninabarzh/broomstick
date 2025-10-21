@@ -70,7 +70,7 @@ music, and rewards, to eliminate [hackable inertia]({{< relref "tags/hackable-in
 
 - Critical Task: Ensure backups are both immutable and restorable.  
 - Entertainment value:  
-  - Should backups prove unreliable, the team lead can recount a personal tale of professional disgrace (e.g., *"There was an incident involving a production database and an ill-advised ‘DROP TABLE’ command…"*).  
+  - In case backups prove unreliable, the team lead can recount a personal tale of professional disgrace (e.g., *"There was an incident involving a production database and an ill-advised ‘DROP TABLE’ command…"*).  
 
 ---
 

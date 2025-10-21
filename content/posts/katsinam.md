@@ -61,7 +61,7 @@ For Northern societies, used to highly institutionalised, often transactional fo
 
 ## Blue Star and Red Star Kachinas – Prophets of turning points
 
-Among the most widely discussed Hopi prophecies is the appearance of the **Blue Star Kachina**, a celestial spirit whose arrival signals the time of purification. This is not a threat, but a warning: if humanity continues to live out of balance with the Earth and one another, a great upheaval will follow. The **Red Star Kachina** is said to bring destruction, should we fail to respond to the warning.
+Among the most widely discussed Hopi prophecies is the appearance of the **Blue Star Kachina**, a celestial spirit whose arrival signals the time of purification. This is not a threat, but a warning: if humanity continues to live out of balance with the Earth and one another, a great upheaval will follow. The **Red Star Kachina** is said to bring destruction, in case we fail to respond to the warning.
 
 The Blue Star has often been interpreted metaphorically: as a spiritual awakening, a new era, or even an astronomical event. But its deeper message is consistent, we are at a crossroads. Unity is not optional; it is essential. The split between North and South, if left unreconciled, will lead to further fragmentation and collapse.
 

@@ -22,7 +22,7 @@ Tech moguls are still pouring millions into "life extension" startups. This whil
 3. Time acceleration syndrome
    Notice how March lasted approximately 17 years, but June passed in a blink? Now imagine that effect compounded over centuries. Entire decades would disappear into the void of "Wait, didn't I already watch this show?"
 4. The wealth gap becomes a wealth canyon
-   As we speak, billionaires are adding millions to their net worth while the rest of us debate whether unemployment benefits should cover avocado toast. Now make that wealth gap permanent. Jeff Bezos' 200th birthday party would be on Mars while you're still trying to pay off your student loans.
+   As we speak, billionaires are adding millions to their net worth while the rest of us debate whether unemployment benefits could cover avocado toast. Now make that wealth gap permanent. Jeff Bezos' 200th birthday party would be on Mars while you're still trying to pay off your student loans.
 5. The Meaning of Life becomes "Nothing, Really"
    Remember when baking banana bread gave your life purpose? Now imagine doing that for eternity. You'd eventually start wars just to feel something. Anything.
 6. Career becomes a life sentence

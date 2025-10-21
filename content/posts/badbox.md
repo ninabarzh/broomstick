@@ -26,7 +26,7 @@ These compromised devices are used for fraud, stolen data collection, installing
 
 ---
 
-## Why should survivors and advocates care?
+## Why could survivors and advocates care?
 
 For services working with survivors of [intimate partner abuse (IPA)](https://blue.tymyrddin.dev/docs/ipa/)), this 
 isn’t abstract tech horror, it’s a real-world threat. Off‑brand devices donated to shelters, community centres, or 

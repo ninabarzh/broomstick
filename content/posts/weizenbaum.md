@@ -81,7 +81,7 @@ The tech–military relationship is tighter than ever. AI‑powered targeting, a
 
 **Then:**
 
-Weizenbaum catalogued three common excuses for working on harmful technology. First: “If I don’t do it, someone else will”, a blanket moral waiver. Second: “Technology is neutral”, the comforting fantasy that tools have no inherent tendency toward certain uses. Third: “Spin‑off benefits”, justifying weapons work by the consumer products it might accidentally produce. He called these out as false in the real world, where military applications are predictable given the political and economic system. His analogy: asking doctors to develop bioweapons because they might yield new medicines. Most would refuse, and engineers should too.
+Weizenbaum catalogued three common excuses for working on harmful technology. First: “If I don’t do it, someone else will”, a blanket moral waiver. Second: “Technology is neutral”, the comforting fantasy that tools have no inherent tendency toward certain uses. Third: “Spin‑off benefits”, justifying weapons work by the consumer products it might accidentally produce. He called these out as false in the real world, where military applications are predictable given the political and economic system. His analogy: asking doctors to develop bioweapons because they might yield new medicines. Most would refuse, and engineers could too.
 
 **Now:**
 

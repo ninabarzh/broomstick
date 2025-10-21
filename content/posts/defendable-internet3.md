@@ -27,13 +27,13 @@ First, acknowledge the unpleasant truth: there is no quick fix. Security is not 
 
 Historically, we have treated digital infrastructure as ephemeral. IoT devices with permanent vulnerabilities, legacy protocols held together with hope and glue, software libraries maintained by single volunteers with full-time jobs, these are the hallmarks of our civilisation.
 
-To create a defendable internet, we need hardware and software that are patchable, auditable, and resilient. Systems should survive decades, not quarters. Open standards should be the norm, not a marketing slogan. The digital foundations we lay today are to be capable of standing the test of time, and relentless curiosity from people who like poking at things that are not theirs.
+To create a defendable internet, we need hardware and software that are patchable, auditable, and resilient. Systems could survive decades, not quarters. Open standards could be the norm, not a marketing slogan. The digital foundations we lay today are to be capable of standing the test of time, and relentless curiosity from people who like poking at things that are not theirs.
 
 ## Fixing incentives
 
 The internet is a tragedy of incentives. Vendors profit from shipping first, not shipping safely. Users click “accept all” because reading terms and conditions is a form of medieval torture. Governments fund offensive cyber capabilities while hoping resilience will magically appear as a side effect.
 
-Restructuring incentives is essential. Companies should face meaningful consequences for shipping insecure products. Open-source projects that underpin critical systems deserve sustainable funding, not burnout-driven heroics. And security should be a selling point, not an afterthought buried in legalese.
+Restructuring incentives is essential. Companies could face meaningful consequences for shipping insecure products. Open-source projects that underpin critical systems deserve sustainable funding, not burnout-driven heroics. And security could be a selling point, not an afterthought buried in legalese.
 
 ## Regulation, but intelligently
 
