@@ -48,7 +48,7 @@ But sure - let's focus on €5 vapes. That'll solve everything.
 
 ## A guide for the perplexed European vaper  
 
-For adults using vaping to quit smoking, navigating EU regulations requires the patience of a saint and the persistence of a telemarketer. Legal vapes can't exceed 20mg/ml nicotine - enough to take the edge off, not enough to make you start writing manifestos. Packaging must be child-resistant, because nothing says "mature adult choice" like needing pliers to open your nicotine fix.  
+For adults using vaping to quit smoking, navigating EU regulations requires the patience of a saint and the persistence of a telemarketer. Legal vapes can't exceed 20mg/ml nicotine - enough to take the edge off, not enough to make you start writing manifestos. Packaging is to be child-resistant, because nothing says "mature adult choice" like needing pliers to open your nicotine fix.  
 
 Environmental concerns? Disposable vapes are the plastic straws of nicotine delivery - millions discarded annually by people who'll then lecture you about recycling. France and Germany lead recycling efforts, because if there's one thing Europe loves more than bureaucracy, it's green bureaucracy.  
 

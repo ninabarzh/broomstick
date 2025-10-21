@@ -121,7 +121,7 @@ appears far messier than the tidy textbook versions suggest.
 
 ## Key evolutionary drivers in religious development
 
-If biology has moved beyond neo-Darwinism, so too must the study of religion. Traditional models that imagine 
+If biology has moved beyond neo-Darwinism, so too can the study of religion. Traditional models that imagine 
 religious change as gradual cultural selection fall apart when faced with real history, which is full of sudden 
 upheavals, ideological mutations, and theological black swans.
 
@@ -175,7 +175,7 @@ Religious history, much like biological evolution, refuses to follow a clean, ra
 improvisational, paradoxical, and occasionally absurd. But that doesn’t mean it’s meaningless.
 
 The old binaries, faith vs reason, science vs spirit, are fraying. We are entering an era where religious development 
-must be understood as a complex system: shaped by environment, cognition, culture, and, yes, something that still 
+can be understood as a complex system: shaped by environment, cognition, culture, and, yes, something that still 
 smells faintly of mystery.
 
 As AI crafts its own gospels and neuroscience pokes at enlightenment, perhaps the real lesson is this: the human 

@@ -46,7 +46,7 @@ Everyone has the right to control their digital identity. No more profiling, no 
 
 ### Article 3 – Artificial Intelligence
 
-Everyone has the right to know what algorithms are doing to them. They should be transparent, accountable, and not treated like sorcery. Big decisions must involve a human being, preferably one who isn’t asleep at the wheel.
+Everyone has the right to know what algorithms are doing to them. They could be transparent, accountable, and not treated like sorcery. Big decisions best involve a human being, preferably one who isn’t asleep at the wheel.
 
 ### Article 4 – Truth
 

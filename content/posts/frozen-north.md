@@ -152,7 +152,7 @@ The King's lessons here seem to be:
 
 * That power can persist not because of success, but because all alternatives have been worn down into exhaustion. Assad’s rule endured not through effective governance, but through the relentless depletion of opposition and hope.
 * That victory over opposition can still produce a defeated state. His Syria was a victory of absence.
-* That trauma without justice is a new tyranny. To move on, victims must be seen, not silenced.
+* That trauma without justice is a new tyranny. To move on, see victims, not silence them.
 * That even the most brutal regimes can fall when opposition unites and external support shifts.
 * That prolonged conflict breeds more exhaustion, this time creating openings for regime change.
 * That power sustained by violence can be inherently unstable once the tipping point is reached.

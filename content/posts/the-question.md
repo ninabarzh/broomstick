@@ -60,13 +60,13 @@ He argued that not every solvable problem should be solved by a machine, and tha
 
 ## Shifting the professional mindset
 
-If we want more professionals to start with “what is needed,” we must redesign the environment in which they work. A lone engineer pausing to ask an uncomfortable question will always be overruled by deadlines, deliverables, and the ever-present hum of competition. The incentives have to change.
+If we want more professionals to start with “what is needed,” we better redesign the environment in which they work. A lone engineer pausing to ask an uncomfortable question will always be overruled by deadlines, deliverables, and the ever-present hum of competition. The incentives have to change.
 
 That starts by putting ethicists and domain experts into design teams from day one, not as an afterthought. Their role is not to veto ideas but to make sure the problem is understood in its social, legal, and human context before a single prototype is built.
 
 It also means recognising problem-framing as a professional skill, worthy of the same respect and reward as problem-solving. The ability to articulate *why* a project exists, whose needs it serves, and what its unintended consequences might be is just as valuable as the ability to make the code compile or the hardware run.
 
-And it requires introducing formal checkpoints where teams must define the problem clearly before funding or green-lighting the work. These are not bureaucratic hurdles; they are the moments when the question “Is this the right problem to solve?” has to be answered in daylight, not buried under the glow of the build pipeline.
+And it requires introducing formal checkpoints where teams define the problem clearly before funding or green-lighting the work. These are not bureaucratic hurdles; they are the moments when the question “Is this the right problem to solve?” has to be answered in daylight, not buried under the glow of the build pipeline.
 
 This is not about slowing innovation for the sake of it. It is about ensuring that the speed we prize so highly is aimed in a direction that benefits more than the people holding the patents. Because if we cannot even slow down long enough to ask what is worth building, we are not innovators at all, we are just very efficient lemmings.
 

@@ -75,7 +75,7 @@ For now, Tehran seems content with missile strikes rather than economic suicide,
 
 ### Alliances shift: The diplomatic equivalent of musical chairs
 
-The US finds itself in the awkward position of having to support Israel while pretending it wasn’t consulted about the strikes – a diplomatic tightrope walk made more precarious by an election looming like an awkward family gathering. President Trump must balance backing Netanyahu against avoiding petrol price spikes that could make voters as cheerful as a British summer.
+The US finds itself in the awkward position of having to support Israel while pretending it wasn’t consulted about the strikes – a diplomatic tightrope walk made more precarious by an election looming like an awkward family gathering. President Trump could balance backing Netanyahu against avoiding petrol price spikes that could make voters as cheerful as a British summer.
 
 Meanwhile, Russia and China are exploiting the situation with the subtlety of a sledgehammer at a tea party. Moscow reaffirms support for Tehran while Beijing carefully calculates how much chaos benefits its position. Gulf states publicly condemn Israel while continuing intelligence sharing – the international relations equivalent of complaining about your neighbour while still borrowing their lawnmower.
 

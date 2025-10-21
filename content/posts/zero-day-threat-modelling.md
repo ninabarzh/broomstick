@@ -21,7 +21,7 @@ Threat modelling for zero-day vulnerabilities is a peculiar exercise in preparin
 
 A zero-day vulnerability is a flaw in software that the vendor does not yet know about and, consequently, has not patched. It might lurk in your operating system, your applications, your firmware, or the cloud services you have so enthusiastically embraced.
 
-Traditional threat modelling often leans heavily on known‑vulnerability databases and predictable attack patterns. Unfortunately, zero‑days are absent from these lists by definition. Modelling them requires a shift from reactive to proactive thinking: rather than plotting where you know the enemy might come from, you must look for the paths you have not yet mapped.
+Traditional threat modelling often leans heavily on known‑vulnerability databases and predictable attack patterns. Unfortunately, zero‑days are absent from these lists by definition. Modelling them requires a shift from reactive to proactive thinking: rather than plotting where you know the enemy might come from, look for the paths you have not yet mapped.
 
 ## Key methodologies for zero-day threat modelling
 

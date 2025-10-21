@@ -15,7 +15,7 @@ the General Data Protection Regulation (GDPR).
 
 This is not just about electronic health records anymore. We are talking about a growing web of interconnected devices: 
 fitness trackers monitoring vital signs, home blood pressure monitors uploading results, hospital machines feeding 
-diagnostics into central systems. These IoT sources must all speak the same digital language. To that end, Europe is 
+diagnostics into central systems. These IoT sources can all speak the same digital language. To that end, Europe is 
 pushing for mandatory use of standards such as HL7 FHIR (a widely-used healthcare data standard) and GAIA-X frameworks 
 that define how data should be shared across providers, countries, and systems.
 
@@ -38,7 +38,7 @@ It is an elegant vision. But reality is rather more complicated.
 Although the vision is to build one unified European health data space, the current reality is that each country, and often each hospital or clinic, uses its own systems, formats, and protocols. This creates significant barriers to interoperability. For example, a hospital in the Netherlands may use one format to store electronic health records, while a hospital in Italy uses something entirely different, making it difficult or impossible for devices and systems to communicate. As a result, crucial medical data gets stuck in silos, unavailable when it is needed most.
 
 ### GDPR compliance gymnastics
-The GDPR, while essential for protecting personal privacy, creates a complex legal landscape for health-related IoT systems. These devices often collect much more data than they actually need, such as GPS location, activity patterns, or even ambient noise, which violates the GDPR's principle of data minimisation. And when data crosses national borders, organisations must carry out Data Protection Impact Assessments (DPIAs) to prove they are handling data properly, which adds layers of paperwork and legal uncertainty. In short, the technology is moving faster than the regulation can adapt.
+The GDPR, while essential for protecting personal privacy, creates a complex legal landscape for health-related IoT systems. These devices often collect much more data than they actually need, such as GPS location, activity patterns, or even ambient noise, which violates the GDPR's principle of data minimisation. And when data crosses national borders, organisations can carry out Data Protection Impact Assessments (DPIAs) to prove they are handling data properly, which adds layers of paperwork and legal uncertainty. In short, the technology is moving faster than the regulation can adapt.
 
 ### Cybersecurity Swiss cheese
 Many of the IoT devices currently used in healthcare were never designed with security in mind. They often come with default passwords that are rarely changed, run on outdated operating systems, or lack proper encryption. These vulnerabilities make them easy targets for hackers. While the Cyber Resilience Act aims to fix this by requiring certain security standards, implementation varies wildly between member states. Some take it seriously; others treat it like a box-ticking exercise. The result is a patchwork of protection across Europe.
@@ -166,11 +166,11 @@ High-impact, currently missing (or seemingly barely explored) projects that coul
 ## TL;DR
 
 The EuroStack vision for healthcare IoT is bold, sophisticated, and deeply needed. But for now, it remains a sketch 
-rather than a working system. If it is to move from ideal to reality, Europe must get serious about standardisation, 
+rather than a working system. If it is to move from ideal to reality, Europe can get serious about standardisation, 
 invest heavily in both technical infrastructure and public understanding, and create real incentives for healthcare 
 providers and developers to adopt new systems. 
 
-Above all, it must never lose sight of the patient, not just as a data point, but as a person with rights, needs, and real-life emergencies. Otherwise, we risk building a digital fortress so secure and so "compliant" that even the doctors cannot get in.
+Above all, it can never lose sight of the patient, not just as a data point, but as a person with rights, needs, and real-life emergencies. Otherwise, we risk building a digital fortress so secure and so "compliant" that even the doctors cannot get in.
 
 Europe has already built, or is building, many of the infrastructure blocks suggested. What is still missing are 
 packaged developer tools, device-level SDKs, and user-centric consent systems. Plenty of room to contribute, and fast.

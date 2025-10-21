@@ -22,7 +22,7 @@ Cue the press statement: “Statement on refugee registration and data collectio
 
 In the wake of the revelation, the internet explodes. Articles bloom like mould. Think pieces. Expert panels. Hastily convened webinars. LinkedIn posts from data scientists wringing their hands while simultaneously polishing their CVs.
 
-The collective mood? "We must do better. We need ethical frameworks. We need responsible AI. We need transparent systems for consent."
+The collective mood? "We can do better. We need ethical frameworks. We need responsible AI. We need transparent systems for consent."
 
 A charming effort, really. Everyone rushing to solve the symptoms, to redesign the Band-Aid, while the gaping wound festers quietly in the corner.
 

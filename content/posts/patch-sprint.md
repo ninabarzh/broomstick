@@ -58,19 +58,19 @@ music, and rewards, to eliminate [hackable inertia]({{< relref "tags/hackable-in
   - Bonus points awarded for:  
     - Being the first team to declare victory (subject to verification).  
     - The most creatively worded patch log entry (e.g., *"Closed this vulnerability before the auditors noticed"*).  
-  - Penalty: If the Agents of Chaos successfully breach an unpatched system, the offending team must endure a lecture on basic cyber hygiene.  
+  - Penalty: If the Agents of Chaos successfully breach an unpatched system, the offending team can endure a lecture on basic cyber hygiene.  
 
 ### Round two: The verification farce  
 
 - Purpose: To confirm that patches were not merely applied but actually function as intended.  
 - Additional humiliation factor:  
-  - If the Vulnerability Inquisitors uncover a lingering flaw, the responsible team must perform a brief interpretive dance illustrating their failure.  
+  - If the Vulnerability Inquisitors uncover a lingering flaw, the responsible team can perform a brief interpretive dance illustrating their failure.  
 
 ### Round three: The backup charade
 
 - Critical Task: Ensure backups are both immutable and restorable.  
 - Entertainment value:  
-  - Should backups prove unreliable, the team lead must recount a personal tale of professional disgrace (e.g., *"There was an incident involving a production database and an ill-advised ‘DROP TABLE’ command…"*).  
+  - Should backups prove unreliable, the team lead can recount a personal tale of professional disgrace (e.g., *"There was an incident involving a production database and an ill-advised ‘DROP TABLE’ command…"*).  
 
 ---
 

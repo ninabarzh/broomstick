@@ -43,7 +43,7 @@ Why does Europe hesitate? Partly fear of domestic backlash. Pro-Israel lobbies w
 
 Then there is the fiction of “balance.” European officials insist they are “engaging with both sides,” as if supplying one side with weapons and vetoing sanctions against it constitutes even-handedness. They fret about “alienating Israel” and show no such concern for the millions of Palestinians being starved and bombed. It is not diplomacy; it is complicity with a veneer of respectability.
 
-### What must be done, And why it won’t happen
+### What could be done and why it won’t happen
 
 The path to ending Europe’s complicity is straightforward, if politically inconvenient. An immediate arms embargo. Sanctions on Israeli officials, of the kind imposed on Russia. Full support for the ICC’s investigation. The restoration of funding to UNRWA, the only lifeline for Gaza’s starving population. An end to trade with illegal settlements.
 

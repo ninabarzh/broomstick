@@ -20,7 +20,7 @@ date: 2025-07-22T06:00:00.000Z
 In *The Hunger Games*, twenty-four children are forced to kill each other while the elites applaud. It was sold as 
 dystopian fiction. The trouble is, [it is looking more like current affairs with every passing news 
 cycle]({{< relref "posts/hunger-games.md" >}}). The real world, too, is structured like a zero-sum game, where one 
-person's gain must be another's loss. There are no mutual wins here, only trade-offs, casualties, and very profitable illusions.
+person's gain is another's loss. There are no mutual wins here, only trade-offs, casualties, and very profitable illusions.
 
 This article contends that global power operates not unlike the Capitol’s arena: a ritualised battleground in which 
 marginalised regions, Gaza, the Congo, Yemen, Ukraine, are sacrificed to maintain the illusion of order and the comfort 
@@ -80,12 +80,12 @@ And what of those who *win*? Ukraine, for example, may yet be welcomed into NATO
 with reconstruction bills, lost territory, and a traumatised generation. The Victor’s Curse is very real: even the 
 "successful" emerge maimed.
 
-To turn a zero-sum game around from the bottom up, one must first stop playing by its rules. This is not about asking 
+To turn a zero-sum game around from the bottom up, stop playing by its rules. This is not about asking 
 the gamemakers for a kinder arena.
 
 ### Refuse the premise
 
-The first step is recognising the game for what it is. A zero-sum setup insists that your gain must be someone else's 
+The first step is recognising the game for what it is. A zero-sum setup insists that your gain becomes someone else's 
 loss. The trick is to step outside that framing. This is not wishful thinking, it is strategic deviance. Cooperatives, 
 commons-based economies, and mutual aid networks work precisely because they do not play the scarcity script.
 

@@ -235,7 +235,7 @@ forced to act. They are every public figure who becomes the face of resistance w
 their image, amplify their message, and often abandon them to burn out or backlash.
 
 Peeta Mellark, with careful words and idealistic heart, are the moderate people, forced to adapt. They wish for peace 
-but understand that to survive, one must perform. They are the liberal voices trying to navigate a world built for 
+but understand that to survive, one can perform. They are the liberal voices trying to navigate a world built for 
 extremes.
 
 Haymitch Abernathy are the veterans who know too much. They have seen too many cycles to believe in any of them. Their 
@@ -248,7 +248,7 @@ activists, the scholars who stay in the fight but trust no one. Much appreciated
 
 This is not merely entertainment. It is a ritual of obedience disguised as honour. The Capitol’s spectacle says: we own your children, your grief, your hope, and we shall repackage it as content. The pain is real, but the stage is ours. It is how power parades itself in plain sight while insisting you clap along. Every arrow loosed in the arena is calibrated for theatrical effect. Death becomes a plot device. Suffering is dressed up for the gala.
 
-Our own version is no less cynical. Streaming platforms serve us algorithmically curated tragedies, outrage refined for emotional engagement. We gamify collapse. Climate disaster? Queue the influencer fundraiser livestream. War crimes? Here’s a ten-part true crime series. Economic despair? Add to cart. We do not watch to understand; we watch to feel something, briefly. We vote with clicks and forget with scrolls. There is always another episode. The feed must go on.
+Our own version is no less cynical. Streaming platforms serve us algorithmically curated tragedies, outrage refined for emotional engagement. We gamify collapse. Climate disaster? Queue the influencer fundraiser livestream. War crimes? Here’s a ten-part true crime series. Economic despair? Add to cart. We do not watch to understand; we watch to feel something, briefly. We vote with clicks and forget with scrolls. There is always another episode. The feed can go on.
 
 The tributes of our world are not chosen by lottery but by virality. Influencers, whistleblowers, political figureheads, and public scapegoats, each offered up to the digital arena. Their weapons are no longer swords and snares, but words, optics, algorithms, and edits. Image is all. Their enemies? Often, the audience. The crowd that demands authenticity one minute and blood the next. A misstep, a misunderstood phrase, a bad haircut during the wrong news cycle, and the arena turns.
 
@@ -272,5 +272,5 @@ So sharpen your arrows, or switch off the screen. Either way, play smart. The ar
 
 And don’t worry. Just like in Panem, the Capitol is already working on rebooting the Games in the Metaverse.
 
-**Next season**: Hunger Games: AI Edition. Contestants must prompt, code, and beg for compute credits. Sponsors 
+**Next season**: Hunger Games: AI Edition. Contestants can prompt, code, and beg for compute credits. Sponsors 
 include OpenAI, Alphabet, and the Ministry of Labour Efficiency.

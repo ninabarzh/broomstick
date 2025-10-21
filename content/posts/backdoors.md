@@ -26,7 +26,7 @@ not negotiate.
 
 They followed this with [CALEA](https://techcrunch.com/2024/10/07/the-30-year-old-internet-backdoor-law-that-came-back-to-bite/), 
 which mandated that all telecoms equipment be built with surveillance hooks. This is like legislating that every door 
-must have a cat flap, because occasionally the fire brigade might want to crawl through. Naturally, burglars were 
+is to have a cat flap, because occasionally the fire brigade might want to crawl through. Naturally, burglars were 
 delighted.
 
 Then came [PRISM](https://www.eff.org/deeplinks/2013/06/what-we-need-to-know-about-prism) and 

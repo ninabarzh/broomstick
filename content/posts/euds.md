@@ -61,17 +61,18 @@ And then there was [Clare Daly speaking in the European Parliament](https://www.
 
 ## Five things Brussels needs to do, urgently
 
-If this isn’t to be another bureaucratic artefact destined for the archives, then Brussels needs to rethink both its priorities and its posture.
+If this isn’t to be another bureaucratic artefact destined for the archives, then Brussels needs to rethink both its 
+priorities and its posture.
 
-First, it must enforce the rules it already has. There’s no point drafting new ones if the existing frameworks remain 
-dead letters. Second, it must follow the money. Whether it’s oligarchs buying newspapers or foreign regimes 
+First, enforce the existing rules. There’s no point drafting new ones if the existing frameworks remain 
+dead letters. Second, follow the money. Whether it’s oligarchs buying newspapers or foreign regimes 
 bankrolling campaigns, financial transparency is the litmus test of democratic resilience.
 
 Third, journalists and activists need actual protection, not token awards or symbolic declarations, but legal 
-safeguards and sustainable support. Fourth, public participation must go beyond box-ticking. If citizens’ panels 
-are to matter, they must shape outcomes, not just add a veneer of legitimacy.
+safeguards and sustainable support. Fourth, public participation is to go beyond box-ticking. If citizens’ panels 
+are to matter, they can shape outcomes, not just add a veneer of legitimacy.
 
-Finally, the EU must start by holding its own members accountable. If Orbán-style governance continues unchecked 
+Finally, the EU can start by holding its own members accountable. If Orbán-style governance continues unchecked 
 within the bloc, then any external push for democracy will look disingenuous at best.
 
 ## Final verdict: potential meets paralysis

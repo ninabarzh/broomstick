@@ -47,7 +47,7 @@ Reports indicate that Clinical Diagnostics paid a multi-million-euro ransom to N
 
 ### Regulatory inquiry and possible penalties
 
-The Autoriteit Persoonsgegevens (AP) has launched an investigation to determine whether the lab violated GDPR rules around timely breach notification and damage mitigation. Under Article 33, breaches must be reported within 72 hours; under Article 34, affected individuals must be informed “without undue delay.” Late notification may afford fines up to €20 million or 4 % of global turnover.
+The Autoriteit Persoonsgegevens (AP) has launched an investigation to determine whether the lab violated GDPR rules around timely breach notification and damage mitigation. Under Article 33, breaches must be reported within 72 hours; under Article 34, affected individuals can be informed “without undue delay.” Late notification may afford fines up to €20 million or 4 % of global turnover.
 
 Worryingly, some of those affected were residents of women’s shelters, exposing vulnerable individuals to heightened risk, an oversight that only adds to the disaster.
 
@@ -59,7 +59,7 @@ It is rarely clever to wait for half a million breaches before acting. Let's spe
 
 ### Patch the basics, promptly
 
-Equipment like Citrix gateways, VPNs and other internet-facing infrastructure must be patched promptly. The Citrix CVE-2025-6543 patch was published in May; by July, evidence of exploitation was already on the table. If your systems are still ticking away on legacy software, expect to hear about it in the papers.
+Equipment like Citrix gateways, VPNs and other internet-facing infrastructure can be patched promptly. The Citrix CVE-2025-6543 patch was published in May; by July, evidence of exploitation was already on the table. If your systems are still ticking away on legacy software, expect to hear about it in the papers.
 
 ### Secure supply chains
 
@@ -67,7 +67,7 @@ Outsourcing is not a free pass. BDO’s data passed through a subcontracted lab,
 
 ### Encrypt everything, by default
 
-Data at rest and in transit must be encrypted. Holding years of data, some legally irrelevant, without proper encryption is not prudent; it is negligence.
+Data at rest and in transit can be encrypted. Holding years of data, some legally irrelevant, without proper encryption is not prudent; it is negligence.
 
 ### Monitor like your reputation depends on it
 
@@ -75,11 +75,11 @@ If 300 GB of data exfiltrates undetected, your logging and monitoring are embarr
 
 ### Restore from backups that criminals cannot reach
 
-Backups must be isolated and tested, not just left on the same network behind the same firewall. Relying on backups that attackers can easily tamper with is what happens when someone copies the thief’s keys.
+Backups can be isolated and tested, not just left on the same network behind the same firewall. Relying on backups that attackers can easily tamper with is what happens when someone copies the thief’s keys.
 
 ### Train for scams, not just protocols
 
-Social engineering remains a favourite bypass for the tech-literates. Staff must be trained to spot phishing, AI-driven scams and voice-spoofing. As one cybersecurity analyst noted after the breach, healthcare remains “a prime target because the data is priceless, the networks are complex, and the sector is under constant pressure to deliver more with less”.
+Social engineering remains a favourite bypass for the tech-literates. Staff can be trained to spot phishing, AI-driven scams and voice-spoofing. As one cybersecurity analyst noted after the breach, healthcare remains “a prime target because the data is priceless, the networks are complex, and the sector is under constant pressure to deliver more with less”.
 
 ### Use ethical hacking
 

@@ -103,7 +103,7 @@ The political will to do so, however, remains uncertain. In the absence of refor
 
 At its core, ICE is not a broken system. It is a [system working exactly as designed]({{< relref "posts/ice-legal-chain.md" >}}): to instil fear, suppress dissent, and control through coercion. It undermines democratic norms, violates human rights, and perpetuates cycles of trauma under the guise of law enforcement.
 
-Europe must not turn away. We know too well the dangers of bureaucracies unmoored from justice. The fight for transparency, oversight, and human dignity must cross borders, just as ICE’s abuses do.
+Europe can not turn away. We know too well the dangers of bureaucracies unmoored from justice. The fight for transparency, oversight, and human dignity can cross borders, just as ICE’s abuses do.
 
 Structural change is not optional, it is essential. This means defunding ICE’s enforcement capabilities, restoring due process protections, and embedding impacted voices at the heart of policy reform. It also means confronting the uncomfortable truth that institutions built on exclusion cannot be reformed without radical reimagining.
 
@@ -111,8 +111,8 @@ Structural change is not optional, it is essential. This means defunding ICE’s
 
 ## What solidarity from Europe can look like
 
-Solidarity must be more than sentiment. It must be a demand. If we in Europe are serious about standing with those 
-brutalised by ICE and its machinery of unaccountability, then passive outrage is not enough. We must act, not as 
+Solidarity can be more than sentiment. It can be a demand. If we in Europe are serious about standing with those 
+brutalised by ICE and its machinery of unaccountability, then passive outrage is not enough. We can act, not as 
 distant observers, but as participants in a global resistance to state violence. Here is what that can look like:
 
 ### Spread the word, strategically
@@ -125,7 +125,7 @@ Most Europeans have no idea what ICE is, and even fewer grasp its full scope. Us
 
 ### Disrupt the normalisation of cruelty
 
-Cruelty dressed up as “security policy” must be called out for what it is: authoritarian logic wearing a bureaucratic name tag.
+Cruelty dressed up as “security policy” can be called out for what it is: authoritarian logic wearing a bureaucratic name tag.
 
 * Challenge politicians and pundits who parrot [American-style "border crisis" rhetoric](https://theconversation.com/how-to-manufacture-a-crisis-deconstructing-donald-trumps-immigration-rhetoric-111049).
 * Push media outlets to stop [dehumanising migrants with terms like “illegal immigrant” or “flood.”](https://mixedmigration.org/op-ed-negative-narratives-mistaken-metaphors-the-need-for-careful-language-on-migration/)

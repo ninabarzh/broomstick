@@ -69,7 +69,7 @@ retailers such as eBay, AliExpress, or cheap listings on Amazon. Instead, buy fr
 genuine firmware and valid Google Play Protect certification. Even so, admit that firmware-level supply chain 
 attacks are fiendishly hard to avoid completely.
 
-If you must use lower-cost or older devices, always isolate them. Do not store personal data or log into sensitive 
+If you have to use lower-cost or older devices, always isolate them. Do not store personal data or log into sensitive 
 accounts on these. Connect them to separate guest or air‑gapped networks to limit potential damage.
 
 For organisations: ask your tech supplier where the devices come from. If possible, run them through network 

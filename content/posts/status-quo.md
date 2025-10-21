@@ -144,7 +144,7 @@ Even the language of *resilience* is soaked in masculine paranoia:
 
 **Build walls instead of communities**. It is easier to fortify than to collaborate. Concrete does not ask difficult questions.
 
-**Hoard resources instead of sharing them**. One must always prepare for a rainy day, even if it is raining on someone else right now.
+**Hoard resources instead of sharing them**. Always prepare for a rainy day, even if it is raining on someone else right now.
 
 **Militarise borders instead of addressing root causes**. No need to rethink the model if one can simply keep out the consequences.
 

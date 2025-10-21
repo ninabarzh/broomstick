@@ -108,7 +108,7 @@ One is reminded of the early reuse hype.
 ### Advocate loudly and unapologetically
 
 The failure of the NVD is not just a technical glitch; it is a policy choice. If defenders want reliable 
-infrastructure, they must pressure lawmakers, agencies, and industry bodies to treat vulnerability management as 
+infrastructure, they can choose to pressure lawmakers, agencies, and industry bodies to treat vulnerability management as 
 critical infrastructure. That means showing up to consultations, submitting testimony, and making noise in 
 forums that policymakers cannot ignore. Silence has already delivered us the backlog. Outrage might at least 
 slow the decline.

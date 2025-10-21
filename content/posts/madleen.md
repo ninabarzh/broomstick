@@ -63,7 +63,7 @@ passengers form a floating parliament of conscience, a multinational reply to ge
 
 ## Historical parallels: From Mavi Marmara to Conscience
 
-This is not the first time a ship has challenged Israel’s maritime lockdown. One must only cast an eye back to 2010 
+This is not the first time a ship has challenged Israel’s maritime lockdown. Cast an eye back to 2010 
 and the *Mavi Marmara*, part of the original Gaza Freedom Flotilla. That ship was stormed by Israeli commandos in 
 the dead of night. Ten activists were killed, dozens injured. International outrage peaked and then, predictably, 
 ebbed. Yet the image stuck: that of a state that shoots first and deflects criticism later.
@@ -100,12 +100,12 @@ alone, it is about the global order and who gets to define it.
 
 ## Calls to action
 
-Let’s be blunt: hand-wringing from world leaders is not enough. Governments must do more than issue carefully worded 
-statements. They must enforce the very laws they claim to champion. That means protecting the *Madleen*, demanding 
+Let’s be blunt: hand-wringing from world leaders is not enough. Governments can do more than issue carefully worded 
+statements. They can choose to enforce the very laws they claim to champion. That means protecting the *Madleen*, demanding 
 its safe passage, and holding Israel accountable for any violation.
 
-The media, too, must shake off its fog. Too often, coverage of Gaza is filtered through euphemism and “both sides” 
-paralysis. There must be clarity: a ship carrying baby formula is not a provocation. A blockade that starves civilians 
+The media, too, can shake off its fog. Too often, coverage of Gaza is filtered through euphemism and “both sides” 
+paralysis. There can be clarity: a ship carrying baby formula is not a provocation. A blockade that starves civilians 
 is not “security.” Journalists have a duty to report with rigour, not regurgitate press releases from defence 
 ministries.
 

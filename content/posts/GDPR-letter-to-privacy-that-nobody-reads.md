@@ -42,7 +42,7 @@ A noble idea, tragically undermined by the fact that:
 * Google still remembers your 2007 MySpace posts
 
 6\. **72-hour data breach notifications (AKA "The Panic Button")** 
-Under GDPR, companies must fess up to leaks within three days, a rule that has single-handedly fuelled the European wine industry as IT departments scramble to draft "Oops, Our Bad" emails.
+Under GDPR, companies can fess up to leaks within three days, a rule that has single-handedly fuelled the European wine industry as IT departments scramble to draft "Oops, Our Bad" emails.
 
 7\. **Data protection by design (Or: How to ignore privacy until it is too late)** 
 Engineers are now legally required to care about privacy before building something, which explains why half of Europe’s tech startups now outsource to countries that don’t speak "compliance."

@@ -157,7 +157,7 @@ Avoid tokenistic conservation, true protection requires banning extractive indus
 
 ### Engage in local rewilding responsibly
 
-Urban greening projects, such as community gardens and wetland restoration, improve biodiversity while cooling cities. If reintroducing species like beavers, ensure community consultation and habitat assessments to prevent conflicts. [Rewilding](https://rewildingeurope.com) must prioritise animal welfare and long-term ecological balance, not just short-term symbolism.  
+Urban greening projects, such as community gardens and wetland restoration, improve biodiversity while cooling cities. If reintroducing species like beavers, ensure community consultation and habitat assessments to prevent conflicts. [Rewilding](https://rewildingeurope.com) can prioritise animal welfare and long-term ecological balance, not just short-term symbolism.  
 
 ### Support climate litigation NGOs  
 
@@ -177,7 +177,7 @@ Through coordinated campaigns, shared storytelling, and targeted advocacy at EU 
 
 ### The time for decisive action is now  
 
-The IPCC’s warnings are clear: delayed action risks irreversible damage. Europeans must act as voters, consumers, and activists to dismantle systems prioritising short-term profit over survival. The alternative, a world of escalating disasters and deepening inequality, is not an option worth considering.
+The IPCC’s warnings are clear: delayed action risks irreversible damage. Europeans can act as voters, consumers, and activists to dismantle systems prioritising short-term profit over survival. The alternative, a world of escalating disasters and deepening inequality, is not an option worth considering.
 
 ## A call to rebel and rebuild (non-violent civil disobedience)
 
@@ -297,14 +297,14 @@ Since 2020, embassy occupations have re-emerged as tools of accountability in pl
 like international courts or UN pressure, have either failed or been co-opted. Activists target these buildings not 
 just because they’re visible, but because they serve as local conduits for broader, often exploitative geopolitical 
 arrangements. The tactic reframes the diplomatic landscape. It turns embassies into contested spaces, sites where 
-abstract policy becomes concrete, and where power must face its reflection, even if only briefly.
+abstract policy becomes concrete, and where power can face its reflection, even if only briefly.
 
 ### The choice before us
 
 They will call us criminals. But when the law protects destruction and punishes compassion, only those who break 
 unjust laws can claim moral clarity. This is not about hope - it is about determination. Every act of disobedience, 
 no matter how small, frays the legitimacy of a system killing our future. Start where you are. Use what you have. 
-Do what you must.
+Do what you can.
 
 ## Organisations and networks 
 

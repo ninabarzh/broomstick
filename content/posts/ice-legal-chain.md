@@ -74,7 +74,7 @@ and more to do with discomfort. Americans, by and large, prefer their atrocities
 happier discussing “processing centres” and “migration management facilities” than acknowledging the reality of 
 caged children, denied asylum seekers, and forced labourers.
 
-True, there are no gas chambers. And if one must not use the term “camp,” perhaps we might settle for 
+True, there are no gas chambers. And if one can not use the term “camp,” perhaps we might settle for 
 “profit-optimised ethnic warehouse.” The resemblance remains striking.
 
 ---

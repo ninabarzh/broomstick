@@ -59,7 +59,7 @@ The potential for inconsistent security practices between franchises is consider
 ## GDPR: Not quite a panopticon
 
 With GDPR, we finally got breach notification rules with teeth. If a data breach is likely to impact individuals’ 
-rights or freedoms, it must be reported to the relevant supervisory authority within 72 hours.
+rights or freedoms, it is to be reported to the relevant supervisory authority within 72 hours.
 
 But here’s the catch: **public disclosure isn’t always required**. If a company can plausibly argue that a breach 
 posed “no significant risk to individuals,” they’re under no obligation to tell anyone beyond the regulator.

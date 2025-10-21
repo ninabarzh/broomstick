@@ -69,7 +69,7 @@ Where real accountability requires transparency, responsiveness, and pluralism, 
 
 The solution is not to dismantle institutions, but to rewire them for visibility, participation, and responsiveness.
 
-That means ending decision-by-stealth. Draft legislation, trade deals, and policy directives must be published early, debated openly, and translated into accessible language. Citizens cannot engage with what they don’t see.
+That means ending decision-by-stealth. Publish draft legislation, trade deals, and policy directives early, debate openly, and translate into accessible language. Citizens cannot engage with what they don’t see.
 
 It means restoring parliamentary relevance. National assemblies should stop rubber-stamping EU directives and start shaping their input upstream. At the EU level, the European Parliament needs more than symbolic power, especially over the Commission’s agenda.
 
@@ -85,6 +85,6 @@ Europe has spent decades building structures that protect against war, poverty, 
 
 This isn’t dystopia. It’s drift. But drift can be just as corrosive as shock.
 
-Power without accountability is not just undemocratic. It is unsustainable. Sooner or later, people notice. And when they do, they don’t always choose wisely. If Europe wants to avoid the false choices of populism and passivity, it must do something radical: trust its citizens. Not with platitudes, but with actual power.
+Power without accountability is not just undemocratic. It is unsustainable. Sooner or later, people notice. And when they do, they don’t always choose wisely. If Europe wants to avoid the false choices of populism and passivity, it best do something radical: trust its citizens. Not with platitudes, but with actual power.
 
 Because if the people don’t feel they rule, someone else will.

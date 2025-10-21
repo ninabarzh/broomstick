@@ -21,13 +21,13 @@ The question now is: what can we do? The answer is messy, expensive, and occasio
 
 ## Accepting the obvious
 
-First, we must acknowledge the unpleasant truth: there is no quick fix. Security is not a feature to be bolted on after launch; it is a mindset, a discipline, and a budget item that competes poorly with shiny new apps and quarterly profits. Anyone promising a “secure internet in six months” is either deluded, lying, or hoping to sell you a consultancy package. Acceptance, at least, costs nothing.
+First, acknowledge the unpleasant truth: there is no quick fix. Security is not a feature to be bolted on after launch; it is a mindset, a discipline, and a budget item that competes poorly with shiny new apps and quarterly profits. Anyone promising a “secure internet in six months” is either deluded, lying, or hoping to sell you a consultancy package. Acceptance, at least, costs nothing.
 
 ## Building things to last
 
 Historically, we have treated digital infrastructure as ephemeral. IoT devices with permanent vulnerabilities, legacy protocols held together with hope and glue, software libraries maintained by single volunteers with full-time jobs, these are the hallmarks of our civilisation.
 
-To create a defendable internet, we need hardware and software that are patchable, auditable, and resilient. Systems should survive decades, not quarters. Open standards should be the norm, not a marketing slogan. The digital foundations we lay today must be capable of standing the test of time, and relentless curiosity from people who like poking at things that are not theirs.
+To create a defendable internet, we need hardware and software that are patchable, auditable, and resilient. Systems should survive decades, not quarters. Open standards should be the norm, not a marketing slogan. The digital foundations we lay today are to be capable of standing the test of time, and relentless curiosity from people who like poking at things that are not theirs.
 
 ## Fixing incentives
 
@@ -43,13 +43,13 @@ Of course, resistance will be fierce. Change always meets pushback, especially w
 
 ## Humans, realistically
 
-Humans are both the problem and the solution. Users cannot memorise dozens of passwords or navigate cryptic warnings. Organisations cannot assume breaches will never happen. Education must be grounded in reality: make secure choices the default, train people to recognise anomalies rather than panicking over every notification, and embed security thinking into organisational culture.
+Humans are both the problem and the solution. Users cannot memorise dozens of passwords or navigate cryptic warnings. Organisations cannot assume breaches will never happen. Education can be grounded in reality by making secure choices the default, training people to recognise anomalies rather than panicking over every notification, and embedding security thinking into organisational culture.
 
 Slow, yes. Expensive, perhaps. But much faster than waiting for humans to become rational overnight.
 
 ## Planning for the inevitable
 
-Even if every one of the above steps succeeds perfectly, breaches will occur. Systems must be designed with compromise in mind. Segmentation, redundancy, rapid detection, and honest post-mortems are all more effective than hoping attacks will never happen. Resilience is about recovery as much as prevention.
+Even if every one of the above steps succeeds perfectly, breaches will occur. Systems can be designed with compromise in mind. Segmentation, redundancy, rapid detection, and honest post-mortems are all more effective than hoping attacks will never happen. Resilience is about recovery as much as prevention.
 
 ## Conclusion
 

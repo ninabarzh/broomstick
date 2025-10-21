@@ -51,7 +51,7 @@ When the breach was uncovered, they erased logs and other traces, making it diff
 
 ### Why it worked
 
-Citrix had released patches to fix both flaws, but installing them is rarely instantaneous. Large organisations must schedule, test, and sometimes delay updates to avoid breaking essential systems. Unfortunately, attackers have no such operational constraints.
+Citrix had released patches to fix both flaws, but installing them is rarely instantaneous. Large organisations schedule, test, and sometimes delay updates to avoid breaking essential systems. Unfortunately, attackers have no such operational constraints.
 
 The real weakness was the delay between knowing about the problem and fixing it. That is the window in which attackers thrive.
 

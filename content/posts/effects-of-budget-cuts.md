@@ -194,7 +194,7 @@ For those brave enough to follow the fiscal entropy in real time, the [Budget Cu
 * What will the budgetary costs of the EU's next enlargement be?, https://www.suerf.org/publications/suerf-policy-notes-and-briefs/what-will-the-budgetary-costs-of-the-eus-next-enlargement-be-weighing-global-uncertainty-rules-politics-and-lessons-from-the-past/
 * Protests and alarm as European research sector braces for cuts, https://www.chemistryworld.com/news/protests-and-alarm-as-european-research-sector-braces-for-cuts/4021027.article  
 * EU long-term budget: Is health funding on the chopping block?, https://www.euronews.com/my-europe/2025/06/12/eu-long-term-budget-is-health-funding-on-the-chopping-block  
-* To save EU diplomacy, the double threat of budget cuts and power struggles must halt, https://euobserver.com/eu-and-the-world/are2811c8b  
+* To save EU diplomacy, the double threat of budget cuts and power struggles must stop, https://euobserver.com/eu-and-the-world/are2811c8b  
 * The impact of budget cuts on individual patient health, https://www.sciencedirect.com/science/article/pii/S0167629625000098  
 * ‘Utterly devastating’: Global health groups left reeling as European countries slash foreign aid, https://www.euronews.com/health/2025/03/07/utterly-devastating-global-health-groups-left-reeling-as-european-countries-slash-foreign-  
 * The EU's short-sighted aid cuts are a choice - so is the way forward, https://concordeurope.org/2025/04/16/the-eus-short-sighted-aid-cuts-are-a-choice-so-is-the-way-forward/
