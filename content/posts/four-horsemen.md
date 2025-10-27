@@ -34,7 +34,7 @@ Her work was loud enough. Rivers disappeared for dramatic effect. Forests ignite
 Governments invented paperwork so complicated you could frame it and call it art.
 
 She paused, occasionally, to jot notes in a notebook that nobody would ever read. One entry read, for example: 
-*City of Venice. Water rising. Residents panicking. Outcome: amusing.* She smiled faintly. Humans never did 
+"*City of Venice. Water rising. Residents panicking. Outcome: amusing.*" She smiled faintly. Humans never did 
 read the signs properly. Honestly, who could blame her?
 
 War arrived next. Striding in like a general who had wandered into a cocktail party and decided to stay. Red 
