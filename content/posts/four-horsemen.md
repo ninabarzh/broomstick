@@ -12,14 +12,18 @@ cover:
 date: 2025-10-27
 ---
 
-The apocalypse did not bang a gong. It did not announce itself. No, it simply walked in like a guest who insisted on arriving early and never leaving. Some did notice. A finance minister sweating over spreadsheets. A climate scientist muttering to herself. A general sketching supply lines that made no sense whatsoever. Most, though, went about their business as if everything would, of course, sort itself out. Classic.
+The apocalypse did not bang a gong. It did not announce itself. No, it simply walked in like a guest who insisted on 
+arriving early and never leaving. Some did notice. A finance minister sweating over spreadsheets. A climate 
+scientist muttering to herself. A general sketching supply lines that made no sense whatsoever. Most though, 
+went about their business as if everything would, of course, sort itself out. Classic.
 
 Economic Collapse came in first. You could spot him straight away. He wore a suit of precise, oppressive grey. A tie 
 that could slice glass. Shoes so polished they reflected the panic of anyone nearby. His briefcase vibrated faintly, 
 stuffed full of defaults, bankruptcies, and all the usual bad investments. And the smile. Oh, the smile. 
 Part charm, part menace. Enough to make an accountant faint on sight.
 
-“Good morning,” he said politely to a banker who clearly hadn’t read how credit worked. “I hope you brought your spreadsheets. They’re about to get interesting.”
+“Good morning,” he said politely to a banker who clearly hadn’t read how credit worked. “I hope you brought your 
+spreadsheets. They’re about to get interesting”.
 
 The banker dropped the spreadsheet. Not dramatically, mind you. More of a slow-motion kind of despair. Economic 
 Collapse chuckled. Softly. Like a credit rating quietly downgrading itself to zero. Markets staggered. Companies 
@@ -34,7 +38,7 @@ Her work was loud enough. Rivers disappeared for dramatic effect. Forests ignite
 Governments invented paperwork so complicated you could frame it and call it art.
 
 She paused, occasionally, to jot notes in a notebook that nobody would ever read. One entry read, for example: 
-"*City of Venice. Water rising. Residents panicking. Outcome: amusing.*" She smiled faintly. Humans never did 
+"*City of Venice. Water rising. Residents panicking. Outcome: amusing*". She smiled faintly. Humans never did 
 read the signs properly. Honestly, who could blame her?
 
 War arrived next. Striding in like a general who had wandered into a cocktail party and decided to stay. Red 
@@ -42,8 +46,8 @@ tie. Boots polished to a terrifying shine. Grin that suggested he knew every sec
 He did not start bombing straight away. No, subtler was his style. Proxy conflicts. Cyberattacks. Embargoes. 
 Threats so vague they caused weeks of frantic speculation.
 
-“Ah,” War said, addressing an invisible audience, “you humans are such predictable creatures. Give them scarcity, 
-a few angry tweets, and suddenly they fight for my amusement.” He inspected the growing arms industry with a satisfied 
+“Ah”, War said, addressing an invisible audience, “You humans are such predictable creatures. Give them scarcity, 
+a few angry tweets, and suddenly they fight for my amusement”. He inspected the growing arms industry with a satisfied 
 nod and took a metaphorical bow. Soldiers, generals, and politicians scrambled, trying to figure out which supply 
 lines to protect, which to sabotage, and, of course, who to blame. Civilians clapped at parades. Social media 
 celebrated minor victories. War watched it all, polishing his boots on the tears of those who lost dear ones.
