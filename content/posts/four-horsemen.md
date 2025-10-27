@@ -79,5 +79,5 @@ next government. The next unlucky crowd of humans who thought resilience was a p
 about “bouncing back,” and "resilience," while the horsemen sipped metaphorical champagne, smirked, adjusted 
 their attire, and quietly reminded everyone that the apocalypse is neither polite nor patient.
 
-Some called it the end. Others — the few still breathing — called it Tuesday.
+Some called it the end. Others, the few still breathing, called it Tuesday.
 
