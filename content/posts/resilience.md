@@ -8,12 +8,11 @@ date: 2025-10-29
 tags: ["security", "resilience", "tabletop", "red teaming", "what if", "scenario planning", "looking forward", "organisational development", "build to last", "continuity"]
 ---
 
+When scenario planning practitioners and others speak of "looking forward", they don't mean prediction. Forecasting implies we know where we're going, while scenario planning admits we do not. 
 
-When scenario planning practitioners and others speak of “looking forward”, they don’t mean prediction. Forecasting implies we know where we’re going, while scenario planning admits we do not. 
+Looking forward is not clairvoyance, nor is it the worship of trend graphs. It is not about guessing which shiny technology or geopolitical shift will "win". 
 
-Looking forward is not clairvoyance, nor is it the worship of trend graphs. It is not about guessing which shiny technology or geopolitical shift will “win”. 
-
-Like a single renewable technology or control system which will dominate the grid. That kind of forward-looking, the PowerPoint prophecy, breeds false certainty. Certainty is the enemy of resilience.
+Like a single renewable technology or control system which will dominate the grid. That kind of forward-looking, the PowerPoint prophecy, breeds false certainty. 
 
 ## What if?
 
@@ -29,22 +28,21 @@ That kind of forward thinking is the oxygen of resilience. A resilient smart ene
 
 There is a difference between reacting and responding. A reaction is biological, immediate, instinctive, messy. A response is behavioural, considered, contextual, and sometimes counter-intuitive.
 
-It is impossible to respond well without having imagined a situation before. Looking forward gives such rehearsals. In a smart energy context for example, a ransomware attack that disables distributed energy resources could be imagined. The team experiences the confusion, tests communication paths, and can learn which backup systems fail first. It’s a sort of cognitive inoculation against panic, even when a scenario was not exactly rehearsed.
+It is impossible to respond well without having imagined a situation before. Looking forward gives such rehearsals. In a smart energy context for example, a ransomware attack that disables distributed energy resources could be imagined. The team experiences the confusion, tests communication paths, and can learn which backup systems fail first. It's a sort of cognitive inoculation against panic, even when a scenario was not exactly rehearsed.
 
-Organisations that do not practise looking forward for crisis management tend to react, freeze, deny, or over correct. Those that do practice scenario planning in one of its many forms, are more likely to respond. They have seen similar patterns in simulations, debated options, and built muscle memory for ambiguity.
+Organisations that do not practise looking forward for crisis management tend to react, freeze, deny, or over correct. Those that do practise scenario planning in one of its many forms, are more likely to respond. They have seen similar patterns in simulations, debated options, and built muscle memory for ambiguity.
 
 ## Build to last
 
-Tabletop exercises, red team exercises, crisis simulations, these are examples of practical translations of looking 
-forward. They make the abstract concrete. Scenarios on paper are intellectual, simulations force decision.
+Tabletop exercises and crisis simulations are examples of practical translations of looking forward. They make the abstract concrete. Scenarios on paper are intellectual, simulations force decision.
 
-In smart energy, a tabletop might involve engineers, operators, and cyber teams, debating trade-offs between 
-shutting down nodes to stop an attack or keeping the system online for essential services. They let people 
-experience friction, miscommunication, and the emotional weight of uncertainty in a safe environment, where learning 
-can costs some embarrassment, but not real-life impacts.
+In smart energy, a tabletop might involve engineers, operators, and cyber teams, debating trade-offs between shutting down nodes to stop an attack or keeping the system online for essential services. They let people experience friction, miscommunication, and the emotional weight of uncertainty in a safe environment, where learning can costs some embarrassment, but not real-life impacts.
 
-The best simulations aren’t tests of procedure but mirrors of culture. Each run builds resilience not by hardening 
-systems, but by softening people to uncertainty.
+The best simulations aren't tests of procedure but mirrors of culture. Each run builds resilience not by hardening systems, but by softening people to uncertainty.
+
+Building comfort with uncertainty requires deliberate practise. Start small: debrief failures openly without blame, reward teams for surfacing risks early rather than hiding them, and rotate people through different roles in simulations so they experience multiple perspectives. Create psychological safety by celebrating the person who says "I don't know" or "this assumption might be wrong". 
+
+Over time, these small acts compound. Uncertainty stops being a career threat and becomes operational reality that can be discussed honestly.
 
 ## TL;DR
 
@@ -52,3 +50,15 @@ systems, but by softening people to uncertainty.
 * Resilience is not rigidity, but adaptive capacity.
 * Responding requires imagination. Reacting happens without it.
 * Tabletop simulations are the rehearsal rooms where imagination becomes responsive reflex.
+
+## Refs
+
+For scenario planning methodology:
+
+* [Peter Schwartz and Peter Schwartz, The Art of the Long View, 1991](https://openlibrary.org/books/OL22163107M/The_art_of_the_long_view)
+* [Kees van der Heijden, Scenarios: The Art of Strategic Conversation, 2005](https://openlibrary.org/works/OL3291630W/Scenarios?edition=key%3A/books/OL7594728M)
+
+For organisational crisis response:
+
+* [Karl Weick, Kathleen Sutcliffe, Managing the Unexpected, 2007](https://openlibrary.org/works/OL3749104W/Managing_the_unexpected?edition=key%3A/books/OL24273870M)
+* [Aaron Wildavsky, Searching for Safety, 1988](https://openlibrary.org/works/OL2666166W/Searching_for_safety?edition=key%3A/books/OL2406414M)
