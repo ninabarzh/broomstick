@@ -128,7 +128,7 @@ As Varoufakis argues, cloud capital functions much like oil did in the colonial 
 ## How to start your cloud exodus
 
 1. Audit your workloads: Identify lock-in, technical debt, and cost traps.
-2. Pilot a European provider: Test Hetzner's ARM64 nodes or try on-prem with OpenStack. [I did](https://blue.tymyrddin.dev/docs/dev/devsecops/on-prem/), and I still have root access.
+2. Pilot a European provider: Test Hetzner's ARM64 nodes or try on-prem with OpenStack. [I explored it](https://blue.tymyrddin.dev/docs/dev/devsecops/on-prem/), and I still have root access.
 3. Go hybrid with intent: Keep hyperscale where genuinely needed (AI training, global CDN, extreme burst capacity), but don't let it become your default.
 4. [Make a checklist like this one](https://blue.tymyrddin.dev/docs/dev/devsecops/cicd/exit-checklist).
 
