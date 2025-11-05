@@ -1,7 +1,7 @@
 ---
 title: "The four horsemen"
 subtitle: "A guide to The Apocalypse"
-description: "Economic collapse, climate change, war, and epidemic — four Horsemen stroll through the end of the world, leaving chaos, paperwork, and ruined supply chains in their wake."
+description: "Economic collapse, climate change, war, and epidemic. Four Horsemen stroll through the end of the world, leaving chaos, paperwork, and ruined supply chains in their wake."
 tags: ["apocalypse", "humour", "parody", "satire", "climate", "economics", "war", "epidemic", "fiction"]
 draft: false
 cover: 
@@ -11,6 +11,8 @@ cover:
   relative: false 
 date: 2025-10-27
 ---
+
+Disclaimer: Parody
 
 The apocalypse did not bang a gong. It did not announce itself. No, it simply walked in like a guest who insisted on 
 arriving early and never leaving. Some did notice. A finance minister sweating over spreadsheets. A climate 
