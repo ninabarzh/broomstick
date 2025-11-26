@@ -19,11 +19,11 @@ perform the required assessments, the compensation for auditors is too low, and 
 unnecessarily strict. Even if every capable professional devoted themselves full-time to this task, the sheer scale 
 makes meaningful oversight impossible. In Hungary alone,  
 [the current end-of-year deadline was deemed unrealistically tight](https://ceelegalmatters.com/hungary/29851-companies-may-have-six-more-months-to-comply-with-the-nis2-directive), 
-necessitating a six-month extension. The result is predictable: compliance becomes a matter of boxes ticked on paper, 
-whilst real security lags far behind.
+requiring a six-month extension. The result is predictable: compliance becomes a matter of boxes ticked on paper, 
+with real security lagging far behind.
 
-The system folds back on itself in an endless chain. Companies audit themselves, auditors audit the companies, and 
-regulators audit the auditors. In Hungary, service providers in high-risk sectors are required to sign an 
+The system folds back on itself in an endless (supply) chain. Companies audit themselves, auditors audit the companies, 
+and regulators audit the auditors. In Hungary, service providers in high-risk sectors are required to sign an 
 agreement with an external auditor company certified by authorities within 120 days of registration, with the 
 auditor checking entities' information systems every second year. A noble aspiration that rather assumes there 
 are sufficient certified auditors to go round. Each layer multiplies complexity, producing a hierarchy of symbolic 
@@ -74,9 +74,9 @@ of reach whilst the real threats carry on beneath the surface.
 
 One suspects our chelonian friend is in training for an A'Tuin role, destined to carry an entire world on its back, 
 though in this case, a world built entirely of compliance documentation and well-intentioned regulatory architecture. 
-At least A'Tuin had four elephants to help with the load. Terry Pratchett would have had a field day with this one.
+At least A'Tuin had four elephants to help with the load. 
 
-Our NIS2 turtle has only a handful of overworked auditors, a prayer that the spreadsheets hold together long enough 
-to reach the next review cycle, and, for those wise enough to look, 
-[a practical guide to actually crossing the river](https://purple.tymyrddin.dev/docs/audits/nis2/) rather than simply 
-drowning in it with excellent documentation.
+Terry Pratchett would have had a field day with this one: Our NIS2 turtle has only a handful of overworked auditors, 
+a prayer that the spreadsheets hold together long enough to reach the next review cycle, and, for those wise enough to 
+look, [a practical guide to actually crossing the river](https://purple.tymyrddin.dev/docs/audits/nis2/) rather than 
+simply drowning in it, trying to keep afloat on excellent documentation.
