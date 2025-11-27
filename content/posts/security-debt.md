@@ -58,6 +58,7 @@ Governance is fragmented across EU, national, and regional layers, leaving no on
 
 ## Bottom line
 
-Europe’s security debt is immense and hazardous. Healthcare, energy, and transport carry the heaviest burdens, directly threatening lives and essential services. Regulation such as NIS2 nudges the continent in the right direction, but without adequate funding, coordination, and operational support, the debt will persist.
+Europe’s security debt is immense and hazardous. Healthcare, energy, and transport carry the heaviest burdens, 
+directly threatening lives and essential services. Regulation such as [NIS2 nudges]({{< relref "posts/kafkaesque-nis2.md" >}}) the continent in the right direction, but without adequate funding, coordination, and operational support, the debt will persist.
 
 The most effective remedy is to fund modernisation programmes, make procurement contracts enforceable for security, and hold vendors accountable. Otherwise, these rotten foundations will remain quietly, like a hidden trapdoor beneath the floorboards, until the next crisis exposes them with all the subtlety of a falling chandelier.

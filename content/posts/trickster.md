@@ -23,8 +23,6 @@ The trickster is no ordinary troublemaker. They are the necessary saboteur, the 
 
 From the scheming spider Anansi to the gender-bending Loki, from Coyote’s dusty trails to Hermes’ winged heists, the trickster thrives in the cracks of civilisation, those uncomfortable in-between spaces where certainties collapse and new meanings ferment. If priests bless the structure and kings enforce it, the trickster questions the terms of the deal. They aren’t against the rules. They just want to know *who wrote them* and whether the ink is dry.
 
----
-
 ## Tricksters aren’t random, they are structural
 
 Across traditions, the trickster exists for a reason. They emerge not in spite of culture but because of it, as pressure valves, boundary testers, and generators of alternative logic.
@@ -35,15 +33,11 @@ In West African traditions, **Anansi** the spider weaves more than webs. He outs
 
 Even in the chillier realms of Norse myth, **Loki** thrives by flouting norms. He cross-dresses, shapeshifts, insults gods, and ultimately brings about Ragnarök, not just the end of the world, but the end of *their* world. His role is ambiguous, volatile, and yet essential. The gods may detest him, but they need him, until they don’t, and then it’s too late.
 
----
-
 ## Laughter before the storm
 
 In many Indigenous traditions, the laughter provoked by the trickster isn’t just tolerated, it’s vital. Laughter clears the ground for spiritual reflection. It breaks the mind open just wide enough for humility to enter. A joke, well-timed, is a ritual in disguise. Sacred ceremonies sometimes begin with trickster stories because people need to laugh before they can listen.
 
 That same principle echoes in Greek myth, where **Hermes**, the charming thief, patron of travellers and liars, delivers messages from the gods with one hand and steals sacred cattle with the other. He invented the lyre, brokered deals, and was the only god allowed to cross all boundaries, including those of the Underworld. Mischief, in Hermes’ case, is movement. The trickster doesn’t get stuck, and neither does culture when the trickster’s at work.
-
----
 
 ## The modern trickster is very much alive (and causing trouble)
 
@@ -54,8 +48,6 @@ In the 1960s, **Timothy Leary** slipped into the trickster role like a tie-dyed 
 In fiction, the trope thrives. Marvel’s version of **Loki** retains the old mischief but adds postmodern swagger, breaking the fourth wall while playing with gender and loyalty. **Deadpool** turns violence into slapstick and satire, mocking the entire superhero genre from within. Even **Matilda Wormwood**, with her pranks and mind powers, topples tyrants not by brute strength but by clever sabotage. She’s a trickster in school uniform, weaponising wit against oppression.
 
 And online? Trickster culture is viral. From memes that undercut propaganda to pranksters who infiltrate corporate meetings dressed as climate activists, the digital realm is a playground for mischievous resistance. Every time a system takes itself too seriously, the trickster appears to mock its solemnity, and in doing so, punctures the illusion of permanence.
-
----
 
 ## Why we need them
 
