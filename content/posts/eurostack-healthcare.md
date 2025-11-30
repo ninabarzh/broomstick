@@ -61,7 +61,7 @@ However, implementation will be far from straightforward. Many healthcare provid
 
 ### Privacy-preserving architectures (federated learning, zero-knowledge proofs)
 
-To reduce the need for centralised data storage while still gaining insights from IoT data, the EU is exploring [federated learning (FL)](https://indigo.tymyrddin.dev/docs/landscape/hybrid.html#federated-learning) and [zero-knowledge proofs (ZKPs)]({{< relref "posts/zero-knowledge-proof.md" >}}). With FL, data stays on the device (alledgedly); only insights or model updates are shared. ZKPs allow verification of data claims without revealing the underlying data.
+To reduce the need for centralised data storage while still gaining insights from IoT data, the EU is exploring [federated learning (FL)](https://indigo.tymyrddin.dev/docs/ml/landscape/hybrid.html#federated-learning) and [zero-knowledge proofs (ZKPs)]({{< relref "posts/zero-knowledge-proof.md" >}}). With FL, data stays on the device (alledgedly); only insights or model updates are shared. ZKPs allow verification of data claims without revealing the underlying data.
 
 While elegant in theory, these solutions introduce practical headaches. Because federated learning does not share raw data, it is difficult to verify whether the data used to train a model is accurate or biased. If one device sends faulty information, the whole model may be compromised. On top of that, these techniques require significant computing power, which many small or battery-powered IoT medical devices simply do not have. There is also a legal grey area: even if personal data is not directly stored, can the model still be said to "remember" parts of it, and does that conflict with GDPR's right to erasure?
 
