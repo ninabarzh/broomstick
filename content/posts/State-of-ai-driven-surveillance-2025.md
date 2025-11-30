@@ -123,7 +123,7 @@ Creative, certainly. Legal? Not so much.
 
 ## Privacy vs. security tensions
 
-[Federated learning](https://indigo.tymyrddin.dev/docs/landscape/hybrid.html#federated-learning) and privacy-preserving 
+[Federated learning](https://indigo.tymyrddin.dev/docs/ml/landscape/hybrid.html#federated-learning) and privacy-preserving 
 AI are all the rage in marketing decks. Apple champions on-device processing, which is lovely, until you realise your 
 phone still knows more about you than your best mate. 
 
