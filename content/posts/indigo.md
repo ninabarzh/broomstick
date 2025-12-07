@@ -26,7 +26,7 @@ cover:
 
 I am inviting you to the [Indigo Observatory](https://indigo.tymyrddin.dev/), a peculiar corner of the internet where 
 current events get filtered through Discworld metaphors, and where watching the status quo maintain itself becomes 
-both entertaining and slightly depressing.
+both entertaining and only slightly depressing.
 
 If you are looking for breathless enthusiasm about how technology and politics are definitely getting better, it is 
 not for you. If you want someone to point out that Lord Vetinari's approach to governance looks suspiciously like 
@@ -35,13 +35,14 @@ modern Western democracies, whilst finding this observation darkly amusing, then
 ## What's in the observatory
 
 The Indigo Observatory is fundamentally about pattern recognition. Not the algorithmic kind, but the human kind: 
-noticing that the same structures keep appearing whether you're reading about Ankh-Morpork's guild system or 
-looking at how NGOs have professionalised activism. Observing that "technical debt" is a conveniently bloodless 
-way of saying "we built this badly and now we're stuck with it." Watching quantum computing get hyped whilst 
-wondering if it's the next revolution or the next blockchain.
+noticing that the same structures keep appearing whether you are reading about Ankh-Morpork's guild system or 
+looking at how NGOs have professionalised activism. Observing that 
+[technical security debt](https://indigo.tymyrddin.dev/docs/debt/) is a conveniently bloodless 
+way of saying *we built this badly and now we're stuck with it.* Watching quantum computing get hyped whilst 
+wondering if it is the next revolution or the next blockchain.
 
 The content explores trends in technology, politics, and systems through the lens of Pratchett's Discworld. This 
-isn't because Discworld is a perfect metaphor for everything, but because it's a safer and more entertaining way to 
+is not because Discworld is a perfect metaphor for everything, but because it is a safer and more entertaining way to 
 discuss how systems actually work versus how we pretend they work. Talking about Lord Vetinari's committee-based 
 revolution management is less likely to start arguments than directly discussing why modern protest movements 
 achieve so little. Probably.
