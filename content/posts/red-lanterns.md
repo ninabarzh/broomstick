@@ -53,8 +53,6 @@ masterpiece of understated alarm, outlining the "anomalous re-routing events" an
 themselves, who read it with a mixture of horror and professional pride. "Oh," said their de facto leader, a network 
 archaeologist named Ponder. "We've gone and done a proper thing, haven't we?"
 
-[![The Patrician](/images/patrician.png)](https://indigo.tymyrddin.dev/docs/vetinari/)
-
 The matter landed, as all truly delicate matters did, 
 [on the desk of the Patrician](https://blue.tymyrddin.dev/docs/shadows/red-lantern/kickoff/to-his-eminence). 
 The Patrician did not do panic. He did balance. The city was a complex, self-regulating organism, and his role was 
