@@ -18,8 +18,8 @@ tags:
   - chip bubble
   - status quo
 cover:
-  image: "/images/patrician.png"
-  alt: "The Patrician of a Ankh Morpork, seated at a grand wooden desk cluttered with brass gears, cog-driven calculators, and arcane mechanical devices." 
+  image: "/images/observatory.png"
+  alt: "Indigo observatory" 
   caption: ""
   relative: false
 ---

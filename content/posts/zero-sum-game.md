@@ -26,8 +26,6 @@ This article contends that global power operates not unlike the Capitol’s aren
 marginalised regions, Gaza, the Congo, Yemen, Ukraine, are sacrificed to maintain the illusion of order and the comfort 
 of hegemony. The names change. The rules do not.
 
----
-
 ## Zero-sum mechanics in *The Hunger Games*
 
 Let us begin with the game’s structure. 
@@ -42,8 +40,6 @@ The parallels are not exactly subtle.
 siege economy. Every airstrike becomes a viral video. Human suffering is edited down into clips suitable for 
 dinner-time viewing. Ukraine, meanwhile, has become a heavily armed tribute, sacrificed on the altar of geopolitical 
 spectacle. Whether the profits flow to Washington, Brussels, or Moscow hardly matters; the dead are always local.
-
----
 
 ## Real-world arenas: zero-sum politics
 
@@ -61,8 +57,6 @@ The United States and Europe have mastered the art of funding both sides. Israel
 It makes one wonder whether peace is simply bad for business. The media, of course, play their part. While famines 
 unfold, one is offered royal gossip and celebrity scandal. The Gamemakers have learned to distract the masses with 
 a steady drip of irrelevance.
-
----
 
 ## Breaking the game: is non-zero-sum possible?
 

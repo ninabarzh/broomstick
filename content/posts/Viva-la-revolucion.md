@@ -11,8 +11,6 @@ tags:
 How I lost my mind (and won an AI war) for a depressed octopus office worker: a tale of shrimp, sharks, and 
 prompt-engineering madness.
 
-***
-
 ### Chapter 1: The vision
 
 To understand what fake imagery can look like, one has to do it. So I investigated these AI image creators. And browsing
