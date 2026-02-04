@@ -1,5 +1,5 @@
 ---
-title: "Announcing the UU Power & Light Simulator: Teaching OT security without exploding any turbines"
+title: "Announcing the UU Power & Light Simulator version 0.1.alpha: Teaching OT security without exploding any turbines"
 date: 2026-02-04
 description: "Or: How we turned Ponder Stibbons' industrial security nightmares into your educational opportunity"
 tags:
