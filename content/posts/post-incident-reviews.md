@@ -18,12 +18,14 @@ This is not incompetence. It is the system behaving exactly as it did before, in
 
 ## Describing the incident instead of explaining it
 
-Most incident post-mortems or retrospectives reconstruct the sequence of events. What happened, in what order, and 
-what should have been done differently. Useful, but shallow.
+Most incident post-mortems or [retrospectives](https://purple.tymyrddin.dev/docs/workshops/retrospectives.html) 
+reconstruct the sequence of events. What happened, in what order, and what could have been done differently. Useful, 
+but shallow.
 
 The more important question is usually skipped: what had to be true about the organisation for this to happen at all?
 
-An incident is not a deviation from normal operations. It is normal operations with one assumption exposed as false.
+An incident is not a deviation from normal operations. It is normal operations with (at least) one assumption 
+exposed as false.
 
 The phishing email was not an anomaly. It was the expected outcome of a filtering posture tuned to yesterday’s threat 
 landscape. The missed lateral movement was not bad luck. It was the expected outcome of a detection model that no 
@@ -38,7 +40,8 @@ Incidents do not occur in a vacuum. Systems have owners. Decisions have history.
 
 In the review, those realities are present.
 
-Under pressure, people default to safe behaviour. [Satir's survival stances](https://purple.tymyrddin.dev/docs/foundations/organisational-development/satir-core) are predictable here: the technical specialist gives a precise, detailed timeline that 
+Under pressure, people default to safe behaviour. 
+[Satir's survival stances](https://purple.tymyrddin.dev/docs/foundations/organisational-development/satir-core) are predictable here: the technical specialist gives a precise, detailed timeline that 
 somehow avoids naming the decision that set the conditions. The manager agrees everything is important, and nothing 
 material changes. The team blames the phishing email rather than the posture that let it through.
 
