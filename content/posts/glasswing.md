@@ -15,7 +15,7 @@ cover:
   caption: "This image is not a butterfly"
   relative: false
 ---
-#AISecurity #Cybersecurity #ZeroDay #ProjectGlasswing #ResponsibleDisclosure
+
 On 7 April 2026, Anthropic announced two things at once. The first was a new frontier model called Claude Mythos 
 Preview. The second was [Project Glasswing](https://www.anthropic.com/project/glasswing), a coalition of twelve 
 technology and finance companies that would receive 
