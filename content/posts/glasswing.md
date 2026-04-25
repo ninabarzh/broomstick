@@ -12,7 +12,7 @@ draft: false
 cover:
   image: "/images/monolith.png"
   alt: "A colossal cracked black monolithic slab" 
-  caption: "Less butterfly, more pressure test."
+  caption: "This image is not a butterfly"
   relative: false
 ---
 #AISecurity #Cybersecurity #ZeroDay #ProjectGlasswing #ResponsibleDisclosure
