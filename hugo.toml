@@ -28,27 +28,7 @@ enableRobotsTXT = true
   custom_css = ["css/extended/custom.css"]
   [params.homeInfoParams]
     Title = "For when rants trigger RCU stall detection"
-    Content = "and my patience buffer overflows into /dev/null. The rants are technically supposed to be brief—but let’s be real, some system bugs deserve a full kernel panic’s worth of fury."
-
-  [[params.socialIcons]]
-    name = "Mastodon"
-    url = "https://mastodon.social/@barzh"
-
-  [[params.socialIcons]]
-    name = "GitHub"
-    url = "https://github.com/ninabarzh"
-
-  [[params.socialIcons]]
-    name = "GitLab"
-    url = "https://gitlab.com/tymyrddin"
-
-  [[params.socialIcons]]
-    name = "Move IT tube"
-    url = "https://tube.spdns.org/a/barzh/video-channels"
-
-  [[params.socialIcons]]
-    name = "Website"
-    url = "https://tymyrddin.dev"
+    Content = "and my patience buffer overflows into /dev/null. The rants are technically supposed to be brief. And let’s be real, some system bugs deserve a full kernel panic’s worth of fury."
 
 [params.fuseOpts]
   isCaseSensitive = false
@@ -93,8 +73,3 @@ enableRobotsTXT = true
     url = "search"
     weight = 50
 
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "https://tymyrddin.dev/contact/"
-    weight = 60
