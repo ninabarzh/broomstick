@@ -232,7 +232,7 @@ recognisable as something else.
 *This is slower than revolution and faster than waiting for capitalism to collapse on its own, which, on present 
 evidence, it will not; it will simply get crueller.*
 
-## The ending is not handed out for free
+## Not for free
 
 Worth being clear about what this competes against. The cooperative-municipalist trajectory is one possible future. 
 The other live trajectories are darker, and some appear to be winning at the moment.
