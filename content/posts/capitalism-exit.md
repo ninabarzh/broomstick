@@ -220,7 +220,7 @@ survivable. Treating them as the main event is one of the older mistakes in left
 Most political life consists of arguing about the bottom of this list while the top remains untouched. Reversing the 
 ratio is most of the practical work.
 
-## A timeline that does not flatter anyone
+## A loooong timeline
 
 Nobody reading this is likely to see a fully post-capitalist nation-state in their lifetime. What might be visible, 
 on a sober projection, is something more modest. Denser municipalist networks across a few dozen cities by the 2030s. 
