@@ -35,7 +35,9 @@ Three overlapping strategies tend to come up: defensive, constructive, and offen
 counterstrike, and treating those counterstrikes as separate problems, to be worked out later, is one of the 
 ways movements lost and lose.
 
-## Stop the bleeding, and notice who is doing the bleeding
+## Stop the bleeding 
+
+***And notice who is doing the bleeding.***
 
 Capitalism's quiet weapon is the threat of destitution. Organising is hard when missing rent means losing the 
 children's school, so anything that pulls survival off the negotiating table is structurally important: universal 
@@ -98,12 +100,12 @@ doing. The meeting-people problem mentioned above is the visible tip of this; th
 subcommittees and procedural drift that nobody quite remembers agreeing to. Constant maintenance, rather than 
 original design, is what keeps cooperatives cooperative.
 
-[The Israeli kibbutzim](https://en.wikipedia.org/wiki/Kibbutz) are the textbook absorption case. Founded as radically 
+[The Israeli kibbutzim](https://en.wikipedia.org/wiki/Kibbutz) are a textbook absorption case. Founded as radically 
 egalitarian collectives, most of them privatised in some form during the 1990s and 2000s under generational pressure 
 and exposure to broader Israeli market reforms; roughly three quarters of kibbutzim are now classified as "renewed", 
 which is the polite term for partially demutualised. 
 
-[The UK's Co-operative Bank](https://en.wikipedia.org/wiki/The_Co-operative_Bank) is the financial-sector version 
+[The UK's Co-operative Bank](https://en.wikipedia.org/wiki/The_Co-operative_Bank) is a financial-sector version 
 of the same arc. Founded as the banking arm of a successful mutual federation, it grew, took on a large building 
 society in 2009, ran into a multi-billion-pound capital hole in 2013, and ended up majority-owned by hedge funds. 
 The Co-operative Group lost control of its own bank in roughly eighteen months. 
@@ -120,13 +122,13 @@ across members rather than letting weaker units fail one at a time, and parallel
 cooperative schools, cooperative media) that reduce the need to interface with hostile mainstream ones.*** The 
 cooperatives that get absorbed tend to be the ones that grew without those defences in place.
 
-## Capture the state at the right level (the level is too small)
+## Capture the state at the right level
 
 The state is terrain, not enemy or saviour. Older left politics often treated it as a thing to seize whole; a more 
 productive approach appears to start small, taking cities and regions where capital is less mobile, direct democracy 
 is feasible, and a failed experiment does not collapse the entire movement.
 
-[Red Vienna](https://en.wikipedia.org/wiki/Red_Vienna), 1919 to 1934, is the classic. The Social Democrats ran the 
+[Red Vienna](https://en.wikipedia.org/wiki/Red_Vienna), 1919 to 1934, is a classic. The Social Democrats ran the 
 city, taxed luxury aggressively, and built tens of thousands of units of dignified public housing, free clinics, 
 schools, and cultural institutions, all while the rest of Austria moved toward fascism. The lesson is double-edged: 
 municipal socialism can work, and it tends to be crushed when the surrounding state turns hostile. 
@@ -158,19 +160,21 @@ Eurocities is essentially a lobbying group inside EU institutions.
 
 ***Neither comes close to the coordination capacity 
 that would actually be required, which is something more like a customs union plus a development bank plus a 
-legal-defence pact, run by cities rather than states.This is a hole in the strategy, and there is currently no 
+legal-defence pact, run by cities rather than states. This is a hole in the strategy, and there is currently no 
 organisation in any obvious position to fill it at the speed and scale required. Naming the absence is more useful 
 than describing the federation as merely difficult; difficult things sometimes get done, but only after someone has 
 noticed they need doing.***
 
-## What capital does when you start winning
+## How capital reacts
 
-The pressure scales with success, and the framing changes with it: below a certain threshold, the project is a policy 
-disagreement to be debated; above it, the project is a threat to be neutralised, and the institutional toolkit shifts 
-accordingly. A handful of harmless cooperatives are tolerated as a quirk. A federation of cooperatives that takes 
-serious market share starts to attract regulatory attention, hostile takeovers, and selectively enforced laws. A 
-city government that touches finance directly attracts capital flight and rating-agency attention; a national one 
-attracts the IMF, the bond markets, and, in the harder cases, the CIA. 
+The pressure scales with success, and the framing changes with it: below a certain threshold, a project is a policy 
+disagreement to be debated; above it, a project is a threat to be neutralised, and institutional toolkits shift 
+accordingly. A handful of harmless cooperatives are tolerated as a quirk. 
+
+A federation of cooperatives that takes serious market share starts to attract regulatory attention, hostile takeovers, 
+and selectively enforced laws. A city government that touches finance directly attracts capital flight and 
+rating-agency attention; a national one attracts the IMF, the bond markets, and, in the harder cases, possibly even the 
+CIA and its allies. 
 
 The [overthrow of Salvador Allende](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat) in 1973 is the 
 textbook case, but the list runs through [Iran 1953](https://www.declassifieduk.org/iran-1953-mi6-plots-with-islamists-to-overthrow-democracy/), 
@@ -180,15 +184,15 @@ textbook case, but the list runs through [Iran 1953](https://www.declassifieduk.
 diminishing literal coups and [increasing financial ones](https://direct.mit.edu/isec/article/44/1/42/12237/Weaponized-Interdependence-How-Global-Economic), 
 [into the present](https://www.newstatesman.com/ideas/2022/03/ukraine-the-world-is-at-financial-war).
 
-***Defensive capacity therefore needs to scale alongside the project itself. Legal defence networks, with constitutional 
+***Defensive capacity therefore needs to scale alongside a project itself. Legal defence networks, with constitutional 
 and human-rights expertise. Local food, energy, and water systems that make economic blockade less effective. Mass 
 organisations capable of strikes, boycotts, and street protest that raise the cost of overt repression. Transnational 
-solidarity dense enough that crushing one node attracts pressure from many others. The Zapatistas have survived three 
-decades of low-intensity siege essentially through these methods: low visibility, high cohesion, and dense outside 
-support. They are also, it bears mentioning, still poor, still surrounded, and still under threat. Survival is not 
-victory. It is the precondition for a longer game.***
+solidarity dense enough that crushing one node attracts pressure from many others. The 
+Zapatistas have survived three decades of low-intensity siege essentially 
+through these methods: low visibility, high cohesion, and dense outside support. They are also, it bears mentioning, 
+still poor, still surrounded, and still under threat. Survival is not victory. It is the precondition for a longer game.***
 
-## Levers, ranked
+## Ranked levers
 
 Not every individual action carries the same weight. A list that pretends otherwise tends to slide into lifestyle 
 politics, the kind of advice that suggests one might knit one's way out of global capital. Roughly ranked by structural
