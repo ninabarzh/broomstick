@@ -176,7 +176,7 @@ and selectively enforced laws. A city government that touches finance directly a
 rating-agency attention; a national one attracts the IMF, the bond markets, and, in the harder cases, possibly even the 
 CIA and its allies. 
 
-The [overthrow of Salvador Allende](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat) in 1973 is the 
+The [overthrow of Salvador Allende in 1973](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat) is a 
 textbook case, but the list runs through [Iran 1953](https://www.declassifieduk.org/iran-1953-mi6-plots-with-islamists-to-overthrow-democracy/), 
 [Guatemala 1954](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB4/), 
 [Indonesia 1965](https://theconversation.com/how-indonesias-1965-1966-anti-communist-purge-remade-a-nation-and-the-world-48243), 
