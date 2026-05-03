@@ -23,6 +23,7 @@ enableRobotsTXT = true
   ShowPostAuthors = true  # Displays author names under post titles
   TocOpen = true
   defaultTheme = "dark"
+  disableThemeToggle = true
   logoWidth = "40"
   logoTitle = "Broomstick Brief"
   custom_css = ["css/extended/custom.css"]
