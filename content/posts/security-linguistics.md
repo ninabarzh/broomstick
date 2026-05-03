@@ -14,11 +14,6 @@ tags:
   - virginia satir
 date: 2026-05-03
 draft: false
-cover:
-  image: "/images/linguistics.png"
-  alt: "A boardroom with no walls, floating in calm white space. Six figures in identical grey suits sit around a long polished table, each with a smooth mirrored orb where their head should be, nodding politely at a single document hovering above the table" 
-  caption: ""
-  relative: false 
 ---
 
 The most useful phrases in a modern security programme are the ones that cannot be argued with. "The platform gives us 
