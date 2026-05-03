@@ -164,7 +164,7 @@ They are not at the table playing the game. They are the stakes.
 
 ## But is it just a game?
 
-This is where the poker metaphor, like the chess metaphor before it, finally breaks.
+This is where the poker metaphor, like the chess metaphor before it, finally breaks. Lives are at stake. 
 
 If geopolitics were just a game, then domestic politics would not matter. They do. Leaders are constrained by voters, 
 parties, and ideologies, and a purely transactional account ignores the fact that Americans, Ukrainians, and Iranians 
