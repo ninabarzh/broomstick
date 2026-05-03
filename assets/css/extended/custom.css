@@ -1,4 +1,113 @@
-/* Search container */
+/* ============================================================
+   GLOBAL: theme colours, font
+   ============================================================ */
+:root {
+  --theme: #2A0A0A;
+  --entry: #3D1414;
+}
+
+.dark {
+  --theme: #2A0A0A;
+  --entry: #3D1414;
+}
+
+body {
+  font-size: 16px;
+}
+
+/* ============================================================
+   GLOBAL: links
+   ============================================================ */
+a              { color: #e6ac00 !important; }
+a:hover        { color: #ffcc00 !important; }
+.nav a         { color: #e6ac00 !important; }
+.post-title a  { color: #e6ac00 !important; }
+
+/* ============================================================
+   GLOBAL: post-tags, paginav, share-buttons (dark-red boxes)
+   ============================================================ */
+.post-tags a,
+.paginav,
+.share-buttons {
+  background: #3D1414;
+  border-color: #5a2020;
+}
+
+.post-tags a:hover,
+.paginav a:hover {
+  background: #4f1a1a;
+}
+
+.paginav {
+  line-height: 30px;
+  font-size: 16px !important;
+}
+
+/* ============================================================
+   GLOBAL: TOC (dark pages)
+   ============================================================ */
+.toc {
+  border-color: #5a2020;
+}
+
+/* ============================================================
+   POST SINGLE: wider container + warm card
+   ============================================================ */
+.main:has(.post-single) {
+  max-width: 960px;
+}
+
+.post-single {
+  background: #f5f0f0;
+  border-radius: var(--radius);
+  padding: 40px;
+  --primary: #1a1a1a;
+  --content: #1a1a1a;
+  --secondary: #555555;
+  --border: #d0c8c8;
+  color: var(--primary);
+}
+
+/* Dark red links on the light card */
+.post-single a       { color: #8B0000 !important; }
+.post-single a:hover { color: #A50000 !important; }
+
+/* PREV / NEXT labels in paginav */
+.post-single .paginav .title { color: #f5f0f0; }
+
+/* Restore gold on the dark-red footer boxes inside the card */
+.post-single .post-tags a,
+.post-single .paginav a,
+.post-single .share-buttons a       { color: #e6ac00 !important; }
+.post-single .post-tags a:hover,
+.post-single .paginav a:hover,
+.post-single .share-buttons a:hover { color: #ffcc00 !important; }
+
+/* POST SINGLE: TOC — match card background, keep dark-red border */
+.post-single .toc {
+  background: #f5f0f0;
+  border-color: #5a2020;
+}
+
+/* ============================================================
+   IMAGES
+   ============================================================ */
+.post-content img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.entry-cover img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 4px;
+}
+
+/* ============================================================
+   SEARCH (Pagefind)
+   ============================================================ */
 #search {
   display: flex;
   align-items: center;
@@ -7,7 +116,6 @@
   margin-right: 1rem;
 }
 
-/* Pagefind search input */
 #search input {
   border-radius: 5px;
   padding: 0.3rem 0.6rem;
@@ -17,63 +125,19 @@
   width: 100%;
 }
 
-/* Style search result titles */
 .pagefind-ui__result-title {
   font-weight: bold;
   color: var(--primary);
 }
 
-/* Style search result excerpts */
 .pagefind-ui__result-excerpt {
   color: var(--fg);
   font-size: 0.9rem;
   margin-top: 0.25rem;
 }
 
-/* Space out the results a bit */
 .pagefind-ui__result {
   margin-bottom: 1rem;
   border-bottom: 1px dashed var(--border);
   padding-bottom: 0.5rem;
-}
-
-/* Align images to centre in posts */
-.post-content img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.paginav {
-  line-height: 30px;
-  font-size: 16px !important;
-}
-
-/* Change link colors */
-a {
-    color: #e6ac00 !important;
-}
-
-/* Change link hover color */
-a:hover {
-    color: #ffcc00 !important;
-}
-
-/* Change navigation menu link colors */
-.nav a {
-    color: #e6ac00 !important;
-}
-
-/* Change post title link color */
-.post-title a {
-    color: #e6ac00 !important;
-}
-
-/* Resize cover images in lists */
-.entry-cover img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 4px; /* Optional */
-
 }
