@@ -1,5 +1,5 @@
 ---
-title: "The Dealer smiles: why geopolitics is poker in the dark"
+title: "The Dealer smiles?"
 subtitle: "Poker, Resource wars, transactional realism, and the only sane response to a game whose rules will never be explained"
 description: "The resource calculus behind Ukraine, Venezuela, Greenland, Iran, Russia and China, and why 'geopolitics as chess' is the wrong metaphor for what we are watching."
 tags:
