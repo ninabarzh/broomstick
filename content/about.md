@@ -2,7 +2,7 @@
 title: "About the Broomstick"
 date: 2025-06-02
 draft: false
-tags: ["about", "broomstick", "geopolitics", "critique"]
+tags: ["about", "broomstick", "geopolitics", "critique", "information warfare", "climate collapse", "digital security", "bureaucratic inertia"]
 categories: ["Meta"]
 image: "/images/banner-broomstick.png"
 ShowToc: false
