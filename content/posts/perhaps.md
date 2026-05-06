@@ -147,4 +147,4 @@ People who know that resilience is not a policy document. It is behaviour under 
 
 The uncomfortable possibility is that modern societies need this kind of thinking quite badly.
 
-The even more uncomfortable possibility is that they may not always like the people who do it.
+[The even more uncomfortable possibility is that they may not always like the people who do it](https://purple.tymyrddin.dev/docs/admin-surface/strategy).
