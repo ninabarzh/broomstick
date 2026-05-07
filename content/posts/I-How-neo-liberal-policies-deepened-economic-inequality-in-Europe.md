@@ -17,8 +17,6 @@ Welcome to Europe Inc., a four-part series on how neoliberalism turned the Europ
 
 ![](/images/boardroom.png#center)
 
-***
-
 ## Tax cuts and deregulation: champagne for some, flat lager for the rest
 
 Let’s begin with the tax cuts. From Paris to Berlin, and London to Lisbon, tax policies since the 1980s have followed the same basic script: reduce top rates, deregulate markets, and tell the public it’ll all ‘trickle down’ eventually, like a broken toilet in a penthouse flat.
@@ -29,8 +27,6 @@ Meanwhile, deregulation let financial firms play Monopoly with real economies. I
 
 Wolff reminds us this wasn't an economic accident, it was class warfare by PowerPoint. The rich didn’t just win; they got to write the rules and invoice the rest of us for the paper.
 
-***
-
 ## Austerity: your crisis, their opportunity
 
 When the 2008 financial meltdown hit, a crisis caused by reckless lending, undercapitalised banks, and the sort of risk management you'd expect at a student house party, governments across Europe sprang into action. They bailed out the banks and handed the invoice to everyone else.
@@ -40,8 +36,6 @@ Greece was the worst-hit. After accepting EU-IMF bailout terms, it was forced to
 In the UK, David Cameron and George Osborne ushered in a decade of austerity so severe it became the economic equivalent of self-flagellation. Council budgets were cut by over 60%, libraries closed in droves, and benefits were frozen or capped. But oddly, there was always enough money for a royal yacht or a failed ferry company run by, of all things, a pizza firm.
 
 As Wolff puts it, austerity isn’t about saving money. It’s about shifting the burden from those who caused the crisis to those least able to resist it. In short: socialise the losses, privatise the pain.
-
-***
 
 ## Privatisation: now with extra inefficiency
 
@@ -55,8 +49,6 @@ In Spain, regional health services have been partially outsourced to private ope
 
 Privatisation, as Wolff notes, doesn’t just change who owns a service, it changes what the service is for. It's no longer about need; it's about margin. You’re not a patient, you’re a revenue stream. Congratulations again.
 
-***
-
 ## This was the plan all along
 
 There’s no need for cloak-and-dagger theories here. Neoliberalism wasn’t imposed by shadowy cabals, it was loudly championed by think tanks, lobby groups, and business leaders who published their intentions in glossy pamphlets with lots of graphs.
@@ -64,8 +56,6 @@ There’s no need for cloak-and-dagger theories here. Neoliberalism wasn’t imp
 Institutions like the European Commission, the IMF, and the European Central Bank didn’t hide their goals. They called them “structural reforms” and delivered them with polite menace. When Greece’s elected government resisted, the ECB cut off its banking system until it complied. That’s not a conspiracy, that’s a press release.
 
 Wolff is clear: neoliberalism is a class project. It’s the reassertion of elite economic control, disguised as “modernisation” and “market reform”. It’s not about making systems work better for everyone. It’s about ensuring they work predictably for capital, preferably without the messiness of democratic input.
-
-***
 
 ## Where next?
 

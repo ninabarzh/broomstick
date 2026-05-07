@@ -40,37 +40,37 @@ sometimes in the name of safety, other times for more creative interpretations o
 between defence and intrusion continues to blur, and the average citizen finds themselves in the awkward position 
 of being simultaneously protected and targeted.
 
-**Note:** The following is hardly a complete list. Global surveillance programmes are as widespread as they are 
+A note: the following is hardly a complete list. Global surveillance programmes are as widespread as they are 
 hush-hush, and many remain hidden under layers of classification or charming euphemisms like “public safety 
 initiative.” This curated selection offers a glimpse into the more transparent corners of the global surveillance 
 theatre.
 
 ### Europe
 
-**United Kingdom**  
+#### United Kingdom
 
 In true dystopian fashion, the UK’s Ministry of Justice uses AI to profile over 1,300 individuals daily to determine 
 their risk of reoffending. The next phase? A system to predict potential murderers. What could possibly go wrong?
 
-**Belgium** 
+#### Belgium
 
 A recent report has dared to suggest that predictive policing might not be entirely ethical, particularly when it 
 relies on dodgy databases and sociological guesswork. Brussels, ever the voice of reason, is considering a ban.
 
-**Hungary**
+#### Hungary
 
 Not content with just banning Pride marches, Hungary has weaponised facial recognition to identify and penalise 
 participants. It’s privacy invasion meets political repression, with a dash of algorithmic bias.
 
 ### Middle East
 
-**Saudi Arabia** 
+#### Saudi Arabia
 
 NEOM, the futuristic $8.8 trillion megacity, promises jetpacks, robot servants, and, of course, total surveillance. 
 Reports of forced displacements and up to 21,000 worker deaths have somewhat dulled the shine, though the PR 
 brochures remain top notch.
 
-**Iran**
+#### Iran
 
 Iranian authorities have turned AI into an instrument of suppression, employing facial recognition and geolocation 
 to crack down on protest. Following Mahsa Amini’s death, over 20,000 were arrested, proving once again that 
@@ -78,44 +78,44 @@ authoritarianism scales well with machine learning.
 
 ### Asia
 
-**China**
+#### China
 
 China remains the gold standard of techno-authoritarianism. AI surveillance is omnipresent, especially in Xinjiang, 
 and its export to other regimes makes Orwell look quaint. Exporting digital repression: now available on Belt and Road.
 
-**India**
+#### India
 
 India’s surveillance sector is booming. AI tools are deployed with gusto, even as spyware scandals, Supreme Court 
 probes, and human rights concerns pile up like unread privacy policies.
 
 ### Africa
 
-**South Africa**
+#### South Africa
 
 Gauteng province has partnered with Vumacam to install over 6,000 cameras loaded with AI capabilities like licence 
 plate recognition and behaviour detection. Naturally, there’s no real regulation for this sort of thing, but rest 
 assured, someone somewhere is watching.
 
-**Uganda**
+#### Uganda
 
 During the 2021 elections, Uganda demonstrated the dark art of algorithmic suppression by using AI to monitor 
 social media and stifle dissent. Proof that surveillance tech, once acquired, rarely sits idle.
 
 ### South America
 
-**Argentina**
+#### Argentina
 
 Argentina has launched an AI crime prediction unit, apparently inspired by *Minority Report* and a generous 
 interpretation of due process. It uses historical data to divine future misdeeds, bias included at no extra charge.
 
-**Brazil** 
+#### Brazil
 
 Brazil’s surveillance infrastructure is powered by algorithms that trawl state databases with minimal oversight. 
 A dream for statisticians, a nightmare for civil liberties.
 
 ### Oceania
 
-**New Zealand**  
+#### New Zealand  
 
 NZ police teamed up with SaferCities to roll out the vGRID platform: a network of thousands of cameras accessible 
 from officers’ phones. During COVID-19, police reportedly flagged cars as “stolen” to bypass lockdown rules. 

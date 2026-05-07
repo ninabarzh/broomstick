@@ -49,6 +49,6 @@ The path to ending Europe’s complicity is straightforward, if politically inco
 
 Will any of this happen? Not without immense public pressure. European leaders have shown they will only act when the cost of inaction exceeds the cost of action. For now, the calculation remains in Israel’s favour.
 
-History will judge this moment. It will note the governments that looked away, the corporations that profited, the lies told to justify the unjustifiable. And it will ask: when the evidence of genocide was plain, why did Europe do so little? The answer, as ever, is a mix of greed, cowardice, and the quiet conviction that some lives matter less than others.
+History will judge this moment. It will note the governments that looked away, the corporations that profited, the lies told to justify the unjustifiable. And it will ask: when the evidence of genocide was plain, why did Europe do so little? The answer, as ever, is a mix of greed, cowardice, and the quiet conviction that some lives count for less than others.
 
 Palestinians, it seems, are among the less fortunate.

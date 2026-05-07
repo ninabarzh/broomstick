@@ -17,8 +17,6 @@ Welcome to Europe Inc., a four-part series on how neoliberalism turned the Europ
 
 ![](/images/2.png#center)
 
-***
-
 ## Ban the chequebooks: campaign finance with training wheels off
 
 Prem Sikka, who knows the UK’s economic corruption inside out and probably has the receipts, is unequivocal: if you want a functioning democracy, you need to ban private donations. Not “regulate” them. Not “limit” them. Ban them. Entirely.
@@ -28,8 +26,6 @@ The UK is the most glaring example, where the Conservatives are bankrolled by he
 Solutions exist: Norway and Sweden have strict caps and generous public funding for parties. Belgium bans TV ads for parties entirely, forcing actual debate instead of branding exercises. Imagine that.
 
 It’s time to stop treating political parties like private businesses with loyalty cards. If democracy is a public service, it could be publicly funded, and not just by those with seven-figure net worths and a spare villa in the Alps.
-
-***
 
 ## Democratising the economy: not a radical idea, just long overdue
 
@@ -42,8 +38,6 @@ Take Spain. The government, led by a coalition of PSOE and the left-wing Sumar, 
 Public ownership works. Ask the people of Paris, who re-municipalised their water service in 2010 after private management led to price hikes and worse service. Or the French postal bank (La Banque Postale), which offers basic banking services to millions the market deemed “unprofitable.”
 
 Economic democracy isn’t ideology, it’s survival.
-
-***
 
 ## Rewilding the media landscape: journalism without yachts
 
@@ -59,8 +53,6 @@ To support them? Anti-SLAPP laws to protect against corporate lawsuits. Grants w
 
 Because when media exists only to protect the powerful, democracy becomes little more than a press release.
 
-***
-
 ## Mutual aid, co-ops and people who won’t wait politely
 
 Politics doesn’t only happen in parliaments. It happens in housing co-ops in Bologna, solidarity kitchens in Athens, and citizen energy collectives in Copenhagen.
@@ -70,8 +62,6 @@ Mutual aid exploded during the pandemic, ordinary people organising food, medici
 Even the cooperative model, once seen as dusty, is back in style. From cooperative housing in Zurich to platform co-ops in Berlin, these aren’t nostalgic experiments. They’re durable, democratic, and increasingly necessary alternatives to a system that delivers precarity for most and dividends for few.
 
 This is politics, too, just not the kind that gets televised.
-
-***
 
 ## From managed decline to organised resistance
 

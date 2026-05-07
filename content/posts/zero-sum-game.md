@@ -1,7 +1,7 @@
 ---
 title: "Zero-Sum politics in a world of sacrificial districts"
 subtitle: "Why the global order looks increasingly like an arena built for other people’s suffering"
-description: "This piece explores how the mechanics of 'The Hunger Games' mirror real-world geopolitics. From Gaza to the Congo, zero-sum power games sacrifice the periphery to feed the core. I argue that the only winning move is to reject the game entirely."
+description: "Exploring how the mechanics of 'The Hunger Games' mirrors real-world geopolitics. From Gaza to the Congo, zero-sum power games sacrifice the periphery to feed the core. I argue that the only winning move is to reject the game entirely."
 tags:
   - geopolitics
   - resistance

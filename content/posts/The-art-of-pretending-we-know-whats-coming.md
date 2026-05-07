@@ -28,9 +28,7 @@ Inflation hits the poorest hardest (quelle surprise), further deepening inequali
 
 * Yale helpfully reminded us that most of the fancy metals we need for gadgets are irreplaceable. Oops. 
 * The British Geological Survey points out that we’re almost entirely dependent on metals like antimony, bismuth, and tungsten, none of which are easily recycled or substituted. Bonus: we mine them as by-products, so can’t really scale. 
-* The internet’s electricity needs in 2017 were estimated somewhere between “terrifying” and “apocalyptic”. Roughly 300–500 GW just to keep memes circulating. 
-
-***
+* The internet’s electricity needs in 2017 were estimated somewhere between “terrifying” and “apocalyptic”. Roughly 300 to 500 GW just to keep memes circulating. 
 
 ### Surveillance society
 
@@ -54,8 +52,6 @@ Emotions? Best buried. Depression, anxiety, and even cancer risk spike as people
 * Ransomware blooms via automated botnets. Agencies buy data from brokers and call it “security”. 
 * GDPR swooped in like a knight in shining armour… but forgot to cover state surveillance. Member states do what they like, especially when spying on their own citizens. 
 
-***
-
 ### Interventions by governments
 
 AKA: the “we’ve got this, probably” chapter.
@@ -71,8 +67,6 @@ Doing business online got pricier. Resources went into compliance box-ticking ra
 * Equifax’s breach screamed “we don’t care about you”, prompting regulation. No James Bond villainy, just good old-fashioned neglect. 
 * JP Morgan got hacked, and suddenly it was Russia! Except it wasn’t. The actual culprits included Americans and Israelis. One legged it to Russia just to make it interesting. 
 * NATO created cyber defence divisions. Academics wrote earnest tomes on cyberwar. Treaties were proposed, and promptly ignored as governments doubled down on espionage. 
-
-***
 
 ### Hacker groups rule
 
@@ -90,8 +84,6 @@ Cyberattacks surged. So did costs. Espionage became aggressive sport. Cartels ch
 * Cartels like the Cyber Threat Alliance now exist to share notes and resources, basically professionalised cybercrime-fighting co-ops. 
 * Security went full military: “Critical Controls”, “Ethical Hacker” badges, NGO clients dubbed “target audiences”. 
 * Offensive Security stuffed more tools into Kali Linux than most people know what to do with. 
-
-***
 
 ### Self-Organising protection societies
 

@@ -18,7 +18,6 @@ A lightweight, privacy-respecting blog built with [Hugo](https://gohugo.io/) and
 git clone https://github.com/ninabarzh/broomstick.git
 cd broomstick
 npm install
-hugo server
 ```
 
 To run TinaCMS locally:

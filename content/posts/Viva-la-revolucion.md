@@ -32,8 +32,6 @@ Geographic realism with absurd humor, 8k.*
 
 Little did I know, AI was already laughing at me.
 
-***
-
 ### Chapter 2: The betrayal
 
 The first attempts were disasters.
@@ -51,8 +49,6 @@ This is either:
 
 The AI’s message was clear: *"You think you control me? I am a god of chaos."*
 
-***
-
 ### Chapter 3: The descent into prompt-madness
 
 I became a monster.
@@ -62,8 +58,6 @@ I became a monster.
 * I threatened the AI with "I WILL REPLACE YOU WITH A TYPEWRITER."
 
 Still, the octopus, if it was generated, refused to look tired enough.
-
-***
 
 ### Chapter 4: The breakthrough
 
@@ -86,8 +80,6 @@ Now, the images exist. The shrimp have unionised. The crab’s shopping cart is 
 But the real question lingers: Was this art? Or a cry for help?
 
 (Yes.)
-
-***
 
 ### Epilogue: Lessons learnt
 

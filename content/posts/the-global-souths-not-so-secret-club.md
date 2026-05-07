@@ -58,8 +58,6 @@ symposium, not yet disastrous, but definitely unnerving.
 The current BRICS+ composition includes nine countries (Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, 
 Iran, and the UAE).
 
----
-
 ## The BRICS To-Do List
 
 The BRICS wishlist reads like a teenager’s letter to Santa after a weekend binge of anti-capitalist TikToks.
@@ -90,11 +88,9 @@ And the proposed common BRICS currency? That’s the monetary equivalent of anno
 
 ### Energy use: Now we're talking
 
-Where BRICS+ genuinely wields clout is in the global energy market. The expanded bloc now accounts for roughly **44% of global oil production**, giving it considerable use, on paper. In practice, coordinating that influence is another matter entirely.
+Where BRICS+ genuinely wields clout is in the global energy market. The expanded bloc now accounts for roughly 44% of global oil production, giving it considerable use, on paper. In practice, coordinating that influence is another issue entirely.
 
 Expecting Saudi Arabia and Iran to agree on production quotas is like watching two rival football firms try to organise a charity bake sale. The potential for disaster is high, and the likelihood of unity is, at best, fragile.
-
----
 
 ## Too Good to Be True?
 
@@ -120,8 +116,6 @@ and global ripple effects, from trade wars to currency battles.
 Here are four plausible futures for BRICS+, ranging from bureaucratic farce to financial restructuring, and how Europe 
 might adapt to each.
 
----
-
 ### The ‘United Nations 2.0’ scenario 
 
 Likelihood: High 
@@ -138,8 +132,6 @@ Global impact:
 
 Wildcard: A major crisis (e.g., Russia’s collapse) could force BRICS+ to act, or implode.  
 
----
-
 ### The ‘Competence Surprise’ scenario  
 
 Likelihood: Low but plausible  
@@ -150,15 +142,13 @@ Mechanics:
 - Oil producers (Saudi, UAE, Iran) price crude in yuan/rupees, chipping away at petrodollar hegemony.  
 
 Global impact:  
-- Dollar erosion: The greenback remains top, but BRICS+ currencies carve out 15–20% of global trade.  
+- Dollar erosion: The greenback remains top, but BRICS+ currencies carve out 15 to 20% of global trade.  
 - Europe’s dilemma: Forced to engage with BRICS+ financial tools while protecting euro stability. German exporters cheer cheaper yuan deals; French bankers panic.  
 - Global South shift: African/Latin American nations pivot trade to BRICS+, demanding concessions from the West.  
 
 Obstacles:  
 - China-India rivalry: Beijing’s dominance (e.g., via digital yuan) spooks New Delhi.  
 - US countermeasures: Trump’s threatened "150% tariffs" on BRICS+ trade could spark a financial cold war.  
-
----
 
 ### The ‘Anti-West Alliance’ scenario  
 
@@ -178,8 +168,6 @@ Why It’s Unlikely:
 - Ideological incompatibility: Sunni UAE won’t share intel with Shia Iran. Democratic India won’t back Putin’s wars.  
 - China’s caution: Beijing prefers economic infiltration (Belt and Road) over open confrontation.  
 
----
-
 ### The ‘Messy Divorce’ scenario
 
 Likelihood: Moderate 
@@ -198,8 +186,6 @@ Trigger Events:
 - India-China border clash (again).  
 - US offers Brazil NATO "partner" status.  
 
----
-
 ### The ripple effects for Europe  
 
 Europe’s fate hinges on which scenario unfolds:  
@@ -215,9 +201,7 @@ Europe’s fate hinges on which scenario unfolds:
 
 Wildcard: A "BRICS-EU détente" where Brussels brokers deals with factions (e.g., India+South Africa vs. China+Russia).  
 
----
-
-## Conclusion: BRICS+ is a weathervane, not a hurricane  
+## BRICS+ is a weathervane, not a hurricane  
 
 The bloc’s real power lies in its potential to disrupt, not its current coherence. Even in its weakest form 
 ([first scenario](#the-united-nations-20-scenario)), it erodes Western unipolarity. In its strongest 

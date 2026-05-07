@@ -21,8 +21,6 @@ Welcome to Europe Inc., a four-part series on how neoliberalism turned the Europ
 
 ![](/images/bombs-away.png#center)
 
-***
-
 ## Military Keynesianism: austerity with better PR
 
 Back in the day, Keynesianism meant public investment to stimulate the economy, think new schools, railways, or green jobs. Today’s version swaps solar panels for missiles and hospital beds for tanks. Welcome to military Keynesianism, where the state finally spends again, just not on you.
@@ -34,8 +32,6 @@ It’s curious how quickly fiscal rules vanish when the expenditure is military.
 BAE Systems saw a 9% jump in profits in 2023. Rheinmetall, Germany’s top arms manufacturer, has nearly tripled its share price since the war in Ukraine began. Airbus, known for its jets and civilian aircraft, is expanding its defence division like it’s the new Tesla.
 
 Apparently, there’s always money, provided it explodes.
-
-***
 
 ## The Ukraine war: not just a tragedy, but a market opportunity
 
@@ -49,8 +45,6 @@ France, never shy about arms exports, has leaned in hard. Rafale fighter jets ar
 
 All the while, budgets for social care, education, and housing remain “under pressure.” The message is clear: security starts with missiles, not meals.
 
-***
-
 ## Enemies wanted: apply within
 
 Of course, you can’t justify this kind of spending without a convincing enemy. Russia fits the bill, but as Grace Blakeley points out, the real competition isn't between countries, it's between defence firms. And to stay relevant, they need threats. Existential ones.
@@ -60,8 +54,6 @@ Cue the increasing sabre-rattling about China. Suddenly, discussions about Taiwa
 This is not to downplay real geopolitical risks. But the scale and speed of militarisation suggests something more opportunistic than prudent. A strategic pivot is one thing; a spending binge is quite another.
 
 We are witnessing, in real time, the manufacture of a permanent war economy, one that normalises militarised budgets and marginalises public ones. The enemy doesn’t need to invade. It just needs to exist.
-
-***
 
 ## Austerity and militarisation: two sides of the same (bad) coin
 
@@ -73,8 +65,6 @@ For the public, austerity hollowed out services. Now militarisation is draining 
 
 It’s a dangerous loop: economic neglect breeds resentment; resentment breeds populism; populism legitimises further militarisation. And around we go.
 
-***
-
 ## Weapons instead of welfare: the new consensus
 
 This is the quiet consensus emerging across Europe: that defence spending is inevitable, desirable, even moral, while social investment is optional, wasteful, and unaffordable. It’s an economic fantasy wrapped in patriotic bunting.
@@ -82,8 +72,6 @@ This is the quiet consensus emerging across Europe: that defence spending is ine
 And it’s not just the usual suspects. Centre-left governments are falling into line. Spain’s left-wing coalition increased its military budget by 26% in 2023. Italy’s post-populist government has made similar pledges. Even traditionally neutral countries like Sweden and Finland have joined NATO and started rearming.
 
 Once upon a time, defence spending was a reluctant necessity. Now it’s a growth strategy.
-
-***
 
 ## Follow the money (again)
 

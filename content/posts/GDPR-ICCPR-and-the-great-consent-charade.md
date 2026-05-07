@@ -23,45 +23,39 @@ The grown-ups in charge appear utterly out of their depth. They’re flailing in
 * the digitisation of absolutely everything, 
 * unaccountable algorithms pulling levers behind the curtain, 
 * political discourse that makes Orwell look quaint, 
-* a globalisation model written by and for sociopaths, 
+* a globalisation model that has run rather far ahead of any visible adult supervision, 
 * and a steady erosion of the rule of law, dressed up as “reform”. 
 
 We want to breathe clean air and drink clean water, not microplastics. We want to use the internet without being stalked by ads for things we never mentioned aloud. We’d quite like artificial intelligence that isn’t making life-or-death decisions like some deranged sorting hat. We’d prefer politicians to tell the truth now and then, instead of spinning reality like DJ decks. And we’re really not loving the idea of buying clothes made by unpaid children in collapsing factories.
 
 The trouble is, Europe’s current constitutions are about as helpful as a fax machine in a blackout.
 
-***
+## Six rights that might actually help
 
-## Introducing: Six New Fundamental Rights
+A handful of campaigners have been [drafting](https://you.wemove.eu/campaigns/for-new-fundamental-rights-in-europe) what the Charter of Fundamental Rights might say if it were brought up to date. The contents are worth a look, if only because they mark the gap between what current law covers and what people actually live through.
 
-So, what if we rewrote the script? No more tinkering around the edges. Let’s have a proper constitutional reboot. Here’s what the Charter of Fundamental Rights could say in 2025:
+### Article 1: Environment
 
-### Article 1 – Environment
+The right to live in an environment that is healthy, protected, and preferably not on fire.
 
-Everyone has the right to live in an environment that is healthy, protected, and preferably not on fire.
+### Article 2: Digital self-determination
 
-### Article 2 – Digital Self-Determination
+The right to control one’s digital identity. No more profiling, no more manipulation. Ads that follow you around the internet could be classified as stalking.
 
-Everyone has the right to control their digital identity. No more profiling, no more manipulation. Ads that follow you around the internet could be classified as stalking.
+### Article 3: Artificial intelligence
 
-### Article 3 – Artificial Intelligence
+The right to know what algorithms are doing to people. Algorithms could be transparent, accountable, and not treated like sorcery. Big decisions could involve a human being, preferably one who isn’t asleep at the wheel.
 
-Everyone has the right to know what algorithms are doing to them. They could be transparent, accountable, and not treated like sorcery. Big decisions best involve a human being, preferably one who isn’t asleep at the wheel.
+### Article 4: Truth
 
-### Article 4 – Truth
+The right to expect that people in power occasionally tell the truth. Lies could come with a health warning, like cigarettes.
 
-Everyone has the right to expect that people in power occasionally tell the truth. Lies could come with a health warning, like cigarettes.
+### Article 5: Globalisation
 
-### Article 5 – Globalisation
+The right to buy things that weren’t made in violation of basic decency. No forced labour. No ecological ruin. No "fast fashion" that unravels in the wash.
 
-Everyone has the right to buy things that weren’t made in violation of basic decency. No forced labour. No ecological ruin. No “fast fashion” that unravels in the wash.
+### Article 6: Fundamental rights lawsuits
 
-### Article 6 – Fundamental Rights Lawsuits
+The right to sue the trousers off institutions that systematically trample on rights. The European Courts could be open for business, and not just to lobbyists.
 
-Everyone has the right to sue the trousers off institutions that systematically trample their rights. The European Courts could be open for business, and not just to lobbyists.
-
-***
-
-### Sign the Demand
-
-It’s time to stop pretending the current system is working. If the law can’t keep up with the times, it’s time to change the law. [Sign to demand Six New Fundamental Rights](https://you.wemove.eu/campaigns/for-new-fundamental-rights-in-europe). Because box-ticking is not the same as freedom, and we're not consenting to this nonsense any more.
+Whether or not any of this ends up in a treaty, it does mark the questions current law avoids: what counts as consent when refusing closes the door, what kind of accountability survives when decisions are made by software, and who is supposed to notice when none of the above is working.

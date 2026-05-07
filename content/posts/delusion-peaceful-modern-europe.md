@@ -35,12 +35,12 @@ Washington’s contribution to peace came via embargoes and covert coups. The Co
 Meanwhile, the neoliberal zeal of the Reagan-Thatcher axis spread across Europe like a low-interest-rate plague. While sold as domestic reform, the dismantling of organised labour, privatisation of public assets, and deregulation of markets served another purpose: to hollow out any remaining ideological support for socialism, lest the Soviets appear to offer a viable alternative. It was a war of attrition with sharper suits.
 
 {{< details >}}
-**Timeline**
-**1949** – CoCom export embargo begins  
-**1981** – Thatcher’s austerity programme ramps up  
-**1985** – Gorbachev begins perestroika  
-**1989** – Berlin Wall falls  
-**1991** – Soviet Union collapses  
+Timeline:
+1949, CoCom export embargo begins  
+1981, Thatcher’s austerity programme ramps up  
+1985, Gorbachev begins perestroika  
+1989, Berlin Wall falls  
+1991, Soviet Union collapses  
 {{< /details >}}
 
 ### The 1990s: genocide on live television
@@ -52,26 +52,26 @@ But the real novelty was in the economics. International sanctions on Serbia ind
 Europe’s response was a masterclass in performative ethics: waver, condemn, hesitate, bomb, and then slap together a reconstruction plan riddled with IMF reforms and privatisation schemes. From mass graves to free markets in a single decade, surely a record.
 
 {{< details >}}
-**Timeline**  
-**1991–1999** – Yugoslav Wars  
-**1992** – UN sanctions begin  
-**1993** – Serbian hyperinflation peaks  
-**1999** – NATO bombs Belgrade, Kosovo War ends  
+Timeline:
+1991 to 1999, Yugoslav Wars  
+1992, UN sanctions begin  
+1993, Serbian hyperinflation peaks  
+1999, NATO bombs Belgrade, Kosovo War ends  
 {{< /details >}}
 
 ## 21st century warfare: less bang, more bank
 
-### The eurozone crisis (2010–2015): austerity as economic trench warfare
+### The eurozone crisis (2010 to 2015): austerity as economic trench warfare
 
 Greece didn’t suffer an invasion, it suffered a troika (EU, ECB, IMF) demanding pensions be slashed, hospitals shuttered, and assets sold to German vulture funds. The country’s GDP contracted by 25%, worse than the Great Depression, while youth unemployment hit 50%, creating a lost generation.
 
 The irony was delicious: Germany, having had its own debts forgiven after World War II, now lectured Athens on fiscal responsibility. This wasn’t economics. It was debt colonialism, enforced with the cold precision of a bailout agreement.
 
 {{< details >}}
-**Timeline**  
-**2010** – First bailout agreement  
-**2011** – Papandreou resigns under pressure  
-**2015** – Syriza referendum, followed by capitulation  
+Timeline:
+2010, first bailout agreement  
+2011, Papandreou resigns under pressure  
+2015, Syriza referendum, followed by capitulation  
 {{< /details >}}
 
 ### Brexit: a slow-motion economic suicide
@@ -81,24 +81,24 @@ A masterclass in how to turn a trade dispute into a national identity crisis. Th
 The Irish border, dismissed as a technicality, became a geopolitical crisis when it emerged that no one in Westminster had actually read the Good Friday Agreement. And the "oven-ready deal"? More like a half-baked disaster, leaving British exporters drowning in customs forms while the EU, ever the gracious victor, made sure the UK’s departure was as painful as possible.
 
 {{< details >}}
-**Timeline**  
-**2016** – Brexit referendum  
-**2020** – UK formally exits EU  
-**2021** – Northern Ireland protocol causes supply chain chaos  
+Timeline:
+2016, Brexit referendum  
+2020, UK formally exits EU  
+2021, Northern Ireland protocol causes supply chain chaos  
 {{< /details >}}
 
-### Russia’s hybrid war (2014–present)
+### Russia’s hybrid war (2014 onward)
 
 Putin didn’t need tanks to destabilise Europe, just gas pipelines, Facebook ads, and a few well-placed bribes. Nord Stream 2 became a geopolitical grenade, alienating Ukraine, Poland, and the US simultaneously.
 
 The Salisbury poisoning, with its nerve agents on a park bench, was a reminder that modern warfare could still be lethally old-fashioned when required. And when Europe finally imposed sanctions in 2022, it promptly realised it had forgotten to wean itself off Russian gas, leading to a self-inflicted energy crisis that left households freezing while China happily bought Russian oil at a discount.
 
 {{< details >}}
-**Timeline**  
-**2014** – Russia annexes Crimea  
-**2018** – Salisbury poisoning  
-**2022** – Full-scale invasion of Ukraine; EU imposes sanctions  
-**2023** – Energy prices spike across Europe  
+Timeline:
+2014, Russia annexes Crimea  
+2018, Salisbury poisoning  
+2022, full-scale invasion of Ukraine; EU imposes sanctions  
+2023, energy prices spike across Europe  
 {{< /details >}}
 
 ## Why ‘peace’ is a misnomer
@@ -132,16 +132,17 @@ Is it peace when a country votes for self-harm because it’s been fed lies for 
 No. It’s just war with better PR.
 
 {{< details >}}
-**Possible futures**  
-**Likely** – continued hybrid conflict, with trade and energy policies weaponised behind closed doors, while populists bicker over sovereignty and tech giants hoard data like dragons on a gold pile.  
-**Worst case** – full-scale interstate war returns to Europe through miscalculation or fragmentation, with AI-assisted disinformation campaigns fuelling proxy rebellions and digital sabotage of critical infrastructure.  
-**Best case** – European nations recognise the futility of economic siege tactics, invest in energy independence and digital sovereignty, and finally admit that peace requires more than PR and procurement contracts.  
-{{< /details >}}
+Possible futures:
 
----
+Likely: continued hybrid conflict, with trade and energy policies weaponised behind closed doors, while populists bicker over sovereignty and tech giants hoard data like dragons on a gold pile.
+
+Worst case: full-scale interstate war returns to Europe through miscalculation or fragmentation, with AI-assisted disinformation campaigns fuelling proxy rebellions and digital sabotage of critical infrastructure.
+
+Best case: European nations recognise the futility of economic siege tactics, invest in energy independence and digital sovereignty, and finally admit that peace requires more than PR and procurement contracts.
+{{< /details >}}
 
 ## Resources
 
-- Naomi Klein, *The Shock Doctrine* https://naomiklein.org/shock-doctrine/ – For how crises are turned into cash  
-- Adam Tooze, *Crashed* https://www.penguin.co.uk/books/296442/crashed-by-adam-tooze/9780141987648 – A forensic dissection of modern financial warfare  
-- Peter Pomerantsev, *This Is Not Propaganda* https://www.faber.co.uk/product/9780571338641-this-is-not-propaganda/ – On how truth itself is the first casualty in information war
+- Naomi Klein, *The Shock Doctrine* https://naomiklein.org/shock-doctrine, for how crises are turned into cash  
+- Adam Tooze, *Crashed* https://www.penguin.co.uk/books/296442/crashed-by-adam-tooze/978014198764, forensic dissection of modern financial warfare  
+- Peter Pomerantsev, *This Is Not Propaganda* https://www.faber.co.uk/product/9780571338641-this-is-not-propaganda/, on how truth itself is the first casualty in information war

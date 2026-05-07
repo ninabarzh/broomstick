@@ -12,7 +12,6 @@ tags:
   - inductive
 ---
 
-
 ## Premise: Dysfunctional by design
 
 By 2035, BRICS+ doesn’t collapse under its own contradictions, nor does it morph into a cohesive challenger to the G7. Instead, it stumbles into superpower status by a series of messy accidents, economic disasters, and geopolitical farces. Less deliberate empire, more Frankenstein with a membership card.
@@ -21,22 +20,18 @@ As the West self-harms through sanctions, debt cliffs, and diplomatic hubris, BR
 
 <span style="color:#ffbf00;text-align:center;">*They didn’t build an empire. They inherited the scrapyard and accidentally started selling tickets.*, Anonymous EU diplomat, 2034</span>
 
----
-
-## The dollar’s slow-motion collapse (2026–2030)
+## The dollar’s slow-motion collapse (2026 to 2030)
 
 A US debt ceiling crisis sparks what analysts later dub “the Taper Tantrum 2.0”. When a last-minute budget standoff leads to a missed Treasury payment, global markets convulse. The US dollar, once the undisputed anchor of global finance, suffers a confidence crisis. China and India, already trading in local currencies within BRICS+ frameworks, weather the storm better than expected. The yuan and rupee don’t replace the dollar, but they do become credible enough alternatives to reduce panic.
 
 <span style="color:#ffbf00;text-align:center;">*We didn’t switch because we trusted them. We switched because we trusted Washington less.*, NDB internal memo, 2027</span>
 
 {{< details >}}
-**Timeline**  
-**2026** - US debt ceiling crisis triggers partial Treasury sell-off  
-**2027** - China-India bilateral trade surpasses 50% in local currencies  
-**2028** - IMF warns of "dollar fragmentation"  
+Timeline:
+2026, US debt ceiling crisis triggers partial Treasury sell-off  
+2027, China-India bilateral trade surpasses 50% in local currencies  
+2028, IMF warns of "dollar fragmentation"  
 {{< /details >}}
-
----
 
 ## The NDB’s ‘too big to fail’ moment (2031)
 
@@ -47,13 +42,11 @@ They issue the “Bond of Last Resort”, a gold-backed debt instrument with the
 <span style="color:#ffbf00;text-align:center;">*Imagine if the Titanic floated because the sea evaporated.*, South African finance minister, 2032</span>
 
 {{< details >}}
-**Timeline**  
-**2030**: Major defaults predicted in NDB loan portfolio  
-**2031**: BRICS+ launches the “Bond of Last Resort”  
-**2032**: Bond becomes preferred safe-haven asset in South Asia and Africa  
+Timeline:
+2030, major defaults predicted in NDB loan portfolio  
+2031, BRICS+ launches the “Bond of Last Resort”  
+2032, Bond becomes preferred safe-haven asset in South Asia and Africa  
 {{< /details >}}
-
----
 
 ## The NATO-Russia ceasefire (2032)
 
@@ -64,12 +57,10 @@ It’s not quite peace, but the optics are good enough. Suddenly, BRICS+ isn’t
 <span style="color:#ffbf00;text-align:center;">*If Russia’s the drunk uncle, India just offered him a couch, a job, and a haircut.*, Think Tank Weekly, 2032</span>
 
 {{< details >}}
-**Timeline**  
-**2032**: India brokers BRICS+ ceasefire terms with Russia  
-**2033**: First BRICS+ reconstruction loans disbursed to Russian border regions  
+Timeline:
+2032, India brokers BRICS+ ceasefire terms with Russia  
+2033, first BRICS+ reconstruction loans disbursed to Russian border regions  
 {{< /details >}}
-
----
 
 ## Saudi Arabia’s ‘yuan oil’ gambit backfires (2033)
 
@@ -80,13 +71,11 @@ Inexplicably, it catches on in Africa, where mobile payments outpace banks. BRIC
 <span style="color:#ffbf00;text-align:center;">*We swapped a dollar cartel for a fintech bazaar.*, African Central Bank governor, 2034</span>
 
 {{< details >}}
-**Timeline**  
-**2033**: Saudi Arabia shifts to yuan pricing  
-**2033 Q3**: Petro-dirham launched in UAE  
-**2034**: Petro-dirham surpasses CFA franc in West African digital trade  
+Timeline:
+2033, Saudi Arabia shifts to yuan pricing  
+2033 Q3, Petro-dirham launched in UAE  
+2034, Petro-dirham surpasses CFA franc in West African digital trade  
 {{< /details >}}
-
----
 
 ## The great BRICS+ default (2034)
 
@@ -97,12 +86,10 @@ The scheme is absurd, but surprisingly popular. Rogue states queue up to trade m
 <span style="color:#ffbf00;text-align:center;">*You’re in debt? Fantastic! Have you considered contributing a drone swarm?*, NDB brochure, probably</span>
 
 {{< details >}}
-**Timeline**  
-**2034**: Argentina and Egypt default on major loans  
-**Late 2034**: “Debt-for-Drones” swaps approved at emergency BRICS+ summit  
+Timeline:
+2034, Argentina and Egypt default on major loans  
+late 2034, “Debt-for-Drones” swaps approved at emergency BRICS+ summit  
 {{< /details >}}
-
----
 
 ## The 2035 outcome: A Frankenstein superpower
 
@@ -126,8 +113,6 @@ Germany now needs yuan for lithium, dirhams for oil, and gold to stabilise the B
 
 <span style="color:#ffbf00;text-align:center;">*Call it what you want. It walks like a superpower, it talks like a superpower and it smells faintly of crude oil and panic.*, Polish foreign minister, 2035</span>
 
----
-
 ## Why this could actually happen
 
 The West, it turns out, is BRICS+’s best recruiting agent. Weaponised sanctions against Russia, trade wars with China, and internal financial cliffs within the US all signal to Global South nations that the old order is fragile. Even those skeptical of BRICS+ begin hedging their bets.
@@ -143,14 +128,12 @@ India, despite its suspicions of China, finds itself at the heart of mediation e
 <span style="color:#ffbf00;text-align:center;">*It’s the kind of empire you get when nobody’s driving and the brakes are broken.*, Indian academic, New Delhi School of International Affairs</span>
 
 {{< details >}}
-**Timeline**  
-**2026–2030**: Dollar erosion and BRICS+ currency improvisations  
-**2031**: NDB crisis births the Bond of Last Resort  
-**2032–2035**: Security and energy structures emerge by accident  
-**2035**: BRICS+ recognised (begrudgingly) as a geopolitical bloc  
+Timeline:
+2026 to 2030, dollar erosion and BRICS+ currency improvisations  
+2031, NDB crisis births the Bond of Last Resort  
+2032 to 2035, security and energy structures emerge by accident  
+2035, BRICS+ recognised (begrudgingly) as a geopolitical bloc  
 {{< /details >}}
-
----
 
 ## Final thought
 
