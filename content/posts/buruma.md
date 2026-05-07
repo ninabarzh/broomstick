@@ -74,10 +74,10 @@ where the fault lines lie, and sees them widening. Buruma paints a picture of a 
 apathy, and techno-bureaucratic drift. Whether it galvanises reform or serves merely as a final warning depends on 
 whether the Netherlands is still interested in completing the project it began over two centuries ago.
 
-**Details:**
+Details:
 
-* **Author:**: [Ybo Buruma](https://nl.wikipedia.org/wiki/Ybo_Buruma)
-* **Title:** [De Onvoltooide rechtsstaat](https://uitgeverijprometheus.nl/boeken/onvoltooide-rechtsstaat-gebonden/)
-* **Publisher:** Prometheus
-* **Formats:** Hardcover (€39.99), E-book (€23.99)
-* **Release date:** 4 June 2025
+* Author: [Ybo Buruma](https://nl.wikipedia.org/wiki/Ybo_Buruma)
+* Title: [De Onvoltooide rechtsstaat](https://uitgeverijprometheus.nl/boeken/onvoltooide-rechtsstaat-gebonden/)
+* Publisher: Prometheus
+* Formats: Hardcover (€39.99), E-book (€23.99)
+* Release date: 4 June 2025

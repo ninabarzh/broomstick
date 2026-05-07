@@ -80,7 +80,7 @@ suggest that such philosophical legacies contribute to
 
 ## Why “woke” evokes such fierce reaction
 
-[For as much as there **is** a left vs right]({{< relref "posts/left-right.md" >}}), on the left, the word appears to 
+For as much as there *is* a left vs right, on the left, the word appears to 
 be cherished as a moral code: a recognition of injustice and a commitment to equity. On the right, it seems to be 
 reviled as dogma masquerading as decency. It is characterised by critics as overreach, authoritarian thought control, 
 or simply virtue signalling. Corporations co‑opt the term in marketing campaigns, a phenomenon called 

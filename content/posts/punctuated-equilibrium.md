@@ -16,24 +16,24 @@ When we imagine evolution, we often picture it unfolding at a leisurely, predict
 
 That’s the idea behind *punctuated equilibrium* (PE), a theory introduced in the 1970s by palaeontologists Stephen Jay Gould and Niles Eldredge. Rather than a smooth evolutionary curve, PE proposes a jagged rhythm: long periods where species remain largely unchanged, punctuated by short, intense episodes of change, often triggered by environmental disruption or internal developmental shifts.
 
-## Evolution’s stutter: bursts and pauses
+## Bursts and pauses
 
 According to PE, most species spend the majority of their existence in stasis, genetically stable, morphologically consistent. Then, at certain critical moments, new forms arise rapidly, either replacing older species or branching off into something entirely novel. Crucially, these changes aren’t necessarily driven by slow adaptation to the environment. Instead, they may be set off by deep internal mechanisms, developmental thresholds, genetic bottlenecks, or a change in the rules during embryonic growth.
 
 The fossil record supports this view. Rather than neat transitions from one form to another, what we often see are abrupt appearances and disappearances. Species emerge, linger in relatively stable form for thousands or millions of years, then vanish or morph with surprising speed. PE doesn’t see these patterns as gaps or accidents, it sees them as the real shape of evolution.
 
-## The sphenoid bone: a quiet revolutionary
+## The sphenoid bone
 
 One of the most compelling biological examples of this principle in action may lie buried at the base of our skull. 
 [Meet the sphenoid bone]({{< relref "posts/sphenoid-bone.md" >}}): a butterfly-shaped piece of anatomy that few people outside of medicine or palaeoanthropology ever think about. But according to French researcher Anne Dambricourt-Malassé, this humble bone may have helped propel major leaps in human evolution.
 
-In early foetal development, the sphenoid begins as two separate parts. Around weeks 8–12 of gestation, it undergoes a subtle but critical angular shift, called basicranial flexion. This isn’t just a bit of cranial origami. That single flexion alters the shape of the skull base, repositions the spinal connection (the foramen magnum), and creates space for the brain, particularly the frontal lobes, to expand. It also flattens the face, shortens the jaw, and even contributes to the development of the chin.
+In early foetal development, the sphenoid begins as two separate parts. Around weeks 8 to 12 of gestation, it undergoes a subtle but critical angular shift, called basicranial flexion. This isn’t just a bit of cranial origami. That single flexion alters the shape of the skull base, repositions the spinal connection (the foramen magnum), and creates space for the brain, particularly the frontal lobes, to expand. It also flattens the face, shortens the jaw, and even contributes to the development of the chin.
 
 Here’s where PE comes into play. This single developmental adjustment, likely triggered by a threshold effect in gene regulation or embryonic dynamics, has wide-ranging consequences, exactly the sort of sudden, systemic change PE describes. It doesn’t require hundreds of generations of selection. It’s a leap, made possible by the internal logic of development itself.
 
 The fossil record reflects this. Over time, we see an increasing degree of basicranial flexion in hominins, *Australopithecus* with a cranial base angle of about 140°, *Homo erectus* at 130°, and modern humans down to 120°. Each step is linked to major anatomical and behavioural shifts: larger brains, upright posture, smaller faces. And all of it may hinge on how early in gestation the sphenoid bends. It’s a masterclass in punctuated change, quietly orchestrated from within the embryo.
 
-## Shaking the foundations: why PE matters
+## Shaking the foundations
 
 Punctuated equilibrium doesn’t just shake up palaeontology. It forces a broader reconsideration of how evolutionary change actually unfolds. For one, it makes sense of why transitional fossils are so rare. If most change happens in small, isolated populations over geologically short periods, there may not *be* many fossils to find.
 

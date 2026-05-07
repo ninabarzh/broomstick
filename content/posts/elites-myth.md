@@ -12,8 +12,6 @@ It’s a neat little idea. Trouble is, it’s also largely nonsense.
 
 This article unpacks the claim, considers its strongest arguments, and then gives it the send-off it deserves, ideally with a clipboard and a gentle push down the escalator of wishful thinking.
 
----
-
 ## Who exactly are these 'elites'?
 
 Before throwing darts, it’s useful to define the dartboard.
@@ -26,8 +24,6 @@ Finally, there's the knowledge class, professionals in finance, tech, or high-en
 
 In short, when critics complain of an “elite surplus,” they mean a ruling class that feels economically bulletproof, culturally self-referential, and politically evasive. A fair description, if not always an accurate diagnosis.
 
----
-
 ## The destabilisation thesis, at its strongest
 
 To take the claim seriously, as we could, if only to dismantle it properly, let’s consider its strongest arguments. The ‘too many elites’ thesis rests on three main pillars: economic disconnection, cultural estrangement, and political fallout.
@@ -38,8 +34,6 @@ Culturally, the thesis points to a widening values gap. Educated elites often es
 
 Politically, the fallout is unmistakable. Across Europe, populist parties and movements have capitalised on anti-elite sentiment. Geert Wilders’ PVV surged in the 2023 Dutch elections on a platform aimed squarely at ‘Haagse regenten’, while in Italy, Giorgia Meloni’s rise was lubricated by a steady stream of anti-Brussels rhetoric. In Hungary, Viktor Orbán has mastered the game: presenting himself as the champion of national sovereignty against ‘globalist elites’, even as he consolidates his own hold over universities, media, and the courts. Whether the elites in question are Eurocrats, virologists, or climate scientists, the populist message is consistent: they rule, we pay.
 
----
-
 ## Where this theory goes wrong
 
 For all its emotional pull, the ‘too many elites’ theory begins to unravel under closer inspection. The diagnosis is too tidy; the world, regrettably, is not.
@@ -49,8 +43,6 @@ To begin with, economic inequality is real, but it’s not the fault of elites p
 On the cultural front, the idea that elites are somehow disconnected from “real life” is a seductive myth. It’s true that elite institutions sometimes promote values unfamiliar or unwelcome in more traditional communities. But much of this so-called elite culture is widely shared. In Germany, where regional pride is fierce, Bavarians and Berliners may eye each other suspiciously, but both still watch *Tatort*. The divide is increasingly one of narrative framing, not actual experience.
 
 Politically, the theory suffers from selective amnesia. Yes, populist movements have surged by railing against technocrats. But when in power, they often centralise authority, hollow out oversight, and suppress dissent. In Poland, PiS’s judiciary reforms weren’t a correction to elite excess, they were a power grab. The elites they replaced, central bankers, civil jurists, medical experts, may not be exciting, but they are functional. Without them, we get chaos in a better suit.
-
----
 
 ## Why the myth persists: comfort in blame
 
@@ -64,8 +56,6 @@ Finally, there’s the political utility. Anti-elite rhetoric is a cheap form of
 
 In essence, the myth persists not because it's accurate, but because it’s *useful*. For politicians, pundits, and voters alike.
 
----
-
 ## Historical context: elites as engines of progress
 
 There’s also a danger in forgetting what elites are actually for.
@@ -76,19 +66,15 @@ The Dutch welfare state, with its strong social housing and healthcare systems, 
 
 The idea that expertise is a problem, rather than a resource, is not just inaccurate. It’s dangerous.
 
----
-
 ## So… too many elites?
 
-Not exactly. If anything, what we suffer from is **too little democratic embedding of elite power**. It’s not that society has too many educated people, we probably have too few. It’s that credentials have become a stand-in for moral authority, and technocratic decisions are often made without the legitimacy of public debate.
+Not exactly. If anything, what we suffer from is too little democratic embedding of elite power. It’s not that society has too many educated people, we probably have too few. It’s that credentials have become a stand-in for moral authority, and technocratic decisions are often made without the legitimacy of public debate.
 
 Knowledge, by itself, is not a problem. Detached knowledge is. A society that outsources governance to its think tanks and consultancies, without mechanisms for scrutiny or redress, isn’t suffering from an elite surplus, it’s suffering from a deficit of democracy.
 
 The solution isn’t to torch the universities or retire the experts. It’s to re-root them in public service and democratic accountability.
 
----
-
-## Conclusion: it’s not elites, it’s unaccountable power
+## It’s not elites, it’s unaccountable power
 
 The ‘oversupply of elite’ thesis is a comforting fiction for a disorienting age. It gives the appearance of analysis while offering only scapegoating. Real social and economic crises are reduced to a single, convenient villain. But this caricature conceals more than it reveals.
 

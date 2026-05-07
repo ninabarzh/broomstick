@@ -16,18 +16,18 @@ cover:
 ---
 
 We humans adore a simple dichotomy. It’s frightfully efficient. White or non-white. Male or female. Disabled or abled. 
-These binaries promise neatness in a messy world – a cognitive filing system for complex humanity. Yet as philosopher 
+These binaries promise neatness in a messy world, a cognitive filing system for complex humanity. Yet as philosopher 
 Val Plumwood observed, these "master/slave" frameworks operate through five dangerously slick mechanisms: 
 backgrounding, radical exclusion, incorporation, instrumentalism, and homogenisation. The result? A society 
 perpetually queueing at the wrong post office counter.  
 
 ## The five quiet engines of oppression  
 
-Plumwood’s mechanisms work like bureaucratic stealth. Backgrounding treats one identity as society’s default setting – 
+Plumwood’s mechanisms work like bureaucratic stealth. Backgrounding treats one identity as society’s default setting, 
 the unmarked "normal" against which others are measured. Consider how medical textbooks historically used white male 
 bodies as universal templates. Radical exclusion rigidly polices borders: trans folk facing scrutiny over toilet 
 access, or mixed-race individuals pressured to "pick a side". Incorporation defines the "slave" category purely by 
-its relationship to the master ("disabled" meaning "needs help"). Instrumentalism reduces people to tools – like 
+its relationship to the master ("disabled" meaning "needs help"). Instrumentalism reduces people to tools, like 
 expecting minority staff to fix diversity problems unpaid. Homogenisation flattens groups: assuming all disabled 
 people need identical ramps.  
 
@@ -37,10 +37,8 @@ The fallout includes the myth of reverse racism, where equality initiatives spar
 benefiting from centuries of backgrounding. It’s like complaining the deck chairs were rearranged after your yacht 
 sank the Titanic. Homogenisation breeds absurd policies: "diverse hiring" that recruits only Oxbridge-educated 
 minorities. Most perniciously, binaries commit identity violence by denying intersectionality. A Black woman faces 
-compounded racism and sexism – yet policies address either "race" or "gender" separately. Her experience becomes 
+compounded racism and sexism, yet policies address either "race" or "gender" separately. Her experience becomes 
 a bureaucratic hot potato.  
-
----
 
 ## Small cuts, big wounds  
 
@@ -68,8 +66,6 @@ Redirect homogenising questions: *"I speak only for myself, but Ada in legal led
 Weaponise bureaucracy: *"Confirming you asked me (sole female engineer) to plan the Diwali party. How does this 
 align with my promotion goals?"*  
 
----
-
 ## Sharpening the scalpels: precision strikes
 
 or, How to dismantle the master’s house with his own paperclip.
@@ -86,7 +82,7 @@ or, How to dismantle the master’s house with his own paperclip.
 
 *Scenario:* A Yorkshire accent at a London firm prompts: "How *quaint*! Where’s that from?"  
 
-*Scalpel:* *"A South Yorkshire vowel shift. Fascinating how dialects evolve – like RP emerging from boarding schools."*  
+*Scalpel:* *"A South Yorkshire vowel shift. Fascinating how dialects evolve, like RP emerging from boarding schools."*  
 
 *Why it cuts:* Reframes "quaint" as academic. Mentions RP’s artificial origins.  
 
@@ -132,7 +128,7 @@ not hostile.
 
 *Scenario:* At parent-teacher night, staff mispronounce "Chowdhury" thrice before sighing, "Can we just call you Chloe?"
 
-*Scalpel:* Sweetly reply: *"How thoughtful! I’ll call you ‘Brenda’ then – same energy, yes? Or we could practise 
+*Scalpel:* Sweetly reply: *"How thoughtful! I’ll call you ‘Brenda’ then, same energy, yes? Or we could practise 
 ‘Chow-dhury’ for 17 seconds? I’ve timed it."* Proceeds to stare at wristwatch.
 
 *Why it cuts:* Forces discomfort calculation: 17 seconds of effort vs. lifelong microaggression.
@@ -151,7 +147,7 @@ promises? Brilliantly meta. Could I get that interpretation in writing for my Di
 *Scenario:* HR distributes "wellness packs": scented candles (women) and stress balls (men).
 
 *Scalpel:* Swap yours with a male colleague’s, then email HR: *"Loving Dave’s lavender candle! Really soothes my 
-coding rage. He’s adoring the pink stress ball – says it ‘challenges his masculinity’. Shall we document these 
+coding rage. He’s adoring the pink stress ball, says it ‘challenges his masculinity’. Shall we document these 
 breakthrough outcomes?"*
 
 *Why it cuts:* Creates data-points of non-compliance. "Document" is the honey trap.
@@ -160,16 +156,14 @@ breakthrough outcomes?"*
 
 *Scenario:* Colleague mocks your email signature ("they/them"): "Bloody snowflakes! I identify as a teapot!"
 
-*Scalpel:* Send a meeting invite: *"Re: Teapot identity exploration – 2pm Thursday? Agenda: Assess kettle compatibility;
+*Scalpel:* Send a meeting invite: *"Re: Teapot identity exploration, 2pm Thursday? Agenda: Assess kettle compatibility;
 Strategise spout maintenance; Serious question: Why does this threaten you?"*
 
 *Why it cuts:* Literalises their absurdity while smuggling in the lethal final line.
 
----
-
 ## The universal scalpel whetstone
 
-When binaries bite, you can choose to use the **Three-Step Bourgeois Bafflement Technique™**:
+When binaries bite, you can choose to use the Three-Step Bourgeois Bafflement Technique™:
 
 * Mirror their absurdity verbatim ("So to clarify: you’re saying ramps should approach stairs but never replace them?").
 * Reframe as bureaucratic curiosity ("Fascinating! Could we add this to the accessibility audit as ‘aspirational ramp theory’?").
@@ -185,17 +179,15 @@ When handed emotional labour, redirect gracefully: *"‘Inclusive Employers UK�
 
 Even this sacred beverage defies binaries. Is builder’s brew "proper" tea while chai is "exotic"? Must 
 drinkers swear allegiance to milk or sugar factions? Absurd. Demand "prefer not to say" options on forms. 
-Compliment an alopecia hairstyle as "interesting", not "brave". Book "accessibility audits" – not "diversity training" 
-– focusing on *spaces* over *faces*.  
+Compliment an alopecia hairstyle as "interesting", not "brave". Book "accessibility audits" rather than "diversity training", 
+focusing on *spaces* over *faces*.  
 
 ### Why papercuts win wars 
 
 Binaries rely on silent complicity. Each scalpel act forces visibility (taping storage boxes in disabled loos), 
 creates paperwork (emails requiring replies), and wastes oppressors’ time (making them re-tag, re-file, re-explain). 
-Like water wearing down stone, it’s the **relentless drip** of corrections that collapses master/slave frameworks. 
+Like water wearing down stone, it’s the relentless drip of corrections that collapses master/slave frameworks. 
 Stay sharp. Stay petty. The cabinets *will* bleed.  
-
----
 
 ## Special thanks to
 

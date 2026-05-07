@@ -1,5 +1,5 @@
 ---
-title: "Human–AI symbiosis (best case)"
+title: "Human-AI symbiosis (best case)"
 subtitle: "A short story about the future that did not ruin everything"
 description: "A hopeful scenario where humans and AI evolve in tandem, supported by democratic oversight, ethical design, and creative partnerships. Utopian? Maybe. Possible? Just barely."
 date: 2025-07-21T00:00:00.000Z
@@ -12,10 +12,10 @@ Pau was late, again, thanks to the AI-run tram that insisted on pausing for prec
 
 "Urban harmony my arse," he muttered, stepping out into Barcelona’s midday sun, which was now neatly moderated by micro-reflective paint and smart algae rooftops. Somewhere, a city-wide AI had just nudged the temperature down a degree using a predictive cloud-seeding protocol. It was not magic. It just felt that way.
 
-He arrived at the **Digital Democracy Hall** just in time to join the citizen jury’s latest review: the deployment of 
+He arrived at the Digital Democracy Hall just in time to join the citizen jury’s latest review: the deployment of 
 a new language model in Catalan public schools. Not an upgrade to GPT-7, mind you. This was a locally trained model called *Flor*. Designed, built, and trained in Catalunya. Built by people who knew the region, the language, the kids, and the parents, not just their metadata.
 
-Pau tapped in his vote on the jury’s decentralised panel: **yes, but with open-source oversight and a six-month ethics audit**.
+Pau tapped in his vote on the jury’s decentralised panel: yes, but with open-source oversight and a six-month ethics audit.
 
 He was not anti-AI. He just preferred it to be house-trained.
 
@@ -29,7 +29,7 @@ The water use was down. The carbon footprint? Negligible. And no one had had to 
 
 Symbiosis, people called it now. Pau remembered when that word was reserved for TED Talks and marketing fluff. But something had shifted around 2029, after the third global protest wave, the second deepfake war scare, and the quiet collapse of two megaplatforms under regulatory siege.
 
-The European Union passed the **AI Act with Teeth**. The OECD coordinated a global *AI Carbon Index*. And towns across the world, from Oslo to Dhaka, began designing their own local models for weather, education, translation, and transport.
+The European Union passed the AI Act with Teeth. The OECD coordinated a global *AI Carbon Index*. And towns across the world, from Oslo to Dhaka, began designing their own local models for weather, education, translation, and transport.
 
 AI decentralised. Not because Big Tech wanted it to, but because people stopped asking for permission.
 
@@ -41,7 +41,7 @@ The children were frighteningly fluent in these things. "Code-switching" now inc
 
 Not everything was fixed, of course. Some governments still flirted with surveillance AI. Others pretended fusion was just around the Pauner (it was not). But carbon capture models were making gains, and traffic AI had genuinely reduced emissions in dozens of cities.
 
-Even the United Nations had surprised everyone by launching the **AI Peace Dividend Fund**, redistributing tax revenue from high-emission models to fund education and clean water in under-resourced regions. It had not ended war. But it had made starting one more awkward.
+Even the United Nations had surprised everyone by launching the AI Peace Dividend Fund, redistributing tax revenue from high-emission models to fund education and clean water in under-resourced regions. It had not ended war. But it had made starting one more awkward.
 
 Palantir, of all companies, had repurposed its predictive analytics to flag humanitarian crises two weeks before they hit the headlines. Pau still did not trust them. But trust, these days, was layered.
 
@@ -60,7 +60,5 @@ He remembered the panic years. The job cuts. The misinformation wars. The long, 
 But surviving. Evolving. Learning to work with machines that did not understand love, but could sort recycling properly and write haikus about cheese.
 
 That counted for something.
-
----
 
 PS: *"The machines are clever. But we are still in charge of wonder."*, a scenario for [futures of AI]({{< relref "posts/futures-of-ai.md" >}}).

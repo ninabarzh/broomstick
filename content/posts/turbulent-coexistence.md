@@ -63,7 +63,7 @@ Germany had rolled out a scheme called *Kurzarbeit für KI*, a sort of part-time
 
 Carbon taxes on data centres funded a small wind farm outside Vienna. Artist collectives formed certification groups to label work as “authentically human.” Sometimes this involved finger-painting with actual blood. Elijah tried not to judge.
 
-Worker co-ops like the **AI Oversight Guild** sprung up. They reviewed models before deployment, boycotted exploitative firms, and occasionally made headlines for something principled and unpopular.
+Worker co-ops like the AI Oversight Guild sprung up. They reviewed models before deployment, boycotted exploitative firms, and occasionally made headlines for something principled and unpopular.
 
 In cafés and backrooms, freelancers traded tips on how to market themselves as “AI-compatible.” The term meant nothing. Everyone used it. Those who succeeded were simply lucky.
 
@@ -84,7 +84,5 @@ Progress arrived tangled in lawsuits and protest hashtags. Innovation wore a har
 But somehow, messily, imperfectly, they adapted. People adapted.
 
 The world had not collapsed. That, at least, was something.
-
----
 
 PS: In a museum I found a human-AI collaborative sculpture standing next to a plaque: *“This piece is unfinished. And so are we.”*, a scenario for [futures of AI]({{< relref "posts/futures-of-ai.md" >}}).

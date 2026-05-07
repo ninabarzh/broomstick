@@ -22,8 +22,6 @@ Or, perhaps more plausibly, because the world is too much of a mess to continue.
 [This is a path where the AI revolution runs into mud]({{< relref "posts/futures-of-ai.md" >}}), political, social, 
 economic, and spins its wheels. It is less exciting than robot uprisings, but somewhat more realistic.
 
----
-
 It is almost quaint how the world once worshipped artificial intelligence like it was the second coming of progress. The 2020s promised a future where machines would effortlessly solve our problems, if only we let them. But as the decade wore on, reality had other plans.
 
 Let us start with education, because that was where the cracks first appeared. Automated essay grading systems, championed as a way to save teachers time, quickly revealed their flaws. In 2024, a major school district in the United States quietly discontinued the use of an AI grading tool after complaints mounted that it consistently penalised essays that used creative language or unconventional arguments. Teachers reported that the system was "grading like a robot," missing nuance and context, and students felt unfairly judged. This was not some isolated incident; several districts across Europe and Asia followed suit, recognising that education needed human judgement more than algorithms.
@@ -36,7 +34,7 @@ Tech companies, once the untouchable darlings of innovation, faced mounting poli
 
 Regulation finally caught up. The European Union’s AI Act, enacted in 2027, became a blueprint for responsible AI governance worldwide. It mandated rigorous risk assessments, transparency requirements, and clear liability rules. Unlike the toothless guidelines of the past, these laws came with enforceable penalties. This led to a marked slowdown in the deployment of new AI systems, as firms adjusted to the new reality where flouting rules meant serious fines. It was a reminder that innovation without accountability is a recipe for disaster.
 
-And then the world threw more fuel on the fire. The global energy crisis of 2029–30 caused data centre outages and pushed chip prices to historic highs. Climate-related disasters disrupted supply chains further. Ambitious plans to train ever-larger AI models stalled, as the costs, and optics, became untenable. It was a classic case of “first things first.” Clean water, reliable energy, and food security demanded attention over another trillion-parameter model.
+And then the world threw more fuel on the fire. The global energy crisis of 2029 to 2030 caused data centre outages and pushed chip prices to historic highs. Climate-related disasters disrupted supply chains further. Ambitious plans to train ever-larger AI models stalled, as the costs, and optics, became untenable. It was a classic case of “first things first.” Clean water, reliable energy, and food security demanded attention over another trillion-parameter model.
 
 Investors soon realised that the dazzling demos of hallucinating chatbots and hyper-realistic avatars were not translating into profits. Many AI startups folded or pivoted to more pragmatic applications, such as AI-assisted maintenance in manufacturing or localised health diagnostics. The phrase “AI-powered” went from a headline-grabbing buzzword to a cautionary label in investor memos. The arms race that had seemed inevitable fizzled into cautious, deliberate development.
 

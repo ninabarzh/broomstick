@@ -23,8 +23,6 @@ and genetic research. While their purposes differ, they sometimes point in surpr
 This is a synthesis of stories passed through ceremony and memory alongside insights offered by science, presented 
 not as competition, but as parallel ways of seeing.
 
----
-
 ## Creation and the clans of the Fourth World
 
 According to Hopi cosmology, humanity has passed through three previous worlds. Each one was destroyed after its inhabitants lost their spiritual balance. Fire consumed the First World, ice entombed the Second, and a great flood washed away the Third. Those who remained faithful were guided into the Fourth World through sacred means.
@@ -32,8 +30,6 @@ According to Hopi cosmology, humanity has passed through three previous worlds. 
 Two spiritual figures guide this cosmology: Tawa, the Sun Spirit who brings life, and Spider Grandmother or Spider Woman (*Kokyangwuti*), a wise helper who teaches and protects. She appears in many versions of the story, sometimes leading the faithful through a small hole in the Earth, the *sipapu*, and sometimes guiding them by raft over great waters. In both cases, survival hinges not on strength or conquest, but on inner congruence and humility.
 
 After emerging, the people did not immediately settle. Instead, they separated into clans, each with unique roles and responsibilities. These clans, including the Bear, Water (*Patki*), Corn, Snake, and Fire, embarked on long migrations across the land. They left symbolic messages in the form of petroglyphs: spirals, footprints, and clan symbols etched into rocks throughout the Southwest. These are not abstract decorations. They are declarations of presence, of movement, and of sacred duty fulfilled.
-
----
 
 ## Boat People and ocean paths
 
@@ -45,8 +41,6 @@ A genetic detail deepens the mystery. The Hopi exhibit one of the highest known 
 
 Geographically, such a route appears possible. Equatorial counter-currents in the Pacific could have carried vessels or rafts eastward to the Americas. From there, river systems like the Colorado could have provided a natural corridor into the interior. These possibilities remain unconfirmed, though they are consistent with oral histories that place ancestral movements far beyond the visible Southwest.
 
----
-
 ## Archaeological continuity and Mesa migration
 
 From an archaeological perspective, the Hopi are often linked to the Hisatsinom, also known as the Ancestral Puebloans. These ancestors built vast ceremonial centres and cliff dwellings in the Four Corners region, spanning what is now Arizona, Utah, Colorado, and New Mexico, between roughly 700 and 1300 CE. Sites like Chaco Canyon, Wupatki, and Mesa Verde display complex engineering, celestial alignment, and artistic continuity with present-day Hopi practice.
@@ -55,8 +49,6 @@ The Hisatsinom practiced dry farming, using deep-planting techniques and natural
 
 A prolonged drought in the 13th century appears to have contributed to a large-scale migration away from cliff dwellings. Communities consolidated into mesa-top villages, where water sources were more reliable and defensive positions easier to maintain. One of these settlements, Oraibi, has remained continuously inhabited for over 800 years. It stands as a living link between ancient and modern Hopi life.
 
----
-
 ## Resilience, revival, and sacred land
 
 Hopi society remains rooted in its matrilineal clan system, spiritual calendar, and ancestral agriculture. Blue corn is still grown in dry soil without machinery. Ceremonies for solstices, rains, and the arrival of the kachinas continue each year. The community has faced centuries of pressure, from missionaries, federal relocation policies, extractive industry, and border enforcement, yet their core ways of life persist.
@@ -64,8 +56,6 @@ Hopi society remains rooted in its matrilineal clan system, spiritual calendar, 
 New partnerships have emerged as well. The University of Arizona’s Indigenous Resilience Center works with Hopi farmers to revitalise ancestral seed strains and share data about water access, planting cycles, and climate adaptation. These projects do not treat tradition as a relic. They recognise it as an evolving, tested, and intelligent system of survival.
 
 Challenges remain. The Hopi Reservation, established in 1882, is surrounded on all sides by the Navajo Nation. Areas like Big Mountain continue to spark legal and spiritual conflict over access, sovereignty, and mining. The struggle over this land is not only territorial. It concerns the preservation of sacred places, the autonomy of communities, and the right to speak for one’s own history.
-
----
 
 ## Emergence is ongoing
 

@@ -12,8 +12,6 @@ warned that nonprofits’ data obsession could dehumanise and harm marginalised 
 to reductive metrics, ignoring power dynamics, and prioritising funder dashboards. Now it’s 2025. Technology, AI, 
 data regulation, and global politics have changed, but many threats have only intensified. What changed? 
 
----
-
 ## What has improved
 
 ### Stronger legal guardrails (sometimes)

@@ -96,7 +96,7 @@ that sustain the arms trade. [Palestine Action](https://www.palestineaction.org)
 occupied offices, and disrupted operations. Their methods are direct and increasingly effective.
 
 In Germany, [BDS Berlin](http://bdsberlin.org) and 
-[Aktion Aufschrei – Stoppt den Waffenhandel!](https://aufschrei-waffenhandel.de) have mobilised against Rheinmetall 
+[Aktion Aufschrei, Stoppt den Waffenhandel](https://aufschrei-waffenhandel.de) have mobilised against Rheinmetall 
 and others. In France, 
 [Collectif Palestine Vaincra](https://www.conseil-etat.fr/en/le-conseil-d-etat/actualites/la-dissolution-du-collectif-palestine-vaincra-est-legale) 
 and [Stop Arming Israel](https://stoparmingisrael.org/about) push back through protest and shareholder activism. 
@@ -116,26 +116,22 @@ occupation-linked firms. Ireland’s ongoing financial entanglement with five su
 contradiction. From Scandinavian pension boards to Dutch university campuses, the call is clear: stop monetising 
 war crimes.
 
-## Conclusion: a call for accountability
+## Closing
 
-What we’re witnessing is the industrialisation of human suffering. Every drone strike declared a “success” becomes a 
-brochure highlight. Every civilian death becomes a bullet point in a pitch deck.
+What this amounts to is the industrialisation of human suffering as a marketing exercise. Every drone strike declared a "success" becomes a brochure highlight. Every civilian death becomes a bullet point in a pitch deck.
 
-When weapons marketed as “surgical” kill thousands, who answers for the bloodshed? The general? The minister? 
-The CEO? Or the citizen who shrugs and turns away?
-
----
+The accountability question is not rhetorical, it is procedural. Existing instruments (the Arms Trade Treaty, the ICJ, dual-use export licensing) already cover most of this conduct. The gap is enforcement, not law.
 
 ## Resources
 
 * Dirty secret of Israel’s weapons exports: They’re tested on Palestinians https://www.aljazeera.com/features/2023/11/17/israels-weapons-industry-is-the-gaza-war-its-latest-test-lab)
-* Arms trade with Israel – Uplift https://www.uplift.ie/arms-trade-with-israel/ 
+* Arms trade with Israel, Uplift https://www.uplift.ie/arms-trade-with-israel/ 
 * Arms manufacturers use Israel’s massacres in Gaza to test new technology https://imemc.org/article/arms-manufacturers-use-israels-massacres-in-gaza-to-test-new-technology/ 
-* How to stop the arms trade – New Internationalist https://newint.org/arms/2025/how-stop-arms-trade 
-* How top arms exporters have responded to the war in Gaza – SIPRI https://www.sipri.org/commentary/topical-backgrounder/2024/how-top-arms-exporters-have-responded-war-gaza 
-* Major jump in approved UK arms exports to Israel after Gaza ban – Middle East Eye https://www.middleeasteye.net/news/major-jump-approved-uk-arms-exports-israel-weeks-after-gaza-ban 
+* How to stop the arms trade, New Internationalist https://newint.org/arms/2025/how-stop-arms-trade 
+* How top arms exporters have responded to the war in Gaza, SIPRI https://www.sipri.org/commentary/topical-backgrounder/2024/how-top-arms-exporters-have-responded-war-gaza 
+* Major jump in approved UK arms exports to Israel after Gaza ban, Middle East Eye https://www.middleeasteye.net/news/major-jump-approved-uk-arms-exports-israel-weeks-after-gaza-ban 
 * Vatican position on Arms Trade Treaty https://www.vatican.va/roman_curia/secretariat_state/2011/documents/rc_seg-st_20110711_commercio-armi_en.html 
-* Inside the global arms industry: what a secretive London trade fair reveals – The Conversation https://theconversation.com/inside-the-global-arms-industry-what-a-secretive-london-trade-fair-reveals-about-international-weapons-sales-227176 
+* Inside the global arms industry: what a secretive London trade fair reveals, The Conversation https://theconversation.com/inside-the-global-arms-industry-what-a-secretive-london-trade-fair-reveals-about-international-weapons-sales-227176 
 * SIPRI Arms Transfers Database https://www.sipri.org/databases/armstransfers 
 * Campaign Against Arms Trade (CAAT)  https://caat.org.uk/ 
-* Human Rights Watch – Israel/Gaza coverage https://www.hrw.org/middle-east/n-africa/israel/palestine
+* Human Rights Watch, Israel/Gaza coverage https://www.hrw.org/middle-east/n-africa/israel/palestine

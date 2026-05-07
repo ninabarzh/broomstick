@@ -22,25 +22,25 @@ This new model, built on genomic analysis rather than fossil fragments, reveals 
 
 ## The two-stem model: one species, two deep ancestries
 
-Recent research out of the University of Cambridge has turned the tidy tree of human evolution into something closer to a braid. By analysing the genomes of living people using a novel algorithm called **cobraa**, scientists uncovered evidence that *Homo sapiens* didn’t emerge from a single ancestral group. Instead, we are the product of a remix between two long-separated populations, dubbed **Stem 1** and **Stem 2**, whose genetic divergence dates back roughly **1.5 million years ago**.
+Recent research out of the University of Cambridge has turned the tidy tree of human evolution into something closer to a braid. By analysing the genomes of living people using a novel algorithm called *cobraa*, scientists uncovered evidence that *Homo sapiens* didn’t emerge from a single ancestral group. Instead, we are the product of a remix between two long-separated populations, dubbed Stem 1 and Stem 2, whose genetic divergence dates back roughly 1.5 million years ago.
 
-Stem 1 is responsible for the lion’s share of modern human DNA, around **80%**. This lineage went through a severe bottleneck after splitting from Stem 2, shrinking dramatically in size before slowly recovering. It also happens to be the same population from which Neanderthals and Denisovans later branched off. Stem 2, meanwhile, makes up **about 20%** of our genome, and while smaller in contribution, it brought with it something vital: genes linked to **neural development**, including those involved in synapse formation and cortical organisation. Not all of its genetic material played nicely with Stem 1’s, and many of its contributions were lost through purifying selection, but those that persisted may have given us a cognitive edge.
+Stem 1 is responsible for the lion’s share of modern human DNA, around 80%. This lineage went through a severe bottleneck after splitting from Stem 2, shrinking dramatically in size before slowly recovering. It also happens to be the same population from which Neanderthals and Denisovans later branched off. Stem 2, meanwhile, makes up about 20% of our genome, and while smaller in contribution, it brought with it something vital: genes linked to neural development, including those involved in synapse formation and cortical organisation. Not all of its genetic material played nicely with Stem 1’s, and many of its contributions were lost through purifying selection, but those that persisted may have given us a cognitive edge.
 
-This two-stem model reshapes how we think about our origins. It challenges the long-held idea of a single, linear evolutionary pathway and instead presents *Homo sapiens* as the outcome of **a long separation followed by hybridisation**, with lasting biological consequences.
+This two-stem model reshapes how we think about our origins. It challenges the long-held idea of a single, linear evolutionary pathway and instead presents *Homo sapiens* as the outcome of a long separation followed by hybridisation, with lasting biological consequences.
 
 ## A pan-African origin
 
-The two-stem model fits comfortably within the increasingly accepted **pan-African model** of human evolution. Fossil and genetic data alike point to a scenario in which *Homo sapiens* emerged not from a single population in a single place, but from **interconnected groups scattered across the African continent**.
+The two-stem model fits comfortably within the increasingly accepted pan-African model of human evolution. Fossil and genetic data alike point to a scenario in which *Homo sapiens* emerged not from a single population in a single place, but from interconnected groups scattered across the African continent.
 
-Sites like **Jebel Irhoud** in Morocco, dated to around **300,000 years ago**, show individuals with a mixture of archaic and modern features, a blend that matches the genetic story of Stem 1 and Stem 2 recombining. Rather than a clean transition, human evolution looks more like a mosaic: different traits emerging in different places, shaped by local environments, then gradually brought together through movement and mixing.
+Sites like Jebel Irhoud in Morocco, dated to around 300,000 years ago, show individuals with a mixture of archaic and modern features, a blend that matches the genetic story of Stem 1 and Stem 2 recombining. Rather than a clean transition, human evolution looks more like a mosaic: different traits emerging in different places, shaped by local environments, then gradually brought together through movement and mixing.
 
-Africa's shifting climates likely played a key role. During the Saharan "Green" phases, wetter conditions would have allowed populations to travel and intermingle. In drier times, groups became isolated, developing along their own trajectories. The result: a **structured metapopulation**, not a single origin point.
+Africa's shifting climates likely played a key role. During the Saharan "Green" phases, wetter conditions would have allowed populations to travel and intermingle. In drier times, groups became isolated, developing along their own trajectories. The result: a structured metapopulation, not a single origin point.
 
 ## Out-of-Africa
 
-Modern humans left Africa more than once, but only the **last major migration**, between **70,000 and 50,000 years ago**, managed to colonise the globe. What made this wave different?
+Modern humans left Africa more than once, but only the last major migration, between 70,000 and 50,000 years ago, managed to colonise the globe. What made this wave different?
 
-The answer seems to lie in **adaptability**. These migrating humans carried with them not only the genetic legacy of Stem 2’s neural refinements, but also a growing toolkit of symbolic behaviour and cultural exchange. They adapted to deserts, forests, coasts, and tundra, often within a few generations. Cave art, personal ornamentation, and microlithic tools point to improved problem-solving and planning abilities. Earlier migrations lacked this behavioural flexibility and left few traces behind.
+The answer seems to lie in adaptability. These migrating humans carried with them not only the genetic legacy of Stem 2’s neural refinements, but also a growing toolkit of symbolic behaviour and cultural exchange. They adapted to deserts, forests, coasts, and tundra, often within a few generations. Cave art, personal ornamentation, and microlithic tools point to improved problem-solving and planning abilities. Earlier migrations lacked this behavioural flexibility and left few traces behind.
 
 This cognitive and cultural edge may be the true legacy of the two-stem remix: not just bigger brains, but more adaptable minds.
 
@@ -48,17 +48,17 @@ This cognitive and cultural edge may be the true legacy of the two-stem remix: n
 
 The Jebel Irhoud fossils are central to this story, capturing a moment just after the Stem 1 and Stem 2 populations began recombining. The individuals show modern facial features paired with more archaic braincases, embodying the idea that *Homo sapiens* evolved piecemeal, with different traits emerging at different rates.
 
-Meanwhile, ancient DNA from populations adapted to the **Green Sahara** period (\~10,000 years ago) reveals now-vanished traits that suited a humid environment. As the Sahara dried out again, many of these adaptations were lost, but the traces remain in modern genomes, especially within African populations.
+Meanwhile, ancient DNA from populations adapted to the Green Sahara period (\~10,000 years ago) reveals now-vanished traits that suited a humid environment. As the Sahara dried out again, many of these adaptations were lost, but the traces remain in modern genomes, especially within African populations.
 
 ## The last 10,000 years
 
-Far from slowing down, human evolution has **accelerated in recent millennia**. The development of agriculture, urbanisation, and new diets brought strong selection pressures. The ability to digest milk into adulthood (lactase persistence) spread quickly in Europe and Africa. Populations in the Andes evolved ways to detoxify arsenic in high-altitude water sources. Our immune systems, too, adapted rapidly to the diseases of densely populated settlements.
+Far from slowing down, human evolution has accelerated in recent millennia. The development of agriculture, urbanisation, and new diets brought strong selection pressures. The ability to digest milk into adulthood (lactase persistence) spread quickly in Europe and Africa. Populations in the Andes evolved ways to detoxify arsenic in high-altitude water sources. Our immune systems, too, adapted rapidly to the diseases of densely populated settlements.
 
 In short, the genetic mosaic hasn’t stopped shifting, it’s just playing out on different timescales and in different environments.
 
 ## Then ...
 
-Modern humans are the product of **two deeply divergent ancestral lineages**, recombined during a period of population 
+Modern humans are the product of two deeply divergent ancestral lineages, recombined during a period of population 
 mixing across Africa. Our species didn’t arise in a single spot, but across a network of groups responding to shifting 
 climates and environments. [What set us apart wasn’t a sudden leap]({{< relref "posts/punctuated-equilibrium.md" >}}), 
 but the accumulation of traits over time, guided by genes, geography, and culture.

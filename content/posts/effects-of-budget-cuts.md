@@ -19,9 +19,9 @@ Think of it as a guide to burning down your house to save on heating. Only the h
 
 ## Development aid cuts: the generosity recession
 
-Several European states, **Germany, France, the Netherlands, Finland, and the UK**, have recently rediscovered their inner Scrooge. Official Development Assistance (ODA) is down by between **8% and 37%**, with Germany lopping off a casual **€1.8 billion**, and France, not to be outdone, slicing **\$2.2 billion** from its flagship aid line.
+Several European states, Germany, France, the Netherlands, Finland, and the UK, have recently rediscovered their inner Scrooge. Official Development Assistance (ODA) is down by between 8% and 37%, with Germany lopping off a casual €1.8 billion, and France, not to be outdone, slicing \$2.2 billion from its flagship aid line.
 
-Naturally, the **Least Developed Countries (LDCs)** are now left holding the begging bowl. In places like Cameroon and Colombia, where clinics and classrooms rely heavily on EU and USAID funds, this means scaled-back services and increasingly fragile state institutions.
+Naturally, the Least Developed Countries (LDCs) are now left holding the begging bowl. In places like Cameroon and Colombia, where clinics and classrooms rely heavily on EU and USAID funds, this means scaled-back services and increasingly fragile state institutions.
 
 Meanwhile, both the Netherlands and France have opted to replace old-fashioned “grants” (also known as *help*) with snazzy “investment-linked loans” (also known as *debt*). Not great news for nations already struggling to keep the lights on.
 
@@ -35,9 +35,9 @@ Then there’s the diplomatic fallout. Europe’s reputation as a principled glo
 
 ## Climate finance reductions: penny wise, planetary foolish
 
-The **UK recently redirected £1 billion** from its climate budget to fund military aid to Ukraine, presumably because you can’t bomb a drought. **Norway paused climate finance altogether**, which is quite the choice for a nation getting rich off oil.
+The UK recently redirected £1 billion from its climate budget to fund military aid to Ukraine, presumably because you can’t bomb a drought. Norway paused climate finance altogether, which is quite the choice for a nation getting rich off oil.
 
-Meanwhile, in a classic bit of accounting sleight of hand, many countries are **rebranding existing development aid as “climate finance”**, allowing them to hit targets on paper while doing sweet FA on the ground. Of the **\$27 billion claimed in 2022**, a good chunk was old money with a shiny new label.
+Meanwhile, in a classic bit of accounting sleight of hand, many countries are rebranding existing development aid as "climate finance", allowing them to hit targets on paper while doing sweet FA on the ground. Of the \$27 billion claimed in 2022, a good chunk was old money with a shiny new label.
 
 The most immediate consequence of reduced climate finance is the abandonment of projects that directly shield communities from rising seas, desertification and increasingly unhinged weather patterns. In nations like Bangladesh and Zambia, this translates into real lives lost, flooded homes, failed crops, and mass displacement.
 
@@ -47,13 +47,11 @@ Meanwhile, failure to fund the transition to clean energy abroad means continued
 
 Domestically, climate innovation suffers too. Cuts to Horizon Europe and EU4Health undermine development of green technologies and climate-resilient infrastructure. In practical terms, this delays the rollout of heat-tolerant crops, low-carbon transport, and clean energy storage. The longer Europe lags, the more it must rely on imports from the U.S. and China, putting climate sovereignty in the same basket as solar panel dependency.
 
----
+## Security by subtraction
 
-## Defence splurges: security by subtraction
+The UK’s aid budget dropped to 0.3% of GNI, while defence spending soared to 2.5%. Switzerland diverted CHF 321 million from aid to armed forces, presumably to defend itself against… cows?
 
-The **UK’s aid budget dropped to 0.3% of GNI**, while defence spending soared to 2.5%. Switzerland diverted **CHF 321 million** from aid to armed forces, presumably to defend itself against… cows?
-
-Even as Europe retools for war, its **diplomatic services are starved of funds**. A **€40 million annual shortfall** means fewer peacemakers, more fire-brigading.
+Even as Europe retools for war, its diplomatic services are starved of funds. A €40 million annual shortfall means fewer peacemakers, more fire-brigading.
 
 In theory, beefing up defence could make a region more secure. In practice, however, slashing diplomacy and aid to fund tanks and drones is the geopolitical equivalent of locking your door while your house burns down.
 
@@ -63,13 +61,11 @@ Even within the military, the spending is far from efficient. Multiple overlappi
 
 The deeper irony? By neglecting the root causes of instability, poverty, exclusion, climate change, Europe guarantees it will need ever more military force to contain the fallout. It’s a security spiral powered by fiscal self-sabotage.
 
----
+## The home front cuts
 
-## Health and social budgets: the home front cuts
+The EU4Health programme faces the axe or a merger, imperilling everything from cancer plans to nursing bursaries. Social funds meant to lift families out of poverty are being hoovered into military coffers.
 
-The **EU4Health programme faces the axe** or a merger, imperilling everything from **cancer plans to nursing bursaries**. Social funds meant to lift families out of poverty are being hoovered into military coffers.
-
-No surprise, then, that **20 million children in the EU** now live at risk of poverty. Defence apparently excludes defending children from hunger.
+No surprise, then, that 20 million children in the EU now live at risk of poverty. Defence apparently excludes defending children from hunger.
 
 Cutting social budgets in peacetime is already unpopular. Doing so in a polycrisis is akin to removing lifeboats from the Titanic to make room for deck chairs. Take EU4Health, one of the few initiatives learning the hard lessons of COVID. Its potential elimination risks leaving Europe just as unprepared for the next pandemic as it was for the last one.
 
@@ -79,9 +75,7 @@ The social cost is already being felt. Redirecting funds away from children and 
 
 Slashed education budgets also cripple Europe’s ability to compete in the tech sector. With industry predicting a 15% shortfall in skilled workers by 2030, the continent risks becoming a digital backwater. One where American companies sell the software, Chinese firms build the hardware, and Europeans write long think pieces about sovereignty.
 
----
-
-## Systemic risks: Short-termism in long trousers
+## Short-termism in long trousers
 
 ### Long-term fiscal dangers
 
@@ -97,11 +91,11 @@ The EU’s credibility as a rules-based club depends not only on its treaties, b
 
 Several reforms could restore a semblance of sanity. Introducing “own resources” taxes, like levies on carbon imports or financial transactions, would provide a reliable revenue stream of up to €50 billion/year, independent of national contributions. This would allow the EU to plan beyond the next crisis.
 
-Public–private partnerships, especially in energy and infrastructure, offer another lever. Channelling private capital into development could offset ODA cuts and spark employment, particularly in Africa, where green investments have the potential to create over 3 million jobs. That’s both soft power and smart economics.
+Public-private partnerships, especially in energy and infrastructure, offer another lever. Channelling private capital into development could offset ODA cuts and spark employment, particularly in Africa, where green investments have the potential to create over 3 million jobs. That’s both soft power and smart economics.
 
 But none of this will matter without a shift in mindset, from reactive austerity to proactive resilience. Until then, Europe is budgeting for the symptoms of collapse while starving the systems that prevent it.
 
-## TL;DR: 🔥 How to burn down a continent without lighting a match
+## TL;DR: How to burn down a continent without lighting a match
 
 A cheerful guide to unravelling regional stability through budgetary ‘prudence’:
 
@@ -175,8 +169,6 @@ A cheerful guide to unravelling regional stability through budgetary ‘prudence
 
 </details>
 
----
-
 ## Summary: Penny-wise, Euro-foolish
 
 1. Save billions today → Spend trillions in disaster, war, and migration management tomorrow  
@@ -184,8 +176,6 @@ A cheerful guide to unravelling regional stability through budgetary ‘prudence
 3. Just because you didn’t light the match, doesn’t mean the house didn’t burn
 
 For those brave enough to follow the fiscal entropy in real time, the [Budget Cuts Tracker](https://donortracker.org/publications/budget-cuts-tracker/) awaits. Bring gin.
-
----
 
 ## Resources
 

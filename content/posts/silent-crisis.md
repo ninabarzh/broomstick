@@ -1,6 +1,6 @@
 ---
 title: "Power without accountability: Europe’s silent crisis"
-subtitle: "Beneath Europe’s democratic façade lies a web of decision-making without scrutiny. How power is wielded with minimal visibility, and why it matters."
+subtitle: "Beneath Europe’s democratic façade lies a web of decision-making without scrutiny. How power is wielded with minimal visibility."
 tags: ["accountability", "EU", "governance", "technocracy", "power", "democracy"]
 date: 2025-07-03T00:00:00.000Z
 draft: false
@@ -17,8 +17,6 @@ From national governments to supranational institutions, boardrooms to bureaucra
 
 This is Europe’s silent crisis: power without accountability. Not tyranny, but evaporation. Not jackboots, but spreadsheets. It is a drift, not a coup, and that’s precisely why it’s so dangerous.
 
----
-
 ## The illusion of control
 
 In theory, Europe is a beacon of democratic governance. Its member states hold regular elections. Parliaments debate policy. There are checks and balances, legal recourse, and independent press. And yet, large swathes of decision-making, especially on the most consequential issues, happen in spaces where democratic scrutiny is either weak, delayed, or deliberately obfuscated.
@@ -28,8 +26,6 @@ Consider the Eurogroup: an informal gathering of eurozone finance ministers that
 Nationally, things aren’t always better. In France, Macron’s presidency has leaned heavily on executive orders and technocratic advisory councils. In the Netherlands, major policy frameworks, from nitrogen emissions to digital surveillance, are increasingly delegated to taskforces and consultants rather than parliament. Germany’s rotating coalitions, while stable, often prioritise internal dealmaking over transparent debate. And across the continent, judicial reforms, surveillance laws, and public-private partnerships are quietly reshaping governance away from the public eye.
 
 The net result is a strange duality: democratic theatre above, and technocratic plumbing below, the latter increasingly driving the agenda.
-
----
 
 ## Accountability hollowed out
 
@@ -41,8 +37,6 @@ Or take Big Tech regulation. The EU’s Digital Markets Act is a laudable attemp
 
 Even climate policy, supposedly the EU’s crown jewel, suffers from this dynamic. Emissions targets are announced with fanfare, but implementation is devolved to national authorities, private consultants, and trading mechanisms that most voters neither understand nor influence. Accountability dissolves in layers of delegation.
 
----
-
 ## Why it happens
 
 Power without accountability is not always the product of malice. Often, it’s the unintended consequence of complexity.
@@ -53,8 +47,6 @@ There is also a fear of messiness. Elected officials increasingly outsource diff
 
 Finally, there’s the Brussels effect: a sprawling regulatory machinery that impacts 450 million lives but feels about as accessible as a medieval court. The EU is often accused of democratic deficits, but the real issue is one of *proximity*. The average citizen may vote in European elections, but they rarely see how that vote translates into influence. It doesn’t help that national leaders routinely blame “Europe” for decisions they helped shape behind closed doors.
 
----
-
 ## The populist backlash: wrong answers to the right question
 
 In this vacuum of accountability, populists thrive. Not because they offer viable alternatives, they rarely do, but because they name the problem: a feeling of disconnection, of being ruled by forces that cannot be named or challenged.
@@ -62,8 +54,6 @@ In this vacuum of accountability, populists thrive. Not because they offer viabl
 Whether it’s Wilders, Le Pen, AfD, or Salvini, their success rests not on sophisticated programmes, but on a simple emotional insight: people do not feel heard. They feel managed. And so they rebel, against “the system,” against elites, against anything that smacks of technocracy. Unfortunately, their cures are often worse than the disease.
 
 Where real accountability requires transparency, responsiveness, and pluralism, populism offers only catharsis. It replaces experts with strongmen, checks with loyalty, complexity with slogans. And when the promises fail, the scapegoating begins anew.
-
----
 
 ## Towards accountable power
 
@@ -77,9 +67,7 @@ It means taming the shadow state of consultants, advisory councils, and PPPs. PP
 
 And it means grounding decisions in lived experience. Citizens’ assemblies, local referenda, participatory budgeting, these aren’t gimmicks. They are the handrails of democracy. Without them, complexity becomes a smokescreen for impunity.
 
----
-
-## Conclusion: Europe at a fork in the corridor
+## Europe at a fork in the corridor
 
 Europe has spent decades building structures that protect against war, poverty, and environmental collapse. But in the process, it has too often removed decision-making from public view. The result is a form of enlightened drift: rule by framework, oversight by audit, and legitimacy by press release.
 

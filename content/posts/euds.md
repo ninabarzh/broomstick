@@ -1,6 +1,6 @@
 ---
 title: 'The European Democracy Shield: Noble crusade or bureaucratic cosplay?'
-subtitle: "How Europe’s budget-slashing spree is mortgaging the future for short-term optics."
+subtitle: "Brussels promises an in-depth defence of democratic norms. Whether the EUDS holds the line or just polishes the rhetoric remains an open question."
 date: 2025-07-02T00:00:00.000Z
 draft: false
 tags:
@@ -27,7 +27,7 @@ At its core, the EUDS is about countering foreign meddling, shoring up electoral
 
 The EU excels at legislation. Its shelves groan under the weight of finely crafted directives and impressively worded charters. But enforcement is another matter entirely. The Shield relies on frameworks like the Digital Services Act and the AI Act, which sound resilient until you ask who’s actually enforcing them, and how.
 
-Take Romania. Faced with a surge of election interference via TikTok, its regulators responded with the urgency of a committee on a coffee break. Why? Because coordinating 27 national systems, each jealously guarding its sovereignty, is a logistical nightmare. The European Commission can propose all it wants, but enforcement remains largely a national affair. That means patchy, inconsistent, and, when it really matters, too little, too late.
+Take Romania. Faced with a surge of election interference via TikTok, its regulators responded with the urgency of a committee on a coffee break. Why? Because coordinating 27 national systems, each jealously guarding its sovereignty, is a logistical nightmare. The European Commission can propose all it wants, but enforcement remains largely a national affair. That means patchy, inconsistent, and, when the moment lands, too little, too late.
 
 Meanwhile, look at Poland under its previous government, which methodically dismantled judicial independence while Brussels issued statements that might as well have been written in disappearing ink. If the EU can’t keep its own house in order, the idea that it will fend off Moscow or Beijing begins to look more aspirational than operational.
 

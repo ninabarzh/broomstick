@@ -53,8 +53,6 @@ And *Tawa* still rises every morning over the mesas. Not to judge, but to witnes
 
 We are not above the world. We are within it. The task of being human is not obedience, but relationship.
 
----
-
 It was never just a religious misunderstanding. It was a collision between two incompatible worldviews: one that 
 sees the divine as separate and superior, and one that sees it as immanent and interwoven.
 

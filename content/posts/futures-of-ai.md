@@ -20,8 +20,6 @@ We also explored an oblivious\/congruent scenario (usually to do with either ign
 box), and it looks like a rusting humanoid robot being used as a coat rack in a village pub, or an 
 architecture illustrating [evitability of AI progress]({{< relref "posts/ai-not-inevitable.md" >}}).
 
----
-
 ## Scenario: Human-AI symbiosis (in-the-box best case)
 
 *Humanity does not disappear. It upgrades.*
@@ -33,8 +31,6 @@ This future assumes global cooperation on ethical AI development, major public i
 Its likelihood is *moderately low* because it requires sustained global collaboration and democratic governance in a 
 geopolitical moment allergic to both. It is plausible in pockets (the EU, some cooperatives), but systemic global 
 convergence is a long shot unless crises forces unity.
-
----
 
 ## Scenario: Turbulent coexistence (in-the-box likely case)
 
@@ -53,8 +49,6 @@ outpacing regulation, platforms consolidating power, and governments reacting mo
 foresight and responses based on those. Expect friction, backlash, and instability, especially as energy demands and 
 ecological impacts mount.
 
----
-
 ## Scenario: Dystopian displacement (in-the-box worst case)
 
 *You will be replaced by a chatbot. Please do not resist. It only makes the quarterly reports worse.*
@@ -70,8 +64,6 @@ itself collapses under the weight of unemployment, inequality, and cognitive ove
 Its likeihood is *rising.* If current trends in platform monopolisation, weak governance, and climate inertia continue, 
 this is not just plausible, it is probable. It does not take a Skynet. Just apathy, profit incentives, and poor 
 foresight.
-
----
 
 ## Key cross-cutting issues
 
@@ -115,16 +107,12 @@ appetite for “real” human creativity will shape whether artists thrive or st
 AI can inform public policy or erode it entirely. Think China’s algorithmic control versus the EU’s human-centric model. 
 Governance structures will determine whether we build an informed electorate or an emotionally manipulated user base.
 
----
-
 ### Key variables shaping these scenarios
 
 1. Governance: Will AI be guided by democratic values or corporate-state alliances?
 2. Energy innovation: Can AI evolve without cooking the planet?
 3. Labour adaptation: Will people be supported to transition or abandoned to fend for themselves?
 4. Public agency: Will citizens retain the ability, and the right, to refuse harmful uses of AI?
-
----
 
 We are not locked into these futures. But the longer we leave these questions to be answered by profit margins 
 and proprietary algorithms, the narrower our range of futures becomes. It is not just a matter of what AI *can* do. 
@@ -134,7 +122,7 @@ It is what we are willing to *let* it do, to us, for us, and with us.
 
 *AI promised to save the world, but forgot to factor in the electricity bill. Now we're politely, yet firmly, showing it the door.*
 
-[This is an "enough is enough" scenario]({{< relref "posts/ai-not-inevitable.md" >}}) – where society collectively 
+[This is an "enough is enough" scenario]({{< relref "posts/ai-not-inevitable.md" >}}), where society collectively 
 raises an eyebrow at AI's excesses and stages the 
 most British of rebellions: a orderly yet devastating retreat. Having witnessed data centres guzzling power like a 
 student at an all-you-can-drink brunch, job markets collapsing faster than a supermarket shelf in a panic-buying spree, 
@@ -148,8 +136,6 @@ worst excesses.
 
 And the irony. The pullback itself is enabled by AI. Decentralized open-source models (like EU’s Mistral) expose 
 corporate monopolies, while activists use AI to track and boycott high-emission data centers.
-
----
 
 Just scenarios, these. All of them. Just hathangers for thinking things through. The real question is: which direction 
 are we encouraging, consciously or not? Pick your story. Write another. Do not wait for algorithms to write the ending.

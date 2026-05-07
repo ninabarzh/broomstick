@@ -10,8 +10,6 @@ We often think of democratic deficits as abstract, something that lives in Bruss
 
 Here's how it plays out across key sectors:
 
----
-
 ## Climate and energy, lofty goals, murky delivery
 
 Europe’s climate policy is a paradox: ambitious in targets, opaque in implementation.
@@ -21,8 +19,6 @@ The EU Green Deal sets sweeping goals, net-zero by 2050, 55% cuts by 2030, but t
 Meanwhile, *greenwashing* is rife. Companies meet vague sustainability targets by buying offset credits from halfway across the world, often in schemes that never get audited. You pay more for “climate-responsible” power. The rainforest remains unimpressed.
 
 Who’s in charge? That depends on what’s gone wrong.
-
----
 
 ## Technology and digital policy, innovation without supervision
 
@@ -34,8 +30,6 @@ Meanwhile, citizens’ digital rights, privacy, consent, algorithmic fairness, a
 
 Who holds the reins? Ostensibly data protection regulators. In reality, lawyers and lobbyists.
 
----
-
 ## Healthcare, everyone’s responsibility, no one’s fault
 
 Healthcare is still largely a national competence in the EU, but supranational influence is growing, especially after COVID.
@@ -46,8 +40,6 @@ At the national level, decisions about hospital closures, digitalisation, or hea
 
 Who makes the call? Health ministers, EU health authorities, corporate partners, or whichever one isn’t in front of a camera that day.
 
----
-
 ## Finance and economic governance, numbers rule, humans drool
 
 Remember the euro crisis? Austerity measures in Greece, Spain, and Portugal were enforced not by elected parliaments but by the infamous Troika, the ECB, European Commission, and IMF, three institutions that answer to different masters and have very little voter input.
@@ -57,8 +49,6 @@ Budgetary rules like the Stability and Growth Pact still constrain national gove
 Meanwhile, in places like Italy and France, national budgets are "pre-checked" by the Commission before they’re voted on by domestic parliaments. It’s accountability in reverse: the spreadsheet comes before the vote.
 
 Who’s steering the economy? The Commission, the ECB, and invisible bond markets with very loud opinions.
-
----
 
 ## Migration, responsibility outsourced, visibility avoided
 
@@ -72,8 +62,6 @@ Refugees and migrants are left to navigate a Kafkaesque system where national as
 
 Who’s responsible? Depends who’s asking, and whether they’re holding a microphone.
 
----
-
 ## Agriculture and rural policy, money without mandates
 
 The Common Agricultural Policy (CAP) remains the EU’s single biggest budget item. Billions are paid out annually, but often via opaque subsidy channels that favour large landowners over sustainable farmers.
@@ -84,8 +72,6 @@ Meanwhile, climate- and biodiversity-focused farmers struggle to access funding,
 
 Who controls the purse? Technically, the EU. Practically, a hydra of local ministries, land registries, and family friends.
 
----
-
 ## Policing and surveillance, security without scrutiny
 
 The expansion of EU-wide databases (e.g. Eurodac, SIS II, ECRIS) and cross-border policing initiatives has vastly increased surveillance capabilities across Europe.
@@ -95,8 +81,6 @@ But transparency hasn’t kept pace. Biometric data is shared across borders, pr
 And when laws do exist, they tend to arrive after the fact, retrofitting legality onto technology that’s already in place.
 
 Who’s watching the watchers? Allegedly national parliaments. Realistically? A small working group in Brussels you’ve never heard of.
-
----
 
 ## Decentralised unaccountability, delivered daily
 

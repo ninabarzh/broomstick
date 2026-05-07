@@ -25,8 +25,6 @@ This article is about unity. Not the fluffy kind that fits neatly on a banner at
 
 And yet, despite the mess, or perhaps because of it, there’s something powerful in building bridges across difference. So let’s scale this thing: from the individual Fungolian, who’s just trying to survive the dinner table without starting a war, all the way to the geopolitical chessboard, where everyone’s still arguing about whether the board is even square.
 
----
-
 ## Differences within
 
 In Fungolia, it starts small. You versus your own thoughts. One part of you wants to help your neighbour fix their compost bin. The other part wants to never speak to them again after they referred to your home-brewed nettle tea as “bog juice”. Unity here isn’t about pretending to be one cohesive blob of agreeable traits, it’s about acknowledging the internal contradictions and finding a way to live with them. Preferably without setting anything on fire.
@@ -35,19 +33,15 @@ Real unity begins with psychological honesty. You hold multitudes. Sometimes tho
 
 If the average Fungolian could learn to listen to their own conflicting selves without immediately constructing a national referendum, perhaps they could extend that patience outward. And yes, that includes the bit of you that secretly agrees with your uncle’s rants about bicycle lanes. Acknowledge it. Then offer it tea and a seat in the back row.
 
----
-
 ## Unity in the everyday warzone
 
 Next stop on the Fungolian Unity Tour: the household. Here, ideologies clash daily over dishes, thermostats, and who left the back door open. The home, as any anthropologist with a death wish would tell you, is the frontline of difference.
 
 Unity in a home doesn’t mean perfect agreement. In Fungolia, it means functional chaos. Families there embrace a style of domestic diplomacy known as “passive agreement”, a complex manoeuvre involving raised eyebrows, strategic tea offerings, and the occasional emotional hostage negotiation over dinner.
 
-Real unity at home is forged through active engagement with difference. You don’t have to love your housemate’s vegan tripe stew, but you might learn something from why they cook it. Maybe it’s ancestral. Maybe it’s revenge. Either way, listening matters.
+Real unity at home is forged through active engagement with difference. You don’t have to love your housemate’s vegan tripe stew, but you might learn something from why they cook it. Maybe it’s ancestral. Maybe it’s revenge. Either way, listening is the point.
 
 Embracing unity at home often means lowering the volume on your righteousness and increasing your curiosity. Your teenage child thinks capitalism is a prison? Don’t panic. Ask them which corner they’d redecorate. You might even find a shared vision under the rubble of mutual misunderstanding.
-
----
 
 ## Meetings, memos, and mayhem
 
@@ -58,8 +52,6 @@ In theory, organisations want diversity. In practice, they want people who think
 Fungolia has pioneered “strategic disunity protocols,” wherein teams are required to disagree at least once a week before making any decisions. It slows things down wonderfully, but surprisingly, decisions made under such conditions tend to stick. Why? Because everyone was heard. Or at least yelled equally.
 
 Unity at work thrives on well-held tensions. The visionary and the realist. The dreamer and the documentation gremlin. The loud and the listener. It’s not kumbaya, it’s constructive collision. Organisations that treat difference as a design feature, not a flaw, are the ones still standing when the quarterly nonsense rolls in.
-
----
 
 ## Alliance across absurdity
 
@@ -72,7 +64,7 @@ But we’re at a breaking point. The rise of autocracy, war on the continent, ec
 So what could unity look like?
 
 Imagine Fungolia proposing a radical new alliance: cities from the EU, Africa, and the Middle East cooperating not 
-just on border control, but on **mutual aid infrastructure**. Centres that provide housing, language education, and 
+just on border control, but on mutual aid infrastructure. Centres that provide housing, language education, and 
 medical care to displaced people, built together, staffed together, governed together. Less Fortress Europe, more 
 Neighbourhood Watch on a global scale. And fewer people drowning and/or taken advantage of by traffickers.
 
@@ -92,8 +84,6 @@ better scripts.
 
 Unity at this scale requires what Fungolians call *optimistic realism*. Expect the worst, but organise for the best. 
 Keep the doors open, even when someone’s shouting through them. Especially then.
-
----
 
 ## From compost to cosmos
 

@@ -27,8 +27,6 @@ Take parenting. The "maternal instinct" is often invoked as if it were a biologi
 
 Aggression, another classic "instinct," fares no better. Yes, males of many species spar for dominance, but isolate a rat pup from rowdy peers, and it won’t magically turn into a gladiator. Even sea turtles, those instinctive navigators, rely on Earth’s magnetic field like a GPS, hardly the stuff of immutable programming.
 
----
-
 ## Nature’s improvisation
 
 If instincts aren’t quite the fixed scripts we thought, what fills the gap? Enter developmental plasticity, the body’s ability to tweak its own blueprint based on the environment:
@@ -37,13 +35,9 @@ If instincts aren’t quite the fixed scripts we thought, what fills the gap? En
 * Locusts switch from solitary to swarming modes when crowded, a change so dramatic it’s like a quiet librarian morphing into a festival hooligan, all triggered by serotonin.
 * Daphnia, tiny crustaceans with more survival tricks than a spy novel, grow defensive spines when they smell predators. Miss the cue, and they’ll skip the armour, proving that even "instinctive" defences are negotiable.
 
----
-
 ## The memory of ancestors
 
 Here’s where it gets eerie. Some plastic changes aren’t just personal, they’re inherited. Stickleback fish exposed to predators produce jumpier offspring, as if passing down a memo: "The world is scary." Plants nibbled by herbivores arm their seedlings with pre-emptive bitterness. These epigenetic mechanisms, chemical tags on DNA that switch genes on or off, blur the line between learned and innate. Suddenly, Lamarck’s discredited idea of inherited experience doesn’t seem so silly.
-
----
 
 ## Why instincts are overrated
 
@@ -51,13 +45,9 @@ The real kicker? Many "instincts" might just be canalised plasticity, traits tha
 
 Even the vaunted fixed action pattern, think baby birds gaping at red dots, falls apart under scrutiny. Herring gull chicks prefer realistic parent models, but slap a stick with a red blotch near them, and they’ll still beg. Is this instinct, or just a crude heuristic in a world where most red things are beaks?
 
----
-
 ## Instincts are overachieving habits
 
 In the end, instincts look less like destiny and more like deeply ingrained habits, shaped by genes, yes, but also by experience, environment, and the ghostly whispers of ancestors. So next time someone blames their snack-hoarding on "human instinct," feel free to counter: "Actually, that’s just your epigenetics talking. And possibly your childhood."
-
----
 
 ## Instincts on the school run
 
@@ -74,11 +64,11 @@ So while evolutionary psychologists might wax lyrical about meat-gathering insti
 ## Resources and further reading
 
 * World’s Best Dads: The Loving Fathers of the Aka Tribe in Central Africa https://talkafricana.com/worlds-best-dads-the-loving-fathers-of-the-aka-tribe-in-central-africa/
-* The Epigenetics Revolution https://www.iconbooks.com/ib-title/the-epigenetics-revolution/ by *Nessa Carey* – A user-friendly overview of how genes get tagged, toggled, and traumatised by life.
-* The Myth of Instinct https://www.cambridge.org/core/books/myth-of-instinct/91E62D7CFF7F1B0B7A2971C8B6E7C82D by *Patrick Bateson* – Classic and cutting, from one of the UK's finest ethologists.
-* Behave: The Biology of Humans at Our Best and Worst https://www.penguinrandomhouse.com/books/213782/behave-by-robert-m-sapolsky/ by *Robert Sapolsky* – A 700-page masterpiece explaining why you shouted at that cyclist.
-* Mother Nature: Maternal Instincts and How They Shape the Human Species https://www.hup.harvard.edu/books/9780345408938 by *Sarah Blaffer Hrdy* – Evolutionary anthropology with teeth (and occasionally fur).
-* Blueprint: How DNA Makes Us Who We Are https://mitpress.mit.edu/9780262039161/blueprint/ by *Robert Plomin* – Provocative and gene-forward; not everyone agrees, which makes it even more worth reading.
-* NurtureShock: New Thinking About Children https://www.hachettebookgroup.com/titles/po-bronson/nurtureshock/9780446504133/ by *Po Bronson & Ashley Merryman* – Research-heavy, myth-light, and refreshingly readable.
-* The Cultural Nature of Human Development https://global.oup.com/academic/product/the-cultural-nature-of-human-development-9780195131338 by *Barbara Rogoff* – Required reading if you’ve ever wondered why parenting books contradict each other across time zones.
+* The Epigenetics Revolution https://www.iconbooks.com/ib-title/the-epigenetics-revolution/ by *Nessa Carey*, a user-friendly overview of how genes get tagged, toggled, and traumatised by life.
+* The Myth of Instinct https://www.cambridge.org/core/books/myth-of-instinct/91E62D7CFF7F1B0B7A2971C8B6E7C82D by *Patrick Bateson*, classic and cutting, from one of the UK's finest ethologists.
+* Behave: The Biology of Humans at Our Best and Worst https://www.penguinrandomhouse.com/books/213782/behave-by-robert-m-sapolsky/ by *Robert Sapolsky*, a 700-page masterpiece explaining why you shouted at that cyclist.
+* Mother Nature: Maternal Instincts and How They Shape the Human Species https://www.hup.harvard.edu/books/9780345408938 by *Sarah Blaffer Hrdy*, evolutionary anthropology with teeth (and occasionally fur).
+* Blueprint: How DNA Makes Us Who We Are https://mitpress.mit.edu/9780262039161/blueprint/ by *Robert Plomin*, provocative and gene-forward; not everyone agrees, which makes it even more worth reading.
+* NurtureShock: New Thinking About Children https://www.hachettebookgroup.com/titles/po-bronson/nurtureshock/9780446504133/ by *Po Bronson & Ashley Merryman*, research-heavy, myth-light, and refreshingly readable.
+* The Cultural Nature of Human Development https://global.oup.com/academic/product/the-cultural-nature-of-human-development-9780195131338 by *Barbara Rogoff*, the choice if you’ve ever wondered why parenting books contradict each other across time zones.
 
