@@ -179,7 +179,7 @@ The road ahead seems to look somewhat like:
 * [Reform]({{< relref "posts/defendable-internet3.md" >}}): Liability, secure-by-design mandates, genuine funding for digital infrastructure, theoretically possible, practically highly unlikely.
 * Balkanisation: Regional internets emerge, some secure, most repressive, none particularly user-friendly.
 
-## Conclusion
+## TL;DR
 
 The undefendable internet is not a tragic accident. It is a deliberate consequence of choices made over decades: 
 choices that prioritised speed over safety, profit over resilience, control over freedom, and convenience over 

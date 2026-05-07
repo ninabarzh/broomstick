@@ -79,7 +79,7 @@ exploitation are not only challenging profit-driven interests but are confrontin
 multiple actors are complicit in a system with a common incentive to silence them. (Think of it as a circus where 
 the clowns are heavily armed and the ringmaster is asleep.)
 
-## Conclusion
+## TL;DR
 
 The deaths of environmental defenders are neither random nor isolated. They reveal a global system where corporate 
 greed, criminality, armed power, and political complicity converge to make environmental protection a dangerous act. 

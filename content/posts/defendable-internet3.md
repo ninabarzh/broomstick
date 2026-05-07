@@ -51,7 +51,7 @@ Slow, yes. Expensive, perhaps. But much faster than waiting for humans to become
 
 Even if every one of the above steps succeeds perfectly, breaches will occur. Systems can be designed with compromise in mind. Segmentation, redundancy, rapid detection, and honest post-mortems are all more effective than hoping attacks will never happen. Resilience is about recovery as much as prevention.
 
-## Conclusion
+## TL;DR
 
 Building a defendable internet is unglamorous and will frustrate executives, politicians, and users alike. Yet the alternative, continuing to rely on hope, duct tape, and human error, is simply not tenable.
 
