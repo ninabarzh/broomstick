@@ -141,3 +141,12 @@ a:hover        { color: #ffcc00 !important; }
   border-bottom: 1px dashed var(--border);
   padding-bottom: 0.5rem;
 }
+
+.post-content code {
+  margin: auto 4px;
+  padding: 4px 6px;
+  font-size: .78em;
+  line-height: 1.5;
+  background: #ccc;
+  border-radius: 2px;
+}
