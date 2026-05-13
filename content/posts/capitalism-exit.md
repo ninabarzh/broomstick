@@ -12,6 +12,7 @@ tags:
 draft: false
 ---
 
+
 ***A boring, decades-long plan for getting out of capitalism without burning the village down***
 
 The two stories most often told about how to get past capitalism both fail in roughly the same way.
@@ -192,6 +193,8 @@ Zapatistas have survived three decades of low-intensity siege essentially
 through these methods: low visibility, high cohesion, and dense outside support. They are also, it bears mentioning, 
 still poor, still surrounded, and still under threat. Survival is not victory. It is the precondition for a longer game.***
 
+![Poster on a wall in Fiesole reading "Nessuna repressione, solo liberazione"](/images/casa-del-popolo1.png#center)
+
 ## Ranked levers
 
 Not every individual action carries the same weight. A list that pretends otherwise tends to slide into lifestyle 
@@ -277,3 +280,5 @@ thing that gets handed down from above. It tends to be built from below, slowly,
 for permission, and who understand that the alternative is not stasis but slow drift toward worse outcomes. Fragments 
 are already in place. Whether they federate fast enough to matter is the open question, and it is being answered 
 right now, by everyone, including those who are pretending not to answer.
+
+![Poster on a wall in Fiesole reading "Solo i popoli si liberano"](/images/casa-del-popolo2.png#center)
