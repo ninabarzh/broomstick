@@ -118,7 +118,7 @@ about who you want to talk to next, and which conversation you are prepared to h
 when they arrive.
 
 Sometimes the answer is the essay. Sometimes the answer is the architecture
-diagram. Sometimes, the answer is both, on adjacent pages, with the essay quietly
+diagram, sometimes the code. Sometimes, the answer is both or all three, on adjacent pages, with the essay quietly
 linking to the diagram for the readers who care enough to keep going. This is the
 shape most worth sitting with, because it is the only one that is honest about the
 existence of the filter at all.
@@ -130,6 +130,9 @@ make a reader forget the diagram exists. It just lets readers self-sort, and tru
 that the people who needed the diagram will find their way to it, the way moths
 find their way to streetlamps, and patient state actors find their way to graph
 databases.
+
+Full disclosure: this one was designed for the friend who asked, and rather more
+for me. Most reflective writing is. It just does not usually say so.
 
 The ones who close the tab were never the audience.
 
