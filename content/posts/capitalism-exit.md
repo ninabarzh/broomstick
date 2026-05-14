@@ -12,7 +12,6 @@ tags:
 draft: false
 ---
 
-
 ***A boring, decades-long plan for getting out of capitalism without burning the village down***
 
 The two stories most often told about how to get past capitalism both fail in roughly the same way.

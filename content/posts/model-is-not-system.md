@@ -205,4 +205,20 @@ interesting than what divides them. They are all part of the same institutional 
 the same lesson that human cognition arrived at over centuries: scale produces capability, structure produces
 reliability, and what serious work needs is mostly the second.
 
-[Playing around with a possible arrangement here](https://github.com/tymyrddin/vulnforge).
+## A worked example
+
+The argument above is conceptual. A concrete instance lives in [vulnforge](https://github.com/tymyrddin/vulnforge), a 
+vulnerability-research tool built around a similar separation of roles. The AI proposes hypotheses; deterministic 
+schema rules reject malformed output at the boundary; an isolated execution environment is the only thing that can 
+move a finding from "tested" to "confirmed"; a tamper-evident audit log records every step. No second model judges 
+the first. The second witness is execution, in an environment that cannot reach the network.
+
+Four structural commitments hold the design together. The AI does not decide verdicts. Code is only ever run inside 
+an isolated sandbox. Nothing crosses a network boundary during analysis. The audit log is tamper-evident from end 
+to end. Each commitment lives in a specific place in the code where it can be tested, which is what makes the 
+architecture defensible rather than merely intended.
+
+vulnforge is one worked example, not an implementation of this post. Other arrangements with different role 
+boundaries would be consistent with the same conceptual frame. The point is that the model is one component in an 
+arrangement, and the arrangement is what does the work. The attack surface of an AI vulnerability tool is not a 
+property of the model; it is a property of the arrangement around the model.
