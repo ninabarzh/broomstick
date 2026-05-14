@@ -125,7 +125,7 @@ existence of the filter at all.
 
 It does not pretend the diagram is for everyone, in the patronising way that public
 consultations sometimes pretend they are for everyone. It does not pretend the
-essay is the whole story, in the comfortable way that a good essay can sometimes
+essay is the whole story, in the comfortable way that [a good essay](/posts/perhaps/) can sometimes
 make a reader forget the diagram exists. It just lets readers self-sort, and trusts
 that the people who needed the diagram will find their way to it, the way moths
 find their way to streetlamps, and patient state actors find their way to graph
