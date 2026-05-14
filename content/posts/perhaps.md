@@ -41,7 +41,7 @@ In other words: systems thinking.
 
 ## Shift
 
-And while reading it, I had the uncomfortable thought: *Perhaps it is better if I do not get the job.*
+And while reading it, I had the uncomfortable thought: *Do I really want the job?*
 
 I surprised myself with that thought. Not because the article was wrong. Quite the opposite. The problem is that I
 immediately understood the reasoning. Not the “destroy infrastructure” part. The dependency part.
@@ -58,17 +58,19 @@ That shift changes everything.
 
 ## Waterfall
 
-**A radar is no longer a radar.** It becomes a layered arrangement of dependencies: power supply, cooling, maintenance
+[A radar](https://purple.tymyrddin.dev/docs/admin-surface/herwijnen) is no longer a radar. It becomes a layered
+arrangement of dependencies: power supply, cooling, maintenance
 windows, procurement chains, segmented networks, contractor access, backup duration, physical access paths and
 monitoring assumptions. Each part necessary, none sufficient on its own, all quietly holding each other in place.
 
-**A military fuel pipeline is not a pipe.** It is timing and pressure, logistics and repair capacity, redundancy and
+[A military fuel pipeline](https://purple.tymyrddin.dev/docs/admin-surface/dpo) is not a pipe. It is timing and
+pressure, logistics and repair capacity, redundancy and
 response coordination, stretched across geography, institutions and bureaucracy that rarely meet in one place at once.
 
-**Modern infrastructure is rarely defeated by cinematic sabotage.**
-It usually dies of correlations.
+Modern infrastructure is rarely defeated by cinematic sabotage. It usually dies of correlations.
 
-One agency publishes permits. Another publishes environmental maps. A contractor uploads technical drawings. A utility
+[One agency publishes permits](https://purple.tymyrddin.dev/docs/admin-surface/osint). Another publishes environmental
+maps. A contractor uploads technical drawings. A utility
 operator exposes cable metadata. A procurement system lists component models. An environmental review includes backup
 generators. A planning objection embeds security layouts.
 
@@ -91,7 +93,7 @@ You think in dependencies. You look for constraints. You follow how failure migh
 was written down. You assume that diagrams simplify, and that infrastructure behaves differently once it is under
 pressure, connected, or combined with other systems.
 
-## Back to the application.
+## Back to the application
 
 The Ministry of Defence vacancy talked about security frameworks, oversight, cloud, AI, policy development and
 strategic advisory work. Reasonable enough. Necessary, even.
@@ -99,12 +101,13 @@ strategic advisory work. Reasonable enough. Necessary, even.
 But after reading the article I found myself wondering whether institutions genuinely want people who think this way,
 or whether they merely like the idea of them existing somewhere abstract and well supervised.
 
-Everyone says they want “out of the box thinking” until someone quietly points at the box’s fuel supply, external
-contractors, maintenance dependencies and single shared conduit.
+Everyone says they want “out of the box thinking” until someone quietly points at the box’s fuel
+supply, [external contractors](https://purple.tymyrddin.dev/docs/admin-surface/netwerkruimtes), maintenance dependencies
+and single shared conduit.
 
-Then suddenly the room develops a passionate commitment to process.
+Then suddenly the room develops a passionate commitment to process (or logo design :-).
 
-The strange thing is that none of this requires paranoia.
+The strange thing is that none of this requires paranoia or conspiracy theories.
 
 Only systems literacy.
 
@@ -133,7 +136,7 @@ That is not hypocrisy. It is structural tension.
 
 And structural tensions are rarely solved by pretending one side does not exist.
 
-So yes, perhaps it is better if I do not get the job.
+So yes, perhaps I do not want the job.
 
 Or perhaps the opposite is true.
 
@@ -147,4 +150,12 @@ People who know that resilience is not a policy document. It is behaviour under 
 
 The uncomfortable possibility is that modern societies need this kind of thinking quite badly.
 
-[The even more uncomfortable possibility is that they may not always like the people who do it](https://purple.tymyrddin.dev/docs/admin-surface/strategy).
+## And yet ...
+
+None of this points only at refusal. The same correlations a person can read by hand could in principle
+feed [a small system that does the looking automatically](https://purple.tymyrddin.dev/docs/admin-surface/sos), running
+tender feeds and planning portals against each other and surfacing dependency concentrations. Collection is the easy
+part. The harder question is which flagged correlations count as a problem, which are already known and accepted, and
+which the relevant institutions can or want to act on. That part does not belong to the engine.
+
+[The even more uncomfortable possibility is that wanting a job and being wanted in the job rarely line up ;-)](https://purple.tymyrddin.dev/docs/admin-surface/strategy).
