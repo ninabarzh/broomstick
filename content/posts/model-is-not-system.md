@@ -219,6 +219,6 @@ to end. Each commitment lives in a specific place in the code where it can be te
 architecture defensible rather than merely intended.
 
 vulnforge is one worked example, not an implementation of this post. Other arrangements with different role 
-boundaries would be consistent with the same conceptual frame. The point is that the model is one component in an 
+boundaries would be consistent with similar conceptual frames. The point is that the model is one component in an 
 arrangement, and the arrangement is what does the work. The attack surface of an AI vulnerability tool is not a 
 property of the model; it is a property of the arrangement around the model.
