@@ -43,8 +43,7 @@ the current. You cannot simply route around mandatory incident reporting timelin
 But with systematic preparation and realistic planning, it is navigable. The difference between theatre and 
 substance lies in understanding what actually matters versus what merely creates paperwork. Practical guides 
 exist that cut through the regulatory fog, offering frameworks for cross-functional coordination and genuine 
-risk management rather than checkbox exercises: Resources that help small IT teams build real incident response 
-capabilities.
+risk management rather than checkbox exercises.
 
 The arithmetic remains rather damning. Estimates suggest NIS2 will impact over 100,000 organisations directly across 
 the EU, with some sources citing 160,000 companies in member states, or even 400,000 directly subject companies. 
