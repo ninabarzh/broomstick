@@ -17,8 +17,7 @@ Europe has suddenly declared that hundreds of thousands of companies must meet d
 yet the pool of qualified auditors is tiny in comparison. Critics note there's a shortage of qualified auditors to 
 perform the required assessments, the compensation for auditors is too low, and the audit methodology is 
 unnecessarily strict. Even if every capable professional devoted themselves full-time to this task, the sheer scale 
-makes meaningful oversight impossible. In Hungary alone,  
-[the current end-of-year deadline was deemed unrealistically tight](https://ceelegalmatters.com/hungary/29851-companies-may-have-six-more-months-to-comply-with-the-nis2-directive), 
+makes meaningful oversight impossible. In Hungary alone, [the current end-of-year deadline was deemed unrealistically tight](https://ceelegalmatters.com/hungary/29851-companies-may-have-six-more-months-to-comply-with-the-nis2-directive), 
 requiring a six-month extension. The result is predictable: compliance becomes a matter of boxes ticked on paper, 
 with real security lagging far behind.
 
