@@ -20,7 +20,7 @@ het moment dat de log niet wordt geschreven. Die prijs komt later, tijdens een i
 reconstrueren spoor nooit heeft bestaan.
 
 De [Wet open overheid](https://wetten.overheid.nl/BWBR0045754/2026-02-20) heeft dezelfde vorm, en het zo bekijken
-verklaart meer over waarom departementen ermee worstelen dan welke verklaring ook die in termen van archiveren of 
+verklaart meer over waarom departementen ermee worstelen dan welke verklaring ook die in termen van archiveren of
 compliance is gesteld.
 
 ## Wat de wet eigenlijk vraagt
@@ -75,13 +75,15 @@ openbaarmaking, de Woo- en toezichtdruk, en de inzet op openbaarmaking als de kn
 ![Detection-instantie van dezelfde structuur: telemetrie, reconstrueerbaarheid van het event, dekking van waarschuwingen (alerts), incident- en auditdruk, en inzet op tunen als gedeelde knoop](/images/03detection.png#center)
 
 En de detection-instantie, dezelfde topologie weer. Telemetrie aan de ingang, reconstrueerbaarheid van wat er gebeurde
-als de wolk, dekking van waarschuwingen (alerts) aan de uitgang, incident- en auditdruk, inzet op tunen als de gedeelde knoop. De
+als de wolk, dekking van waarschuwingen (alerts) aan de uitgang, incident- en auditdruk, inzet op tunen als de gedeelde
+knoop. De
 vertrouwde reflex wanneer een audit een gat vindt is meer regels schrijven en meer dashboards bouwen, en dat is inzet op
 de zichtbare laag. Het is dezelfde lus in operationele kleren.
 
 ## Waarom de vermomming niet toevallig is
 
-Hier houdt de structurele analyse op neutraal te zijn en het is de moeite waard om voorzichtig te zijn met de volgorde. Het
+Hier houdt de structurele analyse op neutraal te zijn en het is de moeite waard om voorzichtig te zijn met de volgorde.
+Het
 mechanisme hierboven geldt of iemand het nu bedoeld heeft of niet. Maar zodra het geldt, is de plek waar de wet de druk
 aanlegt zelf een keuze en die keuze is leesbaar.
 
@@ -136,8 +138,13 @@ symptoom, één lakbeurt tegelijk, zonder de vastleggingspraktijk te raken die h
 reconstrueerbaarheid is hetzelfde soort wolk als die om de verschoven baseline in dat stuk: ongemeten, omdat haar meten
 zou betekenen dat het systeem iets vasthoudt waarvoor het niet wordt beloond.
 
+Wie ooit een verouderd systeem heeft moeten vervangen terwijl het bleef storen, kent de lus van binnenuit: de tijd gaat
+op aan het brandjes blussen in het oude systeem, dus het nieuwe komt later, dus het oude moet langer mee. Het 
+symptoom van vandaag trekt de inzet weg van de oorzaak van morgen, en de aandacht die dat kost komt uit dezelfde 
+eindige voorraad.
+
 Niets hiervan zegt dat de wet verkeerd is in wat zij wil. Actieve openbaarmaking is een redelijke eis aan een staat. De
 observatie is smaller en, denk ik, nuttiger dan een oordeel: een eis aan de uitgang van een systeem kan
 geen eigenschap voortbrengen die aan de ingang ontstaat en druk dicht het gat tussen die twee niet.
-Wat het wel dicht, als iets het al dicht, is veranderen wat een ambtenaar vastlegt op het moment dat zij
+Wat het wel dicht, als iets het dicht, is veranderen wat een ambtenaar vastlegt op het moment dat zij
 besluit, en dat is de enige plek in de lus waar bijna niemand kijkt.
