@@ -8,6 +8,10 @@ tags:
   - security
   - woo
 description: "De Wet open overheid vraagt de staat openbaar te maken wat de staat niet altijd kan vinden. Een blik op waarom de eis aan het verkeerde eind van het systeem aangrijpt, met een vergelijk naar detectiewerk."
+cover:
+  image: "/images/woo.png"
+  alt: "A single weary civil servant at a cluttered government desk, buried under towering stacks of paper documents and redaction folders, frantically rubber-stamping and blacking out pages. In the background, an empty pristine filing system labelled 'intake' sits untouched and gathering dust." 
+  relative: false
 ---
 
 Er is een gewoonte in detection engineering management die een organisatie tijd kost om af te leren. Een team kijkt naar
