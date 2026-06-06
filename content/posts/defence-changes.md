@@ -150,8 +150,8 @@ for the EU but an obligation under its treaty. The head of the EU's executive, p
 self-reliance days after the head of NATO told Europe to keep dreaming about it. Two senior figures, two halves of the
 same coin, held up at once. The think-tank world has a useful name for the resulting condition: "Schrödinger's NATO",
 an alliance in which the United States appears both committed to it and absent from it at the same time, formally inside
-while behaving as though it were halfway out the door. That is, more or less, the situation your own eyes report from
-the news, given a name.
+while behaving as though it were halfway out the door. That is, more or less, the situation the news already shows,
+given a name.
 
 The Americans, for their part, also made some noise. The US National Defense Strategy published on 23 January 2026
 [reordered priorities openly](https://www.epc.eu/publication/americas-new-defence-strategy-and-europes-moment-of-truth/):

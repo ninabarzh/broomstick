@@ -10,13 +10,13 @@ tags:
 description: "Policy speaks in intentions. Procurement speaks in budgets and deliverables, because someone has to do the work. A method for reading what is coming from the documents that commit money, with European health data as the worked example."
 ---
 
-A policy speech tells you what an institution wants to be seen wanting. A procurement document tells you what it has
+A policy speech says what an institution wants to be seen wanting. A procurement document records what it has
 agreed to pay for. The two are not the same, and the gap between them is usually the more interesting reading. A press
 release costs nothing to write and binds no one. A call for tender names a budget, a deadline, a set of deliverables and
 a contract that someone will sign and then have to deliver against. Intentions are cheap. Commitments leave a paper
 trail, because somebody has to do the work and somebody has to account for the money.
 
-That is the whole premise. If you want to know where a system is actually heading, read the documents that commit
+That is the whole premise. To know where a system is actually heading, read the documents that commit
 resources, not the documents that announce ambitions. The European Union publishes both, in the open, and the
 procurement layer is more honest than the rhetoric layer for the simple reason that it is operational. Below is a way to
 read it, with European health data as the worked example, because that is where the method pays off most clearly right
@@ -36,12 +36,12 @@ place the intentions acquire a price.
 
 Below that sit the calls for proposals, the grant invitations. Here the direction starts to show, because the
 Commission is offering to co-fund projects in specific directions and the directions are listed, costed, and given
-deadlines. This is where you read what the institution wants others to build.
+deadlines. This is the layer that shows what the institution wants others to build.
 
 And below that, the calls for tender: the actual procurement. Not "we will co-fund your project in this direction" but
 "we are buying this service, here are the specifications, here is the ceiling". A tender is the least deniable layer.
 Someone wrote a statement of work, someone will bid, someone will sign, and at the end there will be a contract notice
-naming the contractor and the value. By the time you reach a signed contract, intention has become obligation.
+naming the contractor and the value. With a signed contract, intention has become obligation.
 
 The reading happens between the layers. A theme that appears in the work programme but never descends into a tender is
 talk. A tender that appears without a visible policy parent is worth a second look, because the money is moving ahead of
@@ -50,10 +50,10 @@ direction the institution is actually committed to, whatever the surrounding lan
 
 ## What the documents say, before any interpretation
 
-The codes themselves are readable once you know the grammar. Take `EU4H-2026-SANTE-PJ-04`. It parses as programme
+The codes themselves are readable once the grammar is clear. Take `EU4H-2026-SANTE-PJ-04`. It parses as programme
 (EU4Health), year, directorate (SANTE, health), instrument (PJ, a project grant), and a sequence number. Behind it sits
 a second internal code, `CR/CV&NCD-g-25-16`, which encodes the policy cluster: cardiovascular and non-communicable
-disease. The taxonomy is not hidden. It is sitting in the reference number, and it tells you which bureaucratic drawer
+disease. The taxonomy is not hidden. It is sitting in the reference number, and it shows which bureaucratic drawer
 the money came out of.
 
 The call fiche for the 2026 health grants lists nine topics. Three are cancer screening pilots, for gastric, lung and
@@ -67,7 +67,7 @@ budget €14.4 million, is health data for biotech innovation leveraging the Eur
 deployment of what the call calls AI factories.
 
 The fiche also rewards close reading in a way summaries do not. Its history of changes records that for topic 04, the
-expected number of grant agreements was revised from one to "one or more". A single line, but it tells you the flagship
+expected number of grant agreements was revised from one to "one or more". A single line, but it shows the flagship
 was reconsidered: from a single large consortium to possibly several. The revisions are where the uncertainty shows.
 
 Then drop a layer, to a tender. `HADEA/2024/OP/0034`, "support to stakeholders on secondary use of data within the
@@ -81,11 +81,11 @@ secretariat-and-facilitation contract for the human layer around HealthData@EU, 
 reusing health data.
 
 The specification also rewards the method directly, because it names its own neighbours. It lists the adjacent
-initiatives the contractor must work alongside: a 2023 capacity-building call, a joint action in which member states
+initiatives the contractor is to work alongside: a 2023 capacity-building call, a joint action in which member states
 prepare for the reuse of data, the self-established community of practice of Health Data Access Bodies, the QUANTUM
 project labelling dataset quality, the HealthData@EU central services. One tender, and the whole surrounding
-constellation is legible from its reference list. You do not need to find the other documents; the document tells you
-they exist and how it sits among them. And the keystone: the contract was
+constellation is legible from its reference list. There is no need to find the other documents; the document names them
+and shows how it sits among them. And the keystone: the contract was
 [signed in November 2025](https://hadea.ec.europa.eu/news/new-eu4health-contracts-signed-strengthening-european-health-data-space-and-harmonising-european-and-2025-11-28_en).
 Intention became obligation. Someone is now doing this work.
 
@@ -95,10 +95,10 @@ scaffolding of secondary use. Three layers, one direction, money moving through 
 
 ## I am the one interpreting
 
-Everything above is on the record. What follows is not. The moment you move from "the documents say this" to "this
-means that", you have crossed from reading into interpretation, and interpretation has an author with a position.
+Everything above is on the record. What follows is not. The moment the reading moves from "the documents say this" to "this
+means that", it has crossed from reading into interpretation, and interpretation has an author with a position.
 Significance is not a property of the documents. It is something a reader assigns, and the reader is always somewhere,
-looking from a particular place with particular concerns. I am not exempt from that and neither is anyone who tells you
+looking from a particular place with particular concerns. I am not exempt from that and neither is anyone who says
 what a tender "really means". So take the next part as mine, not as the data's.
 
 What the procurement layer reads like to me is sequencing. The European Health Data Space runs as a continuous thread
@@ -118,9 +118,9 @@ effect.
 That is not a scandal and I do not want to inflate it into one. Building the human infrastructure ahead of the legal
 deadline is defensible, even sensible: a community of practice takes years to grow, and standing it up the week the
 obligations bite would be too late. But the order is legible, and the order is a choice. The money and the coordination
-are moving on a timeline of their own, set years ahead of the law's, and that tells you the direction is settled well
-before the public deadline that is supposed to mark its arrival. The documents do not tell you the order was wrong.
-They tell you what the order was, and that is already more than the press releases do.
+are moving on a timeline of their own, set years ahead of the law's, and that shows the direction is settled well
+before the public deadline that is supposed to mark its arrival. The documents do not say the order was wrong.
+They say what the order was, and that is already more than the press releases do.
 
 There is a second thing the layering shows, quieter than the first. The disease topics in the call, the cancer
 screening, the cardiovascular prevention, are the visible health policy, the part that reads as care. The data topics
@@ -129,27 +129,27 @@ durable, cross-border, reusable substrate for health data. Infrastructure outlas
 Whatever the screening pilots achieve or fail to achieve, HealthData@EU will still be there, and the question of who
 governs it and on what terms is settled now, in tenders, while attention is on the diseases.
 
-## What the method cannot tell you
+## What the method leaves out
 
 The honest part. A procurement document is a strong source precisely because it is narrow, and the narrowness cuts both
-ways. It tells you what was bought. It does not tell you whether the thing will work, whether it will be delivered on
+ways. It records what was bought. It does not say whether the thing will work, whether it will be delivered on
 time or at all, or whether the contractor will quietly underperform against a specification nobody later checks. A
 signed contract is a commitment, not an outcome.
 
-It also does not tell you who wins. A call names a ceiling and a scope; the award notice names a contractor, but the
+It also does not say who wins. A call names a ceiling and a scope; the award notice names a contractor, but the
 deeper question of which firms have built the capacity to bid on European health data infrastructure, and how few of
-them there are, is not answerable from any single document. You can read the direction of the money. You cannot read,
-from the procurement alone, the concentration of the market that receives it. That requires reading across many awards
-over time, and even then you are inferring.
+them there are, is not answerable from any single document. The direction of the money is readable. What is not, from the procurement alone,
+is the concentration of the market that receives it. That requires reading across many awards
+over time, and even then the result is inference.
 
-And the method is silent on the thing that matters most and is the least visible: whether any of this improves anyone's
+And the method is silent on the thing that counts for most and is the least visible: whether any of this improves anyone's
 health. Procurement measures expenditure and deliverables, because those are what an institution can hold a contractor
 to. Health outcomes sit too far downstream, mediated by too many other systems, to be a line in a contract. So the
-documents that are most honest about what is being built are also structurally incapable of telling you whether it was
+documents that are most honest about what is being built are also structurally incapable of saying whether it was
 worth building. That is not a flaw in the reading. It is the boundary of it, and pretending otherwise would be the same
 move the press releases make, dressed in evidence instead of ambition.
 
-The method gives you direction, commitment, and sequence, read from documents that had to be honest because someone had
-to act on them. It gives you those things and stops there. The step from "this is what they bought" to "this is what it
-means" is one you take yourself, from wherever you happen to be standing, and the most useful thing the method does is
+The method gives direction, commitment, and sequence, read from documents that had to be honest because someone had
+to act on them. It gives those things and stops there. The step from "this is what they bought" to "this is what it
+means" is one a reader takes, from wherever they happen to be standing, and the most useful thing the method does is
 make that step visible as a step, rather than letting it pass as a reading of the facts.

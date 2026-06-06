@@ -142,8 +142,8 @@ symptoom, één lakbeurt tegelijk, zonder de vastleggingspraktijk te raken die h
 reconstrueerbaarheid is hetzelfde soort wolk als die om de verschoven baseline in dat stuk: ongemeten, omdat haar meten
 zou betekenen dat het systeem iets vasthoudt waarvoor het niet wordt beloond.
 
-Wie ooit een verouderd systeem heeft moeten vervangen terwijl het bleef storen, kent de lus van binnenuit: de tijd gaat
-op aan het brandjes blussen in het oude systeem, dus het nieuwe komt later, dus het oude moet langer mee. Het 
+Wie ooit een verouderd systeem heeft moeten vervangen terwijl het oude bleef storen, kent de lus van binnenuit: de 
+tijd gaat op aan het brandjes blussen in het oude systeem, dus het nieuwe komt later, dus het oude moet langer mee. Het 
 symptoom van vandaag trekt de inzet weg van de oorzaak van morgen, en de aandacht die dat kost komt uit dezelfde 
 eindige voorraad.
 
