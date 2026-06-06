@@ -1,6 +1,6 @@
 ---
 title: "Reading the procurement, not the press release"
-date: 2026-06-06
+date: 2026-06-06T04:00:00.000Z
 draft: false
 tags:
   - systems thinking
