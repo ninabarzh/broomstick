@@ -1,6 +1,6 @@
 ---
 title: "The centre that depends on the room"
-date: 2026-06-07
+date: 2026-06-07T02:00:00.000Z
 draft: false
 tags:
   - systems thinking

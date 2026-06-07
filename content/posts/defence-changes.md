@@ -8,6 +8,7 @@ tags:
   - security
   - eu
   - nato
+  - Schrödinger
 description: "Europe is rearming, and the documents that commit the money say more about the shape of it than the speeches on TV and social media do. A reading from open sources of who is paying, who is being paid, what is being bought, and what shape the whole thing seems to be quietly taking."
 ---
 
@@ -150,32 +151,30 @@ for the EU but an obligation under its treaty. The head of the EU's executive, p
 self-reliance days after the head of NATO told Europe to keep dreaming about it. Two senior figures, two halves of the
 same coin, held up at once. The think-tank world has a useful name for the resulting condition: "Schrödinger's NATO",
 an alliance in which the United States appears both committed to it and absent from it at the same time, formally inside
-while behaving as though it were halfway out the door. That is, more or less, the situation the news already shows,
-given a name.
+while behaving as though it were halfway out the door. 
 
-The Americans, for their part, also made some noise. The US National Defense Strategy published on 23 January 2026
+The Americans, for their part, also made some more noise. The US National Defense Strategy published on 23 January 2026
 [reordered priorities openly](https://www.epc.eu/publication/americas-new-defence-strategy-and-europes-moment-of-truth/):
 defending the homeland and deterring China sit at the top, and everything else, Europe included, is secondary. The
 document tells European allies they will take primary responsibility for their own defence, with what it calls more
-limited US support. Read alongside the European white paper from 2025, the two sides are describing the same change 
-from opposite ends: Washington announcing the step back, Brussels already registered it in 2025.
+limited US support. 
 
 ## The tells in the structure
 
 If the official line were the whole truth, the spending and the institutional fidgeting would not make much sense. Nobody
-prepares for a thing they are confident will not happen. So the more revealing reading is to treat the words as the
-reassurance and the structure as the intention, and to ask what the structure is quietly getting ready for.
+prepares for a thing they are confident will not happen. The more revealing reading is to treat the words as a 
+reassurance and the structure as intention, and to ask what the structure seems to be quietly getting ready for.
 
 The clearest single tell sits at the very top of the command chain. There has been
 [open, serious discussion](https://nato-veterans.org/not-de-coupling-but-de-risking-nato-europes-bid-for-strategic-autonomy/)
 of appointing a European to the role of Supreme Allied Commander Europe, the post an American has always held. There is
 no legal obstacle; the founding treaty never specified the commander's nationality. On its own it is a personnel
-question. As a signal it is louder than that: nobody rehearses handing over the top military job without
+question. As a signal it is a bit louder than that: nobody rehearses handing over the top military job without
 imagining a day when the current holder's country is no longer the one in charge.
 
 The second tell is nuclear, and it is the sharpest of all, because nuclear deterrence is exactly the thing the United
 States currently provides and exactly the thing a Europe-without-America would have to find for itself. Rutte named
-this himself, as the clinching argument for why going alone is folly: lose the Americans and the umbrella goes with them, and
+this as the clinching argument for why going alone is folly: lose the Americans and the umbrella goes with them, and
 replacing it costs billions. 
 
 The striking thing is that the conversation he meant as a warning is already under way. At the Ile-Longue submarine 
@@ -188,15 +187,15 @@ a very large question to ask at all. This did not come from nowhere: France and 
 [declaration in July 2025](https://www.congress.gov/crs-product/IF12735) pledging to deepen their nuclear coordination,
 and there is now open talk of formalising nuclear discussion among Europe's main military powers, the so-called E5.
 Nobody builds a shared nuclear conversation as a hobby. It is the kind of thing that only becomes worth the political
-pain if the American umbrella can no longer simply be assumed, which is to say: the very scenario Rutte called dreaming
-is the one the nuclear talk is quietly costing out.
+pain if the American umbrella can no longer simply be assumed: the very scenario Rutte called dreaming is the one the 
+nuclear talk is quietly costing out.
 
 The third tell is the one already sitting in the procurement. The money going into a European combat cloud, a European 
 reconnaissance constellation in space, the wiring to make separate national armies talk to one another, all of that is 
 the material version of the same hedge. These are the connective and strategic functions the United States has 
 supplied for decades. Buying them in-house is, in budget form, exactly what preparing to operate without the 
 American backbone looks like. The white paper can call NATO the cornerstone in its text while the annexes quietly 
-fund the means to stand without it. Both things are true at once, which is what Schrödinger's NATO means in practice.
+fund the means to stand without it. Both things are true at once, Schrödinger's NATO means in practice.
 
 And then there are the shocks that keep nudging the hedge from prudent option toward working assumption. The clearest
 was the [early-2026 pressure on Denmark over Greenland](https://www.cnn.com/2026/01/26/europe/nato-chief-rutte-european-defense-us-intl),
