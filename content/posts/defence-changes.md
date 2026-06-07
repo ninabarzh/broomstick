@@ -158,7 +158,7 @@ The Americans, for their part, also made some noise. The US National Defense Str
 defending the homeland and deterring China sit at the top, and everything else, Europe included, is secondary. The
 document tells European allies they will take primary responsibility for their own defence, with what it calls more
 limited US support. Read alongside the European white paper from 2025, the two sides are describing the same change 
-from opposite ends: Washington announcing the step back, Brussels registering it.
+from opposite ends: Washington announcing the step back, Brussels already registered it in 2025.
 
 ## The tells in the structure
 
