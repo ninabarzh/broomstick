@@ -45,10 +45,8 @@ single day, and the Nasdaq lost over 600 points. DeepSeek demonstrated that perh
 fraction of the cost was possible, tearing the perceived mask off America's AI supremacy and reminding us all how brittle 
 proprietary cloud empires can be.
 
-### Why it matters
-
 * Vendor lock-in: Tools like AWS Lambda are functionally narcotic. Quitting requires therapy, budget approvals, and possibly an exorcist.
-* Data sovereignty: US clouds fall under the CLOUD Act, significantly weakening GDPR protections if your backups live in Virginia. The legal grey area creates genuine compliance risks for European organisations.
+* Data sovereignty: US clouds fall under the [CLOUD Act](https://www.congress.gov/bill/115th-congress/house-bill/4943/text), significantly weakening GDPR protections if your backups live in Virginia. The legal grey area creates genuine compliance risks for European organisations.
 * Economic leakage: Every euro sent to AWS subsidises American tech IPOs, not European innovation.
 
 ## The case for cloud-on-prem

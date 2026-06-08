@@ -38,7 +38,7 @@ If infrastructure is operated by a US-headquartered company, several things pote
 
 ### US CLOUD Act
 
-The US CLOUD Act, passed in 2018, amended the Stored Communications Act so US authorities can compel disclosure from US
+The US [CLOUD Act](https://www.congress.gov/bill/115th-congress/house-bill/4943/text), passed in 2018, amended the Stored Communications Act so US authorities can compel disclosure from US
 providers regardless of where the data physically sits. The trigger is “possession, custody, or control”, and corporate
 control is enough: an order served on [Kyndryl](https://www.kyndryl.com) in New York can reach
 data its staff can access in a Dutch datacentre.
@@ -51,8 +51,7 @@ the [Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl), or
 government to be informed, contest the order, or even know disclosure occurred.
 
 The risk is not wholesale extraction of
-DigiD. It is targeted access to records, logs, or metadata without Dutch visibility. See
-the [US CLOUD Act text](https://www.congress.gov/bill/115th-congress/house-bill/4943).
+DigiD. It is targeted access to records, logs, or metadata without Dutch visibility.
 
 ### FISA
 
