@@ -25,7 +25,7 @@ De [Wet open overheid](https://wetten.overheid.nl/BWBR0045754/2026-02-20) heeft 
 verklaart meer over waarom departementen ermee worstelen dan welke verklaring ook in termen van archiveren of
 compliance.
 
-## Wat de wet eigenlijk vraagt
+## Vindbaarheid laat zich niet voorschrijven
 
 De Woo verving in 2022 de oudere WOB en hield haar centrale belofte overeind: een burger mag om overheidsinformatie
 vragen en ontvangt die informatie, tenzij er een grond is om te weigeren. Dat verzoekrecht kent geen overgangsrecht en
@@ -38,7 +38,7 @@ langs een eigen beleidslijn, de beslisnota: de ambtelijke notitie waarin de afwe
 minister of staatssecretaris staan. Daar zit de moeite: een staat kan niet openbaar maken wat zij niet kan vinden, en
 geen wet kan vindbaarheid voorschrijven.
 
-## Het mechanisme
+## Twee lussen, één knoop
 
 ![Abstracte tweelussenstructuur: vastlegging voedt reconstrueerbaarheid voedt openbaarmaking, met een balancing loop op de uitgang en een reinforcing loop die de ingang uitholt](/images/01abstract.png#center)
 
@@ -77,7 +77,7 @@ wolk), dekking van waarschuwingen aan de uitgang, incident- en auditdruk, en inz
 vertrouwde reflex wanneer een audit een gat vindt, is meer regels schrijven en meer dashboards bouwen. Dat is inzet op
 de zichtbare laag. Het is dezelfde lus, maar dan in operationele kleren.
 
-## Waarom de vermomming niet toevallig is
+## De macht blijft buiten schot
 
 Hier houdt de structurele analyse op neutraal te zijn. Het is de moeite waard om voorzichtig te zijn met de volgorde.
 Het mechanisme hierboven werkt, of iemand het nu bedoeld heeft of niet. Maar zodra het werkt, is de plek waar de wet de
@@ -94,7 +94,7 @@ ontziet.
 Ik wil dit niet overdrijven tot intentie. Het punt is structureel, geen uitspraak over motieven. Maar de structuur treft
 niet iedereen even zwaar. En die asymmetrie opmerken is iets anders dan alleen de lussen zien.
 
-## Wat verloren is, is verloren
+## Verloren blijft verloren
 
 ![Interventievariant: het aangrijpingspunt verplaatst naar de ingang, de inzet voedt de vastlegging, en de reinforcing loop R is daarmee onderbroken.](/images/04intervention.png#center)
 
@@ -125,7 +125,7 @@ te registreren in plaats van een plausibele versie te fabriceren. Een departemen
 zijn eigen besluitvorming niet meer reconstrueerbaar zijn, doet iets preciezers en nuttigers dan een departement dat
 een openbaarmaking produceert over een verslag dat er nooit echt was.
 
-## Waar dit thuishoort
+## Dezelfde lus elders
 
 Dit is hetzelfde mechanisme als in [de stabiliteit van disfunctie](/posts/dysfunction/), maar dan vanuit een andere
 hoek. Aanpassen aan een probleem is goedkoper dan de oorzaak wegnemen. Aanpassen kan lokaal, maar correctie vraagt om

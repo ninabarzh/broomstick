@@ -22,13 +22,6 @@ object, maar ontstaan in een proces, verhouding of gebruik. En die houden niet s
 instrument niet tot een verkeerde conclusie, maar meet het een ander soort eigenschap dan de relevante. Niet omdat het
 slecht ontworpen is, maar omdat het aangrijpt op iets anders dan waar de relevante eigenschap ontstaat.
 
-Wanneer een eigenschap geen stabiel object is, verloopt het in alle drie gevallen hieronder zo. Het kader werkt: op de
-punten die het toetst, is een dienst, algoritme of verwerking ook werkelijk in orde. Het probleem is niet dat het kader
-slecht is, want het meet echte dingen, en dat is winst. Alleen bevindt de eigenschap waar de beslissing uiteindelijk
-over gaat zich elders, niet in het getoetste object maar in een proces of verhouding eromheen. En omdat een toets alleen
-vat heeft op wat zich laat vastleggen, verschuift de last vanzelf daarheen en verdwijnt de relevante eigenschap uit
-zicht.
-
 Zo ontstaat een systematische blinde vlek: niet een gemiste meting, maar een soort eigenschap die het instrument
 structureel niet kan zien. Die laat zich niet wegwerken door beter te toetsen. Een scherper kader verschuift alleen de
 grens, maar wat in een proces ontstaat, blijft van een ander soort dan de toestand die een toets vastlegt.
@@ -62,7 +55,6 @@ aankondigde met KPN en
 Thales [een eigen cloud te bouwen voor staatsgeheime gegevens](https://www.rijksoverheid.nl/actueel/nieuws/2026/04/09/defensie-bouwt-cloud-voor-staatsgeheime-gegevens),
 werd de keuze verdedigd met een zin die niet over een systeemeigenschap gaat: Nederland blijft zo zelf de baas over de
 gegevens. Dat is een beschrijving van een verhouding, precies in termen die het oorspronkelijke kader niet kon toetsen.
-Een systeem laat zich accrediteren, een verhouding niet.
 
 ## Eerlijkheid en bewijslast
 
@@ -109,17 +101,16 @@ het instrument, want er was een aanwijsbare handeling, het opzetten van een data
 
 Die toets heeft een stilzwijgende voorwaarde: ze kan een nieuw gebruik pas beoordelen op het moment dat het zich
 voordoet als een concrete handeling. In een gedeelde data-omgeving is dat moment er vaak niet. Iemand draait een query,
-legt twee verzamelingen naast elkaar, correleert verzamelingen, en ziet een verband dat niemand had voorzien. Geen van
+legt twee verzamelingen naast elkaar, correleert, en ziet een verband dat niemand had voorzien. Geen van
 die handelingen kondigt zich aan als een nieuw doel, en toch ontstaat er een doel dat er bij het verzamelen niet was.
 Hier zit de eigenschap in het gebruik, niet in de gegevens. Het doel ontstaat in de handeling die de gegevens oproept.
 Doelbinding bindt aan het doel dat bij het verzamelen werd opgeschreven, terwijl het doel dat ertoe doet pas later
-ontstaat. Een doel wordt niet alleen bepaald bij verzamelen, het ontstaat ook bij gebruik.
+ontstaat.
 
-## Wat zich niet laat bevriezen
+## Niets laat zich bevriezen
 
 Drie instrumenten, drie eigenschappen, één vorm. Telkens wordt een instrument dat een toestand vaststelt gevraagd iets
-te
-certificeren wat geen toestand is maar een verhouding, een aantoonbaarheid, een gebruik: iets wat in de tijd zijn vorm
+te certificeren wat geen toestand is maar een verhouding, een aantoonbaarheid, een gebruik: iets wat in de tijd zijn vorm
 krijgt en niet stilhoudt voor de meting. De macht om de zeggenschap morgen te veranderen, de eerlijkheid van een oordeel
 dat geen spoor nalaat, het doel dat pas bij het combineren ontstaat. Geen ervan laat zich bevriezen in een vaststelling.
 
