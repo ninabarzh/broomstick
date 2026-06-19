@@ -4,9 +4,13 @@ date: 2026-06-19T04:00:00.000Z
 draft: false
 tags:
   - systems thinking
-  - organisational dynamics
+  - scenarios
+  - ethics
+  - legitimisation
   - security
-  - geopolitics
+  - authoritarianism
+  - Netherlands
+  - Italia
 cover:
   image: "/images/HM26_firenze.png"
   alt: "LOGO HM Firenze"
