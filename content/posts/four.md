@@ -131,14 +131,12 @@ list of systemic risks and into a weaker category of risks for optional consider
 world. It was reclassified, by the parties on whom it would otherwise have fallen, into something the framework no
 longer required them to treat as serious.
 
-The pattern is structurally similar to earlier cases. A practice associated with harm develops. A protective framework
-is introduced. The framework formalises the practice, often by making it legible, governable, and therefore more stable.
-The legitimacy of actors within the system increases, even as the underlying dynamic continues. None of this requires
-that the framework was designed to legitimise harm. The possibility exists wherever the regulated become participants in
-defining what regulation means.
+The pattern is structurally similar to the earlier cases. A practice associated with harm develops. A protective
+framework is introduced. The framework formalises the practice, often by making it legible, governable, and therefore
+more stable. The legitimacy of actors within the system increases, even as the underlying dynamic continues. None of
+this requires that the framework was designed to legitimise harm. The possibility exists wherever the regulated become
+participants in defining what regulation means.
 
-The earlier cases could be granted for free. They are settled, or far enough along that agreement with harm legitimised
-costs nothing. This one is not. It is unfinished, its consequences still distributed in real time, and to place it
-alongside the others is to accept that the pattern is not closed history but a live arrangement one is currently inside.
-That acceptance has a price. It means participation in these frameworks, whether as developer, regulator, or researcher,
-can no longer be held at a comfortable distance from the legitimising work they are doing.
+The earlier cases have the advantage of distance. Their consequences are visible, their disputes largely settled. This
+case does not. The framework is still being written, the categories still being defined, the protections still being
+assigned. The earlier examples are history. This one is still a negotiation.
