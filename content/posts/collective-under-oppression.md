@@ -12,8 +12,8 @@ tags:
   - Netherlands
   - Italia
 cover:
-  image: "/images/HM26_firenze.png"
-  alt: "LOGO HM Firenze"
+  image: "/images/canal.png"
+  alt: "sides of the canal, not just two"
   relative: false
 ---
 
