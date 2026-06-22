@@ -14,10 +14,10 @@ tags:
 draft: false
 ---
 
-The nuclear analogy is at the moment the most popular frame for thinking about advanced AI, and it is the most 
-comfortable one for the people who built the bomb metaphor's home institutions. It carries an implicit theory of 
-control: states hold the technology, deterrence holds the states, and a small club of capable powers manages the rest 
-of the world's exposure. That theory has a long pedigree and a familiar cast. It also, for Europe, leads somewhere 
+The nuclear analogy is at the moment the most popular frame for thinking about advanced AI, and it is the most
+comfortable one for the people who built the bomb metaphor's home institutions. It carries an implicit theory of
+control: states hold the technology, deterrence holds the states, and a small club of capable powers manages the rest
+of the world's exposure. That theory has a long pedigree and a familiar cast. It also, for Europe, leads somewhere
 worth noticing before the door closes.
 
 What follows is an argument that the analogy is not just imperfect but load-bearing in a way that works against European
@@ -76,7 +76,8 @@ hit five million times without catching, and a 17-year-old remote code execution
 server, CVE-2026-4747, which the company says it exploited to unauthenticated root with no human involvement after the
 prompt.
 
-The capability, on this evidence, is not marketing. What turned it into a political question almost immediately was not the
+The capability, on this evidence, is not marketing. What turned it into a political question almost immediately was not
+the
 capability itself but the framing around it: what got shared, and with whom.
 
 ## Left outside the room
@@ -106,7 +107,8 @@ left [studying defences](https://www.globalbankingandfinance.com/ecb-studying-de
 against a model it could not see.
 
 The detail that sharpens the point is that access was never actually controlled the way the programme implied. A Discord
-group reportedly [obtained Mythos](https://www.sourcetrail.com/javascript/unauthorized-discord-access-to-anthropics-claude-mythos-triggers-fresh-ai-security-fears/)
+group
+reportedly [obtained Mythos](https://www.sourcetrail.com/javascript/unauthorized-discord-access-to-anthropics-claude-mythos-triggers-fresh-ai-security-fears/)
 through a third-party vendor and held it for around two weeks. So the operative distinction was never capable hands
 versus incapable hands. European banks could not get in; an unauthorised chat group could. The gate was real for allies
 and porous for whoever found the side door.
@@ -126,14 +128,15 @@ maintainers exactly where it was.
 
 ## A European PoC (one of many already)
 
-It is worth being modest about what this section can carry. Vulnforge is a proof of concept, not a Mythos competitor,
-and treating it as one would repeat the overclaiming this essay is trying to avoid.
+It is worth being modest about what this section can carry. [Vulnforge is a proof of concept](https://github.com/tymyrddin/vulnforge), 
+not a Mythos competitor.
 
 What it demonstrates is narrow and, I think, sufficient. It runs local, AI-assisted vulnerability scanning on ordinary
 workstations using open-weights models. Nothing is sent to a US vendor; no third party logs what was investigated. The
-pipeline keeps a tamper-evident record, so a finding can be traced to exactly what produced it. The operating principle
-is that the model proposes and the code disposes: suggestions are checked by execution in an isolated environment rather
-than trusted on the model's say-so. No cloud bill, no API key, no vendor dependency.
+pipeline keeps a tamper-evident record, so a finding can be traced to exactly what produced it. The organising idea is
+not that the model is trusted, but that its suggestions are checked by execution in an isolated environment. The
+operating principle is that the model proposes and the code disposes: suggestions are checked by execution in an 
+isolated environment rather than trusted on the model's say-so. No cloud bill, no API key, no vendor dependency.
 
 What it does not do is scale to Mythos-level capability or arrive production-ready. Claiming otherwise would be a
 category error. The point it makes is about direction, not parity. The architecture Europe would need (local models,
@@ -147,7 +150,7 @@ The American policy response over June reads, from a European vantage, less like
 an export asset.
 
 [Executive Order 14409](https://www.govinfo.gov/content/pkg/FR-2026-06-05/pdf/2026-11415.pdf), signed 2 June 2026 and
-published in the Federal Register on 5 June, established a classified benchmarking process to decide when a model is a 
+published in the Federal Register on 5 June, established a classified benchmarking process to decide when a model is a
 "covered frontier model", and a voluntary framework under which developers may give the government up to 30 days of
 pre-release access before sharing a model with other trusted partners. It directed the Attorney General to prioritise
 enforcement against AI-enabled computer crime under
@@ -169,7 +172,7 @@ Anthropic characterised as a narrow misunderstanding and which at least
 one [security researcher](https://www.techpolicy.press/did-the-us-government-just-set-an-ai-export-precedent-by-blocking-mythos/)
 described as defensive research rather than a jailbreak at all.
 
-There is a coherent case for the American position, and the essay is weaker if it pretends otherwise. A frontier model
+There is a coherent case for the American position. A frontier model
 that can build working exploits across every major system is, from Washington's vantage, not obviously different in kind
 from advanced cryptography, missile guidance, or lithography tools, all of which sit under export control without anyone
 calling it a betrayal of allies. A state that treats decisive cyber capability as a strategic asset will guard it like
@@ -204,7 +207,8 @@ urgent. The existential register, in their reading, does some of the work of acc
 restraining it.
 
 There is also a quieter loss buried in the analogy. Nuclear weapons stayed under state control. The AI capability that
-prompted all of this sits inside a company, and that company has been making decisions that are geopolitical in everything but name: who gets access, when to switch
+prompted all of this sits inside a company, and that company has been making decisions that are geopolitical in
+everything but name: who gets access, when to switch
 it off, how to read a government letter. Anthropic did not seek that role,
 and the export directive arguably forced its hand. The structural fact remains: decisions affecting European security
 are being taken inside an American firm and an American agency, and the nuclear frame has no vocabulary for that because
