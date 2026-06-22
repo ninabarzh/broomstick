@@ -266,13 +266,6 @@ reach that. Nothing built from the outside does.
 
 ## The reader's turn
 
-So the method ends where the earlier ones did, turned back on the essay that used
-it. The four lenses reached most of the residue and left a specific remainder, and
-the remainder is not a footnote. It is where the next reading would start, if
-there were one.
-
-The last application is the one left undone here. This essay picked four lenses
-and ran them on a figure who fit, and the fitting felt like discovery, the way it
-always does. What did the choosing of these four leave out? What pattern is in the
-case that none of the four was built to catch, sitting in the residue this reading
-declared and then walked past? That part is the reader's. Most of the fun, too.
+So the method ends where the earlier ones did, turned back on its use. The four lenses reached most of the residue 
+and left a specific remainder, and the remainder is not a footnote. It is where the next reading would start, if
+there were one. That part is the reader's. Most of the fun, too.
