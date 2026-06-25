@@ -145,10 +145,23 @@ a:hover        { color: #ffcc00 !important; }
 .post-content code {
   margin: auto 4px;
   padding: 4px 6px;
-  font-size: .78em;
+  font-size: .95em;
   line-height: 1.5;
-  background: #ccc;
+  background: #ddd;
   border-radius: 2px;
+}
+
+/* ASCII diagram blocks: fenced code only.
+   The dark fill is painted by the theme on the inner <code>
+   (.post-content pre code { background: var(--code-block-bg) !important }),
+   not on the <pre>, so the override has to land on pre code too. */
+.post-content .highlight pre,
+.post-content pre,
+.post-content .highlight pre code,
+.post-content pre code {
+  background: #ddd !important;
+  color: #121212 !important;
+  font-size: 0.95em;
 }
 
 /* ============================================================
