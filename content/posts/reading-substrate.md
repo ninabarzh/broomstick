@@ -31,10 +31,11 @@ Often the substrate is what is actually moving.
 
 The pattern has an instructive limit, and the story ends there. Four of the cases below show a material layer that is
 present and consequential and routinely under-read: the Sahel, the Indus basin, the war in Ukraine, the Rwandan
-genocide. The fifth, the American strikes on Iran, reverses the pattern and completes the argument by showing the same
-explanatory habit at its extreme: a conflict narrated so entirely through intention that the stated reason for force
-could change from one month to the next without the force pausing. The first four show what gets missed when we read
-only the story. The last shows what is left when there is nothing under the story to check it against.
+genocide. The fifth, the American strikes on Iran, pushes the pattern to a limit the others do not reach: a substrate
+present and central and unusually live, yet never the thing the force is narrated through, so the stated reason could
+change from one month to the next without the force pausing. The first four show what gets missed when we read only the
+story. The last shows what happens when the substrate is not missed at all but left unsaid, so the story stays free to
+change because it was never the thing doing the work.
 
 ## The Sahel: a story that arrives pre-labelled
 
@@ -234,15 +235,16 @@ who attends only to the first will understand the intent and misjudge, almost in
 inescapability that are the substrate's contribution. That misjudgement is not academic. It is the difference between
 seeing a genocide build and dismissing the warning as overheated.
 
-## Iran: the narrative with no substrate left
+## Iran: the substrate that cannot be named
 
 The four cases so far share a shape: a substrate, physical or institutional, that is present and consequential and goes
-under-read because the eye is on the story. Iran completes the argument by showing the same explanatory habit, the
-privileging of intention over condition, carried to the point where there is no condition left under the intention at
-all. If the other cases show analysis reading the narrative layer first and the substrate late, Iran shows what happens
-when the narrative layer is, in practice, the only layer consulted: the stated reason for force floats so free of any
-stable fact that it can be revised at will, and the revision changes nothing about the bombing. This is not a different
-subject. It is the explanatory hierarchy of the first four cases with its lower rung kicked away.
+under-read because the eye is on the story. Iran does not break that shape. It pushes it to a limit the other four do
+not reach. The substrate is present, and central, and unusually live, yet it is the one thing the decision is never
+narrated through, because naming it would cost more than the shifting cover stories do. If the other cases show analysis
+reading the narrative layer first and the substrate late, Iran shows what happens when a substrate is read well enough
+and left out of the account on purpose: the stated reason for force floats so free of any stable fact that it can be
+revised at will, and the revision changes nothing about the bombing. This is not a different subject. It is the
+explanatory hierarchy of the first four cases with its lower rung deliberately hidden rather than merely missed.
 
 The sequence is on the record. On 21 June 2025, the United States struck three Iranian nuclear facilities, Fordow,
 Natanz, and Isfahan, in Operation Midnight Hammer, joining an Israeli campaign that had begun on 13
@@ -262,19 +264,24 @@ constant throughout. The same pattern, the same outlet noted, had governed the o
 justified by turns as being about drugs, about law enforcement, and about oil. The narrative was not a reason for the
 action; it was a garment the action put on and took off as convenient.
 
-There is a real substrate here too, and it is worth naming precisely because nobody fighting over the airwaves was
-discussing
-it. [Roughly 27 percent of global oil trade and 22 percent of global natural gas trade passes through the Strait of Hormuz](https://www.congress.gov/crs_external_products/IN/PDF/IN12571/IN12571.1.pdf),
-which Iran sits astride and could attempt to disrupt in reprisal. And in the months before the strikes, the IAEA had
-reported Iran's stockpile of near-weapons-grade uranium rising sharply, the genuine non-proliferation fact at the centre
-of the crisis. These are material facts with consequences. But they were not the engine of the decision, and they were
-not what the decision was narrated through. The decision was narrated through obliteration and resolve and "peace
-through strength," and when the facts failed to cooperate, the narration simply moved on.
+There is a real substrate here, and it is worth naming precisely because the people fighting over the airwaves were
+not. [Roughly 27 percent of global oil trade and 22 percent of global natural gas trade passes through the Strait of Hormuz](https://www.congress.gov/crs_external_products/IN/PDF/IN12571/IN12571.1.pdf),
+which Iran sits astride and has shown it can throttle. Iran is also a major supplier of oil to China, which makes
+pressure on Tehran, read one way, pressure on a rival's intake, the denial logic that
+a [bottleneck reading of the same period](https://broomstick.tymyrddin.dev/posts/chokepoints/) traces through the Gulf
+and the defence documents that name the passages to be held. And in the months before the strikes, the IAEA had reported
+Iran's stockpile of near-weapons-grade uranium rising sharply, the genuine non-proliferation fact at the centre of the
+crisis. These are material facts with consequences, and at least one of them, the strait and the rival downstream of it,
+has the shape of a motive. What it does not have is the shape of a motive that can be said aloud. "Deny a rival its oil"
+is not announceable in the way "obliterate a nuclear programme" is. So the decision was narrated through obliteration and
+resolve and "peace through strength," and when those failed to cooperate, the narration moved on, while the substrate
+that could not be spoken stayed exactly where it was.
 
-Iran is a limit case in the strict sense. The other four show a substrate the frame cannot see. Iran shows the
-frame operating with the substrate switched off entirely, force justified by a story that need not stay true from one
-month to the next. If the first four cases are an argument that we read the wrong layer, Iran is what it looks like when
-there is no other layer left in the room.
+Iran is a limit case in the strict sense, but the limit is not an absent substrate. It is a substrate too useful to
+admit. The other four show a substrate the frame cannot see. Iran shows one the frame can see perfectly well and will
+not name, so it names everything else instead, and keeps the freedom to change the name next month. If the first four
+cases are an argument that we read the wrong layer, Iran is what it looks like when the right layer is read and then left
+out of the story on purpose.
 
 ## The expertise that never reaches the room
 
@@ -298,8 +305,10 @@ water treaty around glacial retreat," or "arbitrate transhumance corridors befor
 grain corridor before the ports are mined." The reporting formats reward a legible threat narrative over a slow-variable
 diagnosis, because a threat narrative justifies a deployment and a diagnosis justifies, at best, a study. So the
 substrate is not merely unseen. It is structurally unfundable, which is a more durable kind of invisible. And the Iran
-case shows the endpoint of the tendency: once the institutional habit of reading only the narrative is entrenched, the
-narrative need not even be consistent, because nothing in the apparatus is checking it against a substrate.
+case shows a further turn: sometimes the substrate is read well enough and left out of the account anyway, because it is
+the kind of motive an apparatus cannot announce. The narrative is then free to be inconsistent, not because nothing is
+checking it against a substrate, but because the substrate that would check it is the one thing no one at the podium can
+say.
 
 The correction is not exotic and not a matter of caring more. It is a matter of who is in the room and what question
 gets asked first. The default first question of conflict analysis is some version of *what do they believe, and who is
@@ -313,7 +322,7 @@ failed, has been normal for so long that it stopped looking like a choice.
 The habit is not wrong so much as wrongly ordered, and the reordering is modest. Direction and reach are different
 questions; so are intention and condition; and the apparatus is fluent in the first of each pair and halting in the
 second. The story is worth reading. So is the substrate it runs on, a glacier retreating, a corridor closing, a port
-burning, a hillside too crowded to flee. The substrate does not speak the vocabulary that gets a state's attention, and
+burning, a strait too useful to name, a hillside too crowded to flee. The substrate does not speak the vocabulary that gets a state's attention, and
 it moves anyway. A lens that claims to see war whole while reading only what the combatants say about themselves is
 not the widest lens available. It is the narrowest, mistaking the layer it knows best for the whole of what is there. We
 could learn to read the substrate before settling on the story, or better still, to read both together, rather than
