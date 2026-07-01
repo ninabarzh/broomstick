@@ -84,7 +84,7 @@ these can be weaponised, and at what cost to the relationships that keep discoun
 spent in one direction tends to be paid for in another.
 
 Logistics and access geography sets where force can physically be projected and held: the Black Sea, the Arctic, the
-land bridge, the choke points. It is the slowest gauge to move and, for that reason, perhaps the most genuinely
+land bridge, the [choke points]({{< relref "posts/chokepoints.md" >}}). It is the slowest gauge to move and, for that reason, perhaps the most genuinely
 predictive of the six, because a supply line cannot be wanted out of existence. The Black Sea shows the point: with
 Turkey holding the Bosporus and Dardanelles closed to warships under the Montreux Convention and Ukrainian drones having
 driven the fleet
@@ -132,7 +132,7 @@ forward-looking half quietly answers the backward-looking half's weakest point. 
 accused of hindsight, of finding the material layer only once the outcome is known. A constraint set is drawn without 
 knowing the outcome, which is what makes the envelope the more honest instrument of the two: it commits before the fact.
 
-So the closing is humbler than prediction and, perhaps for that reason, more durable. An observer can watch
+Humbler than prediction and, perhaps for that reason, more durable. An observer can watch
 the envelope tighten and loosen, name the gauge that appears to bind, and hold the disposition as a live variable rather
 than a solved one. The envelope does not say what a leadership will choose. It says which choices are quietly becoming
 unaffordable, and that is a different kind of foresight: slower, less dramatic, and possibly more reliable than any
