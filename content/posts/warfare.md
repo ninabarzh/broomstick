@@ -126,9 +126,11 @@ revising itself as the evidence accumulates, and a caution against reading any o
 confidently. [A small fraction](https://popular-archaeology.com/article/echo-from-the-past-how-gobekli-tepe-is-reshaping-our-understanding-of-the-neolithic-2/)
 of Göbekli Tepe has been excavated, and whether it is best called residential or ritual is still openly contested.
 
-Against the substrate frame, the site stops being an anomaly and becomes a prediction that came true. If fighting
-appears where the substrate makes it pay, then a substrate that rewards gathering and building over raiding could very
-well produce cooperation instead, and Göbekli Tepe is a case where it did. A new substrate appears here, sedentism,
+Against the substrate frame, the site stops being an anomaly, though prediction is the wrong word for it: nobody
+predicted Göbekli Tepe, and the reading arrived long after the digging. If fighting appears where the substrate makes it
+pay, then a substrate that rewards gathering and building over raiding could very well produce cooperation instead, and
+Göbekli Tepe is a case where it did. Which substrate is which is mostly read off what people did on it, so the frame
+explains after the fact rather than forecasting. A new substrate appears here, sedentism,
 monumental capacity, feasting-driven intensification of wild and then domesticated cereals, well before agriculture
 proper. And it does not produce war. It produces the machinery of cooperation: gatherings, shared building, ritual, the
 apparatus a society uses to keep interpersonal violence from escalating into the organised kind. The substrate, not the
@@ -301,20 +303,20 @@ incorporation. For kingdoms, it was surplus and the extraction machinery, which 
 elites both the means and the motive. For tribal honour systems, it was prestige and obligation. For neighbours in
 general, it was proximity without transparency.
 
-The Taş Tepeler case is the one that keeps the lens honest, because it is the counterexample that the frame predicts
-rather than trips over. If the substrate is what makes fighting rational, then some substrates should make it
-irrational, and reward cooperation instead. A world organised around large recurring gatherings and shared building is
-such a substrate, and it appears to have produced institutions for defusing violence rather than conducting it. The
-claim was never that the substrate drives people to war. It is that the substrate sets the price of war against its
-alternatives, and people, then as now, tend to read the price.
+The Taş Tepeler case is the one that keeps the lens honest, because it is a counterexample the frame accommodates rather
+than trips over, though accommodation is the easier of the two tricks. If the substrate is what makes fighting rational,
+then some substrates should make it irrational, and reward cooperation instead. A world organised around large recurring
+gatherings and shared building is such a substrate, and it appears to have produced institutions for defusing violence
+rather than conducting it. The claim was never that the substrate drives people to war. It is that the substrate sets
+the price of war against its alternatives, and people, then as now, tend to read the price.
 
-The long quarrel between war-is-ancient and war-is-invented now has a careful adjudication, and it converges on the same
-point. Reviewing the global archaeological record region by
+The long quarrel between war-is-ancient and war-is-invented now has a careful adjudication. Reviewing the global
+archaeological record region by
 region, [Hugo Meijer](https://link.springer.com/article/10.1007/s12110-024-09477-3) finds neither camp vindicated:
 lethal violence runs deep in the human lineage, but whether it surfaced as war varied enormously across time and place,
-a plasticity rather than a constant. That is the substrate reading in another vocabulary. The deep-roots and
-shallow-roots camps are each describing a real part of the range; what decides between them, case by case, is the
-substrate.
+a plasticity rather than a constant. The deep-roots and shallow-roots camps are each describing a real part of the
+range. Naming the substrate as what decides between them is a gloss on that finding rather than part of it, though it is
+a gloss the record seems to invite.
 
 The ideology changes dramatically across this history. Gods, crowns, nations, classes, civilisational missions: the
 narrative layer turns over every few centuries and sometimes faster. The substrate changes much more slowly. Arable land
