@@ -31,9 +31,9 @@ theories names a real mechanism, one that tends to dominate only where the subst
 
 The obvious place to start is Hobbes, or at least the tradition that carries his name. In this view warfare is simply
 human competition scaled up: territory, mates, prestige, revenge. The cemetery at Jebel Sahaba in Sudan, roughly
-thirteen thousand years
-old, is the usual exhibit, and it has recently become a more interesting one for a reason its original excavators did
-not intend. A [2021 reanalysis of the remains](https://www.nature.com/articles/s41598-021-89386-y) set aside the old
+thirteen thousand years old, is the usual exhibit, and it has recently become a more interesting one for a reason its
+original excavators did not intend.
+A [2021 reanalysis of the remains](https://www.nature.com/articles/s41598-021-89386-y) set aside the old
 reading of a single massacre and argued instead for a long succession of small raids and ambushes. Most of the
 individuals carried injuries, and a substantial share showed both healed and unhealed wounds, which is the revealing
 detail: these were people who survived being attacked and were then attacked again, across time rather than in a single
@@ -107,9 +107,9 @@ evidence of fighting between groups. The German Archaeological Institute team's 
 picture is careful and almost too apt: clear interpersonal and probably intergroup violence, more than Körtik Tepe alone
 attests and still well short of organised war, and the first stirrings of social inequality, running alongside visible
 strategies for defusing conflict and organising cooperation, with feasting and shared ritual acting as the incentives
-that pull people into working together. On that reading the enclosures are
-less a fortress than an institution, and the thing they institutionalise is not war but its avoidance. Nothing at these
-sites is fortified. The monumental architecture is emphatically not defensive.
+that pull people into working together. On that reading the enclosures are less a fortress than an institution, and the
+thing they institutionalise is not war but its avoidance. Nothing at these sites is fortified. The monumental
+architecture is emphatically not defensive.
 
 The one detail that points the other way is a skull cult, and it is worth handling with
 tongs. [Fragments of three carved and drilled human skulls](https://www.science.org/doi/10.1126/sciadv.1700564) from
@@ -130,14 +130,14 @@ Against the substrate frame, the site stops being an anomaly, though prediction 
 predicted Göbekli Tepe, and the reading arrived long after the digging. If fighting appears where the substrate makes it
 pay, then a substrate that rewards gathering and building over raiding could very well produce cooperation instead, and
 Göbekli Tepe is a case where it did. Which substrate is which is mostly read off what people did on it, so the frame
-explains after the fact rather than forecasting. A new substrate appears here, sedentism,
-monumental capacity, feasting-driven intensification of wild and then domesticated cereals, well before agriculture
-proper. And it does not produce war. It produces the machinery of cooperation: gatherings, shared building, ritual, the
-apparatus a society uses to keep interpersonal violence from escalating into the organised kind. The substrate, not the
-calendar, is what settles it. Change the substrate and what fighting is worth changes with it, in either direction. At
-Jebel Sahaba a compressing substrate made recurrent raiding rational. In the Taş Tepeler hills a substrate built around
-gathering and building made cooperation the better bet. Same species, a few thousand years and a few hundred kilometres
-apart, pulled opposite ways by what the ground and the moment made pay.
+explains after the fact rather than forecasting. A new substrate appears here, sedentism, monumental capacity,
+feasting-driven intensification of wild and then domesticated cereals, well before agriculture proper. And it does not
+produce war. It produces the machinery of cooperation: gatherings, shared building, ritual, the apparatus a society uses
+to keep interpersonal violence from escalating into the organised kind. The substrate, not the calendar, is what settles
+it. Change the substrate and what fighting is worth changes with it, in either direction. At Jebel Sahaba a compressing
+substrate made recurrent raiding rational. In the Taş Tepeler hills a substrate built around gathering and building made
+cooperation the better bet. Same species, a few thousand years and a few hundred kilometres apart, pulled opposite ways
+by what the ground and the moment made pay.
 
 ## What the farmers made stealable
 
@@ -200,11 +200,11 @@ complexity, [Turchin and colleagues found](https://www.science.org/content/artic
 the best-supported combination to be rising agricultural productivity and the spread of new military technologies, iron
 weapons and cavalry above all, with state-level features like territory size carrying surprisingly little weight. That
 is close to a restatement of the paragraph above: surplus feeds the specialists, and the specialists' tools do much of
-the scaling. In their data the mega empires arrive three or four centuries after cavalry does, a lag the authors read as
-consistent with the speed of change their model predicts; One commentator, Monique Borgerhoff Mulder, reads the same lag
-the other way, arguing that a delay of three to four centuries makes military technology "a very remote predictor of the
-outcome". Both readings accept the sequence; they differ on what it licenses. Whether a gap that wide still counts as 
-a cause is the actual question, and a substrate reading does not get to answer it for free.
+the scaling. In their data the megaempires arrive three or four centuries after cavalry does, a lag the authors read as
+consistent with the speed of change their model predicts; one commentator, Monique Borgerhoff Mulder, reads the same lag
+the other way, arguing that a delay that long makes military technology "a very remote predictor of the outcome". Both
+readings accept the sequence; they differ on what it licenses. Whether a gap that wide still counts as a cause is the
+actual question, and a substrate reading does not get to answer it for free.
 
 ## Surplus stacks the deck
 
@@ -286,7 +286,7 @@ sit on top of the machinery rather than drive it.
 means, and the line survives because it is half of a truth. The other half inverts it: politics may exist largely to
 avoid fighting. Negotiation is vastly cheaper than mobilisation, and diplomacy becomes attractive precisely because war
 is so expensive. Read that way, the history of civilisation is not merely the history of war. It is also the history of
-inventing alternatives to it, and pricing them.
+[inventing alternatives to it, and pricing them]({{< relref "posts/peace-costs.md" >}}).
 
 ## Reading the substrate
 
@@ -325,6 +325,6 @@ Anyone trying to read a conflict, past or present, could do worse than to ignore
 what, underneath, is actually contested, and what made contesting it by force look like a reasonable bet to somebody.
 
 That is the same move as reading any substrate: the narrative layer records what people say, the substrate records what
-constrains them, and the two rarely agree. The origin of war is
-not a single event awaiting discovery in the right stratum of the right dig. It is a pattern that reappears, era after
-era, whenever the substrate makes organised violence cheaper than its alternatives.
+constrains them, and the two rarely agree. The origin of war is not a single event awaiting discovery in the right
+stratum of the right dig. It is a pattern that reappears, era after era, whenever the substrate makes organised violence
+cheaper than its alternatives.
