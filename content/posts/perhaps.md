@@ -20,6 +20,11 @@ tags:
   - "compliance versus reality"
   - "security culture"
   - "strategic vulnerability"
+cover:
+  image: "/images/administrative-attack-surface.png"
+  alt: 'admin attack surface' 
+  caption: ""
+  relative: false
 ---
 
 A few days after sending an application to the Dutch Ministry of Defence for a senior cyber and information security
@@ -58,18 +63,18 @@ That shift changes everything.
 
 ## Waterfall
 
-[A radar](https://green.tymyrddin.dev/docs/threat-models/infrastructure-aggregation/herwijnen) is no longer a radar. It becomes a layered
+[A radar](https://purple.tymyrddin.dev/docs/admin-surface/herwijnen) is no longer a radar. It becomes a layered
 arrangement of dependencies: power supply, cooling, maintenance
 windows, procurement chains, segmented networks, contractor access, backup duration, physical access paths and
 monitoring assumptions. Each part necessary, none sufficient on its own, all quietly holding each other in place.
 
-[A military fuel pipeline](https://green.tymyrddin.dev/docs/threat-models/infrastructure-aggregation/dpo) is not a pipe. It is timing and
+[A military fuel pipeline](https://purple.tymyrddin.dev/docs/admin-surface/dpo) is not a pipe. It is timing and
 pressure, logistics and repair capacity, redundancy and
 response coordination, stretched across geography, institutions and bureaucracy that rarely meet in one place at once.
 
 Modern infrastructure is rarely defeated by cinematic sabotage. It usually dies of correlations.
 
-[One agency publishes permits](https://green.tymyrddin.dev/docs/threat-models/infrastructure-aggregation/osint). Another publishes environmental
+[One agency publishes permits](https://purple.tymyrddin.dev/docs/admin-surface/osint). Another publishes environmental
 maps. A contractor uploads technical drawings. A utility
 operator exposes cable metadata. A procurement system lists component models. An environmental review includes backup
 generators. A planning objection embeds security layouts.
@@ -102,7 +107,7 @@ But after reading the article I found myself wondering whether institutions genu
 or whether they merely like the idea of them existing somewhere abstract and well supervised.
 
 Everyone says they want “out of the box thinking” until someone quietly points at the box’s fuel
-supply, [external contractors](https://green.tymyrddin.dev/docs/threat-models/infrastructure-aggregation/netwerkruimtes), maintenance dependencies
+supply, [external contractors](https://purple.tymyrddin.dev/docs/admin-surface/netwerkruimtes), maintenance dependencies
 and single shared conduit.
 
 Then suddenly the room develops a passionate commitment to process (or logo design :-).
@@ -153,7 +158,7 @@ The uncomfortable possibility is that modern societies need this kind of thinkin
 ## And yet ...
 
 None of this points only at refusal. The same correlations a person can read by hand could in principle
-feed [a small system that does the looking automatically](https://green.tymyrddin.dev/docs/threat-models/infrastructure-aggregation/sos), running
+feed [a small system that does the looking automatically](https://purple.tymyrddin.dev/docs/admin-surface/sos), running
 tender feeds and planning portals against each other and surfacing dependency concentrations. Collection is the easy
 part. The harder question is which flagged correlations count as a problem, which are already known and accepted, and
 which the relevant institutions can or want to act on. That part does not belong to the engine.
