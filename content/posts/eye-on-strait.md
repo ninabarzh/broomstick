@@ -3,6 +3,7 @@ title: The naming and the finding out
 date: 2026-07-08
 description: "Confirmed false flags came to light through residue the story could not control: an archive opened, a device misbehaved, a forensic report aged badly. Case by case, where the meaning was made and what the substrate was saying."
 tags:
+  - substrate
   - conflict
   - deception
   - attribution

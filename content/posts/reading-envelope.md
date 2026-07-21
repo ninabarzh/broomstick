@@ -3,7 +3,7 @@ title: "Reading the envelope"
 subtitle: "On the layer beneath the stories we tell about war"
 date: 2026-07-01
 draft: false
-tags: [ "conflict", "Russia", "strategy", "sanctions", "forecasting", "constraint-analysis", "political-economy" ]
+tags: [ "substrate", "conflict", "Russia", "strategy", "sanctions", "forecasting", "constraint-analysis", "political-economy" ]
 ---
 
 [Reading the Substrate]({{< relref "posts/reading-substrate.md" >}}) argued that analysis of conflict tends to read a

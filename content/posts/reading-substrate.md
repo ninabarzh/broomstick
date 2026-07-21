@@ -3,7 +3,7 @@ title: "Reading the substrate"
 subtitle: "On the layer beneath the stories we tell about war"
 date: 2026-06-30
 draft: false
-tags: [ "conflict", "climate", "political-violence", "Sahel", "Indus", "Ukraine", "Rwanda", "Iran" ]
+tags: [ "substrate", "conflict", "climate", "political-violence", "Sahel", "Indus", "Ukraine", "Rwanda", "Iran" ]
 cover:
   image: "/images/reading-substrate.png"
   alt: "A stylised map of a contested border region shown above a cutaway cross-section of the ground beneath it. The upper map shows clean diplomatic borders and labels; the lower section reveals a dry riverbed, a retreating glacier, cracked farmland, and a crowded hillside, with a thin line dividing the two layers." 
