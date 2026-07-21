@@ -22,9 +22,11 @@ top of material facts. To say so would be its own kind of error, an overcorrecti
 where it gets made most often. The claim is narrower and, I think, harder to dismiss: analysis of conflict tends to
 privilege intention over the conditions that enable it. It reads the narrative the combatants tell, the belief and the
 strategy and the grievance, and treats the physical and institutional substrate beneath that narrative as scenery. The
-ordering this produces is consistent. Analysis begins with intention and treats the substrate as context. I think the
-emphasis is often backwards: ideas tend to set the direction of a conflict, but conditions tend to determine its reach,
-and a reading that attends only to the first is liable to misjudge the second. Ideology is real. Leadership is real. A state
+word is borrowed from biology and horticulture, where a substrate is the medium a thing grows in: not why it grows,
+which is the surface story, but the ground that decides whether it takes and how far it spreads. The ordering this
+produces is consistent. Analysis begins with intention and treats the substrate as context. I think the emphasis is
+often backwards: ideas tend to set the direction of a conflict, but conditions tend to determine its reach, and a
+reading that attends only to the first is liable to misjudge the second. Ideology is real. Leadership is real. A state
 that chooses to kill is not reducible to its rainfall, and a leader who chooses to bomb is not reducible to anything but
 the choice. None of what follows dissolves the political into the material. It reorders which layer gets read first.
 Often the substrate is what is actually moving.
