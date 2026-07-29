@@ -209,7 +209,7 @@ Documentation mostly in [Ponder's narrative built from his notes](https://red.ty
 Scripts: All reconnaissance, vulnerability assessment, and exploitation scripts can be found in the repo's 
 [scripts/ directory](https://github.com/ninabarzh/power-and-light-sim/tree/main/scripts) with comprehensive README files.
 
-Workshop materials: [Complete workshop curriculum, exercises, and facilitation guide](https://red.tymyrddin.dev/docs/services/uu-pl).
+Workshop materials: a complete curriculum, exercises, and a facilitation guide.
 
 Community: GitHub issues for questions, bug reports, and contributions.
 

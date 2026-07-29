@@ -87,7 +87,7 @@ deep, however many structures appeared on the plan.
 ## Interaction beats accumulation
 
 Organisations [inventory controls](https://purple.tymyrddin.dev/docs/audits/iso27001/gear-depot/). Attackers [experience
-systems](https://red.tymyrddin.dev/docs/through/evasion/notes/attack-chain/). These are not two views of the same
+systems](https://red.tymyrddin.dev/docs/loops/position/evasion/notes/attack-chain.html). These are not two views of the same
 object; they are different objects.
 
 An inventory is additive. Each control is assessed on its own terms, found adequate, and counted. The list grows, and
@@ -147,7 +147,7 @@ one line: OT never relied on copies of the same protection. It relied on differe
 
 Each thing standing between a compromised control system and a disaster exists in a different domain, obeys different
 rules, and fails for different reasons. The networks are genuinely apart, not merely logically adjacent. The [safety
-instrumented system](https://red.tymyrddin.dev/docs/in/ot/notes/safety/) runs its own logic on its own hardware,
+instrumented system](https://red.tymyrddin.dev/docs/grounds/ot/notes/safety.html) runs its own logic on its own hardware,
 designed by people who assumed the basic process control would fail and planned for the day it did. The mechanical
 interlock holds regardless of what any computer believes; it fails as metal, not as software. The analogue gauge reports
 the pressure actually in the pipe, and the operator watching it is entitled, indeed expected, to distrust the screens.

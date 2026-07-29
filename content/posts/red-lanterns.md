@@ -24,13 +24,13 @@ suspiciously good chips, they were a hackerspace, a guild of tinkerers.
 
 [![Scarlet Semaphore](/images/scarlet-semaphore.png)](https://red.tymyrddin.dev/docs/scarlet/)
 
-[Their charter](https://red.tymyrddin.dev/docs/scarlet/charter) was one of curiosity, not conquest. They poked at 
+[Their charter](https://red.tymyrddin.dev/docs/scarlet/wall/charter.html) was one of curiosity, not conquest. They poked at 
 systems to see how they squeaked, a digital version of kicking tyres. Their latest project was 
 [Operation Red Lantern](https://red.tymyrddin.dev/docs/scarlet/op-red-lantern/), targeting the Guild Registry, a 
 dusty, important, and frankly rather pompous piece of civic plumbing that controlled professional certifications. 
-It was, in their view, [begging for a gentle nudge](https://red.tymyrddin.dev/docs/scarlet/op-red-lantern/rose/gambit).
+It was, in their view, [begging for a gentle nudge](https://red.tymyrddin.dev/docs/scarlet/wall/gambit.html).
 
-[![Operation Red Lantern or False Horizons](/images/red-lanterns.png#center)](https://red.tymyrddin.dev/docs/scarlet/op-red-lantern/rose/patrician-red-line)
+[![Operation Red Lantern or False Horizons](/images/red-lanterns.png#center)](https://red.tymyrddin.dev/docs/scarlet/wall/patrician-red-line.html)
 
 The nudge, however, had 
 [unforeseen consequences](https://github.com/ninabarzh/red-lantern-sim/blob/main/examples/playbook3-practice.json). 
@@ -61,7 +61,7 @@ pulled, but as a particularly vigorous, if misplaced, new species of rose. Shutt
 Leaving them be was an invitation to accidental catastrophe.
 
 His solution was a stroke of lateral thinking. 
-[He summoned Ponder](https://red.tymyrddin.dev/docs/scarlet/op-red-lantern/wall/ponders-visit). "Your curiosity," 
+[He summoned Ponder](https://red.tymyrddin.dev/docs/scarlet/wall/ponders-visit.html). "Your curiosity," 
 the Patrician stated, sipping a delicate brandy, "has value. Your current method of satisfying it, however, involves 
 making the traffic lights dance. This is disruptive. I propose a change of venue."
 
@@ -90,7 +90,7 @@ who would pour over it, writing the detection spells:
 faint shimmer in the real network traffic.
 
 It was security through immersive, sanctioned paranoia. The Patrician had converted a threat into a vaccine. The 
-Scarlet Semaphore got to be [brilliantly disruptive](https://red.tymyrddin.dev/docs/scarlet/op-red-lantern/bench/) 
+Scarlet Semaphore got to be [brilliantly disruptive](https://red.tymyrddin.dev/docs/scarlet/op-red-lantern/runbooks/) 
 without causing a real mess. The Department of Silent Stability got a perpetual, intelligent training partner that 
 didn't require filing incident reports. And the city’s data flows continued to hum, their pathways growing more 
 resilient with every simulated catastrophe. The red lanterns now glowed with a steady, untroubled light, their brief, 

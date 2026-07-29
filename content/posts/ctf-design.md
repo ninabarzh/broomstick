@@ -122,10 +122,10 @@ Platforms such as [Root-Me](https://www.root-me.org/Barzh) and
 
 Root-Me tends towards challenge-based learning with a strong emphasis on solving discrete problems. It is good at 
 building pattern recognition (and intuition) and exposing participants to a wide range of techniques. It leans closer 
-to the “solve the challenge” end, which makes it effective for [exploration and practice](https://red.tymyrddin.dev/docs/through/buffer-overflow/root-me/), but variable in how much it 
-builds deeper understanding without [additional reflection](https://red.tymyrddin.dev/docs/through/buffer-overflow/notes/).
+to the “solve the challenge” end, which makes it effective for [exploration and practice](https://red.tymyrddin.dev/docs/root-me/buffer-overflow/), but variable in how much it 
+builds deeper understanding without [additional reflection](https://red.tymyrddin.dev/docs/loops/position/buffer-overflow/notes/).
 
-TryHackMe is more structured. It guides participants through [scenarios with explanations and progression paths](https://red.tymyrddin.dev/docs/through/buffer-overflow/thm/). 
+TryHackMe is more structured. It guides participants through [scenarios with explanations and progression paths](https://red.tymyrddin.dev/docs/thm/buffer-overflow/). 
 This supports learning more directly, particularly for beginners, by making the intended technique explicit. The 
 trade-off is that guided environments can reduce the need to struggle, which is where some learning happens.
 

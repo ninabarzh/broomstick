@@ -91,7 +91,7 @@ you usable context. Think of it as rolling your own plumbing when the water comp
 ### Use reproducible builds and binary analysis
 
 Attackers exploit the gap between declared vulnerabilities and what actually runs on your systems. Defenders can 
-close that gap by [analysing binaries directly](https://red.tymyrddin.dev/docs/through/reverse-engineering/index.html#foraging-for-secrets-in-binaries). 
+close that gap by [analysing binaries directly](https://red.tymyrddin.dev/docs/loops/position/reverse-engineering/index.html#foraging-for-secrets-in-binaries). 
 Tools such as Ghidra, BinDiff, or commercial platforms like ReversingLabs can detect vulnerable code signatures 
 without waiting for a CVE to be neatly tagged. [Reproducible builds](https://reproducible-builds.org/) add another 
 layer of defence, letting teams verify that what they are running matches what upstream vendors intended, no mystery 
