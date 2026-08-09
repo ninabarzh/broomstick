@@ -32,11 +32,13 @@ the rule knows to go past it. All of it would survive an audit. Most of it has.
    four ways in one hour, and the minute recorded agreement.
 3. [AI is exposing old organisational weaknesses](/posts/ai-old-weaknesses/). An assistant answers from a policy page 
    nobody had taken down, and the review calls it a hallucination.
-4. [Why maturity models disappoint](/posts/maturity-models/). 412 documents attest to the change process. The release a
+4. [The hinge in the attention argument](/posts/the-hinge/). Leadership becomes the design of what machines notice.
+   Whoever designs that is standing inside the same problem.
+5. [Why maturity models disappoint](/posts/maturity-models/). 412 documents attest to the change process. The release a
    month later had no rollback plan.
-5. [The organisation without a model of itself](/posts/model-of-itself/). Eleven steps, three swimlanes, and an accurate
+6. [The organisation without a model of itself](/posts/model-of-itself/). Eleven steps, three swimlanes, and an accurate
    map that does not show which of the steps anyone present could change.
-6. [Concerns as an organising principle](/posts/concerns/). A policy, a questionnaire and a dashboard, all current and
+7. [Concerns as an organising principle](/posts/concerns/). A policy, a questionnaire and a dashboard, all current and
    all owned. The supplier account is still open.
 
 A column of figures is one thing. What its readers take it to mean is another. Data and information. A viable system and
