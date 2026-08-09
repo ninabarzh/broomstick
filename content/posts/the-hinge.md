@@ -23,15 +23,15 @@ literally than the familiar management versions allow.
 
 [Ashby's law](https://purple.tymyrddin.dev/docs/foundations/system-effectiveness/ashby) does not say that a controller
 has to be as complex as the system it governs. It says that the regulator's variety has to cover the variety of
-disturbances, relative to the outcomes that have to remain within limits. That difference is not pedantic. It gives two
-ways of closing the gap: increase the variety available to the regulator, or reduce the variety arriving at it.
+disturbances, relative to the outcomes that have to remain within limits. That difference gives two ways of closing the
+gap: increase the variety available to the regulator, or reduce the variety arriving at it.
 
-Attention is the second move, but only if what is filtered out is genuinely outside the regulation problem. Otherwise it
-has not reduced the variety of the disturbance. It has reduced the variety the regulator can see. Either way it does not
-put attention outside the system. It puts another operation inside it: deciding what counts as a distinction worth
-surfacing.
+Attention can be the second move, but only if what is filtered out is genuinely outside the control problem. Otherwise
+the filtering has not reduced the variety of the disturbance. It has reduced the variety the regulator can see. Either
+way it does not put attention outside the system. It puts another operation inside it: deciding what counts as a
+distinction worth surfacing.
 
-Ashby's semaphore makes the difficulty unusually clear. One observer can distinguish sixty-four positions, another only
+Ashby's semaphore makes the difficulty clear. One observer can distinguish sixty-four positions, another only
 thirty-six. The semaphore has not changed. The observer's variety has.
 
 That is where [Lewin](https://purple.tymyrddin.dev/docs/foundations/change-management/lewin) becomes useful. His
@@ -48,26 +48,29 @@ what it surfaces, what it suppresses and what counts as a useful distinction. Th
 somewhere, by an observer with a lifespace, a channel and a finite variety of their own. The problem has moved up one
 level, not disappeared.
 
-This is where the mathematics Kozyrkov cites becomes interesting rather than decorative.
-
-[A hidden attractor](https://purple.tymyrddin.dev/docs/foundations/hinge/borrowed-precision) is not merely a poetic
-name for behaviour that an organisation does not understand. It has a precise definition. The Cassini family gives a
-still sharper example of what a mathematical import can contribute: a parameter crosses a threshold, and the curve
-changes from two regions to one. Once the parameter, threshold and organisational referents are specified, the analogy
-can be wrong. That is useful. It has introduced a distinction that can fail.
+Whoever decides that is working from a stock of distinctions, and the stock is mostly borrowed. Not every import pays
+for itself.
+[A hidden attractor](https://purple.tymyrddin.dev/docs/foundations/hinge/borrowed-precision) is not merely a poetic name
+for behaviour that an organisation does not understand. It has a precise definition: its basin of attraction does not
+touch any neighbourhood of an equilibrium, so looking at where a system comes to rest will not find it. The Cassini
+family of curves gives a still sharper example of what a mathematical import can contribute: a parameter crosses a
+threshold, and the curve changes from two regions to one. Once the parameter, threshold and organisational referents are
+specified, the analogy can be wrong. That is useful. It has introduced a distinction that can fail.
 
 The same test applies to attention. What does the system distinguish? What does the filter act on? What disappears
-before it can be surfaced? Who can tell that something has disappeared?
+before it can be surfaced? Who can tell that something has disappeared? A queue that suppresses everything below a
+severity threshold has answers to what it distinguishes and what it acts on, printed in its configuration. Forty
+low-severity events from one supplier and forty from forty different suppliers come out of it as the same silence.
 
 Those are not implementation questions added after the attention system has been designed. They are part of the system
 being designed.
 
-The common thread is therefore narrower than a claim about the value of human judgement. The comparison between a model
-and a situation has to happen somewhere, and that somewhere has an occupant. Even the mechanism intended to decide what
-reaches that occupant has to be held against a situation by somebody.
+What is left is narrower than a claim about the value of human judgement. The comparison between a model and a situation
+has to happen somewhere, and that somewhere has an occupant. Even the mechanism intended to decide what reaches that
+occupant has to be held against a situation by somebody.
 
-The occupant has a finite variety. Their channels determine which distinctions can reach them. Their vocabulary is
-partly borrowed. Under pressure,
+What the occupant can tell apart is finite, and the count moves with the position. Their channels determine which
+distinctions can reach them. Under pressure,
 [their stance changes what they can recognise](https://purple.tymyrddin.dev/docs/foundations/hinge/stance-in-the-joint).
 And when a construction meets the work and does not fit, the resulting gap is not necessarily failure of the person or
 the model. It can be the evidence that the position has discovered a distinction it did not previously have.
@@ -77,4 +80,4 @@ whoever designs it is inside that problem too.
 
 The machines can do the doing. They can also do an extraordinary amount of noticing.
 
-They cannot decide what a distinction means without somebody, somewhere, holding it against a situation.
+A distinction becomes useful only when somebody, somewhere, holds it against a situation.
