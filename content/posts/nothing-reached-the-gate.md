@@ -147,7 +147,8 @@ The vendor's engineer is independent of the change agent, the asset inventory, a
 the modem being installed because they installed it. Independence was never the missing property. What is missing is an
 architecture in which that observation has anywhere to go, and a reason to go there.
 
-An independent signal reports what it sees. Deciding what there is to see remains an act of design, performed upstream,
+An independent signal reports what it sees. Deciding what there is to see remains
+an [act of design](https://purple.tymyrddin.dev/docs/thirteen/designing-what-machines-notice), performed upstream,
 usually once, and usually quietly.
 
 ## Before the sequence
