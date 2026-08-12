@@ -44,7 +44,7 @@ lunch.
 
 Congruence keeps all three in view. Self is whoever gives
 the account. Other is whoever receives it. Context is the situation the exchange sits in: what is at stake, what
-the setting allows, and what it costs each side to be there. Keeping all three in takes effort whenever the room pulls the other way, and rooms
+the setting allows, and what it costs each side to be there. Keeping all three in takes effort whenever the room pulls the other way. Rooms
 pull in the direction of their ruling stance: towards the peaceful account, the righteous account, or the tidy one. In
 rooms ruled by the computing stance, as ICT rooms tend to be, the pull runs towards the tidy account with nobody in it.
 
@@ -68,9 +68,9 @@ self and other does not remove the position the account is made from. It removes
 looks like no stance is a stance whose signature is invisibility.
 
 The computing stance seems to produce two contradictions. It keeps context while losing the situation, and it takes a
-position by seeming to take none. Two distinctions account for both. The first is between context represented as
-information, the part that can be stated as rules and data, and the situation in which that information is produced: who
-is in the room and what it costs them to be there. The computing stance keeps the first and drops the second, which is how it
+position by seeming to take none. Two distinctions account for both. The first is between two things the word context covers. One is context
+represented as information, the part that can be stated as rules and data. The other is the situation in which that
+information is produced: who is in the room and what it costs them to be there. The computing stance keeps the first and drops the second, which is how it
 keeps context and loses the situation. The second is between the positions an account names and the position an account
 is made from. An account can name every position involved and still hide its own, which is how a posture takes a
 position while seeming to take none. At least in this case, paradox was the name a lost distinction travelled under.
@@ -91,9 +91,9 @@ symmetry, or a superior perspective, and it does not decide which observation wi
 profoundly and stay that way.
 
 Neither person's account has deleted the other, so the difference between the accounts stays
-observable. An organisation can learn from the differences between its
-accounts, and making one account internally consistent can make those differences disappear. Congruence keeps them
-alive.
+observable. The difference is information neither account contains on its
+own, and it is information about where the organisation's representation stops. Making one account internally consistent
+removes it. Congruence keeps it.
 
 ## The stance without the stress
 
@@ -116,16 +116,15 @@ A stance that becomes infrastructure stops looking like a stance.
 
 ## Bending towards what can be represented
 
-Around an architecture that holds one stance, the organisation adapts one decision at a time, for reasons that are
-locally reasonable. People feed
+Around an architecture that holds one stance, the organisation adapts, reasonably, one decision at a time. People feed
 the system the inputs it expects. Processes bend towards what can be represented, because representable work is work the
-system can help with. Exceptions become packets. Observations become data sources. Work becomes task inventories. And
-people whose value lies partly in noticing things that are not yet representations get harder to justify, because the
+system can help with. Exceptions become packets. Observations become data sources. Work becomes task inventories. Some people's
+value lies partly in noticing things that are not yet representations. They get harder to justify, because the
 architecture has no category for what they bring.
 
-Here the loss of a team stops being a staffing question. A network team is also a set of positions, and what an organisation
-can notice about itself depends partly on the positions it still has. The operator notices one thing by standing where operators stand. The maintainer notices
-another. The vendor's engineer, the newcomer, the twenty-year veteran: each sees things the others are less likely to see, from
+Here the loss of a team stops being a staffing question. A network team is also a set of positions, and an organisation's own
+limits show only from positions it still holds. The operator notices one thing by standing where operators stand. The maintainer notices
+another. The vendor's engineer, the newcomer, the twenty-year veteran: each sees what the others cannot, from
 ground the others do not occupy. The differences between those observations are not noise around the organisational model. They are
 how the organisation finds out its model is incomplete.
 
