@@ -33,15 +33,15 @@ documentation and tools they can muster. One sentiment expressed by organisation
 know what the auditors will be looking for, describing it as preparing for an exam without seeing the syllabus. 
 Checklists are completed with zeal, policies are lifted from the internet, and incident response plans are reduced to 
 sticky notes scrawled with panic. Systems may be secure, but if documentation is disorganised or incomplete, it 
-counts against you. Metrics, signatures, and forms convey the illusion of control, yet actual cyber risk continues 
+counts against the firm. Metrics, signatures, and forms convey the illusion of control, yet actual cyber risk continues 
 unchecked. The system optimises for appearance, not reality, creating an ecosystem of superficial compliance that 
 masks underlying vulnerabilities.
 
 Yet it needn't be quite so Kafkaesque. 
 [NIS2 compliance, like crossing a river](https://purple.tymyrddin.dev/docs/audits/nis2/), requires respecting 
-the current. You cannot simply route around mandatory incident reporting timelines and specific obligations. 
+the current. Mandatory incident reporting timelines and specific obligations cannot simply be routed around. 
 But with systematic preparation and realistic planning, it is navigable. The difference between theatre and 
-substance lies in understanding what actually matters versus what merely creates paperwork. Practical guides 
+substance lies in understanding what genuinely reduces risk versus what merely creates paperwork. Practical guides 
 exist that cut through the regulatory fog, offering frameworks for cross-functional coordination and genuine 
 risk management rather than checkbox exercises.
 
