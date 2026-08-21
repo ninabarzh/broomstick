@@ -174,3 +174,10 @@ a:hover        { color: #ffcc00 !important; }
 .post-single .post-content h4 { font-size: clamp(1.1rem,  1rem   + 0.4vw, 1.25rem)!important; }
 .post-single .post-content h5 { font-size: clamp(1rem,    0.95rem + 0.3vw, 1.1rem)!important; }
 .post-single .post-content h6 { font-size: clamp(0.9rem,  0.85rem + 0.25vw, 1rem) !important; }
+/* ============================================================
+   GLOBAL: tables fill the content column
+   ============================================================ */
+.post-content table {
+  display: table;
+  width: 100%;
+}
