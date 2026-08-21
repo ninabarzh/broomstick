@@ -68,7 +68,7 @@ broke a domestic taboo on local participation in the killing. In late October 20
 [recalled all of Vanagaite's books](https://www.jta.org/2017/10/30/news-opinion/world/publisher-recalls-books-by-lithuanian-writer-who-triggered-debate-about-the-holocaust)
 after she raised questions about the partisan leader Adolfas Ramanauskas-Vanagas, the chief executive calling her
 statements incompatible with the values of the publishing house. A recall is a commercial decision, not a prosecution,
-which is the point. The narrative is kept less by the state alone than by a set of institutions that decided each knows 
+which is the point. The narrative is not kept by the state alone. It is kept by institutions that decide they know 
 where the line runs.
 
 ## Even-handed on paper
