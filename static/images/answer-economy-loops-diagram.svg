@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 780" font-family="Helvetica, Arial, sans-serif">
+<title>The tool that feeds its own queue</title>
+<desc>A reinforcing loop closes between queries asked, generated text and questions arising: each answer becomes text, the text raises questions, and the questions come back as queries, at the speed of asking. No edge in the loop passes through a decision, and no sourced effect returns from one. Drawn as clouds, meaning measurable but not measured: generated text and questions arising. Drawn in grey, meaning a sourced effect on a branch with no evidenced return: reading load. An increase in queries asked raises generated text. An increase in generated text raises questions arising. An increase in questions arising raises queries asked, by human intervention. An increase in generated text raises reading load.</desc>
+<rect id="background" width="960" height="780" fill="#ffffff"/>
+<text id="title" x="480" y="38" font-size="20" fill="#000000" text-anchor="middle">The tool that feeds its own queue</text>
+<text id="subtitle" x="480" y="60" font-size="13" fill="#000000" text-anchor="middle">One reinforcing loop, and the reading that leaves it</text>
+<ellipse id="node-q" cx="480" cy="150" rx="70" ry="34" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text id="text-q-1" x="480" y="154" font-size="13.5" fill="#000000" text-anchor="middle">queries asked</text>
+<path id="node-g" d="M 778.0 430.0 A 15.8 15.8 0 0 1 763.1 452.3 A 24.3 24.3 0 0 1 724.1 466.1 A 28.4 28.4 0 0 1 675.9 466.1 A 24.3 24.3 0 0 1 636.9 452.3 A 15.8 15.8 0 0 1 622.0 430.0 A 15.8 15.8 0 0 1 636.9 407.7 A 24.3 24.3 0 0 1 675.9 393.9 A 28.4 28.4 0 0 1 724.1 393.9 A 24.3 24.3 0 0 1 763.1 407.7 A 15.8 15.8 0 0 1 778.0 430.0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text id="text-g-1" x="700" y="434" font-size="13.5" fill="#000000" text-anchor="middle">generated text</text>
+<path id="node-a" d="M 348.0 430.0 A 16.4 16.4 0 0 1 331.2 452.3 A 27.1 27.1 0 0 1 287.2 466.1 A 32.0 32.0 0 0 1 232.8 466.1 A 27.1 27.1 0 0 1 188.8 452.3 A 16.4 16.4 0 0 1 172.0 430.0 A 16.4 16.4 0 0 1 188.8 407.7 A 27.1 27.1 0 0 1 232.8 393.9 A 32.0 32.0 0 0 1 287.2 393.9 A 27.1 27.1 0 0 1 331.2 407.7 A 16.4 16.4 0 0 1 348.0 430.0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text id="text-a-1" x="260" y="434" font-size="13.5" fill="#000000" text-anchor="middle">questions arising</text>
+<ellipse id="node-r" cx="850" cy="585" rx="66" ry="34" fill="#ffffff" stroke="#8c8c8c" stroke-width="1.5"/>
+<text id="text-r-1" x="850" y="589" font-size="13.5" fill="#8c8c8c" text-anchor="middle">reading load</text>
+<path id="edge-u1" d="M 518.4 178.2 Q 637.4 260.6 686.5 396.7" fill="none" stroke="#000000" stroke-width="1.5"/>
+<polygon id="head-u1" points="686.5,396.7 677.4,386.1 686.8,382.7" fill="#000000"/>
+<path id="edge-u2" d="M 636.6 447.4 Q 483.3 497.2 329.5 448.7" fill="none" stroke="#000000" stroke-width="1.5"/>
+<polygon id="head-u2" points="329.5,448.7 343.4,447.9 340.4,457.4" fill="#000000"/>
+<path id="edge-u3" d="M 273.5 396.7 Q 322.6 260.6 441.6 178.2" fill="none" stroke="#000000" stroke-width="1.5"/>
+<polygon id="head-u3" points="441.6,178.2 433.7,189.7 428.0,181.5" fill="#000000"/>
+<g id="mark-u3" transform="rotate(-52.4 340.0 274.0)"><rect x="333.5" y="267.5" width="13" height="13" fill="#ffffff" stroke="#000000" stroke-width="1.5"/></g>
+<path id="edge-v1" d="M 743.6 457.4 Q 802.9 490.8 831.8 552.4" fill="none" stroke="#8c8c8c" stroke-width="1.5"/>
+<polygon id="head-v1" points="831.8,552.4 821.8,542.8 830.9,538.5" fill="#8c8c8c"/>
+<path id="loop-R" d="M 458.3 332.5 A 25 25 0 1 1 458.3 357.5" fill="none" stroke="#d81e1e" stroke-width="2"/>
+<polygon id="loop-head-R" points="458.3,357.5 467.7,364.8 460.0,369.3" fill="#d81e1e"/>
+<text id="loop-letter-R" x="480" y="353" font-size="22" fill="#d81e1e" text-anchor="middle">R</text>
+<text x="52" y="660" font-size="12.5" fill="#000000">a fast loop: it turns at the speed of asking, and no edge in it passes through a decision</text>
+<text x="52" y="677" font-size="12.5" fill="#000000">the join back from deciding is not drawn: no sourced effect returns from a decision to the loop</text>
+<text x="52" y="694" font-size="12.5" fill="#000000">grey: the reading lands outside the loop, billed to whoever has to do it</text>
+<line x1="52" y1="716" x2="110" y2="716" stroke="#000000" stroke-width="1.5"/>
+<polygon points="110,716 97,711 97,721" fill="#000000"/>
+<text x="127" y="720" font-size="11" fill="#000000">natural effect, same direction</text>
+<line x1="52" y1="744" x2="110" y2="744" stroke="#000000" stroke-width="1.5"/>
+<polygon points="110,744 97,739 97,749" fill="#000000"/>
+<rect x="74.5" y="737.5" width="13" height="13" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="127" y="748" font-size="11" fill="#000000">human intervention, same direction</text>
+<line x1="500" y1="716" x2="558" y2="716" stroke="#8c8c8c" stroke-width="1.5"/>
+<polygon points="558,716 545,711 545,721" fill="#8c8c8c"/>
+<text x="575" y="720" font-size="11" fill="#8c8c8c">grey: sourced effect on a branch with no evidenced return</text>
+</svg>

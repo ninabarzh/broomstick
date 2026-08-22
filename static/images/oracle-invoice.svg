@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="1080" viewBox="0 0 840 1080" font-family="Georgia, 'Times New Roman', serif">
+  <!-- paper -->
+  <rect width="840" height="1080" fill="#f6f2e7"/>
+  <rect x="18" y="18" width="804" height="1044" fill="none" stroke="#2a2520" stroke-width="2"/>
+  <rect x="24" y="24" width="792" height="1032" fill="none" stroke="#2a2520" stroke-width="0.75"/>
+
+  <!-- header -->
+  <text x="60" y="92" font-size="30" fill="#2a2520">The Oracle</text>
+  <text x="60" y="118" font-size="15" fill="#5a5348" font-style="italic">one answering voice</text>
+  <text x="60" y="140" font-size="15" fill="#5a5348" font-style="italic">the second estate</text>
+
+  <text x="780" y="98" font-size="40" fill="#2a2520" text-anchor="end" letter-spacing="6">INVOICE</text>
+  <text x="780" y="132" font-size="14" fill="#5a5348" text-anchor="end">no.: none (no register is kept)</text>
+  <text x="780" y="152" font-size="14" fill="#5a5348" text-anchor="end">date: later</text>
+
+  <line x1="60" y1="180" x2="780" y2="180" stroke="#2a2520" stroke-width="1"/>
+
+  <!-- billed to -->
+  <text x="60" y="216" font-size="13" fill="#8a8172" letter-spacing="2">BILLED TO</text>
+  <text x="60" y="242" font-size="17" fill="#2a2520">Other cost centres, several not yet founded</text>
+
+  <!-- table header -->
+  <line x1="60" y1="286" x2="780" y2="286" stroke="#2a2520" stroke-width="1.5"/>
+  <text x="60" y="312" font-size="13" fill="#8a8172" letter-spacing="2">ITEM, AS REMOVED</text>
+  <text x="300" y="312" font-size="13" fill="#8a8172" letter-spacing="2">RETURNS AS</text>
+  <text x="780" y="312" font-size="13" fill="#8a8172" letter-spacing="2" text-anchor="end">DUE</text>
+  <line x1="60" y1="326" x2="780" y2="326" stroke="#2a2520" stroke-width="0.75"/>
+
+  <!-- rows -->
+  <g font-size="16" fill="#2a2520">
+    <text x="60" y="360">finding</text>
+    <text x="300" y="360">validating what was found</text>
+    <text x="780" y="360" text-anchor="end" font-style="italic">per answer</text>
+    <line x1="60" y1="376" x2="780" y2="376" stroke="#d9d1bd" stroke-width="1"/>
+
+    <text x="60" y="410">filing</text>
+    <text x="300" y="410">ownership and taxonomy decay, one exit cost</text>
+    <text x="780" y="410" text-anchor="end" font-style="italic">on departure</text>
+    <line x1="60" y1="426" x2="780" y2="426" stroke="#d9d1bd" stroke-width="1"/>
+
+    <text x="60" y="460">access boundaries</text>
+    <text x="300" y="460">aggregation control</text>
+    <text x="780" y="460" text-anchor="end" font-style="italic">unsolved, in production</text>
+    <line x1="60" y1="476" x2="780" y2="476" stroke="#d9d1bd" stroke-width="1"/>
+
+    <text x="60" y="510">asking colleagues</text>
+    <text x="300" y="510">a network nobody is maintaining</text>
+    <text x="780" y="510" text-anchor="end" font-style="italic">at two in the morning</text>
+    <line x1="60" y1="526" x2="780" y2="526" stroke="#d9d1bd" stroke-width="1"/>
+
+    <text x="60" y="560">slow archival search</text>
+    <text x="300" y="560">provenance reconstruction, ground since moved</text>
+    <text x="780" y="560" text-anchor="end" font-style="italic">on discovery</text>
+    <line x1="60" y1="576" x2="780" y2="576" stroke="#d9d1bd" stroke-width="1"/>
+
+    <text x="60" y="610">interpreting personally</text>
+    <text x="300" y="610">one synthetic voice, dressed in fluency</text>
+    <text x="780" y="610" text-anchor="end" font-style="italic">per decision</text>
+    <line x1="60" y1="626" x2="780" y2="626" stroke="#d9d1bd" stroke-width="1"/>
+
+    <text x="60" y="660">slow organisational change</text>
+    <text x="300" y="660">governance at integration speed</text>
+    <text x="780" y="660" text-anchor="end" font-style="italic">quarterly, in arrears</text>
+    <line x1="60" y1="676" x2="780" y2="676" stroke="#d9d1bd" stroke-width="1"/>
+
+    <text x="60" y="710">maintaining a passive store</text>
+    <text x="300" y="710">reliability engineering</text>
+    <text x="780" y="710" text-anchor="end" font-style="italic">monthly, compounding</text>
+  </g>
+
+  <line x1="60" y1="740" x2="780" y2="740" stroke="#2a2520" stroke-width="1.5"/>
+
+  <!-- totals -->
+  <g font-size="16" fill="#2a2520">
+    <text x="300" y="778">subtotal</text>
+    <text x="780" y="778" text-anchor="end" font-style="italic">not appearing in the business case</text>
+    <text x="300" y="812">attention tax</text>
+    <text x="780" y="812" text-anchor="end" font-style="italic">billed to whoever has to read</text>
+    <rect x="60" y="840" width="720" height="46" fill="#e9e1cc"/>
+    <text x="76" y="870" font-size="18">total due</text>
+    <text x="764" y="870" text-anchor="end" font-size="18">everything the frictions used to do</text>
+    <line x1="60" y1="840" x2="780" y2="840" stroke="#2a2520" stroke-width="1.5"/>
+    <line x1="60" y1="886" x2="780" y2="886" stroke="#2a2520" stroke-width="1.5"/>
+  </g>
+
+  <!-- terms -->
+  <text x="60" y="948" font-size="15" fill="#2a2520">Payment terms: later, and elsewhere.</text>
+  <text x="60" y="994" font-size="13.5" fill="#5a5348" font-style="italic">Queries regarding this invoice can be addressed to the oracle, which will answer confidently.</text>
+  <text x="60" y="1016" font-size="13.5" fill="#5a5348" font-style="italic">Retain this copy. It will not be reproducible.</text>
+
+  <!-- stamp -->
+  <g transform="translate(590 205) rotate(-11)">
+    <rect x="-185" y="-32" width="370" height="64" fill="none" stroke="#a33b2e" stroke-width="3" rx="6" opacity="0.75"/>
+    <text x="0" y="7" font-size="19" fill="#a33b2e" text-anchor="middle" opacity="0.75" font-family="'Courier New', monospace" font-weight="bold" textLength="320" lengthAdjust="spacingAndGlyphs">RELOCATED, NOT REMOVED</text>
+  </g>
+</svg>

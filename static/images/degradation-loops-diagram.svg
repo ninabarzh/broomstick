@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 780" font-family="Helvetica, Arial, sans-serif">
+<title>Quietly worse, and no ticket says so</title>
+<desc>A reinforcing loop closes between answer quality, workaround use, problem reports and corrective effort: as quality slips the loop turns towards further slipping, month by month. One grey branch leaves the loop and does not return. Drawn as clouds, meaning measurable but not measured: answer quality, workaround use and corrective effort. Drawn in grey, meaning a sourced effect on a branch with no evidenced return: the quality of decisions taken on answers. An increase in answer quality lowers workaround use, by human intervention. An increase in workaround use lowers problem reports, by human intervention. An increase in problem reports raises corrective effort, by human intervention. An increase in corrective effort raises answer quality. An increase in answer quality raises the quality of decisions taken on answers.</desc>
+<rect id="background" width="960" height="780" fill="#ffffff"/>
+<text id="title" x="480" y="38" font-size="20" fill="#000000" text-anchor="middle">Quietly worse, and no ticket says so</text>
+<text id="subtitle" x="480" y="60" font-size="13" fill="#000000" text-anchor="middle">One reinforcing loop: answer quality, workarounds, reports, repair</text>
+<path id="node-qual" d="M 556.0 140.0 A 15.7 15.7 0 0 1 541.5 162.3 A 23.8 23.8 0 0 1 503.5 176.1 A 27.6 27.6 0 0 1 456.5 176.1 A 23.8 23.8 0 0 1 418.5 162.3 A 15.7 15.7 0 0 1 404.0 140.0 A 15.7 15.7 0 0 1 418.5 117.7 A 23.8 23.8 0 0 1 456.5 103.9 A 27.6 27.6 0 0 1 503.5 103.9 A 23.8 23.8 0 0 1 541.5 117.7 A 15.7 15.7 0 0 1 556.0 140.0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text id="text-qual-1" x="480" y="144" font-size="13.5" fill="#000000" text-anchor="middle">answer quality</text>
+<path id="node-work" d="M 816.0 320.0 A 15.7 15.7 0 0 1 801.5 342.3 A 23.8 23.8 0 0 1 763.5 356.1 A 27.6 27.6 0 0 1 716.5 356.1 A 23.8 23.8 0 0 1 678.5 342.3 A 15.7 15.7 0 0 1 664.0 320.0 A 15.7 15.7 0 0 1 678.5 297.7 A 23.8 23.8 0 0 1 716.5 283.9 A 27.6 27.6 0 0 1 763.5 283.9 A 23.8 23.8 0 0 1 801.5 297.7 A 15.7 15.7 0 0 1 816.0 320.0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text id="text-work-1" x="740" y="324" font-size="13.5" fill="#000000" text-anchor="middle">workaround use</text>
+<ellipse id="node-rep" cx="480" cy="500" rx="76" ry="34" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text id="text-rep-1" x="480" y="504" font-size="13.5" fill="#000000" text-anchor="middle">problem reports</text>
+<path id="node-eff" d="M 306.0 320.0 A 16.3 16.3 0 0 1 289.6 342.3 A 26.6 26.6 0 0 1 246.6 356.1 A 31.3 31.3 0 0 1 193.4 356.1 A 26.6 26.6 0 0 1 150.4 342.3 A 16.3 16.3 0 0 1 134.0 320.0 A 16.3 16.3 0 0 1 150.4 297.7 A 26.6 26.6 0 0 1 193.4 283.9 A 31.3 31.3 0 0 1 246.6 283.9 A 26.6 26.6 0 0 1 289.6 297.7 A 16.3 16.3 0 0 1 306.0 320.0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text id="text-eff-1" x="220" y="324" font-size="13.5" fill="#000000" text-anchor="middle">corrective effort</text>
+<ellipse id="node-dec" cx="810" cy="120" rx="92" ry="40" fill="#ffffff" stroke="#8c8c8c" stroke-width="1.5"/>
+<text id="text-dec-1" x="810" y="116" font-size="13.5" fill="#8c8c8c" text-anchor="middle">quality of decisions</text>
+<text id="text-dec-2" x="810" y="132" font-size="13.5" fill="#8c8c8c" text-anchor="middle">taken on answers</text>
+<path id="edge-u1" d="M 536.8 160.8 Q 645.7 196.3 713.8 288.4" fill="none" stroke="#000000" stroke-width="1.5"/>
+<polygon id="head-u1" points="713.8,288.4 702.1,280.9 710.1,275.0" fill="#000000"/>
+<g id="mark-u1" transform="rotate(35.8 635.5 210.4)"><rect x="629.0" y="203.9" width="13" height="13" fill="#000000"/></g>
+<path id="edge-u2" d="M 713.8 351.6 Q 646.5 443.1 538.6 478.5" fill="none" stroke="#000000" stroke-width="1.5"/>
+<polygon id="head-u2" points="538.6,478.5 549.4,469.7 552.5,479.2" fill="#000000"/>
+<g id="mark-u2" transform="rotate(144.1 636.3 429.1)"><rect x="629.8" y="422.6" width="13" height="13" fill="#000000"/></g>
+<path id="edge-u3" d="M 421.4 478.5 Q 313.8 443.2 246.6 352.1" fill="none" stroke="#000000" stroke-width="1.5"/>
+<polygon id="head-u3" points="246.6,352.1 258.4,359.6 250.3,365.5" fill="#000000"/>
+<g id="mark-u3" transform="rotate(-144.1 323.9 429.3)"><rect x="317.4" y="422.8" width="13" height="13" fill="#ffffff" stroke="#000000" stroke-width="1.5"/></g>
+<path id="edge-u4" d="M 246.6 287.9 Q 314.6 196.1 423.2 160.8" fill="none" stroke="#000000" stroke-width="1.5"/>
+<polygon id="head-u4" points="423.2,160.8 412.4,169.5 409.3,160.0" fill="#000000"/>
+<path id="edge-v1" d="M 539.1 120.6 Q 629.5 83.1 725.0 105.1" fill="none" stroke="#8c8c8c" stroke-width="1.5"/>
+<polygon id="head-v1" points="725.0,105.1 711.2,107.0 713.4,97.3" fill="#8c8c8c"/>
+<path id="loop-R" d="M 458.3 305.5 A 25 25 0 1 1 458.3 330.5" fill="none" stroke="#d81e1e" stroke-width="2"/>
+<polygon id="loop-head-R" points="458.3,330.5 467.7,337.8 460.0,342.3" fill="#d81e1e"/>
+<text id="loop-letter-R" x="480" y="326" font-size="22" fill="#d81e1e" text-anchor="middle">R</text>
+<text x="52" y="660" font-size="12.5" fill="#000000">a slow loop: quality slips monthly, workarounds accumulate quietly, and the reports that would close it thin as it turns</text>
+<text x="52" y="677" font-size="12.5" fill="#000000">monitoring is not drawn: tuned to outages, it does not carry a monthly loss of trustworthiness</text>
+<text x="52" y="694" font-size="12.5" fill="#000000">grey: degraded answers keep advising decisions, and no evidenced effect returns from decisions to the loop</text>
+<line x1="52" y1="716" x2="110" y2="716" stroke="#000000" stroke-width="1.5"/>
+<polygon points="110,716 97,711 97,721" fill="#000000"/>
+<text x="127" y="720" font-size="11" fill="#000000">natural effect, same direction</text>
+<line x1="52" y1="744" x2="110" y2="744" stroke="#000000" stroke-width="1.5"/>
+<polygon points="110,744 97,739 97,749" fill="#000000"/>
+<rect x="74.5" y="737.5" width="13" height="13" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="127" y="748" font-size="11" fill="#000000">human intervention, same direction</text>
+<line x1="500" y1="716" x2="558" y2="716" stroke="#000000" stroke-width="1.5"/>
+<polygon points="558,716 545,711 545,721" fill="#000000"/>
+<rect x="522.5" y="709.5" width="13" height="13" fill="#000000"/>
+<text x="575" y="720" font-size="11" fill="#000000">human intervention, opposite direction</text>
+<line x1="500" y1="744" x2="558" y2="744" stroke="#8c8c8c" stroke-width="1.5"/>
+<polygon points="558,744 545,739 545,749" fill="#8c8c8c"/>
+<text x="575" y="748" font-size="11" fill="#8c8c8c">grey: sourced effect on a branch with no evidenced return</text>
+</svg>
