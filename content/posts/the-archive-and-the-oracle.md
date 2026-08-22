@@ -3,7 +3,7 @@ title: "The archive and the oracle"
 date: 2026-08-21
 draft: false
 description: "A document estate rebuilt as a single answering voice, and what the conversion quietly retires."
-tags: [ "AI", "agents", "governance", "security", "archives" ]
+tags: [ "AI", "agents", "governance", "security", "archives", "risk", "risk assessment" ]
 cover:
   image: "/images/archived.png"
   alt: "A grand old archive hall reflected in a dark polished floor, but the reflection is not the room: below the floor line the same shelves appear as translucent glowing blue lattice, files dissolved into points of light. A single archivist stands at the boundary looking down."
