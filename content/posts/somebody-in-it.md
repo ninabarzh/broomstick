@@ -324,7 +324,13 @@ first she had never argued with herself about. One always does what Lord Vetinar
 never been known to insist. It is only that the city has never established what happens to people who decline, and has
 an instinct, older than the Guilds, against being the one who finds out. The new price went up on the board in chalk
 that afternoon, and nobody in the queue said a word, which told her more about the state of the city than the Patrician
-had.
+had. The paint followed on the Sunday, on Vetinari's arithmetic:
+
+{{< board head="no" >}}
+LETTERS WROTE . . . . . 1s
+LETTERS READ . . . . . 6d
+Somebody In It, Or Your Sixpence Back
+{{< /board >}}
 
 ⁂
 
@@ -370,20 +376,13 @@ but for the method.
 
 'I know letters,' said the girl, whose name was Prill. 'I want to learn the other thing. The thing where you know.'
 
-So Dorcas took her on, and repainted the board, on Vetinari's arithmetic:
-
-{{< board head="no" >}}
-LETTERS WROTE . . . . . 1s
-LETTERS READ . . . . . 6d
-Somebody In It, Or Your Sixpence Back
-{{< /board >}}
-
-And the first thing she taught her was not the pen. She put the pen away. She sat Prill on the stool where the customers
-sat, and taught her the questions: what does she call you, what did you eat on Tuesday, what are we leaving out, what
-does the weather do there. Because the pen was never the trade. The trade was that a letter is not words going
-somewhere. A letter is a person, folded small enough to post, and the ants, given enough questions, could do the folding
-now, more or less. What they could not do was answer for it. Somebody had to be the one who could be asked, afterwards:
-why this word, why that silence, who let this person in. That had become the trade, if it had ever been anything else.
+So Dorcas took her on, and the first thing she taught her was not the pen. She put the pen away. She sat Prill on the
+stool where the customers sat, and taught her the questions: what does she call you, what did you eat on Tuesday, what
+are we leaving out, what does the weather do there. Because the pen was never the trade. The trade was that a letter is
+not words going somewhere. A letter is a person, folded small enough to post, and the ants, given enough questions,
+could do the folding now, more or less. What they could not do was answer for it. Somebody had to be the one who could
+be asked, afterwards: why this word, why that silence, who let this person in. That had become the trade, if it had
+ever been anything else.
 
 'You said you'd teach me the thing where you know,' said Prill, who missed nothing.
 
