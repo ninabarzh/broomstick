@@ -1,7 +1,7 @@
 ---
 title: "Somebody in It"
 description: "Ankh-Morpork learns to mint words by the yard, and a letter-writer starts charging tuppence to say whether anybody is in them."
-date: 2026-08-29
+date: 2026-08-28
 draft: false
 cover:
   image: "images/pneumatic-scribbler.png"
