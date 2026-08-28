@@ -1,0 +1,11 @@
+{{- /* A painted sign or price board: each non-empty line of the inner text becomes one line of the board.
+       The first line is styled as the heading unless head="no" is given. Usage:
+       {{< board >}}
+       LETTERS WROTE
+       Plain . . . . . 1s
+       {{< /board >}} */ -}}
+{{- $lines := split (trim .Inner "\n\r ") "\n" -}}
+{{- $head := ne (.Get "head") "no" -}}
+<div class="board">
+{{- range $i, $line := $lines }}{{ with trim $line " \r" }}<span{{ if and $head (eq $i 0) }} class="board-head"{{ end }}>{{ . }}</span>{{ end }}{{ end -}}
+</div>

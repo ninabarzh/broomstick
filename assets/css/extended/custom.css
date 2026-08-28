@@ -181,3 +181,64 @@ a:hover        { color: #ffcc00 !important; }
   display: table;
   width: 100%;
 }
+/* ============================================================
+   Board shortcode: painted signs and price boards in fiction
+   ============================================================ */
+.post-content .board {
+  margin: 1.5rem auto;
+  max-width: 24rem;
+  padding: 1rem 1.5rem;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", serif;
+  color: #2b2118;
+  background: #f1e6c8;
+  border: 3px double #4a3a2a;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+}
+.post-content .board span {
+  display: block;
+  line-height: 1.6;
+}
+.post-content .board .board-head {
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+/* ============================================================
+   Footnotes: visible bracketed markers in the prose
+   ============================================================ */
+.post-content sup {
+  line-height: 0;
+  font-size: 0.85em;
+  vertical-align: super;
+}
+.post-content a.footnote-ref {
+  font-weight: 600;
+  color: var(--primary);
+  text-decoration: none;
+  box-shadow: none;
+  padding: 0 0.1em;
+}
+.post-content a.footnote-ref::before { content: "["; }
+.post-content a.footnote-ref::after  { content: "]"; }
+.post-content a.footnote-ref:hover { text-decoration: underline; }
+/* ============================================================
+   Stamp shortcode: red rubber-stamp words inline
+   ============================================================ */
+.post-content .stamp {
+  display: inline-block;
+  padding: 0.05em 0.35em;
+  border: 2px solid rgba(178, 24, 24, 0.75);
+  border-radius: 3px;
+  color: rgba(178, 24, 24, 0.85);
+  font-family: "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 700;
+  font-size: 0.8em;
+  line-height: 1.15;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  transform: rotate(-3deg);
+  vertical-align: baseline;
+  mix-blend-mode: multiply;
+}
