@@ -253,7 +253,8 @@ quarter-century of preparing for a machine to disappear meets an attacker who ha
 The first server locked itself out on its second day, able to speak only to itself. The collective found that funny
 enough to wear. The listing amounts to an attempt to recreate the condition from the outside, for a whole network, by
 persuading everyone else to stop connecting. Whether that works is not, in the end, a question about architecture. It is
-a question about who else is standing on the same joints, and whether they notice in time.
+a question about who else is standing on the same joints, and whether they notice in time. Stay updated via 
+[Circe](https://circex.org/it/news).
 
 ---
 
