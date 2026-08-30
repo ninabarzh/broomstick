@@ -59,7 +59,7 @@ believe anything in particular. It requires a seedling, a cow, and no functionin
 two. In Nigeria, clashes between herders and farming communities have killed hundreds
 and [forced some 2.2 million people from their homes since 2019](https://newint.org/violence/2026/nigerias-deadly-violence-complex-its-not-christian-genocide).
 
-What happens next is worth watching. The killing gets a name. In late 2025, an American president folded this
+Then the killing gets a name. In late 2025, an American president folded this
 violence into a narrative of Christian persecution, naming Nigeria a country of particular concern
 and [telling the Pentagon to prepare for possible military action over the "mass slaughter" of Christians](https://www.cnn.com/2025/11/03/africa/trump-christian-killings-nigeria-intl).
 The framing did not survive contact with the analysts. Some attacks do target Christians,
@@ -110,10 +110,10 @@ That assumption is now failing in real
 time. [Chatham House records](https://www.chathamhouse.org/2026/04/india-and-pakistan-still-cannot-agree-restore-indus-waters-treaty-re-engagement-could-help)
 perennial snow and ice cover in the Indus declining by up to a quarter in the two decades to 2021, among the highest
 rates of glacial retreat anywhere, while shifts in the timing and intensity of the summer monsoon reshape the rest of
-the supply. Meanwhile the population leaning on that water has gone from a combined figure of under 500 million at
-signing
-to [more than 300 million now relying directly on the basin](https://theconversation.com/tensions-over-kashmir-and-a-warming-planet-have-placed-the-indus-waters-treaty-on-life-support-244699)
-out of a far larger regional total. The instrument that has kept the peace was,
+the supply. Meanwhile the populations of the two states have gone from 46 million and 436 million in 1960 to over
+240 million and 1.4 billion,
+with [more than 300 million now relying directly on the basin](https://theconversation.com/tensions-over-kashmir-and-a-warming-planet-have-placed-the-indus-waters-treaty-on-life-support-244699)
+for their survival. The instrument that has kept the peace was,
 as [another assessment puts it](https://theconversation.com/india-pakistan-conflict-over-water-reflects-a-region-increasingly-vulnerable-to-climate-change-256253),
 negotiated before the emergence of modern climate science, and no longer accounts for these transformations.
 
@@ -135,7 +135,7 @@ read only the strategic vocabulary is liable to keep being surprised by a crisis
 
 ## Ukraine: the material story inside the famous one
 
-Ukraine is the case most likely to draw objection, and the objection is worth answering head-on rather than dodging. The
+Ukraine is the case most likely to draw objection, and the objection has force. The
 war is, manifestly, a war of ideas: sovereignty, empire, the question of whether Ukraine is a nation or a province, a
 Russian narrative of historical reunification against a Ukrainian one of national survival. To start talking about wheat
 can sound like a change of subject, or worse, like ventriloquising the aggressor's own economic pretexts. So let me be
@@ -197,8 +197,8 @@ intimidation inside a collapsing state during a civil war the Rwandan Patriotic 
 gave orders; refusal was punished as treason. People killed because the alternative, in that moment, in that place, was
 often to be killed.
 
-But fear operates differently where people can run, and in Rwanda they could not. This is the hinge of the case, and it
-is worth stating precisely: the substrate here is not land, it is constraint. Everything material about Rwanda in 1994
+But fear operates differently where people can run, and in Rwanda they could not. This is the hinge of the case:
+the substrate here is not land, it is constraint. Everything material about Rwanda in 1994
 narrowed the space in which a person could refuse. It is among the most densely populated countries in Africa, with no
 remote interior to flee into, so the exits were closed for victims and reluctant perpetrators alike. Its state was
 unusually effective, reaching down to the smallest administrative cell, so an order from the centre arrived everywhere
@@ -266,8 +266,8 @@ constant throughout. The same pattern, the same outlet noted, had governed the o
 justified by turns as being about drugs, about law enforcement, and about oil. The narrative was not a reason for the
 action; it was a garment the action put on and took off as convenient.
 
-There is a real substrate here, and it is worth naming precisely because the people fighting over the airwaves were
-not. [Roughly 27 percent of global oil trade and 22 percent of global natural gas trade passes through the Strait of Hormuz](https://www.congress.gov/crs_external_products/IN/PDF/IN12571/IN12571.1.pdf),
+There is a real substrate here, and the people fighting over the airwaves were not
+naming it. [Roughly 27 percent of global oil trade and 22 percent of global natural gas trade passes through the Strait of Hormuz](https://www.congress.gov/crs_external_products/IN/PDF/IN12571/IN12571.1.pdf),
 which Iran sits astride and has shown it can throttle. Iran is also a major supplier of oil to China, which makes
 pressure on Tehran, read one way, pressure on a rival's intake, the denial logic that
 a [bottleneck reading of the same period](https://broomstick.tymyrddin.dev/posts/chokepoints/) traces through the Gulf
