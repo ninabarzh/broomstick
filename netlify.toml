@@ -5,6 +5,14 @@
 [build.environment]
   HUGO_VERSION = "0.147.3"
 
+# Site has moved to statichost.eu. Force is needed so the redirect wins
+# over files that still exist in the publish directory.
+[[redirects]]
+  from = "/*"
+  to = "https://broomstick.tymyrddin.eu/:splat"
+  status = 301
+  force = true
+
 [[redirects]]
   from = "/admin/*"
   to = "/admin/index.html"

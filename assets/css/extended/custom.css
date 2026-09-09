@@ -1,41 +1,104 @@
 /* ============================================================
-   GLOBAL: theme colours, font
+   GLOBAL: palette, type and radius, taken from the main site
+   (flask-tymyrddin, base_style.css). Ground #2A0A0A, text cream
+   #FDF6EC, accent red #C23A3A, hover gold #F5D98B, corners 0.2rem.
    ============================================================ */
-:root {
-  --theme: #2A0A0A;
-  --entry: #3D1414;
-}
-
+:root,
 .dark {
   --theme: #2A0A0A;
   --entry: #3D1414;
+  --primary: #FDF6EC;
+  --content: #FDF6EC;
+  --secondary: rgba(253, 246, 236, 0.6);
+  --tertiary: #3D1414;
+  --border: rgba(253, 246, 236, 0.2);
+  --radius: 0.2rem;
 }
 
 body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
 }
 
 /* ============================================================
-   GLOBAL: links
+   GLOBAL: links on the dark ground. The main site badges this
+   site in pale gold, so gold stays the link colour here, with
+   cream on hover.
    ============================================================ */
-a              { color: #e6ac00 !important; }
-a:hover        { color: #ffcc00 !important; }
-.nav a         { color: #e6ac00 !important; }
-.post-title a  { color: #e6ac00 !important; }
+a       { color: #F5D98B; }
+a:hover { color: #FDF6EC; }
 
 /* ============================================================
-   GLOBAL: post-tags, paginav, share-buttons (dark-red boxes)
+   HEADER: translucent darker band, uppercase bold cream nav,
+   gold on hover, as on the main site
+   ============================================================ */
+.header {
+  background: rgba(22, 5, 5, 0.8);
+  box-shadow: 0 0 88px 0 rgba(0, 0, 0, 0.52);
+}
+
+.logo a {
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #FDF6EC;
+}
+
+#menu a {
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #FDF6EC;
+}
+
+.logo a:hover,
+#menu a:hover { color: #F5D98B; }
+
+#menu .active {
+  font-weight: 700;
+  border-bottom: 2px solid #F5D98B;
+}
+
+/* ============================================================
+   FOOTER: cream at 60%, full cream on hover, no underline
+   ============================================================ */
+.footer {
+  color: rgba(253, 246, 236, 0.6);
+}
+
+.footer a,
+.footer a:hover {
+  border-bottom: none;
+}
+
+.footer a       { color: rgba(253, 246, 236, 0.6); }
+.footer a:hover { color: #FDF6EC; }
+
+/* ============================================================
+   TAGS: the main site's red badge (badge1), cream text
    ============================================================ */
 .post-tags a,
-.paginav,
-.share-buttons {
-  background: #3D1414;
-  border-color: #5a2020;
+.terms-tags a {
+  background: #C23A3A;
+  border-color: #C23A3A;
+  color: #FDF6EC;
 }
 
 .post-tags a:hover,
-.paginav a:hover {
-  background: #4f1a1a;
+.terms-tags a:hover,
+.terms-tags a:active {
+  background: #A52F2F;
+  color: #FDF6EC;
+}
+
+/* ============================================================
+   PAGINAV and SHARE: the main site's dark button on cream
+   (page-post-card__link), cream text, gold on hover
+   ============================================================ */
+.paginav,
+.share-buttons {
+  background: #2A0A0A;
+  border-color: #2A0A0A;
 }
 
 .paginav {
@@ -43,50 +106,88 @@ a:hover        { color: #ffcc00 !important; }
   font-size: 16px !important;
 }
 
+.paginav a,
+.share-buttons a { color: #FDF6EC; }
+
+.paginav a:hover,
+.share-buttons a:hover {
+  background: #2A0A0A;
+  color: #F5D98B;
+}
+
+.paginav .title { color: rgba(253, 246, 236, 0.6); }
+
 /* ============================================================
-   GLOBAL: TOC (dark pages)
+   LIST / FRONT PAGE: cream cards on the dark ground, as on the
+   main site (its "white" is #FDF6EC). The theme paints titles and
+   summaries with the dark-palette --primary/--secondary, which would
+   vanish on cream, so each text layer is set explicitly.
    ============================================================ */
-.toc {
-  border-color: #5a2020;
+.post-entry {
+  background: #FDF6EC;
+  border: 1px solid #2A0A0A;
+  color: #1A1A1A;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post-entry:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.post-entry .entry-header h2 { color: #2A0A0A; }
+.post-entry:hover .entry-header h2 { text-decoration: underline; }
+.post-entry .entry-content { color: #1A1A1A; }
+.post-entry .entry-footer  { color: #555555; }
+
+@media (prefers-reduced-motion) {
+  .post-entry:hover { transform: none; }
 }
 
 /* ============================================================
-   POST SINGLE: wider container + warm card
+   POST SINGLE: wider container + cream card, as the main site's
+   article container (blogpost_style.css)
    ============================================================ */
 .main:has(.post-single) {
   max-width: 960px;
 }
 
 .post-single {
-  background: #f5f0f0;
+  background: #FDF6EC;
   border-radius: var(--radius);
   padding: 40px;
-  --primary: #1a1a1a;
-  --content: #1a1a1a;
+  --primary: #1A1A1A;
+  --content: #1A1A1A;
   --secondary: #555555;
-  --border: #d0c8c8;
+  --border: rgba(42, 10, 10, 0.25);
   color: var(--primary);
 }
 
-/* Dark red links on the light card */
-.post-single a       { color: #8B0000 !important; }
-.post-single a:hover { color: #A50000 !important; }
+.post-single .post-title,
+.post-single .post-content h1,
+.post-single .post-content h2,
+.post-single .post-content h3,
+.post-single .post-content h4,
+.post-single .post-content h5,
+.post-single .post-content h6 { color: #2A0A0A; }
 
-/* PREV / NEXT labels in paginav */
-.post-single .paginav .title { color: #f5f0f0; }
+/* Links on the cream card: dark, red on hover */
+.post-single a       { color: #2A0A0A; }
+.post-single a:hover { color: #C23A3A; }
 
-/* Restore gold on the dark-red footer boxes inside the card */
+/* Boxes inside the card keep their own text colours */
 .post-single .post-tags a,
 .post-single .paginav a,
-.post-single .share-buttons a       { color: #e6ac00 !important; }
-.post-single .post-tags a:hover,
+.post-single .share-buttons a       { color: #FDF6EC; }
 .post-single .paginav a:hover,
-.post-single .share-buttons a:hover { color: #ffcc00 !important; }
+.post-single .share-buttons a:hover { color: #F5D98B; }
+.post-single .post-tags a:hover     { color: #FDF6EC; }
 
-/* POST SINGLE: TOC — match card background, keep dark-red border */
+/* POST SINGLE: TOC on the card */
 .post-single .toc {
-  background: #f5f0f0;
-  border-color: #5a2020;
+  background: #FDF6EC;
+  border-color: rgba(42, 10, 10, 0.25);
 }
 
 /* ============================================================
@@ -102,7 +203,7 @@ a:hover        { color: #ffcc00 !important; }
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 4px;
+  border-radius: var(--radius);
 }
 
 /* ============================================================
